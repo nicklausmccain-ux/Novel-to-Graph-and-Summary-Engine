@@ -1,0 +1,33 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "katerina-karamazov",
+      "label": "rival"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "maxim-maximovich",
+      "label": "benefactor"
+    }
+  ],
+  "summary": "New connections: Agrafena–Katerina (rival), Alyosha–Maxim (benefactor).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (78 ties). Key relationship types: rival, benefactor.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (78), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Agrafena–Katerina (rival), Alyosha–Maxim (benefactor)",
+    "Totals: 338 characters, 505 relations (+0 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits Grushenka, who has been distressed and ill since Mitya's arrest, and learns about her complicated feelings and the jealousy surrounding Mitya. Grushenka reveals that Mitya has a secret involving Ivan Fyodorovitch, who has secretly visited him despite denying it, and she fears betrayal involving Katerina Ivanovna. Alyosha promises to find out the secret from Mitya and reassure Grushenka, who remains anxious about the upcoming trial.",
+  "evidence_quotes": [
+    "Grushenka had been particularly distressed since the previous day.",
+    "Ivan was in love with Katerina, because he often goes to see her."
+  ],
+  "needs_review": false
+}

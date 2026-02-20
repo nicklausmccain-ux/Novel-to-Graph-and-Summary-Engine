@@ -1,0 +1,28 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "feuding family members"
+    }
+  ],
+  "summary": "New connections: Katerina–Fyodor (feuding family members).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (81 ties). Key relationship types: feuding family members.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (81), Dmitri Karamazov (79), Fyodor Karamazov (42), Ivan Karamazov (38)",
+    "Key ties: Katerina–Fyodor (feuding family members)",
+    "Totals: 379 characters, 558 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha testifies modestly in court, defending his brother Dmitri's innocence and suggesting Smerdyakov's guilt based on Dmitri's words and behavior. Katerina Ivanovna then gives her testimony, revealing her past betrothal to Dmitri and her financial dealings with him, which evoke sympathy and shift public opinion. Grushenka follows, expressing her belief in Dmitri's innocence despite the accusations, and discloses her familial connection to Rakitin, causing a stir in the courtroom.",
+  "evidence_quotes": [
+    "Alyosha gave his evidence modestly and with restraint",
+    "Katerina Ivanovna replied firmly that she had been formerly betrothed to the prisoner"
+  ],
+  "needs_review": false
+}

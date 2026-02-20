@@ -1,0 +1,46 @@
+{
+  "new_nodes": [
+    "nikolay-parfenovitch"
+  ],
+  "new_edges": [
+    {
+      "source": "grushenka",
+      "target": "mihail-makarovitch",
+      "label": "adversarial relationship"
+    },
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "dmitri-karamazov",
+      "label": "professional relationship"
+    },
+    {
+      "source": "ippolit-kirillovitch",
+      "target": "grigory-karamazov",
+      "label": "defendant-victim"
+    },
+    {
+      "source": "agrafena-alexandrovna-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "trusting relationship"
+    }
+  ],
+  "summary": "New characters: Nikolay Parfenovitch. New connections: Grushenka–Mihail (adversarial relationship), Nikolay–Dmitri (professional relationship), Ippolit–Grigory (defendant-victim), Agrafena–Dmitri (trusting relationship).",
+  "summary_short": "Introduces Nikolay Parfenovitch. Dmitri Karamazov is the most connected figure (72 ties). Key relationship types: adversarial relationship, professional relationship.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (72), Alyosha Karamazov (64), Fyodor Karamazov (39), Ivan Karamazov (31)",
+    "Key ties: Grushenka–Mihail (adversarial relationship), Nikolay–Dmitri (professional relationship), Ippolit–Grigory (defendant-victim), Agrafena–Dmitri (trusting relationship)",
+    "New characters: Nikolay",
+    "Totals: 278 characters, 405 relations (+1 new, +4 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya vehemently denies guilt in his father's death while Grushenka confesses to being responsible for the tragedy. During the interrogation, Mitya admits to hating his father and wanting to kill him but insists he is innocent of the murder. Despite emotional outbursts and attempts to see Grushenka, Mitya calms down and agrees to cooperate fully with the investigation.",
+  "evidence_quotes": [
+    "I’m not guilty of my father’s blood....",
+    "She did nothing, nothing!... and yet she’s proud and has done nothing!"
+  ],
+  "needs_review": false
+}

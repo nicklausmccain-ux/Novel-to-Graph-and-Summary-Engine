@@ -1,0 +1,51 @@
+{
+  "new_nodes": [
+    "the-monk-from-obdorsk"
+  ],
+  "new_edges": [
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "the-monk-from-obdorsk",
+      "label": "suspicion"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "mikhail-rakitin",
+      "label": "suspicion"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "madame-hohlakov",
+      "label": "other relationship"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "captain-smerdyakov",
+      "label": "other relationship"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "god",
+      "label": "belief"
+    }
+  ],
+  "summary": "New characters: The Monk From Obdorsk. New connections: Zosima–The (suspicion), Zosima–Mikhail (suspicion), Mikhail–Madame (other relationship), Madame–Captain (other relationship) and 1 more.",
+  "summary_short": "Introduces The Monk From Obdorsk. Alyosha Karamazov is the most connected figure (60 ties). Key relationship types: suspicion, other relationship.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (60), Dmitri Karamazov (51), Fyodor Karamazov (34), Ivan Karamazov (31)",
+    "Key ties: Zosima–The (suspicion), Zosima–Mikhail (suspicion), Mikhail–Madame (other relationship), Madame–Captain (other relationship), +1 more",
+    "New characters: The",
+    "Totals: 226 characters, 327 relations (+1 new, +5 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Father Zossima's body is prepared for burial and placed in a coffin in his cell, where monks and visitors gather, expecting a miraculous sign. However, a foul smell of decomposition arises from the coffin, causing scandal and division among the monks, with some interpreting it as a divine judgment and others defending the elder's sanctity. Father Ferapont arrives, condemns the dead elder, performs a ritual to cast out evil spirits, and after a tense confrontation, Alyosha quietly leaves the hermitage, signaling a significant change in him.",
+  "evidence_quotes": [
+    "a smell of decomposition began to come from the coffin",
+    "Father Ferapont suddenly roared: 'Casting out I cast out!'"
+  ],
+  "needs_review": false
+}

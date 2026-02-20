@@ -1,0 +1,55 @@
+{
+  "new_nodes": [
+    "christ",
+    "the-president-of-the-court",
+    "karamazov-dmitri-fyodorovich",
+    "nazaryev-pyotr",
+    "the-landowners"
+  ],
+  "new_edges": [
+    {
+      "source": "ippolit-kirillovitch",
+      "target": "pavel-smerdyakov",
+      "label": "reference"
+    },
+    {
+      "source": "christ",
+      "target": "humanity",
+      "label": "figure of reverence"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "the-president-of-the-court",
+      "label": "authority"
+    },
+    {
+      "source": "karamazov-dmitri-fyodorovich",
+      "target": "nazaryev-pyotr",
+      "label": "appreciation relationship"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "the-landowners",
+      "label": "colleagues in discussion"
+    }
+  ],
+  "summary": "New characters: Christ, The President Of The Court, Karamazov Dmitri Fyodorovich, Nazaryev Pyotr, The Landowners. New connections: Ippolit–Pavel (reference), Christ–Humanity (figure of reverence), Dmitri–The (authority), Karamazov–Nazaryev (appreciation relationship) and 1 more.",
+  "summary_short": "Introduces Christ, The President Of The Court, Karamazov Dmitri Fyodorovich, Nazaryev Pyotr, and 1 others. Dmitri Karamazov is the most connected figure (89 ties). Key relationship types: reference, figure of reverence.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (89), Alyosha Karamazov (82), Fyodor Karamazov (47), Ivan Karamazov (40)",
+    "Key ties: Ippolit–Pavel (reference), Christ–Humanity (figure of reverence), Dmitri–The (authority), Karamazov–Nazaryev (appreciation relationship), +1 more",
+    "New characters: Christ, The, Karamazov, Nazaryev, The",
+    "Totals: 405 characters, 587 relations (+5 new, +5 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Fetyukovitch delivered a passionate speech that moved the audience to tears, but Ippolit Kirillovitch objected with a critical and emotional rebuttal. Mitya spoke briefly, proclaiming his innocence and expressing humility and submission before the jury retired to deliberate. The jury returned a unanimous guilty verdict, shocking the court and provoking an emotional outburst from Mitya and Grushenka, while the sentencing was postponed until the next day.",
+  "evidence_quotes": [
+    "The orator himself was genuinely touched.",
+    "The foreman of the jury... pronounced, in a clear, loud voice: 'Yes, guilty!'"
+  ],
+  "needs_review": false
+}

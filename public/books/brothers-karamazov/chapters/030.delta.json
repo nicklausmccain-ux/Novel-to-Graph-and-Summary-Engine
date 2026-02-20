@@ -1,0 +1,106 @@
+{
+  "new_nodes": [
+    "the-old-cabinetmaker-and-his-family",
+    "varvara-ivanovna",
+    "varvara",
+    "the-man-of-forty-five",
+    "pyotr-fyodorovich-smerdyakov",
+    "makarov-joseph",
+    "varvara-makarov-and-ilusha-makarov",
+    "makar-alexeyevich",
+    "polina-semyonovna-karamazov",
+    "ilya-fyodorovitch-karamazov",
+    "nina"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "kolya-krasotkin",
+      "label": "interest"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "landlady"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "the-old-cabinetmaker-and-his-family",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "varvara-ivanovna",
+      "label": "other"
+    },
+    {
+      "source": "varvara",
+      "target": "the-man-of-forty-five",
+      "label": "family or other"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "fyodor-karamazov",
+      "label": "victim/assailant"
+    },
+    {
+      "source": "pyotr-fyodorovich-smerdyakov",
+      "target": "kolya-krasotkin",
+      "label": "parent/authority"
+    },
+    {
+      "source": "makarov-joseph",
+      "target": "varvara-makarov-and-ilusha-makarov",
+      "label": "parent"
+    },
+    {
+      "source": "varvara-ivanovna",
+      "target": "makar-alexeyevich",
+      "label": "child"
+    },
+    {
+      "source": "polina-semyonovna-karamazov",
+      "target": "ilya-fyodorovitch-karamazov",
+      "label": "child"
+    },
+    {
+      "source": "marya-karamazov",
+      "target": "katerina-karamazov",
+      "label": "family"
+    },
+    {
+      "source": "varvara-ivanovna",
+      "target": "maria-petrovna",
+      "label": "family"
+    },
+    {
+      "source": "nina",
+      "target": "varvara",
+      "label": "family (daughter-mother)"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "nina",
+      "label": "potential admirer"
+    }
+  ],
+  "summary": "New characters: The Old Cabinetmaker And His Family, Varvara Ivanovna, Varvara, The Man Of Forty Five, Pyotr Fyodorovich Smerdyakov, Makarov Joseph and 5 more. New connections: Alyosha–Kolya (interest), Maria–Dmitri (landlady), Alyosha–The (acquaintance), Alyosha–Varvara (other) and 10 more.",
+  "summary_short": "Introduces The Old Cabinetmaker And His Family, Varvara Ivanovna, Varvara, The Man Of Forty Five, and 7 others. Alyosha Karamazov is the most connected figure (37 ties). Key relationship types: child, family.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (37), Dmitri Karamazov (30), Fyodor Karamazov (25), Ivan Karamazov (24)",
+    "Key ties: Alyosha–Kolya (interest), Maria–Dmitri (landlady), Alyosha–The (acquaintance), Alyosha–Varvara (other), +10 more",
+    "New characters: The, Varvara, Varvara, The, Pyotr, Makarov, +5 more",
+    "Totals: 118 characters, 192 relations (+11 new, +14 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits his brother Dmitri's acquaintances but finds Dmitri absent and meets Captain Snegiryov and his family instead. The captain angrily discusses an incident where Dmitri's son bit a schoolboy, who is also present and ill. After introductions and emotional exchanges, the captain insists on speaking with Alyosha outside, leading them to leave the room together.",
+  "evidence_quotes": [
+    "Dmitri was not at home.",
+    "He drew him out of the room into the street."
+  ],
+  "needs_review": false
+}

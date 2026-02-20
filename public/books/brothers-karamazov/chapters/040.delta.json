@@ -1,0 +1,190 @@
+{
+  "new_nodes": [
+    "the-officers",
+    "fydor-pavlovich-karamazov",
+    "unnamed-fighter-the-narrator",
+    "afanasy",
+    "afanasy-ivanovich-karamazov",
+    "afanasy-ivanovich",
+    "general-ivan-fyodorovich-karamazov",
+    "petya",
+    "pyotr-ilyich-myshkin",
+    "stephan-trofimovich-dymov",
+    "the-karamazovs",
+    "al_alexey-fyodorovich-karamazov",
+    "mysterious-man",
+    "narrator",
+    "aldous-karamazov",
+    "the-servants",
+    "pyotr-ilyich",
+    "gretchen",
+    "makary-ivanovich",
+    "alexei-ivan-and-dmitri-karamazov",
+    "dunya-raskolnikov",
+    "katerina-ivanovna-maslova",
+    "helene-ivanovna",
+    "judge",
+    "mihail"
+  ],
+  "new_edges": [
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "the-officers",
+      "label": "peer/companion"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "fydor-pavlovich-karamazov",
+      "label": "peer/companion"
+    },
+    {
+      "source": "katarina-ivanovna",
+      "target": "alyosha-karamazov",
+      "label": "Spouse"
+    },
+    {
+      "source": "pyotr-alexandrovich-miusov",
+      "target": "katerina-karamazov",
+      "label": "Husband-Wife"
+    },
+    {
+      "source": "unnamed-fighter-the-narrator",
+      "target": "afanasy",
+      "label": "servitude/relationship of master and servant"
+    },
+    {
+      "source": "afanasy-ivanovich-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "Other"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "markel-karamazov",
+      "label": "Sibling"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "afanasy-ivanovich",
+      "label": "adversary"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "alyosha-karamazov",
+      "label": "peer relationships"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "general-ivan-fyodorovich-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "petya",
+      "label": "friendship"
+    },
+    {
+      "source": "pyotr-ilyich-myshkin",
+      "target": "katerina-karamazov",
+      "label": "Spouse"
+    },
+    {
+      "source": "stephan-trofimovich-dymov",
+      "target": "the-karamazovs",
+      "label": "Respected Figure"
+    },
+    {
+      "source": "al_alexey-fyodorovich-karamazov",
+      "target": "ivan-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "mysterious-man",
+      "target": "narrator",
+      "label": "other"
+    },
+    {
+      "source": "aldous-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "mentor"
+    },
+    {
+      "source": "lisa-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "romantic connection"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "the-servants",
+      "label": "suspicion"
+    },
+    {
+      "source": "grushenka",
+      "target": "pyotr-ilyich",
+      "label": "master-servant"
+    },
+    {
+      "source": "pyotr-ilyich",
+      "target": "gretchen",
+      "label": "master-servant"
+    },
+    {
+      "source": "makary-ivanovich",
+      "target": "fyodor-karamazov",
+      "label": "employer-employee"
+    },
+    {
+      "source": "makar-ivanovich",
+      "target": "dmitri-karamazov",
+      "label": "parent-child"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "alexei-ivan-and-dmitri-karamazov",
+      "label": "mother-child"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "dunya-raskolnikov",
+      "label": "spouse"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "katerina-ivanovna-maslova",
+      "label": "spouse"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "helene-ivanovna",
+      "label": "unknown (possibly implied romantic or friendly connection)"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "judge",
+      "label": "opposing party"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "mihail",
+      "label": "reverence"
+    }
+  ],
+  "summary": "New characters: The Officers, Fydor Pavlovich Karamazov, Unnamed Fighter The Narrator, Afanasy, Afanasy Ivanovich Karamazov, Afanasy Ivanovich and 19 more. New connections: Zosima–The (peer/companion), Alyosha–Fydor (peer/companion), Katarina–Alyosha (Spouse), Pyotr–Katerina (Husband-Wife) and 24 more.",
+  "summary_short": "Introduces The Officers, Fydor Pavlovich Karamazov, Unnamed Fighter The Narrator, Afanasy, and 21 others. Alyosha Karamazov is the most connected figure (54 ties). Key relationship types: other, peer/companion.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (54), Dmitri Karamazov (47), Fyodor Karamazov (33), Ivan Karamazov (30)",
+    "Key ties: Zosima–The (peer/companion), Alyosha–Fydor (peer/companion), Katarina–Alyosha (Spouse), Pyotr–Katerina (Husband-Wife), +24 more",
+    "New characters: The, Fydor, Unnamed, Afanasy, Afanasy, Afanasy, +19 more",
+    "Totals: 207 characters, 302 relations (+25 new, +28 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Father Zossima recounts his youth as a military officer, describing his reckless behavior and a duel he fought over a woman who married another. After the duel, he experiences a profound change of heart, seeking forgiveness from his servant Afanasy and deciding to leave the military to become a monk. He then meets a mysterious visitor who confesses to a murder committed fourteen years earlier and struggles with the decision to confess publicly, ultimately doing so before dying shortly after.",
+  "evidence_quotes": [
+    "I waited for an opportunity and succeeded in insulting my 'rival' in the presence of a large company.",
+    "He had long been an official in the town; he was in a prominent position, respected by all."
+  ],
+  "needs_review": false
+}

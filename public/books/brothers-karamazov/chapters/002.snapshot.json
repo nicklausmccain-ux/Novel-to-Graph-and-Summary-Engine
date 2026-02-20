@@ -1,0 +1,232 @@
+{
+  "nodes": [
+    {
+      "id": "alyosha-karamazov",
+      "name": "Alyosha Karamazov",
+      "description": "Alexei Fyodorovitch Karamazov, affectionately known as Alyosha, is a young man of striking innocence and ethereal beauty, often described as possessing a gentle, unassuming demeanor that masks a depth of spirit and intellect. He has soft, delicate features framed by tousled, dark hair, and his large, expressive eyes shine with a blend of compassion and earnestness. Alyosha wears a modest, unpretentious style, often garbed in simple, humble clothing that reflects his ascetic lifestyle and dedication to the spiritual. His disposition is characterized by an unshakeable kindness and a profound sense of empathy, making him a beacon of faith and moral integrity amidst the tumultuous lives of the Karamazov family. With a warmth that draws others towards him, Alyosha embodies the quest for truth and love, standing in stark contrast to the moral complexities and turmoil that surround him.",
+      "aliases": [
+        "Alyosha",
+        "Aleksey Fyodorovich Karamazov",
+        "Alexei Fyodorovich Karamazov",
+        "Aleksei Fyodorovich Karamazov",
+        "Alexei Fyodorovitch Karamazov",
+        "Alexey Fyodorovich Karamazov",
+        "Alexey Fyodorovitch Karamazov"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.5
+    },
+    {
+      "id": "fyodor-karamazov",
+      "name": "Fyodor Karamazov",
+      "description": "Fyodor Pavlovich Karamazov is a strikingly disheveled figure, his portly frame often accentuated by ill-fitted, threadbare clothing that speaks to a lack of concern for appearances. His unkempt hair and bristly mustache frame a face marked by deep-set, shifty eyes that gleam with cunning and malice, reflecting his unscrupulous nature. His demeanor oscillates between repulsive manipulator and disquieting charmer, revealing a man who delights in the chaos he sows among his sons. Fyodor's histrionic laughter often rings through the air, a sound both unsettling and mocking, embodying his cynical view of life and relationships. He thrives on the discord he creates, showcasing an insatiable greed and selfishness that overshadow any trace of paternal love he might possess, ultimately painting him as a profoundly flawed patriarch in Dostoevsky's haunting narrative.",
+      "aliases": [
+        "Fyodor Pavlovich Karamazov",
+        "Fyodor Pavlovitch Karamazov"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.9
+    },
+    {
+      "id": "dmitri-karamazov",
+      "name": "Dmitri Karamazov",
+      "description": "Dmitri Fyodorovitch Karamazov, known for his fiery temperament and impassioned nature, embodies a tumultuous blend of impulsiveness and depth. Standing tall with a robust build, his features are sharp, characterized by a pronounced brow and piercing eyes that reflect a tumult of emotions. His unkempt dark hair adds to an air of restless energy, while his expressive gestures reveal an intensity that captivates those around him. Dmitri’s passionate spirit is both his greatest strength and his Achilles' heel, as he navigates the choppy waters of love, jealousy, and existential despair with fervent zeal. He is a man of contradictions—noble yet reckless, deeply caring yet prone to violence, driven by a pursuit of truth and a yearning for redemption that makes him a quintessential figure in Dostoevsky's exploration of the human soul.",
+      "aliases": [
+        "Dmitri Fyodorovich Karamazov",
+        "Dmitri Fyodorovitch Karamazov",
+        "Dmitry Fyodorovich Karamazov",
+        "Mitya Karamazov"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 1.0
+    },
+    {
+      "id": "ivan-karamazov",
+      "name": "Ivan Karamazov",
+      "description": "Ivan Fyodorovich Karamazov stands as a tall, lean figure, his sharp features often betraying the internal turmoil that simmers beneath the surface. With dark, intense eyes that reflect both intelligence and a deep-seated skepticism, he embodies the struggle between faith and doubt. Ivan's hair is dark and somewhat unkempt, mirroring his restless mind, and his demeanor often oscillates between brooding contemplation and passionate eloquence. A man of thought and philosophy, he exudes a certain gravitas, yet his vulnerability is palpable, revealing a character torn by existential questions and a relentless search for meaning in a chaotic world.",
+      "aliases": [
+        "Ivan Fyodorovich Karamazov",
+        "Ivan Fyodorovich Miusov",
+        "Ivan Fyodorovitch Karamazov"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.4
+    },
+    {
+      "id": "adelaida-ivanovna-karamazov",
+      "name": "Adelaida Ivanovna Karamazov",
+      "description": "Adelaida Ivanovna Karamazov is strikingly beautiful, her delicate features framed by flowing chestnut locks that shimmer with a golden hue under the light. Her expressive eyes, a deep shade of blue, mirror the complexity of her emotions, often reflecting both a spirited vivacity and a somber depth. Adelaida carries an air of sensitivity and grace, moving with a gentle elegance that draws the attention of those around her. While she embodies an ethereal charm, her personality reveals a fierce intelligence and a profound capacity for empathy. Torn between loyalty and independence, she navigates the tumultuous waters of familial loyalty with a compelling blend of compassion and strength, making her a pivotal figure in the intricate weave of the Karamazov narrative.",
+      "aliases": [
+        "Adelaida Ivanovna"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.6
+    },
+    {
+      "id": "marya-karamazov",
+      "name": "Marya Karamazov",
+      "description": "Marya Karamazov, a figure of poignant emotion, is characterized by her striking beauty and ethereal presence. Her delicate features are accentuated by expressive, soulful eyes that seem to reflect the tumult of her inner world. With a slender frame and flowing hair that catches the light in soft waves, she emanates a captivating aura, drawing others to her. However, beneath her enchanting exterior lies a tempestuous spirit, marked by vulnerability and profound empathy. Marya's demeanor oscillates between innocence and deep existential insight, as she grapples with her own desires and the moral complexities of those around her. In her interactions, she exudes a blend of warmth and melancholy, embodying the struggle of seeking love and understanding in a world rife with discord. Her defining trait is an unwavering loyalty to her family, even as she navigates her own pain and longing, making her a symbol of both devotion and the harsh realities of life in the Karamazov household.",
+      "aliases": [],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.4
+    },
+    {
+      "id": "grigory-karamazov",
+      "name": "Grigory Karamazov",
+      "description": "Grigory Vasilievich Kutuzov is a figure marked by his imposing stature, underscored by a worn, weathered face that speaks of years steeped in wisdom and experience. His deep-set, piercing eyes reflect both a profound understanding of human nature and a weary weariness from the burdens he carries. Garbed in simple yet dignified clothing, his presence commands respect, not through arrogance but through an unwavering sense of duty and integrity. Kutuzov embodies the quintessential stoic, often reflecting a calm demeanor as he navigates the complexities of his relationships and the moral conflicts surrounding him. His unwavering principles and strong convictions resonate deeply, positioning him as a guiding force amid the turbulent passions that pervade the Karamazov narrative.",
+      "aliases": [
+        "Grigory",
+        "Grigory Kutuzov",
+        "Grigory Vasilievich",
+        "Grigory Vasilievich Karamazov",
+        "Grigory Vasilievich Kutuzov",
+        "Grigory Vassilyevich",
+        "Grigory Vassilyevitch",
+        "Grigory Vassilyevitch Karamazov"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.4
+    },
+    {
+      "id": "pyotr-alexandrovitch-miusov",
+      "name": "Pyotr Alexandrovitch Miusov",
+      "description": "Pyotr Alexandrovitch Miusov is a striking figure, exuding an air of intellectual arrogance that belies a certain inner turmoil. Tall and somewhat gaunt, he possesses a sharpness in both his physique and his piercing gaze, which often glimmers with a blend of skepticism and disdain. His well-groomed appearance, adorned with rich fabrics that reflect his social stature, is counterbalanced by a demeanor that oscillates between arrogance and a profound existential doubt. Miusov engages in discussions with an air of superiority, yet beneath this façade lies a man grappling with his own moral complexities. His eloquence can be captivating, yet he often conveys a sense of detachment, as if the world’s moral dilemmas are a game he watches from afar. The depth of his character is revealed through his interactions, showcasing a blend of intellectual bravado and vulnerability as he navigates the intricate dynamics within the Karamazov family.",
+      "aliases": [],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.5
+    },
+    {
+      "id": "pyotr-alexandrovich-miusov",
+      "name": "Pyotr Alexandrovich Miusov",
+      "description": "Pyotr Alexandrovich Miusov is a tall, lean man with a pallid complexion, often dressed in an aristocratic manner that showcases his social status. His sharp features, accentuated by a prominent nose, give him a somewhat haughty appearance, yet his keen, calculating eyes betray a mind constantly in motion. Miusov is characterized by a pervasive sense of indifference and aloofness, often preferring the company of intellectuals and elitists in St. Petersburg society. His demeanor is marked by a mixture of cynicism and pretentiousness, as he navigates conversations with an air of superiority while subtly critiquing the moral fabric of those around him. Beneath his refined exterior lies a deep-seated skepticism of genuine emotion, revealing a man torn between his aristocratic upbringing and the tumultuous world of ideas surrounding him.",
+      "aliases": [],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.4
+    },
+    {
+      "id": "maria-petrovna",
+      "name": "Maria Petrovna",
+      "description": "Maria Petrovna, a prominent figure in Dostoevsky's 'The Brothers Karamazov,' embodies a blend of both strength and vulnerability. With her striking features, she possesses deep-set eyes that reflect her intense emotions, often shimmering with compassion and resilience. Her hair, a cascade of dark, flowing locks, frames a face marked by both grace and perseverance. Maria's demeanor is soft yet resolute; she carries herself with a quiet dignity, often seen offering solace to those around her. As a character, she is imbued with a profound sense of loyalty and maternal instinct, providing an anchor for others amidst the novel's turbulence. Her gentle voice resonates with wisdom, making her not just a caretaker but a pivotal force in the lives of the Karamazov family, illustrating the complexity of her nurturing spirit in a world rife with moral dilemmas.",
+      "aliases": [],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.4
+    },
+    {
+      "id": "katerina-karamazov",
+      "name": "Katerina Karamazov",
+      "description": "Katerina Ivanovna, a character of striking beauty and intense emotional complexity, embodies a haunting elegance tempered by a fierce sense of loyalty. Her delicate features are accentuated by high cheekbones and a fair complexion that radiates both innocence and hardship. She often dresses in modest, yet refined attire that reflects her noble upbringing, revealing her dignified character. Katerina's piercing gaze, filled with a tempest of emotions, hints at her inner struggles; she exhibits passionate commitment, particularly in her tumultuous affair with Dmitri Karamazov, which is marked by both love and betrayal. Beneath her composed exterior lies a profound vulnerability and a relentless will, making her a figure of both admiration and pity in Dostoevsky's intricate narrative.",
+      "aliases": [
+        "Katerina Ivanovna",
+        "Katerina Ivanovna Karamazova",
+        "Katerina Ivanovna Smerdyakova",
+        "Katerina Ivanovna Verkhovtseva"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.4
+    }
+  ],
+  "links": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "son",
+      "description": "Alexei Fyodorovich Karamazov and Fyodor Pavlovitch Karamazov share a tumultuous and complex relationship marked by conflict and emotional turbulence. Alexei, often seen as the moral compass and spiritual seeker, contrasts sharply with his father, Fyodor Pavlovitch, who embodies selfishness and debauchery. Their interactions, particularly when Alexei approaches Fyodor about a plan, reveal a tension between familial duty and moral integrity. Key moments include Fyodor's delight at Alexei's presence, showcasing a veneer of paternal affection, yet underneath lies a reluctance to engage meaningfully. This relationship encapsulates themes of faith, redemption, and the struggle between good and evil, as Alexei grapples with the nature of his father's flawed character while seeking his own path.",
+      "weight": 1.0
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "parent",
+      "description": "The relationship between Dmitri Karamazov and his father, Fyodor Karamazov, is marked by intense conflict and deep-seated resentment. Dmitri's tumultuous feelings toward Fyodor stem from a blend of rivalry and a yearning for paternal approval, highlighted by his confession of never having loved his father. Key moments include violent confrontations over money and their shared affections for Grushenka, which amplify their animosity. This dynamic is laden with themes of guilt, rejection, and the quest for identity, symbolizing the complex nature of familial bonds. Ultimately, their interactions reveal profound truths about love, betrayal, and the human condition within the novel.",
+      "weight": 1.0
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "ivan-karamazov",
+      "label": "parent",
+      "description": "The relationship between Fyodor Pavlovitch Karamazov and his son Ivan Fyodorovitch Karamazov is fraught with tension and authority, embodying a complex dynamic of power and resentment. Despite their blood ties, Fyodor’s manipulative nature and lack of paternal care create an atmosphere of rivalry rather than affection. Key moments include Fyodor's blatant assertion of control over Ivan through his request for permission to \"order\" him, suggesting both a mocking disdain and an acknowledgment of Ivan's autonomy. Their interactions highlight themes of moral conflict and existential struggle; for Ivan, the relationship reflects the broader conflict between faith and doubt, as he grapples with the weight of his father's excessive egotism. Together, they represent a poignant exploration of familial duty, the quest for identity, and the shadows of their shared legacy.",
+      "weight": 1.0
+    },
+    {
+      "source": "adelaida-ivanovna-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "mother",
+      "description": "The relationship between Dmitri Fyodorovich Karamazov and Adelaida Ivanovna is steeped in a complex blend of nostalgia and unrequited affection. Once deeply intrigued by her, Dmitri's memories stir a sense of longing and remorse as he reflects on their past encounters, which were marked by moments of genuine connection and fleeting romance. Their interactions reveal a subtle tension, as Dmitri grapples with his desires and the weight of his tumultuous life choices. Key moments, such as Dmitri recalling Adelaida's spirited nature and their brief moments of intimacy, serve to highlight the deep emotional undercurrents of his character, challenging him to confront his own flaws and the resulting void in his connections with others. In this dynamic, their relationship becomes symbolic of the struggle between ephemeral love and the harsh realities of existence.",
+      "weight": 1.0
+    },
+    {
+      "source": "adelaida-ivanovna-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "spouse",
+      "description": "The relationship between Fyodor Pavlovitch Karamazov and Adelaida Ivanovna is complex and marked by both fondness and underlying tension. As Fyodor's first wife, Adelaida occupies a significant place in his past, evidenced by his acts of devotion, such as paying for requiems for her soul, which hint at both guilt and a semblance of respect. Their interactions are shaped by Fyodor's self-serving nature, as he often reflects on his failings as a husband while trying to reconcile these feelings with his hedonistic pursuits. Key moments include the brief recollections of their life together, highlighting a lack of romantic love but a recognition of duty, symbolizing the tension between obligation and desire. The emotional weight of their relationship explores themes of regret, mortality, and the search for redemption, key elements that reverberate throughout the Karamazov family's tumultuous narrative.",
+      "weight": 1.0
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "marya-karamazov",
+      "label": "spouse",
+      "description": "In the intricate web of familial and emotional turmoil, the relationship between Fyodor Pavlovitch Karamazov and Marya Karamazov is marked by tension and complexity. Fyodor, with his manipulative tendencies, initially tracks down Marya as a means to exert control, highlighting his selfish nature. Their interactions oscillate between moments of confrontation and fleeting tenderness, revealing the underlying pain each character carries. A pivotal moment occurs when Marya confronts Fyodor about his moral failure, challenging his authority and asserting her own identity. This conflict illuminates broader themes of redemption and the search for meaning. Symbolically, their dynamic reflects the struggle between paternal dominance and individual agency, encapsulating the profound emotional conflicts at the heart of the Karamazov family.",
+      "weight": 1.0
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "guardian",
+      "description": "Grigory Vasilievich Karamazov, a devoted caretaker, took young Dmitri Fyodorovich Karamazov under his wing during a turbulent childhood, shaping Mitya’s early years with a mix of stern guidance and paternal care. Their relationship is defined by the tension between nurturing and resentment; while Grigory seeks to instill discipline and virtue in Mitya, Dmitri's rebellious spirit often clashes with Grigory's strict values. A pivotal moment arises when Dmitri, consumed by his own turmoil, is accused of a heinous act, leading to Grigory's anguished exclamation, \"He’s killed Grigory!\" This outburst not only reflects the tragic culmination of their fraught interactions but also symbolizes the deep-seated fears and failures of their connection. The dynamics between Grigory and Dmitri encapsulate themes of guilt, the struggle for redemption, and the inescapable shadows of familial duty.",
+      "weight": 1.0
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "dmitri-karamazov",
+      "label": "guardian",
+      "description": "The relationship between Pyotr Alexandrovitch Miusov and Dmitri Fyodorovich Karamazov is marked by tension and ideological conflict. Miusov, a man of rationality and control, expresses a desire to shape the younger Karamazov's moral education, reflecting a mentorship that is laced with ambivalence. Their interactions are characterized by Miusov's eagerness to involve himself in the Karamazov family affairs, particularly regarding the monastery, which Dmitri views with a mix of disdain and fascination. Key moments, such as discussions about faith, family obligations, and social standing, reveal a struggle for influence and power between them. This dynamic encapsulates broader themes of spirituality versus materialism, showcasing the complexity of human relationships within the novel.",
+      "weight": 1.0
+    },
+    {
+      "source": "pyotr-alexandrovich-miusov",
+      "target": "fyodor-karamazov",
+      "label": "acquaintance",
+      "description": "The relationship between Pyotr Alexandrovich Miusov and Fyodor Pavlovich Karamazov is marked by a complex blend of superficial camaraderie and underlying tension. Their first meeting is laced with a sense of mutual purpose, as Miusov seeks to immerse himself in the local customs, while Fyodor, ever the provocateur, engages him with an air of familiarity. Miusov’s preference for words steeped in nobility contrasts sharply with Fyodor’s blunt sincerity, revealing deeper philosophical divides that shape their interactions. As their dialogue unfolds, the clash between their ideals—Miusov’s noble façade versus Fyodor’s unvarnished truths—highlights themes of authenticity and pretense, ultimately laying bare the fragile nature of their acquaintance. Each conversation serves not only to advance their individual objectives but also to expose the societal masks they wear, contributing to a rich tapestry of character dynamics within the narrative.",
+      "weight": 1.0
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "adelaida-ivanovna-karamazov",
+      "label": "relative",
+      "description": "Pyotr Alexandrovitch Miusov and Adelaida Ivanovna share a complex, nuanced relationship that oscillates between fondness and tension. Their past acquaintance manifests in subtle exchanges that reveal an underlying familiarity and unspoken feelings, suggesting a friendship tinged with unacknowledged romance. Key moments include their candid conversations, where layers of their personalities unfold, reflecting both vulnerability and societal expectations. The tension in their interactions often highlights themes of longing and regret, with Adelaida representing an ephemeral ideal that Pyotr grapples with, encapsulating the broader emotional struggles of the characters in the narrative.",
+      "weight": 1.0
+    },
+    {
+      "source": "maria-petrovna",
+      "target": "dmitri-karamazov",
+      "label": "guardian",
+      "description": "Maria Petrovna and Dmitri Fyodorovich Karamazov share a complex relationship marked by an undercurrent of tension and unspoken emotions. While Maria, a caring yet firm figure, attempts to guide Dmitri, who struggles with his own demons and misguided passions, their interactions oscillate between moments of mentorship and conflict. A pivotal event occurs when Dmitri, overwhelmed by familial burdens, entrusts Maria with the welfare of a boy in his care, showcasing his reliance on her support, yet also his desire to escape responsibilities. This dynamic encapsulates the themes of duty and abandonment, as their bond reflects a struggle between the desire for connection and the weight of personal choices, ultimately illuminating the intricate dance of human relationships.",
+      "weight": 1.0
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "grandmother",
+      "description": "The relationship between Alexei Fyodorovich Karamazov (Alyosha) and Dmitri Fyodorovich Karamazov (Mitya) is marked by deep brotherly affection interwoven with concern and rivalry. Alyosha, nurturing and compassionate, constantly seeks to support Mitya, especially as he faces dire personal crises, including a murder trial. Their interactions reveal a bond strengthened by shared familial ties yet strained by differing paths. Key moments include Alyosha's reassurance of Mitya's innocence and his efforts to mediate between Mitya and other characters like Katerina Ivanovna and Grushenka. As Alyosha expresses worry over Mitya's sanity and moral choices, their relationship encapsulates themes of loyalty, love, and the burden of familial loyalty amidst chaos.",
+      "weight": 1.0
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "guardian",
+      "description": "Dmitri Karamazov and Katerina Ivanovna share a tumultuous relationship marked by passion, jealousy, and unfulfilled desires. Initially betrothed to Katerina is Dmitri's rival, her unwavering loyalty and intense affection complicate their interactions. A pivotal moment occurs when Dmitri takes a locket from Katerina's neck, a portrait of her betrothed, symbolizing both the protection of her past and the turmoil of his own feelings. Their dynamic fluctuates between love and resentment, as Dmitri's impetuous nature collides with Katerina's emotional turmoil. This interplay illustrates themes of sacrifice, betrayal, and the struggle for redemption, revealing the depth of their flawed humanity.",
+      "weight": 1.0
+    }
+  ]
+}

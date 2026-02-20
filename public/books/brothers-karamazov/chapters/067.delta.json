@@ -1,0 +1,153 @@
+{
+  "new_nodes": [
+    "nikolai-ivanovich-korovkin",
+    "other-young-characters-in-the-story-such-as-mitya-or-smerdyakov-which-are-not-clearly-specified-in-the-text",
+    "nikolai-ivanovich-krasotkin",
+    "the-other-boys",
+    "captain-smurov",
+    "dmitri-morozov",
+    "victor-mikhailovich-bulkin",
+    "nikolai-ivanovich-kolbasnikov",
+    "semyon-semyonovich-dardanelov",
+    "pavlik-kolbasnikov",
+    "marya-kolbasnikov",
+    "dardanel-ivanovich",
+    "pavel-kartashov"
+  ],
+  "new_edges": [
+    {
+      "source": "nikolai-ivanovich-krassotkin",
+      "target": "smurov",
+      "label": "friend"
+    },
+    {
+      "source": "nina",
+      "target": "ilusha",
+      "label": "sibling"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "ilusha",
+      "label": "parent"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "smurov",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "kolya-krassotkin",
+      "label": "host-guest"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "kolya-krassotkin",
+      "label": "admiration"
+    },
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "ilusha",
+      "label": "friend"
+    },
+    {
+      "source": "nikolai-ivanovich-korovkin",
+      "target": "other-young-characters-in-the-story-such-as-mitya-or-smerdyakov-which-are-not-clearly-specified-in-the-text",
+      "label": "friend"
+    },
+    {
+      "source": "nikolai-ivanovich-krasotkin",
+      "target": "ilusha",
+      "label": "friend"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "nikolai-ivanovich-krasotkin",
+      "label": "friend"
+    },
+    {
+      "source": "nikolai-ivanovich-krassotkin",
+      "target": "ilusha",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "marya-karamazov",
+      "label": "spouse"
+    },
+    {
+      "source": "the-other-boys",
+      "target": "nikolai-ivanovich-krassotkin",
+      "label": "friend"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "captain-smerdyakov",
+      "label": "friend"
+    },
+    {
+      "source": "captain-smurov",
+      "target": "maria-karamazov",
+      "label": "relation"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "dmitri-morozov",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "nikolai-ivanovich-krasotkin",
+      "target": "victor-mikhailovich-bulkin",
+      "label": "adversarial relationship"
+    },
+    {
+      "source": "nikolai-ivanovich-kolbasnikov",
+      "target": "semyon-semyonovich-dardanelov",
+      "label": "colleague"
+    },
+    {
+      "source": "pavlik-kolbasnikov",
+      "target": "marya-kolbasnikov",
+      "label": "spouse"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "dardanel-ivanovich",
+      "label": "respect"
+    },
+    {
+      "source": "pavel-kartashov",
+      "target": "kolya-krassotkin",
+      "label": "intimidation"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "smurov",
+      "label": "adversarial"
+    },
+    {
+      "source": "nikolai-ivanovich-karamazov",
+      "target": "ilusha",
+      "label": "friend"
+    }
+  ],
+  "summary": "New characters: Nikolai Ivanovich Korovkin, Other Young Characters In The Story Such As Mitya Or Smerdyakov Which Are Not Clearly Specified In The Text, Nikolai Ivanovich Krasotkin, The Other Boys, Captain Smurov, Dmitri Morozov and 7 more. New connections: Nikolai–Smurov (friend), Nina–Ilusha (sibling), Katerina–Ilusha (parent), Maria–Smurov (friend) and 19 more.",
+  "summary_short": "Introduces Nikolai Ivanovich Korovkin, Other Young Characters In The Story Such As Mitya Or Smerdyakov Which Are Not Clearly Specified In The Text, Nikolai Ivanovich Krasotkin, The Other Boys, and 9 others. Alyosha Karamazov is the most connected figure (77 ties). Key relationship types: friend, spouse.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (77), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Nikolai–Smurov (friend), Nina–Ilusha (sibling), Katerina–Ilusha (parent), Maria–Smurov (friend), +19 more",
+    "New characters: Nikolai, Other, Nikolai, The, Captain, Dmitri, +7 more",
+    "Totals: 335 characters, 498 relations (+13 new, +23 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ilusha, seriously ill and bedridden, is comforted by visits from boys reconciled through Alyosha's efforts, though Krassotkin has refused to visit until now. Kolya Krassotkin arrives unexpectedly with a dog he claims is Ilusha's lost Zhutchka, which revives Ilusha's spirits, and he also presents Ilusha with a toy cannon that delights the family. The arrival of a new, important-looking doctor from Moscow is announced as the chapter ends.",
+  "evidence_quotes": [
+    "Ilusha had not left his little bed under the ikons in the corner.",
+    "Krassotkin opened the door and came into the room."
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,148 @@
+{
+  "new_nodes": [
+    "maria-dmitrievna-krassotkina",
+    "mademoiselle-lise",
+    "marya-ivanovna-krassotkina",
+    "katerina",
+    "marya-grigorievna-krassotkin",
+    "anna-fyodorovna-krassotkin",
+    "nastasyia-krassotkina",
+    "anastasia-ivanovna-zosimov",
+    "praskovya-pavlovna",
+    "alexei-fyodorovich",
+    "anastasia-ivanovna",
+    "helen-ivanovna-rakitin",
+    "alyoshas-sister",
+    "agafya-andreyevna-krassotkin",
+    "nikolai",
+    "agafya-fedoseyevna",
+    "the-children-of-fyodor-pavlovich-karamazov",
+    "kolya-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "maria-dmitrievna-krassotkina",
+      "target": "mademoiselle-lise",
+      "label": "friend"
+    },
+    {
+      "source": "marya-ivanovna-krassotkina",
+      "target": "katerina",
+      "label": "employer-employee"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "maria-petrovna",
+      "label": "employee-employer"
+    },
+    {
+      "source": "marya-grigorievna-krassotkin",
+      "target": "anna-fyodorovna-krassotkin",
+      "label": "friend"
+    },
+    {
+      "source": "kolya-krassotkin",
+      "target": "nastasyia-krassotkina",
+      "label": "friend"
+    },
+    {
+      "source": "nikolai-ivanovich-krassotkin",
+      "target": "alyosha-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "anastasia-ivanovna-zosimov",
+      "target": "alyosha-karamazov",
+      "label": "sibling"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "kolya-krasotkin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "nikolai-ivanovich-krassotkin",
+      "target": "kolya-krassotkin",
+      "label": "friend"
+    },
+    {
+      "source": "kolya-krassotkin",
+      "target": "alyosha-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "praskovya-pavlovna",
+      "target": "alexei-fyodorovich",
+      "label": "sibling"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "praskovya-ivanovna",
+      "label": "sibling"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "anastasia-ivanovna",
+      "label": "siblings"
+    },
+    {
+      "source": "helen-ivanovna-rakitin",
+      "target": "alyosha-karamazov",
+      "label": "siblings"
+    },
+    {
+      "source": "kolya-krassotkin",
+      "target": "alyoshas-sister",
+      "label": "friends"
+    },
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "alyosha-karamazov",
+      "label": "owner-pet"
+    },
+    {
+      "source": "agafya-andreyevna-krassotkin",
+      "target": "nikolai",
+      "label": "employer-employee"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "agafya-fedoseyevna",
+      "label": "other"
+    },
+    {
+      "source": "agafya-ivanovna",
+      "target": "kolya-krasotkin",
+      "label": "other"
+    },
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "the-children-of-fyodor-pavlovich-karamazov",
+      "label": "caregiver"
+    },
+    {
+      "source": "agafya-ivanovna",
+      "target": "kolya-karamazov",
+      "label": "caregiver"
+    }
+  ],
+  "summary": "New characters: Maria Dmitrievna Krassotkina, Mademoiselle Lise, Marya Ivanovna Krassotkina, Katerina, Marya Grigorievna Krassotkin, Anna Fyodorovna Krassotkin and 12 more. New connections: Maria–Mademoiselle (friend), Marya–Katerina (employer-employee), Katerina–Maria (employee-employer), Marya–Anna (friend) and 17 more.",
+  "summary_short": "Introduces Maria Dmitrievna Krassotkina, Mademoiselle Lise, Marya Ivanovna Krassotkina, Katerina, and 14 others. Dmitri Karamazov is the most connected figure (74 ties). Key relationship types: friend, sibling.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (74), Alyosha Karamazov (72), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Maria–Mademoiselle (friend), Marya–Katerina (employer-employee), Katerina–Maria (employee-employer), Marya–Anna (friend), +17 more",
+    "New characters: Maria, Mademoiselle, Marya, Katerina, Marya, Anna, +12 more",
+    "Totals: 315 characters, 452 relations (+18 new, +21 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Kolya Krassotkin is left alone to care for the doctor’s wife’s two children while the adults are away attending to an emergency involving their servant Katerina. Despite his desire to go out on urgent business, Kolya stays to watch over the children and entertains them with a toy cannon and his dog Perezvon. When the servant Agafya returns from the market, Kolya entrusts her with watching the children before finally leaving the house.",
+  "evidence_quotes": [
+    "Kolya was thus left for a time to protect and look after “the kids.”",
+    "“Listen, you frivolous young woman,” Krassotkin began, getting up from the sofa."
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,47 @@
+{
+  "new_nodes": [
+    "mitya-dmitri-fyodorovich-karamazov",
+    "nikolai-parfenovich"
+  ],
+  "new_edges": [
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "ippolit-kirillovitch",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "ippolit-kirillovitch",
+      "label": "other"
+    },
+    {
+      "source": "mitya-dmitri-fyodorovich-karamazov",
+      "target": "madame-hohlakov",
+      "label": "other relationship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "nikolai-parfenovich",
+      "label": "other"
+    }
+  ],
+  "summary": "New characters: Mitya Dmitri Fyodorovich Karamazov, Nikolai Parfenovich. New connections: Nikolay–Ippolit (friend), Dmitri–Ippolit (other), Mitya–Madame (other relationship), Dmitri–Nikolai (other).",
+  "summary_short": "Introduces Mitya Dmitri Fyodorovich Karamazov and Nikolai Parfenovich. Dmitri Karamazov is the most connected figure (74 ties). Key relationship types: other, friend.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (74), Alyosha Karamazov (64), Fyodor Karamazov (39), Ivan Karamazov (31)",
+    "Key ties: Nikolay–Ippolit (friend), Dmitri–Ippolit (other), Mitya–Madame (other relationship), Dmitri–Nikolai (other)",
+    "New characters: Mitya, Nikolai",
+    "Totals: 280 characters, 409 relations (+2 new, +4 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya Karamazov is questioned by Nikolay Parfenovitch and the prosecutor about his actions and whereabouts, including a journey out of town and borrowing money. He recounts his jealousy over Grushenka and his intention to kill his father with a brass pestle, which he admits to picking up impulsively. Despite his frustration with the questioning, Mitya continues to tell his story, expressing feelings of being hunted and misunderstood.",
+  "evidence_quotes": [
+    "I pledged them, gentlemen. I pledged them for ten roubles.",
+    "‘that I snatched up the pestle to go and kill my father ... Fyodor Pavlovitch ... by hitting him on the head with it!’"
+  ],
+  "needs_review": false
+}

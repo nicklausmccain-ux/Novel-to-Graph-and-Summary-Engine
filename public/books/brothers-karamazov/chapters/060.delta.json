@@ -1,0 +1,28 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "katherine-ivanovna",
+      "target": "fyodor-karamazov",
+      "label": "financial relationship"
+    }
+  ],
+  "summary": "New connections: Katherine–Fyodor (financial relationship).",
+  "summary_short": "Dmitri Karamazov is the most connected figure (74 ties). Key relationship types: financial relationship.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (74), Alyosha Karamazov (65), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Katherine–Fyodor (financial relationship)",
+    "Totals: 280 characters, 412 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya confesses to having stolen fifteen hundred roubles from Katerina Ivanovna a month ago, which he kept sewn in a rag around his neck and only spent the money the day before. He explains his shame and internal struggle over hiding the money and his feelings of being a thief, revealing his conflicted motives and despair. After his confession, the prosecutor questions him about the details, and despite Mitya's exhaustion and hopelessness, they prepare to examine witnesses while sharing tea.",
+  "evidence_quotes": [
+    "\"That money was my own, my own, that is, stolen by me ...\"",
+    "\"Every day that I had that fifteen hundred sewn up round my neck, every day and every hour I said to myself, ‘You’re a thief! you’re a thief!’\""
+  ],
+  "needs_review": false
+}

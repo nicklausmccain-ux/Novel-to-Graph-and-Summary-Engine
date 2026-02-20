@@ -1,0 +1,41 @@
+{
+  "new_nodes": [
+    "captain-mihail-mihailovitch"
+  ],
+  "new_edges": [
+    {
+      "source": "mikhail-rakitin",
+      "target": "captain-mihail-mihailovitch",
+      "label": "acquaintance"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "god",
+      "label": "dislike"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "grushenka",
+      "label": "indirect relationship"
+    }
+  ],
+  "summary": "New characters: Captain Mihail Mihailovitch. New connections: Mikhail–Captain (acquaintance), Mikhail–God (dislike), Ivan–Grushenka (indirect relationship).",
+  "summary_short": "Introduces Captain Mihail Mihailovitch. Alyosha Karamazov is the most connected figure (78 ties). Key relationship types: acquaintance, dislike.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (78), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (33)",
+    "Key ties: Mikhail–Captain (acquaintance), Mikhail–God (dislike), Ivan–Grushenka (indirect relationship)",
+    "New characters: Captain",
+    "Totals: 340 characters, 515 relations (+1 new, +3 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits Mitya in prison where they discuss Mitya's impending trial and his conflicted feelings about God, suffering, and escape. Mitya reveals Ivan's plan for him to escape to America with Grusha, but he struggles with his conscience and the decision. Before Alyosha leaves, Mitya asks if Alyosha truly believes he is innocent, and Alyosha swears he does, giving Mitya renewed strength for the trial.",
+  "evidence_quotes": [
+    "Ivan suggests my escaping; but, of course, he believes I did it.",
+    "I’ve never for one instant believed that you were the murderer!"
+  ],
+  "needs_review": false
+}

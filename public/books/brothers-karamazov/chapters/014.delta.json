@@ -1,0 +1,46 @@
+{
+  "new_nodes": [
+    "lizaveta-smerdyastchaya"
+  ],
+  "new_edges": [
+    {
+      "source": "grigory-karamazov",
+      "target": "marfa-ignatyevna-karamazov",
+      "label": "spouse"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "fyodor-karamazov",
+      "label": "servant"
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "adelaida-ivanovna-karamazov",
+      "label": "disliked"
+    },
+    {
+      "source": "lizaveta-smerdyastchaya",
+      "target": "alexei-karamazov",
+      "label": "parent"
+    }
+  ],
+  "summary": "New characters: Lizaveta Smerdyastchaya. New connections: Grigory–Marfa (spouse), Captain–Fyodor (servant), Grigory–Adelaida (disliked), Lizaveta–Alexei (parent).",
+  "summary_short": "Introduces Lizaveta Smerdyastchaya. Alyosha Karamazov is the most connected figure (22 ties). Key relationship types: spouse, servant.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (22), Fyodor Karamazov (20), Dmitri Karamazov (17), Ivan Karamazov (16)",
+    "Key ties: Grigory–Marfa (spouse), Captain–Fyodor (servant), Grigory–Adelaida (disliked), Lizaveta–Alexei (parent)",
+    "New characters: Lizaveta",
+    "Totals: 64 characters, 104 relations (+1 new, +4 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "The chapter describes the Karamazovs' house and its inhabitants, focusing on Fyodor Pavlovitch, his son Ivan, and their three servants: Grigory, Marfa, and Smerdyakov. Grigory is portrayed as a loyal and honest servant who has a complex relationship with his wife Marfa and is deeply affected by the birth and death of their deformed child. The chapter ends with Grigory discovering an idiot girl, Lizaveta Smerdyastchaya, who has just given birth and is dying in the bath-house.",
+  "evidence_quotes": [
+    "Fyodor Pavlovitch and his son Ivan",
+    "An idiot girl... had just given birth to a child"
+  ],
+  "needs_review": false
+}

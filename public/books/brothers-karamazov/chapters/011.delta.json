@@ -1,0 +1,48 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "dmitri-karamazov",
+      "target": "pavel-smerdyakov",
+      "label": "servant-employer"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "grushenka",
+      "label": "romantic connection"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "captain-smerdyakov",
+      "label": "Antagonistic"
+    },
+    {
+      "source": "father-iosif",
+      "target": "fyodor-karamazov",
+      "label": "opponent"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "pyotr-alexandrovich-miusov",
+      "label": "friend"
+    }
+  ],
+  "summary": "New connections: Dmitri–Pavel (servant-employer), Dmitri–Grushenka (romantic connection), Dmitri–Captain (Antagonistic), Father–Fyodor (opponent) and 1 more.",
+  "summary_short": "Alyosha Karamazov is the most connected figure (21 ties). Key relationship types: servant-employer, romantic connection.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (21), Fyodor Karamazov (18), Ivan Karamazov (15), Zosima Fyodorovich Karamazov (14)",
+    "Key ties: Dmitri–Pavel (servant-employer), Dmitri–Grushenka (romantic connection), Dmitri–Captain (Antagonistic), Father–Fyodor (opponent), +1 more",
+    "Totals: 57 characters, 88 relations (+0 new, +5 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Ivan Karamazov"
+  ],
+  "story_summary": "Dmitri Fyodorovitch arrives late and respectfully greets Father Zossima and his father, Fyodor Pavlovitch, before sitting to listen to a tense conversation. Fyodor Pavlovitch accuses Dmitri of debt, debauchery, and dishonoring a young lady, while Dmitri defends himself and exposes his father's manipulations, leading to a heated family quarrel. The scene ends with Father Zossima unexpectedly bowing to Dmitri, who then leaves the room in distress, followed by the guests departing in confusion.",
+  "evidence_quotes": [
+    "Dmitri kissed his hand respectfully, and with intense feeling",
+    "Father Zossima moved towards Dmitri and reaching him sank on his knees"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,28 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "pavel-smerdyakov",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New connections: Katerina–Pavel (acquaintance).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (78 ties). Key relationship types: acquaintance.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (78), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (33)",
+    "Key ties: Katerina–Pavel (acquaintance)",
+    "Totals: 342 characters, 520 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan visits the very ill Smerdyakov during a snowstorm and demands answers about Katerina Ivanovna's visit and the murder. Smerdyakov reveals he committed the murder, explaining the details and implicating Ivan as the true instigator, while also giving Ivan stolen money. After leaving, Ivan helps a drunken peasant he had earlier knocked down and contemplates confessing everything at the trial the next day.",
+  "evidence_quotes": [
+    "Smerdyakov whispered furiously, 'Well, it was you who murdered him.'",
+    "Ivan said, 'I won’t keep you long, I won’t even take off my coat.'"
+  ],
+  "needs_review": false
+}

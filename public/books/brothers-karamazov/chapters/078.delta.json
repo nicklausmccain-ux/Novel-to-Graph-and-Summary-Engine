@@ -1,0 +1,133 @@
+{
+  "new_nodes": [
+    "count-mattei",
+    "hoff",
+    "unnamed-newspaper-office-staff",
+    "the-thinker-and-philosopher",
+    "paradise",
+    "the-unnamed-thinker-and-philosopher",
+    "alexander-korovkin",
+    "marquis-de-pétrova",
+    "marquis-fyodor-pavlovich-karamazov",
+    "stern-destiny",
+    "marquis-de-sade",
+    "mephistopheles",
+    "heinrich-faust",
+    "devil",
+    "dismas",
+    "cherubim",
+    "the-seraphim",
+    "alone-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "fyodor-dostoevsky",
+      "target": "count-mattei",
+      "label": "other"
+    },
+    {
+      "source": "fyodor-dostoevsky",
+      "target": "hoff",
+      "label": "other"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "unnamed-newspaper-office-staff",
+      "label": "other"
+    },
+    {
+      "source": "the-thinker-and-philosopher",
+      "target": "paradise",
+      "label": "Conceptual relationship"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "the-unnamed-thinker-and-philosopher",
+      "label": "Curiosity"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "alexander-korovkin",
+      "label": "friend"
+    },
+    {
+      "source": "marquis-de-pétrova",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "spiritual advisor"
+    },
+    {
+      "source": "marquis-fyodor-pavlovich-karamazov",
+      "target": "stern-destiny",
+      "label": "abstract relationship"
+    },
+    {
+      "source": "father-fyodor-pavlovich-karamazov",
+      "target": "marquis-de-sade",
+      "label": "spiritual advisor"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "marquis-de-sade",
+      "label": "reaction"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "fyodor-dostoevsky",
+      "label": "dialogue partners"
+    },
+    {
+      "source": "mephistopheles",
+      "target": "heinrich-faust",
+      "label": "Other relationship"
+    },
+    {
+      "source": "devil",
+      "target": "alyosha-karamazov",
+      "label": "Other relationship"
+    },
+    {
+      "source": "mephistopheles",
+      "target": "dismas",
+      "label": "Other relationship"
+    },
+    {
+      "source": "devil",
+      "target": "cherubim",
+      "label": "Other relationship"
+    },
+    {
+      "source": "mephistopheles",
+      "target": "the-seraphim",
+      "label": "Other relationship"
+    },
+    {
+      "source": "mephistopheles",
+      "target": "god",
+      "label": "Other relationship"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "alone-karamazov",
+      "label": "other relationship"
+    }
+  ],
+  "summary": "New characters: Count Mattei, Hoff, Unnamed Newspaper Office Staff, The Thinker And Philosopher, Paradise, The Unnamed Thinker And Philosopher and 12 more. New connections: Fyodor–Count (other), Fyodor–Hoff (other), Mikhail–Unnamed (other), The–Paradise (Conceptual relationship) and 14 more.",
+  "summary_short": "Introduces Count Mattei, Hoff, Unnamed Newspaper Office Staff, The Thinker And Philosopher, and 14 others. Alyosha Karamazov is the most connected figure (79 ties). Key relationship types: Other relationship, other.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (79), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (38)",
+    "Key ties: Fyodor–Count (other), Fyodor–Hoff (other), Mikhail–Unnamed (other), The–Paradise (Conceptual relationship), +14 more",
+    "New characters: Count, Hoff, Unnamed, The, Paradise, The, +12 more",
+    "Totals: 360 characters, 538 relations (+18 new, +18 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan is on the verge of a brain fever attack and experiences a hallucination of a gentleman who debates with him about existence, faith, and philosophy. The visitor, who represents a part of Ivan's own mind, engages in a lengthy conversation filled with anecdotes and reflections, while Ivan struggles to reject the hallucination. The chapter ends with Ivan hearing knocking at the window, which turns out to be his brother Alyosha bringing news that Smerdyakov has hanged himself.",
+  "evidence_quotes": [
+    "he was at that moment on the very eve of an attack of brain fever",
+    "An hour ago Smerdyakov hanged himself,” Alyosha answered from the yard"
+  ],
+  "needs_review": false
+}

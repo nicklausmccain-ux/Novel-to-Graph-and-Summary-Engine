@@ -1,0 +1,143 @@
+{
+  "new_nodes": [
+    "prison-guards",
+    "the-russian-people",
+    "fyodor-mikhailovich-dostoevsky",
+    "afanasy-pavlovitch",
+    "afanasy-ivanovitch-karamazov",
+    "afanasy-ivanovich-pavlovich",
+    "afanasy-ivanovitch",
+    "children-of-afanasy-ivanovitch",
+    "maria-pavlovna",
+    "afanasy-ivanovich-pavlovitch",
+    "the-children-of-afanasy-pavlovitch",
+    "fyodor-dostoevsky",
+    "divine-wenceslaus-karamazov",
+    "lazarus-of-bethany",
+    "lazarus",
+    "dives",
+    "alexander-fyodorovich-karamazov",
+    "the-sinful-and-tormented-karamazov-brothers"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-karamazov",
+      "target": "prison-guards",
+      "label": "Adversarial Relationship"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "the-russian-people",
+      "label": "other relationship"
+    },
+    {
+      "source": "fyodor-mikhailovich-dostoevsky",
+      "target": "afanasy-ivanovich",
+      "label": "friend/former subordinate"
+    },
+    {
+      "source": "afanasy-ivanovich",
+      "target": "fyodor-karamazov",
+      "label": "friend/former master"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "afanasy-pavlovitch",
+      "label": "friend"
+    },
+    {
+      "source": "afanasy-ivanovitch-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "afanasy-ivanovich-pavlovich",
+      "target": "madame-hohlakov",
+      "label": "spouse"
+    },
+    {
+      "source": "afanasy-ivanovitch",
+      "target": "children-of-afanasy-ivanovitch",
+      "label": "parent"
+    },
+    {
+      "source": "maria-pavlovna",
+      "target": "afanasy-ivanovich-pavlovitch",
+      "label": "spouse"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "the-children-of-afanasy-pavlovitch",
+      "label": "praying for"
+    },
+    {
+      "source": "fyodor-dostoevsky",
+      "target": "grigory-karamazov",
+      "label": "servant"
+    },
+    {
+      "source": "fyodor-dostoevsky",
+      "target": "dmitri-karamazov",
+      "label": "servant"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "na",
+      "label": "other"
+    },
+    {
+      "source": "divine-wenceslaus-karamazov",
+      "target": "lazarus-of-bethany",
+      "label": "other"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "abraham",
+      "label": "other"
+    },
+    {
+      "source": "lazarus",
+      "target": "dives",
+      "label": "other"
+    },
+    {
+      "source": "dives",
+      "target": "god",
+      "label": "other"
+    },
+    {
+      "source": "alexander-fyodorovich-karamazov",
+      "target": "the-sinful-and-tormented-karamazov-brothers",
+      "label": "other"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "jesus-christ",
+      "label": "other"
+    },
+    {
+      "source": "fyodor-dostoevsky",
+      "target": "alyosha-karamazov",
+      "label": "other"
+    }
+  ],
+  "summary": "New characters: Prison Guards, The Russian People, Fyodor Mikhailovich Dostoevsky, Afanasy Pavlovitch, Afanasy Ivanovitch Karamazov, Afanasy Ivanovich Pavlovich and 12 more. New connections: Dmitri–Prison (Adversarial Relationship), Alyosha–The (other relationship), Fyodor–Afanasy (friend/former subordinate), Afanasy–Fyodor (friend/former master) and 16 more.",
+  "summary_short": "Introduces Prison Guards, The Russian People, Fyodor Mikhailovich Dostoevsky, Afanasy Pavlovitch, and 14 others. Alyosha Karamazov is the most connected figure (60 ties). Key relationship types: other, friend.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (60), Dmitri Karamazov (51), Fyodor Karamazov (34), Ivan Karamazov (30)",
+    "Key ties: Dmitri–Prison (Adversarial Relationship), Alyosha–The (other relationship), Fyodor–Afanasy (friend/former subordinate), Afanasy–Fyodor (friend/former master), +16 more",
+    "New characters: Prison, The, Fyodor, Afanasy, Afanasy, Afanasy, +12 more",
+    "Totals: 225 characters, 322 relations (+18 new, +20 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "The chapter presents reflections on the role and significance of the Russian monk, emphasizing their spiritual freedom and potential to bring salvation to Russia through humility and prayer. It recounts a touching reunion between the narrator and his former servant Afanasy, illustrating a bond of equality and brotherhood despite social differences. The chapter concludes with the sudden and peaceful death of the elder, whose passing deeply affects the monks and townspeople, setting the stage for subsequent events.",
+  "evidence_quotes": [
+    "The salvation of Russia will come perhaps once more from meek monks.",
+    "He seemed suddenly to feel an acute pain in his chest... quietly and joyfully gave up his soul to God."
+  ],
+  "needs_review": false
+}

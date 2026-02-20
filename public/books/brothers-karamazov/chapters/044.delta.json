@@ -1,0 +1,101 @@
+{
+  "new_nodes": [
+    "agrafena-alexandrovna-grushenka",
+    "samsonov",
+    "agrafena-alexandrovna-karamazov",
+    "grushenkas-cook-and-granddaughter",
+    "fenya",
+    "the-lady"
+  ],
+  "new_edges": [
+    {
+      "source": "agrafena-alexandrovna-grushenka",
+      "target": "samsonov",
+      "label": "protector"
+    },
+    {
+      "source": "grushenka",
+      "target": "agrafena-alexandrovna-karamazov",
+      "label": "landlady"
+    },
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "grushenka",
+      "label": "lodger"
+    },
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "samsonov",
+      "label": "protegee"
+    },
+    {
+      "source": "samsonov",
+      "target": "grushenka",
+      "label": "business relationship"
+    },
+    {
+      "source": "grushenkas-cook-and-granddaughter",
+      "target": "dmitri-karamazov",
+      "label": "fear-based connection"
+    },
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "fenya",
+      "label": "acquaintance or helper"
+    },
+    {
+      "source": "the-lady",
+      "target": "mikhail-rakitin",
+      "label": "friend"
+    },
+    {
+      "source": "agrafena-alexandrovna-grushenka",
+      "target": "alyosha-karamazov",
+      "label": "romantic interest"
+    },
+    {
+      "source": "agrafena-alexandrovna-grushenka",
+      "target": "dmitri-karamazov",
+      "label": "romantic interest"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "agrafena-alexandrovna-grushenka",
+      "label": "friend"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "agrafena-alexandrovna-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "agrafena-alexandrovna-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "past romantic connection"
+    },
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "mikhail-rakitin",
+      "label": "superior-subordinate"
+    }
+  ],
+  "summary": "New characters: Agrafena Alexandrovna Grushenka, Samsonov, Agrafena Alexandrovna Karamazov, Grushenkas Cook And Granddaughter, Fenya, The Lady. New connections: Agrafena–Samsonov (protector), Grushenka–Agrafena (landlady), Agrafena–Grushenka (lodger), Agrafena–Samsonov (protegee) and 10 more.",
+  "summary_short": "Introduces Agrafena Alexandrovna Grushenka, Samsonov, Agrafena Alexandrovna Karamazov, Grushenkas Cook And Granddaughter, and 2 others. Alyosha Karamazov is the most connected figure (62 ties). Key relationship types: friend, romantic interest.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (62), Dmitri Karamazov (53), Fyodor Karamazov (35), Ivan Karamazov (31)",
+    "Key ties: Agrafena–Samsonov (protector), Grushenka–Agrafena (landlady), Agrafena–Grushenka (lodger), Agrafena–Samsonov (protegee), +10 more",
+    "New characters: Agrafena, Samsonov, Agrafena, Grushenkas, Fenya, The",
+    "Totals: 233 characters, 342 relations (+6 new, +14 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Grushenka reveals to Alyosha and Rakitin her troubled past, her conflicted feelings about a man who wronged her, and her anticipation of a message from him. She expresses a mix of resentment, forgiveness, and emotional turmoil, ultimately deciding to meet the man despite her fears. After receiving a letter confirming his summons, she prepares to leave, asking Alyosha to convey a message to Dmitri before shutting herself away, while Rakitin departs angrily and Alyosha walks alone to the monastery.",
+  "evidence_quotes": [
+    "I am expecting a message. If the message comes, I shall fly.",
+    "He has sent for me... I will go... five years of my life!"
+  ],
+  "needs_review": false
+}

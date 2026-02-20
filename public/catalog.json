@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "id": "brothers-karamazov",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "coverImage": null,
+      "chapterCount": 96,
+      "characterCount": 69
+    }
+  ]
+}

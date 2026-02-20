@@ -1,0 +1,770 @@
+[
+  {
+    "chapter": 1,
+    "title": "Fyodor Pavlovich Karamazov",
+    "book_title": "The History of a Family",
+    "snapshot": "001.snapshot.json",
+    "delta": "001.delta.json",
+    "summary": "New characters: Alyosha Karamazov, Fyodor Karamazov, Dmitri Karamazov, Ivan Karamazov, Adelaida Ivanovna Karamazov, Marya Karamazov. New connections: Alyosha–Fyodor (son), Fyodor–Dmitri (parent), Fyodor–Ivan (parent), Adelaida–Dmitri (mother) and 2 more."
+  },
+  {
+    "chapter": 2,
+    "title": "He Gets Rid Of His Eldest Son",
+    "book_title": "The History of a Family",
+    "snapshot": "002.snapshot.json",
+    "delta": "002.delta.json",
+    "summary": "New characters: Grigory Karamazov, Pyotr Alexandrovitch Miusov, Pyotr Alexandrovich Miusov, Maria Petrovna, Katerina Karamazov. New connections: Grigory–Dmitri (guardian), Pyotr–Dmitri (guardian), Pyotr–Fyodor (acquaintance), Pyotr–Adelaida (relative) and 3 more."
+  },
+  {
+    "chapter": 3,
+    "title": "The Second Marriage And The Second Family",
+    "book_title": "The History of a Family",
+    "snapshot": "003.snapshot.json",
+    "delta": "003.delta.json",
+    "summary": "New characters: Madame Stefania Ivanovna, Maria Karamazov, Sofia Karamazov, Yefim Petrovitch Polenov. New connections: Fyodor–Madame (benefactor), Fyodor–Grigory (servant), Adelaida–Alyosha (mother), Adelaida–Ivan (mother) and 11 more."
+  },
+  {
+    "chapter": 4,
+    "title": "The Third Son, Alyosha",
+    "book_title": "The History of a Family",
+    "snapshot": "004.snapshot.json",
+    "delta": "004.delta.json",
+    "summary": "New characters: Zosima Fyodorovich Karamazov, The Old Man Likely Fyodor Pavlovich Karamazov. New connections: Alyosha–Zosima (mentor), Pyotr–Alyosha (acquaintance), Fyodor–Maria (ex-spouse), The–Alyosha (parent-child)."
+  },
+  {
+    "chapter": 5,
+    "title": "Elders",
+    "book_title": "The History of a Family",
+    "snapshot": "005.snapshot.json",
+    "delta": "005.delta.json",
+    "summary": "New characters: God, The Elder, Paissy Velitchkovsky, The Disciples Of Paissy Velitchkovsky, Zossima, Aloysius Karamazov and 2 more. New connections: Alyosha–God (spiritual aspiration), Alyosha–Maria (parent), Alyosha–The (mentor), Paissy–The (teacher-student) and 4 more."
+  },
+  {
+    "chapter": 6,
+    "title": "They Arrive At The Monastery",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "006.snapshot.json",
+    "delta": "006.delta.json",
+    "summary": "New characters: Mikhail Rakitin, Alyoshenka Miusov, Captain Smerdyakov, Maxim Maximovich, The Monk. New connections: Mikhail–Alyosha (guardian), Alyoshenka–Captain (acquaintance), Maxim–Fyodor (unknown relationship), Ivan–Maxim (stranger) and 4 more."
+  },
+  {
+    "chapter": 7,
+    "title": "The Old Buffoon",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "007.snapshot.json",
+    "delta": "007.delta.json",
+    "summary": "New characters: Alyosha Kalganov, Makarov Miusov. New connections: Ivan–Alyosha (unknown relationship), Pyotr–Makarov (self-relationship (to self)), Zosima–Pyotr (other relationship), Dmitri–Zosima (unknown)."
+  },
+  {
+    "chapter": 8,
+    "title": "Peasant Women Who Have Faith",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "008.snapshot.json",
+    "delta": "008.delta.json",
+    "summary": "New characters: Grushenka, Nastasya Filippovna, Seryozha, Alexei Karamazov, Nikita Karamazov, Nikita Ivanovich Karamazov and 11 more. New connections: Alyosha–Grushenka (healer-patient), Nastasya–Seryozha (parent/child), Maria–Alexei (parent), Maria–Nikita (spouse) and 12 more."
+  },
+  {
+    "chapter": 9,
+    "title": "A Lady Of Little Faith",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "009.snapshot.json",
+    "delta": "009.delta.json",
+    "summary": "New characters: Marya Dmitrievna Karamazov, Lise Svetlov, Lisa Karamazov, Lisaveta Smerdyakovna Karamazova. New connections: Marya–Alexei (mother), Lise–Alyosha (daughter), Alyosha–Alexei (acquaintance), Alyosha–Katerina (acquaintance) and 5 more."
+  },
+  {
+    "chapter": 10,
+    "title": "So Be It! So Be It!",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "010.snapshot.json",
+    "delta": "010.delta.json",
+    "summary": "New characters: Stefan Trofimovich Miusov, Father Iosif, Mikhailovitch Miusov, Pavel Smerdyakov. New connections: Ivan–Stefan (intellectual peers), Father–Ivan (professional acquaintance), Father–Zosima (colleagues), Ivan–Mikhail (discussants) and 2 more."
+  },
+  {
+    "chapter": 11,
+    "title": "Why Is Such A Man Alive?",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "011.snapshot.json",
+    "delta": "011.delta.json",
+    "summary": "New connections: Dmitri–Pavel (servant-employer), Dmitri–Grushenka (romantic connection), Dmitri–Captain (Antagonistic), Father–Fyodor (opponent) and 1 more."
+  },
+  {
+    "chapter": 12,
+    "title": "A Young Man Bent On A Career",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "012.snapshot.json",
+    "delta": "012.delta.json",
+    "summary": "New characters: Agrafena Alexandrovna Svetlova, Father Isidore. New connections: Mikhail–Grushenka (Acquaintance), Ivan–Katerina (romantic interest), Agrafena–Fyodor (romantic interest), Agrafena–Dmitri (romantic interest) and 3 more."
+  },
+  {
+    "chapter": 13,
+    "title": "The Scandalous Scene",
+    "book_title": "An Unfortunate Gathering",
+    "snapshot": "013.snapshot.json",
+    "delta": "013.delta.json",
+    "summary": "New characters: Father Fyodor Pavlovitch Zossima, Alexei Ivanovich Kalganov, Kolya Krasotkin, Katarina Ivanovna. New connections: Father–Mikhail (other), Father–Alexei (other), Dmitri–Father (opponent), Dmitri–Kolya (discontented acquaintance) and 1 more."
+  },
+  {
+    "chapter": 14,
+    "title": "In The Servants’ Quarters",
+    "book_title": "The Sensualists",
+    "snapshot": "014.snapshot.json",
+    "delta": "014.delta.json",
+    "summary": "New characters: Lizaveta Smerdyastchaya. New connections: Grigory–Marfa (spouse), Captain–Fyodor (servant), Grigory–Adelaida (disliked), Lizaveta–Alexei (parent)."
+  },
+  {
+    "chapter": 15,
+    "title": "Lizaveta",
+    "book_title": "The Sensualists",
+    "snapshot": "015.snapshot.json",
+    "delta": "015.delta.json",
+    "summary": "New characters: Lizaveta Ilyinichna Karamazov, Ilya Karamazov, Lizaveta Ibryamovna, Lizaveta Smerdyachkov, Lizaveta Smerdyashchaya, Lizaveta Ivanovna. New connections: Lizaveta–Ilya (parent), Ilya–Lizaveta (child), Fyodor–Lizaveta (miscreant-victim), Grigory–Captain (nurse / caregiver) and 3 more."
+  },
+  {
+    "chapter": 16,
+    "title": "The Confession Of A Passionate Heart—In Verse",
+    "book_title": "The Sensualists",
+    "snapshot": "016.snapshot.json",
+    "delta": "016.delta.json",
+    "summary": "New characters: Katerina Ivanovna Karamazov. New connections: Katerina–Dmitri (romantic connection), Dmitri–God (child)."
+  },
+  {
+    "chapter": 17,
+    "title": "The Confession Of A Passionate Heart—In Anecdote",
+    "book_title": "The Sensualists",
+    "snapshot": "017.snapshot.json",
+    "delta": "017.delta.json",
+    "summary": "New characters: Katarina Ivanovna Svidrigailov, Agafya Ivanovna, Colonel Ivan Petrovich, Ekaterina Karamazov, General Ivan Ivanovich, Aleksei Fedorovich Karamazov and 9 more. New connections: Katarina–Dmitri (romantic connection), Agafya–Maria (family), Dmitri–Colonel (other relationship), Alyosha–Agafya (friendship) and 13 more."
+  },
+  {
+    "chapter": 18,
+    "title": "The Confession Of A Passionate Heart—“Heels Up”",
+    "book_title": "The Sensualists",
+    "snapshot": "018.snapshot.json",
+    "delta": "018.delta.json",
+    "summary": "New characters: Maria Nikolaevna Karamazov, Unnamed Character Likely Dmitri Or Another Karamazov, Foma Fomich Karamazov. New connections: Ekaterina–Adelaida (adoptive daughter), Maria–Ekaterina (benefactor), Ivan–Ekaterina (romantic interest), Unnamed–Grushenka (romantic interest) and 2 more."
+  },
+  {
+    "chapter": 19,
+    "title": "Smerdyakov",
+    "book_title": "The Sensualists",
+    "snapshot": "019.snapshot.json",
+    "delta": "019.delta.json",
+    "summary": "New characters: Marfa Semyonovna. New connections: Fyodor–Alexei (father-son), Alyosha–Captain (acquaintance), Fyodor–Marfa (associates)."
+  },
+  {
+    "chapter": 20,
+    "title": "The Controversy",
+    "book_title": "The Sensualists",
+    "snapshot": "020.snapshot.json",
+    "delta": "020.delta.json",
+    "summary": "New connections: Ivan–Pavel (curious observer)."
+  },
+  {
+    "chapter": 21,
+    "title": "Over The Brandy",
+    "book_title": "The Sensualists",
+    "snapshot": "021.snapshot.json",
+    "delta": "021.delta.json",
+    "summary": "New characters: Pyotr Ivanovich Belyavsky, Alyoshas Mother. New connections: Dmitri–Alexei (parent-child), Maria–Pyotr (acquaintance/enemy), Ivan–Alyoshas (mother)."
+  },
+  {
+    "chapter": 22,
+    "title": "The Sensualists",
+    "book_title": "The Sensualists",
+    "snapshot": "022.snapshot.json",
+    "delta": "022.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 23,
+    "title": "Both Together",
+    "book_title": "The Sensualists",
+    "snapshot": "023.snapshot.json",
+    "delta": "023.delta.json",
+    "summary": "New characters: Alexey Fyodorovitch, Dmitri. New connections: Katerina–Alyosha (connection through family), Alexey–Dmitri (brother), Ekaterina–Alyosha (friendship), Katerina–Agrafena (friend) and 3 more."
+  },
+  {
+    "chapter": 24,
+    "title": "Another Reputation Ruined",
+    "book_title": "The Sensualists",
+    "snapshot": "024.snapshot.json",
+    "delta": "024.delta.json",
+    "summary": "New characters: Alyeonovna Karamazov. New connections: Alexei–Katerina (friend), Alyeonovna–Alyosha (romantic connection)."
+  },
+  {
+    "chapter": 25,
+    "title": "Father Ferapont",
+    "book_title": "Lacerations",
+    "snapshot": "025.snapshot.json",
+    "delta": "025.delta.json",
+    "summary": "New characters: Maria Prohorovna, Vassily Ivanovich Karamazov, Vassily Ivanovich Smerdyakov, Madame Hohlakov, St Sylvester. New connections: Maria–Vassily (parent), Vassily–Zosima (child), Madame–Zosima (supporter), Grigory–Zosima (other) and 2 more."
+  },
+  {
+    "chapter": 26,
+    "title": "At His Father’s",
+    "book_title": "Lacerations",
+    "snapshot": "026.snapshot.json",
+    "delta": "026.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 27,
+    "title": "A Meeting With The Schoolboys",
+    "book_title": "Lacerations",
+    "snapshot": "027.snapshot.json",
+    "delta": "027.delta.json",
+    "summary": "New characters: Smurov, Ilusha. New connections: Alyosha–Smurov (protective), Dmitri–Ilusha (antagonism), Alyosha–Ilusha (unknown relationship), Dmitri–Smurov (rival)."
+  },
+  {
+    "chapter": 28,
+    "title": "At The Hohlakovs’",
+    "book_title": "Lacerations",
+    "snapshot": "028.snapshot.json",
+    "delta": "028.delta.json",
+    "summary": "New characters: Cinderella Lise, Praskovya Ivanovna, Yulia Ivanovna. New connections: Alyosha–Madame (acquaintance), Madame–Dmitri (family relation), Madame–Alexei (mother-daughter), Cinderella–Alyosha (friend) and 3 more."
+  },
+  {
+    "chapter": 29,
+    "title": "A Laceration In The Drawing‐Room",
+    "book_title": "Lacerations",
+    "snapshot": "029.snapshot.json",
+    "delta": "029.delta.json",
+    "summary": "New characters: Snegiryov, Alyoshas Fiancée Lise Karamazov. New connections: Katerina–Ivan (uncertain romantic interest), Alyosha–Agrafena (other), Agrafena–Ivan (friend), Katerina–Madame (friend) and 5 more."
+  },
+  {
+    "chapter": 30,
+    "title": "A Laceration In The Cottage",
+    "book_title": "Lacerations",
+    "snapshot": "030.snapshot.json",
+    "delta": "030.delta.json",
+    "summary": "New characters: The Old Cabinetmaker And His Family, Varvara Ivanovna, Varvara, The Man Of Forty Five, Pyotr Fyodorovich Smerdyakov, Makarov Joseph and 5 more. New connections: Alyosha–Kolya (interest), Maria–Dmitri (landlady), Alyosha–The (acquaintance), Alyosha–Varvara (other) and 10 more."
+  },
+  {
+    "chapter": 31,
+    "title": "And In The Open Air",
+    "book_title": "Lacerations",
+    "snapshot": "031.snapshot.json",
+    "delta": "031.delta.json",
+    "summary": "New characters: Grushenka Katerina Ivanovna And Marfa Ignatyevna, Captain Alyosha Karamazov, Rodion Raskolnikov. New connections: Ilusha–Fyodor (child), Dmitri–Grushenka (caregiver), Grushenka–Captain (employer-employee), Ilusha–Captain (adversarial) and 6 more."
+  },
+  {
+    "chapter": 32,
+    "title": "The Engagement",
+    "book_title": "Pro And Contra",
+    "snapshot": "032.snapshot.json",
+    "delta": "032.delta.json",
+    "summary": "New characters: Lise Alyoshin, Maria Poletkin, Maria Fyodorovna Karamazov, Makar Ivanovich, Dunya And Lizaveta, Unnamed Man and 4 more. New connections: Lise–Alyosha (friend), Maria–Alexei (family (mother/daughter)), Maria–Madame (parent), Makar–Dunya (parent) and 4 more."
+  },
+  {
+    "chapter": 33,
+    "title": "Smerdyakov With A Guitar",
+    "book_title": "Pro And Contra",
+    "snapshot": "033.snapshot.json",
+    "delta": "033.delta.json",
+    "summary": "New characters: Marya Kondratyevna. New connections: Pavel–Grushenka (other), Dmitri–Marya (other), Alyosha–Marya (acquaintance), Marya–Captain (friend)."
+  },
+  {
+    "chapter": 34,
+    "title": "The Brothers Make Friends",
+    "book_title": "Pro And Contra",
+    "snapshot": "034.snapshot.json",
+    "delta": "034.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 35,
+    "title": "Rebellion",
+    "book_title": "Pro And Contra",
+    "snapshot": "035.snapshot.json",
+    "delta": "035.delta.json",
+    "summary": "New characters: Richard Alexeevich Karamazov, Shepherds, Richard Al Envy Karamazov, The Priests, Richard Aleshin, The Ladies Of The Society For The Charitable Organization and 7 more. New connections: Richard–Shepherds (parental figures), Richard–The (mentors), Richard–The (mentors), Richard–Geneva (community) and 6 more."
+  },
+  {
+    "chapter": 36,
+    "title": "The Grand Inquisitor",
+    "book_title": "Pro And Contra",
+    "snapshot": "036.snapshot.json",
+    "delta": "036.delta.json",
+    "summary": "New characters: The Blessed Virgin Mary, The Damned, The Saints And Angels Of Heaven, Fyodor Ivanovich Tyutchev, Jesus Christ, Crowd Of People and 10 more. New connections: The–The (other), God–The (other), Fyodor–Jesus (worship), Jesus–Crowd (Other) and 17 more."
+  },
+  {
+    "chapter": 37,
+    "title": "For Awhile A Very Obscure One",
+    "book_title": "Pro And Contra",
+    "snapshot": "037.snapshot.json",
+    "delta": "037.delta.json",
+    "summary": "New connections: Pavel–Agrafena (acquaintance), Ivan–Captain (hostile relationship)."
+  },
+  {
+    "chapter": 38,
+    "title": "“It’s Always Worth While Speaking To A Clever Man”",
+    "book_title": "Pro And Contra",
+    "snapshot": "038.snapshot.json",
+    "delta": "038.delta.json",
+    "summary": "New characters: Ivan Maslov, Father Ilyusha, Katherine Ivanovna. New connections: Ivan–Marfa (employer-employee), Dmitri–Ivan (business relationship), Fyodor–Father (acquaintance), Dmitri–Katherine (spouse) and 2 more."
+  },
+  {
+    "chapter": 39,
+    "title": "Father Zossima And His Visitors",
+    "book_title": "The Russian Monk",
+    "snapshot": "039.snapshot.json",
+    "delta": "039.delta.json",
+    "summary": "New characters: Alexey Karamazov, Porfiry Ivanovitch, Markel Karamazov, Ivan Fedorovich, Na, Doctor Dmitri Fyodorovich and 12 more. New connections: Alyosha–Father (student-teacher), Dmitri–Alexey (spiritual mentor), Porfiry–Zosima (friendship/relationship), Markel–Alexei (sibling) and 17 more."
+  },
+  {
+    "chapter": 40,
+    "title": "The Duel",
+    "book_title": "The Russian Monk",
+    "snapshot": "040.snapshot.json",
+    "delta": "040.delta.json",
+    "summary": "New characters: The Officers, Fydor Pavlovich Karamazov, Unnamed Fighter The Narrator, Afanasy, Afanasy Ivanovich Karamazov, Afanasy Ivanovich and 19 more. New connections: Zosima–The (peer/companion), Alyosha–Fydor (peer/companion), Katarina–Alyosha (Spouse), Pyotr–Katerina (Husband-Wife) and 24 more."
+  },
+  {
+    "chapter": 41,
+    "title": "Conversations And Exhortations Of Father Zossima",
+    "book_title": "The Russian Monk",
+    "snapshot": "041.snapshot.json",
+    "delta": "041.delta.json",
+    "summary": "New characters: Prison Guards, The Russian People, Fyodor Mikhailovich Dostoevsky, Afanasy Pavlovitch, Afanasy Ivanovitch Karamazov, Afanasy Ivanovich Pavlovich and 12 more. New connections: Dmitri–Prison (Adversarial Relationship), Alyosha–The (other relationship), Fyodor–Afanasy (friend/former subordinate), Afanasy–Fyodor (friend/former master) and 16 more."
+  },
+  {
+    "chapter": 42,
+    "title": "The Breath Of Corruption",
+    "book_title": "Alyosha",
+    "snapshot": "042.snapshot.json",
+    "delta": "042.delta.json",
+    "summary": "New characters: The Monk From Obdorsk. New connections: Zosima–The (suspicion), Zosima–Mikhail (suspicion), Mikhail–Madame (other relationship), Madame–Captain (other relationship) and 1 more."
+  },
+  {
+    "chapter": 43,
+    "title": "A Critical Moment",
+    "book_title": "Alyosha",
+    "snapshot": "043.snapshot.json",
+    "delta": "043.delta.json",
+    "summary": "New characters: Various Characters From The Townspeople. New connections: Zosima–Various (inferiority)."
+  },
+  {
+    "chapter": 44,
+    "title": "An Onion",
+    "book_title": "Alyosha",
+    "snapshot": "044.snapshot.json",
+    "delta": "044.delta.json",
+    "summary": "New characters: Agrafena Alexandrovna Grushenka, Samsonov, Agrafena Alexandrovna Karamazov, Grushenkas Cook And Granddaughter, Fenya, The Lady. New connections: Agrafena–Samsonov (protector), Grushenka–Agrafena (landlady), Agrafena–Grushenka (lodger), Agrafena–Samsonov (protegee) and 10 more."
+  },
+  {
+    "chapter": 45,
+    "title": "Cana Of Galilee",
+    "book_title": "Alyosha",
+    "snapshot": "045.snapshot.json",
+    "delta": "045.delta.json",
+    "summary": "New characters: Mary Mother Of Jesus. New connections: Mary–Jesus (mother-son)."
+  },
+  {
+    "chapter": 46,
+    "title": "Kuzma Samsonov",
+    "book_title": "Mitya",
+    "snapshot": "046.snapshot.json",
+    "delta": "046.delta.json",
+    "summary": "New characters: Kuzma Kuzmitch Samsonov. New connections: Dmitri–Samsonov (business acquaintance), Dmitri–Kuzma (friends or acquaintances), Samsonov–Alyosha (parent-child)."
+  },
+  {
+    "chapter": 47,
+    "title": "Lyagavy",
+    "book_title": "Mitya",
+    "snapshot": "047.snapshot.json",
+    "delta": "047.delta.json",
+    "summary": "New characters: Father Ivan Fyodorovich Zosimov, The Forester. New connections: Father–Grigory (acquaintance), The–Fyodor (other)."
+  },
+  {
+    "chapter": 48,
+    "title": "Gold‐Mines",
+    "book_title": "Mitya",
+    "snapshot": "048.snapshot.json",
+    "delta": "048.delta.json",
+    "summary": "New characters: Othello, Desdemona, Cassio, Count Alexei Ivanovich Rostov, Darya Alexeyevna Belmesov, Stephan Belmesov and 1 more. New connections: Othello–Desdemona (romantic connection), Othello–Cassio (rivalry), Dmitri–Count (rivalry), Dmitri–Zossima (mentioning the deceased) and 3 more."
+  },
+  {
+    "chapter": 49,
+    "title": "In The Dark",
+    "book_title": "Mitya",
+    "snapshot": "049.snapshot.json",
+    "delta": "049.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 50,
+    "title": "A Sudden Resolution",
+    "book_title": "Mitya",
+    "snapshot": "050.snapshot.json",
+    "delta": "050.delta.json",
+    "summary": "New characters: Pyotr Ilyitch Perhotin, Pyotr Ilyitch Smerdyakov, Mikhail Fyodorovitch Karamazov, Andrey. New connections: Fenya–Grushenka (employer-employee), Dmitri–Pyotr (transactional relationship), Dmitri–Pyotr (acquaintance), Pyotr–Mikhail (other) and 3 more."
+  },
+  {
+    "chapter": 51,
+    "title": "“I Am Coming, Too!”",
+    "book_title": "Mitya",
+    "snapshot": "051.snapshot.json",
+    "delta": "051.delta.json",
+    "summary": "New characters: Trifon Borissovitch, Sonia Karamazov, Stepan Trofimovich, Fedor Pavlovich Kalganov, Ivan Fedorovich Miusov, Marya. New connections: Trifon–Dmitri (acquaintance), Trifon–Agrafena (indirect relationship), Sonia–Stepan (in-law relationship), Fedor–Ivan (relative) and 4 more."
+  },
+  {
+    "chapter": 52,
+    "title": "The First And Rightful Lover",
+    "book_title": "Mitya",
+    "snapshot": "052.snapshot.json",
+    "delta": "052.delta.json",
+    "summary": "New characters: Stepan Ivanovich Kalganov, Pavel Ivanovich Smerdyakov, Stefan Trofimovich, Vladimir Kalganov, Lieutenant Ivan Fedorovich, Lieutenant Mikhail Ivanovich Kalganov and 5 more. New connections: Stepan–Pavel (acquaintance), Captain–Stefan (unknown relationship), Vladimir–Lieutenant (friend), Lieutenant–Alyosha (relation) and 7 more."
+  },
+  {
+    "chapter": 53,
+    "title": "Delirium",
+    "book_title": "Mitya",
+    "snapshot": "053.snapshot.json",
+    "delta": "053.delta.json",
+    "summary": "New characters: Sonia Marmeladov, Aleksandr Ivanovich Karamazov, Mihail Makarovitch, Mavriky Mavrikyevitch. New connections: Rodion–Sonia (romantic connection), Rodion–Trifon (other relationship), Aleksandr–Grushenka (former romantic connection), Dmitri–Mihail (law enforcement officer) and 1 more."
+  },
+  {
+    "chapter": 54,
+    "title": "The Beginning Of Perhotin’s Official Career",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "054.snapshot.json",
+    "delta": "054.delta.json",
+    "summary": "New connections: Fenya–Pyotr (acquaintance), Pyotr–Fyodor (other), Pyotr–Madame (other), Fyodor–Pyotr (other) and 3 more."
+  },
+  {
+    "chapter": 55,
+    "title": "The Alarm",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "055.snapshot.json",
+    "delta": "055.delta.json",
+    "summary": "New characters: Maria Makarovitch, Darya Makarovitch And Sofia Makarovitch, Ippolit Kirillovitch, Olga Mihailovna, Prosecutor Ippolit Kirillovich, Dr Ivan Fyodorovich Pavlovitch and 2 more. New connections: Maria–Darya (parent), Ippolit–Marfa (spousal relationship), Ippolit–Olga (friend), Marya–Grigory (acquaintance) and 4 more."
+  },
+  {
+    "chapter": 56,
+    "title": "The Sufferings Of A Soul, The First Ordeal",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "056.snapshot.json",
+    "delta": "056.delta.json",
+    "summary": "New characters: Nikolay Parfenovitch. New connections: Grushenka–Mihail (adversarial relationship), Nikolay–Dmitri (professional relationship), Ippolit–Grigory (defendant-victim), Agrafena–Dmitri (trusting relationship)."
+  },
+  {
+    "chapter": 57,
+    "title": "The Second Ordeal",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "057.snapshot.json",
+    "delta": "057.delta.json",
+    "summary": "New characters: Mitya Dmitri Fyodorovich Karamazov, Nikolai Parfenovich. New connections: Nikolay–Ippolit (friend), Dmitri–Ippolit (other), Mitya–Madame (other relationship), Dmitri–Nikolai (other)."
+  },
+  {
+    "chapter": 58,
+    "title": "The Third Ordeal",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "058.snapshot.json",
+    "delta": "058.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 59,
+    "title": "The Prosecutor Catches Mitya",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "059.snapshot.json",
+    "delta": "059.delta.json",
+    "summary": "New connections: Nikolay–Alyosha (authority), Nikolay–Grigory (supportive relationship)."
+  },
+  {
+    "chapter": 60,
+    "title": "Mitya’s Great Secret. Received With Hisses",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "060.snapshot.json",
+    "delta": "060.delta.json",
+    "summary": "New connections: Katherine–Fyodor (financial relationship)."
+  },
+  {
+    "chapter": 61,
+    "title": "The Evidence Of The Witnesses. The Babe",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "061.snapshot.json",
+    "delta": "061.delta.json",
+    "summary": "New connections: Nikolay–Grushenka (acquaintance), Nikolay–Mihail (professional relationship), Nikolay–Agrafena (professional)."
+  },
+  {
+    "chapter": 62,
+    "title": "They Carry Mitya Away",
+    "book_title": "The Preliminary Investigation",
+    "snapshot": "062.snapshot.json",
+    "delta": "062.delta.json",
+    "summary": "New connections: Trifon–Mavriky (other relationship)."
+  },
+  {
+    "chapter": 63,
+    "title": "Kolya Krassotkin",
+    "book_title": "The Boys",
+    "snapshot": "063.snapshot.json",
+    "delta": "063.delta.json",
+    "summary": "New characters: Nikolai Ivanovich Krassotkin, Kolya, Madame Krassotkin, Kolya Alexeyevich Karamazov, Nikolai Ivanovich Karamazov, Nikolai Ivanov Karamazov and 11 more. New connections: Maria–Nikolai (mother), Kolya–Madame (son), Kolya–Madame (mother-son), Nikolai–Grigory (parent-child) and 11 more."
+  },
+  {
+    "chapter": 64,
+    "title": "Children",
+    "book_title": "The Boys",
+    "snapshot": "064.snapshot.json",
+    "delta": "064.delta.json",
+    "summary": "New characters: Maria Dmitrievna Krassotkina, Mademoiselle Lise, Marya Ivanovna Krassotkina, Katerina, Marya Grigorievna Krassotkin, Anna Fyodorovna Krassotkin and 12 more. New connections: Maria–Mademoiselle (friend), Marya–Katerina (employer-employee), Katerina–Maria (employee-employer), Marya–Anna (friend) and 17 more."
+  },
+  {
+    "chapter": 65,
+    "title": "The Schoolboy",
+    "book_title": "The Boys",
+    "snapshot": "065.snapshot.json",
+    "delta": "065.delta.json",
+    "summary": "New characters: Matvey Ivanovich, Marya Grigoryevna, Marya Lisevna Karamazov, Arkady Ivanovich, Various Market Women, The Market Women and 1 more. New connections: Kolya–Smurov (friend), Smurov–Ilusha (acquaintance), Ilusha–Snegiryov (parent), Kolya–Smurov (friend) and 15 more."
+  },
+  {
+    "chapter": 66,
+    "title": "The Lost Dog",
+    "book_title": "The Boys",
+    "snapshot": "066.snapshot.json",
+    "delta": "066.delta.json",
+    "summary": "New connections: Alyosha–Kolya (friend), Ilusha–Pavel (Other), Alexei–Nikolai (friend), Nikolai–Alyosha (friend)."
+  },
+  {
+    "chapter": 67,
+    "title": "By Ilusha’s Bedside",
+    "book_title": "The Boys",
+    "snapshot": "067.snapshot.json",
+    "delta": "067.delta.json",
+    "summary": "New characters: Nikolai Ivanovich Korovkin, Other Young Characters In The Story Such As Mitya Or Smerdyakov Which Are Not Clearly Specified In The Text, Nikolai Ivanovich Krasotkin, The Other Boys, Captain Smurov, Dmitri Morozov and 7 more. New connections: Nikolai–Smurov (friend), Nina–Ilusha (sibling), Katerina–Ilusha (parent), Maria–Smurov (friend) and 19 more."
+  },
+  {
+    "chapter": 68,
+    "title": "Precocity",
+    "book_title": "The Boys",
+    "snapshot": "068.snapshot.json",
+    "delta": "068.delta.json",
+    "summary": "New connections: Kolya–Nina (acquaintance), Kolya–Madame (family), Alexei–Nikolai (friend)."
+  },
+  {
+    "chapter": 69,
+    "title": "Ilusha",
+    "book_title": "The Boys",
+    "snapshot": "069.snapshot.json",
+    "delta": "069.delta.json",
+    "summary": "New characters: Ippolit Kirilovich Verkhovensky, Dr Dmitri Fyodorovich Karamazov, Nikolay Kolya Krassotkin. New connections: Ippolit–Nikolai (professional acquaintance), Dr–Nikolay (antagonist)."
+  },
+  {
+    "chapter": 70,
+    "title": "At Grushenka’s",
+    "book_title": "Ivan",
+    "snapshot": "070.snapshot.json",
+    "delta": "070.delta.json",
+    "summary": "New connections: Agrafena–Katerina (rival), Alyosha–Maxim (benefactor)."
+  },
+  {
+    "chapter": 71,
+    "title": "The Injured Foot",
+    "book_title": "Ivan",
+    "snapshot": "071.snapshot.json",
+    "delta": "071.delta.json",
+    "summary": "New connections: Grushenka–Alexei (caretaker/guardian), Mikhail–Pyotr (rivalry), Mikhail–Mihail (rivalry), Pyotr–Mikhail (antagonistic relationship) and 2 more."
+  },
+  {
+    "chapter": 72,
+    "title": "A Little Demon",
+    "book_title": "Ivan",
+    "snapshot": "072.snapshot.json",
+    "delta": "072.delta.json",
+    "summary": "New characters: Mikhail. New connections: Grushenka–Mikhail (romantic interest)."
+  },
+  {
+    "chapter": 73,
+    "title": "A Hymn And A Secret",
+    "book_title": "Ivan",
+    "snapshot": "073.snapshot.json",
+    "delta": "073.delta.json",
+    "summary": "New characters: Captain Mihail Mihailovitch. New connections: Mikhail–Captain (acquaintance), Mikhail–God (dislike), Ivan–Grushenka (indirect relationship)."
+  },
+  {
+    "chapter": 74,
+    "title": "Not You, Not You!",
+    "book_title": "Ivan",
+    "snapshot": "074.snapshot.json",
+    "delta": "074.delta.json",
+    "summary": "New connections: Pavel–Marya (other)."
+  },
+  {
+    "chapter": 75,
+    "title": "The First Interview With Smerdyakov",
+    "book_title": "Ivan",
+    "snapshot": "075.snapshot.json",
+    "delta": "075.delta.json",
+    "summary": "New characters: Ivan Fjodorovich Karamazov, Dmitri Fjodorovich Karamazov. New connections: Captain–Pavel (doctor-patient), Captain–Nikolay (professional), Ivan–Dmitri (brother)."
+  },
+  {
+    "chapter": 76,
+    "title": "The Second Visit To Smerdyakov",
+    "book_title": "Ivan",
+    "snapshot": "076.snapshot.json",
+    "delta": "076.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 77,
+    "title": "The Third And Last Interview With Smerdyakov",
+    "book_title": "Ivan",
+    "snapshot": "077.snapshot.json",
+    "delta": "077.delta.json",
+    "summary": "New connections: Katerina–Pavel (acquaintance)."
+  },
+  {
+    "chapter": 78,
+    "title": "The Devil. Ivan’s Nightmare",
+    "book_title": "Ivan",
+    "snapshot": "078.snapshot.json",
+    "delta": "078.delta.json",
+    "summary": "New characters: Count Mattei, Hoff, Unnamed Newspaper Office Staff, The Thinker And Philosopher, Paradise, The Unnamed Thinker And Philosopher and 12 more. New connections: Fyodor–Count (other), Fyodor–Hoff (other), Mikhail–Unnamed (other), The–Paradise (Conceptual relationship) and 14 more."
+  },
+  {
+    "chapter": 79,
+    "title": "“It Was He Who Said That”",
+    "book_title": "Ivan",
+    "snapshot": "079.snapshot.json",
+    "delta": "079.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 80,
+    "title": "The Fatal Day",
+    "book_title": "A Judicial Error",
+    "snapshot": "080.snapshot.json",
+    "delta": "080.delta.json",
+    "summary": "New characters: Ivan Fedorovich Dyachkov, Alyoshas Father, Foma Fomich Opiskin. New connections: Ippolit–Alyosha (professional relationship), Captain–Ivan (professional relationship), Grigory–Alyoshas (professional relationship), Dmitri–Foma (client-lawyer relationship)."
+  },
+  {
+    "chapter": 81,
+    "title": "Dangerous Witnesses",
+    "book_title": "A Judicial Error",
+    "snapshot": "081.snapshot.json",
+    "delta": "081.delta.json",
+    "summary": "New characters: The Women Attending The Trial, The Ladies Of The Court, Grushenka Svyetlov. New connections: The–Dmitri (public interest), The–Dmitri (conviction of guilt), Zosima–Ippolit (professional interest), Mikhail–Grushenka (acquaintance) and 1 more."
+  },
+  {
+    "chapter": 82,
+    "title": "The Medical Experts And A Pound Of Nuts",
+    "book_title": "A Judicial Error",
+    "snapshot": "082.snapshot.json",
+    "delta": "082.delta.json",
+    "summary": "New characters: Grigory Ivanovich Herzenstube, Vladimir Fyodorovich Komarovsky, Various Patients Previously Treated By Doctor Herzenstube, Doctor Ivan Matveyevich Herzenstube, Unspecified Patients, Doctor Ivan Petrovich Herzenstube and 7 more. New connections: Grigory–Vladimir (professional rivalry), Mikhail–Various (service relationship), Doctor–Unspecified (service relationship), Doctor–Doctor (self-relationship) and 6 more."
+  },
+  {
+    "chapter": 83,
+    "title": "Fortune Smiles On Mitya",
+    "book_title": "A Judicial Error",
+    "snapshot": "083.snapshot.json",
+    "delta": "083.delta.json",
+    "summary": "New connections: Katerina–Fyodor (feuding family members)."
+  },
+  {
+    "chapter": 84,
+    "title": "A Sudden Catastrophe",
+    "book_title": "A Judicial Error",
+    "snapshot": "084.snapshot.json",
+    "delta": "084.delta.json",
+    "summary": "New characters: Ivan, Katya, Dr Mikhail Ivanovich. New connections: Ivan–Katya (romantic interest), Ivan–Dr (patient-doctor relationship)."
+  },
+  {
+    "chapter": 85,
+    "title": "The Prosecutor’s Speech. Sketches Of Character",
+    "book_title": "A Judicial Error",
+    "snapshot": "085.snapshot.json",
+    "delta": "085.delta.json",
+    "summary": "New characters: Mityas Father Fyodor Pavlovitch Karamazov, The Society Around Fyodor Pavlovich Karamazov. New connections: Dmitri–Mityas (Benefactor), Fyodor–The (Member of society), Ippolit–Ivan (rivalry)."
+  },
+  {
+    "chapter": 86,
+    "title": "An Historical Survey",
+    "book_title": "A Judicial Error",
+    "snapshot": "086.snapshot.json",
+    "delta": "086.delta.json",
+    "summary": "New characters: Mr Rakitin, The Heroine, Grushenka Svetlovidova. New connections: Mr–The (character assessment), Grushenka–Fyodor (benefactor)."
+  },
+  {
+    "chapter": 87,
+    "title": "A Treatise On Smerdyakov",
+    "book_title": "A Judicial Error",
+    "snapshot": "087.snapshot.json",
+    "delta": "087.delta.json",
+    "summary": "New characters: Madame Svyetlova, Grushenka Akhroumovna. New connections: Ippolit–Captain (observer), Madame–Dmitri (supporter), Rodion–Captain (accuser), Dmitri–Grushenka (romantic connection)."
+  },
+  {
+    "chapter": 88,
+    "title": "The Galloping Troika. The End Of The Prosecutor’s Speech.",
+    "book_title": "A Judicial Error",
+    "snapshot": "088.snapshot.json",
+    "delta": "088.delta.json",
+    "summary": "New characters: No Specific Name Given, Other Nations. New connections: Rodion–Grigory (relation of responsibility), No–Fyodor (other), Nikolay–Fyodor (other), Dmitri–Other (none specified)."
+  },
+  {
+    "chapter": 89,
+    "title": "The Speech For The Defense. An Argument That Cuts Both Ways",
+    "book_title": "A Judicial Error",
+    "snapshot": "089.snapshot.json",
+    "delta": "089.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 90,
+    "title": "There Was No Money. There Was No Robbery",
+    "book_title": "A Judicial Error",
+    "snapshot": "090.snapshot.json",
+    "delta": "090.delta.json",
+    "summary": "New characters: Not A Specific Character, The Prisoner, His Father. New connections: Fyodor–Ippolit (defendant/accuser), Dmitri–Not (unknown relationship), The–His (father-son)."
+  },
+  {
+    "chapter": 91,
+    "title": "And There Was No Murder Either",
+    "book_title": "A Judicial Error",
+    "snapshot": "091.snapshot.json",
+    "delta": "091.delta.json",
+    "summary": "New characters: Madame Svyetlov. New connections: Dmitri–Grushenka (unknown relationship), Dmitri–Madame (possible romantic interest)."
+  },
+  {
+    "chapter": 92,
+    "title": "A Corrupter Of Thought",
+    "book_title": "A Judicial Error",
+    "snapshot": "092.snapshot.json",
+    "delta": "092.delta.json",
+    "summary": "New characters: The Client, Old Karamazov, Friedrich Schiller, The People Of St Petersburg, Mercy. New connections: The–Old (father), Dmitri–Friedrich (admiration), Rodion–The (resentment), Dmitri–Mercy (recipient of mercy)."
+  },
+  {
+    "chapter": 93,
+    "title": "The Peasants Stand Firm",
+    "book_title": "A Judicial Error",
+    "snapshot": "093.snapshot.json",
+    "delta": "093.delta.json",
+    "summary": "New characters: Christ, The President Of The Court, Karamazov Dmitri Fyodorovich, Nazaryev Pyotr, The Landowners. New connections: Ippolit–Pavel (reference), Christ–Humanity (figure of reverence), Dmitri–The (authority), Karamazov–Nazaryev (appreciation relationship) and 1 more."
+  },
+  {
+    "chapter": 94,
+    "title": "Plans For Mitya’s Escape",
+    "book_title": "Epilogue",
+    "snapshot": "094.snapshot.json",
+    "delta": "094.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 95,
+    "title": "For A Moment The Lie Becomes Truth",
+    "book_title": "Epilogue",
+    "snapshot": "095.snapshot.json",
+    "delta": "095.delta.json",
+    "summary": "No new characters or connections in this chapter."
+  },
+  {
+    "chapter": 96,
+    "title": "Ilusha’s Funeral. The Speech At The Stone",
+    "book_title": "Epilogue",
+    "snapshot": "096.snapshot.json",
+    "delta": "096.delta.json",
+    "summary": "New characters: Kolya Kreutzer. New connections: Nikolai–Dmitri (friend), Snegiryov–Nina (sibling), God–Snegiryov (spouse), Madame–Ilusha (friend) and 6 more."
+  }
+]

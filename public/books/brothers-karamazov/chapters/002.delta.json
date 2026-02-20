@@ -1,0 +1,65 @@
+{
+  "new_nodes": [
+    "grigory-karamazov",
+    "pyotr-alexandrovitch-miusov",
+    "pyotr-alexandrovich-miusov",
+    "maria-petrovna",
+    "katerina-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "grigory-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "dmitri-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "pyotr-alexandrovich-miusov",
+      "target": "fyodor-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "adelaida-ivanovna-karamazov",
+      "label": "relative"
+    },
+    {
+      "source": "maria-petrovna",
+      "target": "dmitri-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "grandmother"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "guardian"
+    }
+  ],
+  "summary": "New characters: Grigory Karamazov, Pyotr Alexandrovitch Miusov, Pyotr Alexandrovich Miusov, Maria Petrovna, Katerina Karamazov. New connections: Grigory–Dmitri (guardian), Pyotr–Dmitri (guardian), Pyotr–Fyodor (acquaintance), Pyotr–Adelaida (relative) and 3 more.",
+  "summary_short": "Introduces Grigory Karamazov, Pyotr Alexandrovitch Miusov, Pyotr Alexandrovich Miusov, Maria Petrovna, and 1 others. Dmitri Karamazov is the most connected figure (7 ties). Key relationship types: guardian, acquaintance.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (7), Fyodor Karamazov (6), Adelaida Ivanovna Karamazov (3), Alyosha Karamazov (2)",
+    "Key ties: Grigory–Dmitri (guardian), Pyotr–Dmitri (guardian), Pyotr–Fyodor (acquaintance), Pyotr–Adelaida (relative), +3 more",
+    "New characters: Grigory, Pyotr, Pyotr, Maria, Katerina",
+    "Totals: 11 characters, 13 relations (+5 new, +7 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Fyodor Karamazov",
+    "Adelaida Ivanovna Karamazov"
+  ],
+  "story_summary": "Fyodor Pavlovitch neglects his son Mitya, who is initially cared for by the servant Grigory and later by relatives after a cousin, Pyotr Alexandrovitch Miüsov, intervenes to take responsibility for Mitya's education. Mitya grows up believing he has property and income, but upon reaching adulthood, he discovers that his father has mismanaged or withheld his inheritance, leading to conflict. Fyodor Pavlovitch takes advantage of Mitya's impatience and recklessness by giving him small sums of money while ultimately denying him the full value of his estate.",
+  "evidence_quotes": [
+    "He completely abandoned the child of his marriage with Adelaïda Ivanovna",
+    "Mitya had a vague and exaggerated idea of his property"
+  ],
+  "needs_review": false
+}

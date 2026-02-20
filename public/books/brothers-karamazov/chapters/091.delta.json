@@ -1,0 +1,36 @@
+{
+  "new_nodes": [
+    "madame-svyetlov"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-karamazov",
+      "target": "grushenka-svyetlov",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "madame-svyetlov",
+      "label": "possible romantic interest"
+    }
+  ],
+  "summary": "New characters: Madame Svyetlov. New connections: Dmitri–Grushenka (unknown relationship), Dmitri–Madame (possible romantic interest).",
+  "summary_short": "Introduces Madame Svyetlov. Dmitri Karamazov is the most connected figure (86 ties). Key relationship types: unknown relationship, possible romantic interest.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (86), Alyosha Karamazov (81), Fyodor Karamazov (47), Ivan Karamazov (40)",
+    "Key ties: Dmitri–Grushenka (unknown relationship), Dmitri–Madame (possible romantic interest)",
+    "New characters: Madame",
+    "Totals: 395 characters, 578 relations (+1 new, +2 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "The defense attorney argues that the accused did not premeditate the murder and that the presence of the pestle as a weapon was accidental. He suggests that Smerdyakov, not the accused, may have committed the murder, citing Smerdyakov's character, possible motives, and suspicious behavior. The attorney urges the jury to consider all possibilities carefully and not to convict based on circumstantial evidence alone.",
+  "evidence_quotes": [
+    "What if that pestle had not been in sight... he would certainly not have killed any one.",
+    "There are two persons—the prisoner and Smerdyakov... why may I not say that you accuse my client simply because you have no one else to accuse?"
+  ],
+  "needs_review": false
+}

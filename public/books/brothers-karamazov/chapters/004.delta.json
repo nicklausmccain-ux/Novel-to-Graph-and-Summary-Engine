@@ -1,0 +1,47 @@
+{
+  "new_nodes": [
+    "zosima-fyodorovich-karamazov",
+    "the-old-man-likely-fyodor-pavlovich-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "mentor"
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "alyosha-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "maria-karamazov",
+      "label": "ex-spouse"
+    },
+    {
+      "source": "the-old-man-likely-fyodor-pavlovich-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "parent-child"
+    }
+  ],
+  "summary": "New characters: Zosima Fyodorovich Karamazov, The Old Man Likely Fyodor Pavlovich Karamazov. New connections: Alyosha–Zosima (mentor), Pyotr–Alyosha (acquaintance), Fyodor–Maria (ex-spouse), The–Alyosha (parent-child).",
+  "summary_short": "Introduces Zosima Fyodorovich Karamazov and The Old Man Likely Fyodor Pavlovich Karamazov. Fyodor Karamazov is the most connected figure (11 ties). Key relationship types: mentor, acquaintance.",
+  "highlights": [
+    "Most central: Fyodor Karamazov (11), Alyosha Karamazov (9), Dmitri Karamazov (8), Ivan Karamazov (7)",
+    "Key ties: Alyosha–Zosima (mentor), Pyotr–Alyosha (acquaintance), Fyodor–Maria (ex-spouse), The–Alyosha (parent-child)",
+    "New characters: Zosima, The",
+    "Totals: 17 characters, 32 relations (+2 new, +4 new)"
+  ],
+  "key_characters": [
+    "Fyodor Karamazov",
+    "Alyosha Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "Alyosha, a young man of twenty, is described as pure-hearted and deeply attached to the elder Zossima, which influenced his decision to enter monastic life. After the death of his benefactor Yefim Petrovitch, Alyosha leaves school early and returns home to seek out his mother's grave, which his father Fyodor Pavlovitch had neglected. Alyosha announces his intention to become a monk, and despite Fyodor Pavlovitch's drunken cynicism, he agrees to support his son's decision.",
+  "evidence_quotes": [
+    "Not long after visiting his mother’s grave Alyosha suddenly announced that he wanted to enter the monastery",
+    "His father... said, 'So you want to be a monk?... I’m sorry to lose you, Alyosha'"
+  ],
+  "needs_review": false
+}

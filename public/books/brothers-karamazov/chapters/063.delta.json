@@ -1,0 +1,117 @@
+{
+  "new_nodes": [
+    "nikolai-ivanovich-krassotkin",
+    "kolya",
+    "madame-krassotkin",
+    "kolya-alexeyevich-karamazov",
+    "nikolai-ivanovich-karamazov",
+    "nikolai-ivanov-karamazov",
+    "dmitri-alexei-ivan-and-other-unnamed-boys",
+    "kolya-ivanovich-krasotkin",
+    "dmitri-fyodor-and-others",
+    "andrei-dardanelov",
+    "aleksei-ivanovich-dardanelov",
+    "maria-stepanovna-krassotkina",
+    "aleksey-ivanovich-dardanelov",
+    "alyosha-dardanelov",
+    "kolya-krassotkin",
+    "anna-fyodorovna-karamazova",
+    "anna-fyodorovna-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "maria-petrovna",
+      "target": "nikolai-ivanovich-krassotkin",
+      "label": "mother"
+    },
+    {
+      "source": "kolya",
+      "target": "madame-krassotkin",
+      "label": "son"
+    },
+    {
+      "source": "kolya-alexeyevich-karamazov",
+      "target": "madame-hohlakov",
+      "label": "mother-son"
+    },
+    {
+      "source": "nikolai-ivanovich-karamazov",
+      "target": "grigory-karamazov",
+      "label": "parent-child"
+    },
+    {
+      "source": "nikolai-ivanov-karamazov",
+      "target": "dmitri-alexei-ivan-and-other-unnamed-boys",
+      "label": "friend"
+    },
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "dmitri-fyodor-and-others",
+      "label": "peer relationships"
+    },
+    {
+      "source": "nikolai-ivanovich-karamazov",
+      "target": "andrei-dardanelov",
+      "label": "teacher"
+    },
+    {
+      "source": "aleksei-ivanovich-dardanelov",
+      "target": "maria-stepanovna-krassotkina",
+      "label": "romantic connection"
+    },
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "aleksey-ivanovich-dardanelov",
+      "label": "teacher-student"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "mikhail-rakitin",
+      "label": "peer"
+    },
+    {
+      "source": "alyosha-dardanelov",
+      "target": "kolya-krassotkin",
+      "label": "fondness"
+    },
+    {
+      "source": "nikolai-ivanovich-karamazov",
+      "target": "anna-fyodorovna-karamazova",
+      "label": "mother"
+    },
+    {
+      "source": "anna-fyodorovna-karamazov",
+      "target": "ilusha",
+      "label": "child"
+    },
+    {
+      "source": "kolya-krassotkin",
+      "target": "maria-petrovna",
+      "label": "child to parent"
+    },
+    {
+      "source": "ilusha",
+      "target": "kolya-krassotkin",
+      "label": "conflict"
+    }
+  ],
+  "summary": "New characters: Nikolai Ivanovich Krassotkin, Kolya, Madame Krassotkin, Kolya Alexeyevich Karamazov, Nikolai Ivanovich Karamazov, Nikolai Ivanov Karamazov and 11 more. New connections: Maria–Nikolai (mother), Kolya–Madame (son), Kolya–Madame (mother-son), Nikolai–Grigory (parent-child) and 11 more.",
+  "summary_short": "Introduces Nikolai Ivanovich Krassotkin, Kolya, Madame Krassotkin, Kolya Alexeyevich Karamazov, and 13 others. Dmitri Karamazov is the most connected figure (74 ties). Key relationship types: mother, son.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (74), Alyosha Karamazov (65), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Maria–Nikolai (mother), Kolya–Madame (son), Kolya–Madame (mother-son), Nikolai–Grigory (parent-child), +11 more",
+    "New characters: Nikolai, Kolya, Madame, Kolya, Nikolai, Nikolai, +11 more",
+    "Totals: 297 characters, 431 relations (+17 new, +15 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Kolya Krassotkin is a strong-willed and mischievous boy whose reckless bet to lie between railway tracks nearly causes his death, alarming his mother deeply. After the incident, Kolya promises his mother to avoid such dangerous pranks and becomes more thoughtful and modest, while his teacher Dardanelov, who loves Kolya's mother, gains some hope of winning her affection. Kolya also secretly keeps and trains a dog named Perezvon, showing a softer side despite his usual disdain for sentimentality.",
+  "evidence_quotes": [
+    "Kolya lay down between the rails... the train darted up and flew past",
+    "he promised on his honor that such pranks should never be repeated"
+  ],
+  "needs_review": false
+}

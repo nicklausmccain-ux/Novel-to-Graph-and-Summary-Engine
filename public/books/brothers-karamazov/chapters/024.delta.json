@@ -1,0 +1,36 @@
+{
+  "new_nodes": [
+    "alyeonovna-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "alexei-karamazov",
+      "target": "katerina-ivanovna-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "alyeonovna-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "romantic connection"
+    }
+  ],
+  "summary": "New characters: Alyeonovna Karamazov. New connections: Alexei–Katerina (friend), Alyeonovna–Alyosha (romantic connection).",
+  "summary_short": "Introduces Alyeonovna Karamazov. Alyosha Karamazov is the most connected figure (28 ties). Key relationship types: friend, romantic connection.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (28), Dmitri Karamazov (25), Fyodor Karamazov (24), Ivan Karamazov (20)",
+    "Key ties: Alexei–Katerina (friend), Alyeonovna–Alyosha (romantic connection)",
+    "New characters: Alyeonovna",
+    "Totals: 95 characters, 152 relations (+1 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha encounters his brother Dmitri at a crossroad, where Dmitri reveals his inner turmoil and plans to carry out a dishonorable act. Alyosha visits the monastery and learns that Father Zossima is gravely ill, resolving to stay with him despite prior commitments. Before sleeping, Alyosha reads a secret love letter from Lise, which brings him unexpected joy and peace.",
+  "evidence_quotes": [
+    "‘I shall carry out my base plan, and you can bear witness’",
+    "‘He is weaker, a drowsiness has come over him,’ Father Païssy whispered"
+  ],
+  "needs_review": false
+}

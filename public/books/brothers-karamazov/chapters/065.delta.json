@@ -1,0 +1,127 @@
+{
+  "new_nodes": [
+    "matvey-ivanovich",
+    "marya-grigoryevna",
+    "marya-lisevna-karamazov",
+    "arkady-ivanovich",
+    "various-market-women",
+    "the-market-women",
+    "alexey-ivanitch-tchizhov"
+  ],
+  "new_edges": [
+    {
+      "source": "kolya-krassotkin",
+      "target": "smurov",
+      "label": "friend"
+    },
+    {
+      "source": "smurov",
+      "target": "ilusha",
+      "label": "acquaintance"
+    },
+    {
+      "source": "ilusha",
+      "target": "snegiryov",
+      "label": "parent"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "smurov",
+      "label": "friend"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "ilusha",
+      "label": "acquaintance"
+    },
+    {
+      "source": "kolya-alexeyevich-karamazov",
+      "target": "matvey-ivanovich",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "marya-grigoryevna",
+      "label": "other"
+    },
+    {
+      "source": "marya-lisevna-karamazov",
+      "target": "nikolai-ivanovich-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "arkady-ivanovich",
+      "label": "other"
+    },
+    {
+      "source": "pyotr-alexandrovich-miusov",
+      "target": "smurov",
+      "label": "other"
+    },
+    {
+      "source": "grushenka",
+      "target": "kolya-krasotkin",
+      "label": "interaction"
+    },
+    {
+      "source": "kolya-krassotkin",
+      "target": "grushenka",
+      "label": "confrontation"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "various-market-women",
+      "label": "desperation"
+    },
+    {
+      "source": "the-market-women",
+      "target": "kolya",
+      "label": "reprimanding"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "alexey-ivanitch-tchizhov",
+      "label": "hostility"
+    },
+    {
+      "source": "smurov",
+      "target": "nikolai-ivanovich-karamazov",
+      "label": "friendship"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "god",
+      "label": "acquaintance"
+    },
+    {
+      "source": "god",
+      "target": "nikolai-ivanovich-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "smurov",
+      "label": "friendship"
+    }
+  ],
+  "summary": "New characters: Matvey Ivanovich, Marya Grigoryevna, Marya Lisevna Karamazov, Arkady Ivanovich, Various Market Women, The Market Women and 1 more. New connections: Kolya–Smurov (friend), Smurov–Ilusha (acquaintance), Ilusha–Snegiryov (parent), Kolya–Smurov (friend) and 15 more.",
+  "summary_short": "Introduces Matvey Ivanovich, Marya Grigoryevna, Marya Lisevna Karamazov, Arkady Ivanovich, and 3 others. Alyosha Karamazov is the most connected figure (74 ties). Key relationship types: acquaintance, other.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (74), Dmitri Karamazov (74), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Kolya–Smurov (friend), Smurov–Ilusha (acquaintance), Ilusha–Snegiryov (parent), Kolya–Smurov (friend), +15 more",
+    "New characters: Matvey, Marya, Marya, Arkady, Various, The, +1 more",
+    "Totals: 322 characters, 471 relations (+7 new, +19 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Kolya leaves his home and meets Smurov, a boy forbidden to associate with him, to visit Ilusha, who is very ill. They walk through the market-place, encountering various townspeople and engaging in conversations, including a brief confrontation with a young man and exchanges with peasants. Upon reaching near Captain Snegiryov's lodging, Kolya instructs Smurov to fetch Alexey Karamazov to meet him outside in the cold.",
+  "evidence_quotes": [
+    "I’ve been waiting for you for the last hour, Krassotkin",
+    "Kolya stopped and told Smurov to go on ahead and ask Karamazov"
+  ],
+  "needs_review": false
+}

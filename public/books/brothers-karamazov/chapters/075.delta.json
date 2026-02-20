@@ -1,0 +1,42 @@
+{
+  "new_nodes": [
+    "ivan-fjodorovich-karamazov",
+    "dmitri-fjodorovich-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "captain-smerdyakov",
+      "target": "pavel-smerdyakov",
+      "label": "doctor-patient"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "nikolay-parfenovitch",
+      "label": "professional"
+    },
+    {
+      "source": "ivan-fjodorovich-karamazov",
+      "target": "dmitri-fjodorovich-karamazov",
+      "label": "brother"
+    }
+  ],
+  "summary": "New characters: Ivan Fjodorovich Karamazov, Dmitri Fjodorovich Karamazov. New connections: Captain–Pavel (doctor-patient), Captain–Nikolay (professional), Ivan–Dmitri (brother).",
+  "summary_short": "Introduces Ivan Fjodorovich Karamazov and Dmitri Fjodorovich Karamazov. Alyosha Karamazov is the most connected figure (78 ties). Key relationship types: doctor-patient, professional.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (78), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (33)",
+    "Key ties: Captain–Pavel (doctor-patient), Captain–Nikolay (professional), Ivan–Dmitri (brother)",
+    "New characters: Ivan, Dmitri",
+    "Totals: 342 characters, 519 relations (+2 new, +3 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan visits Smerdyakov in the hospital and questions him about his epileptic fits and the murder of their father. Despite Smerdyakov's calm and coherent explanations, Ivan remains suspicious but ultimately dismisses the idea that Smerdyakov is the murderer, convinced instead of Dmitri's guilt. Ivan also struggles with his feelings for Katerina Ivanovna and has a tense conversation with Alyosha about their past thoughts regarding their father's death.",
+  "evidence_quotes": [
+    "Ivan went for the first time to see Smerdyakov.",
+    "Ivan began obviously to avoid him and seemed even to have taken a dislike to him."
+  ],
+  "needs_review": false
+}

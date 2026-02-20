@@ -1,0 +1,36 @@
+{
+  "new_nodes": [
+    "katerina-ivanovna-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "romantic connection"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "god",
+      "label": "child"
+    }
+  ],
+  "summary": "New characters: Katerina Ivanovna Karamazov. New connections: Katerina–Dmitri (romantic connection), Dmitri–God (child).",
+  "summary_short": "Introduces Katerina Ivanovna Karamazov. Alyosha Karamazov is the most connected figure (22 ties). Key relationship types: romantic connection, child.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (22), Fyodor Karamazov (21), Dmitri Karamazov (19), Ivan Karamazov (16)",
+    "Key ties: Katerina–Dmitri (romantic connection), Dmitri–God (child)",
+    "New characters: Katerina",
+    "Totals: 71 characters, 113 relations (+1 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "Alyosha, despite his father's harsh command, sets off to visit Katerina Ivanovna, feeling uneasy about the meeting. On his way, he unexpectedly encounters his brother Dmitri in a secluded garden, who urgently beckons him to join and share a secret. Dmitri confesses his inner turmoil and love for Alyosha, expressing his complex feelings about life, beauty, and his own nature.",
+  "evidence_quotes": [
+    "his father’s shouts, commanding him to return home “with his mattress and pillow”",
+    "Dmitri, mounted on something, was leaning forward, gesticulating violently"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,58 @@
+{
+  "new_nodes": [
+    "ivan-maslov",
+    "father-ilyusha",
+    "katherine-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "ivan-karamazov",
+      "target": "marfa-ignatyevna-karamazov",
+      "label": "employer-employee"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "ivan-maslov",
+      "label": "business relationship"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "father-ilyusha",
+      "label": "acquaintance"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "katherine-ivanovna",
+      "label": "spouse"
+    },
+    {
+      "source": "marfa-ignatyevna-karamazov",
+      "target": "pavel-smerdyakov",
+      "label": "guardian"
+    },
+    {
+      "source": "marfa-ignatyevna-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "associate"
+    }
+  ],
+  "summary": "New characters: Ivan Maslov, Father Ilyusha, Katherine Ivanovna. New connections: Ivan–Marfa (employer-employee), Dmitri–Ivan (business relationship), Fyodor–Father (acquaintance), Dmitri–Katherine (spouse) and 2 more.",
+  "summary_short": "Introduces Ivan Maslov, Father Ilyusha and Katherine Ivanovna. Alyosha Karamazov is the most connected figure (42 ties). Key relationship types: employer-employee, business relationship.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (42), Dmitri Karamazov (35), Fyodor Karamazov (32), Ivan Karamazov (28)",
+    "Key ties: Ivan–Marfa (employer-employee), Dmitri–Ivan (business relationship), Fyodor–Father (acquaintance), Dmitri–Katherine (spouse), +2 more",
+    "New characters: Ivan, Father, Katherine",
+    "Totals: 164 characters, 253 relations (+3 new, +6 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan Karamazov abruptly decides to leave for Moscow and packs his trunk early in the morning. Fyodor Pavlovitch urges Ivan to visit a timber buyer named Gorstkin at Tchermashnya, but Ivan ultimately declines and departs directly for Moscow. Meanwhile, Smerdyakov suffers a severe epileptic fit after falling down cellar steps, causing alarm in the household, and Fyodor Pavlovitch anxiously awaits Grushenka's promised visit that evening.",
+  "evidence_quotes": [
+    "he announced that he was starting off in an hour to return to Moscow for good",
+    "Smerdyakov went to the cellar for something and fell down from the top of the steps"
+  ],
+  "needs_review": false
+}

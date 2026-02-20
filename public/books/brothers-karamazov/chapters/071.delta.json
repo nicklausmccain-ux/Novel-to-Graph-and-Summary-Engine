@@ -1,0 +1,53 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "grushenka",
+      "target": "alexei-karamazov",
+      "label": "caretaker/guardian"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "pyotr-ilyitch-perhotin",
+      "label": "rivalry"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "mihail-makarovitch",
+      "label": "rivalry"
+    },
+    {
+      "source": "pyotr-ilyitch-smerdyakov",
+      "target": "mikhail-rakitin",
+      "label": "antagonistic relationship"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "pyotr-ilyitch-smerdyakov",
+      "label": "friend"
+    },
+    {
+      "source": "ekaterina-karamazov",
+      "target": "alexei-karamazov",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New connections: Grushenka–Alexei (caretaker/guardian), Mikhail–Pyotr (rivalry), Mikhail–Mihail (rivalry), Pyotr–Mikhail (antagonistic relationship) and 2 more.",
+  "summary_short": "Alyosha Karamazov is the most connected figure (78 ties). Key relationship types: rivalry, caretaker/guardian.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (78), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (32)",
+    "Key ties: Grushenka–Alexei (caretaker/guardian), Mikhail–Pyotr (rivalry), Mikhail–Mihail (rivalry), Pyotr–Mikhail (antagonistic relationship), +2 more",
+    "Totals: 338 characters, 511 relations (+0 new, +6 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits Madame Hohlakov, who is nervously excited and discusses the scandal surrounding Dmitri Fyodorovitch's trial and the rumors in the newspapers. She reveals tensions involving Rakitin's unwanted affection for her and the strained behavior of her daughter Lise, who has been having fits and refuses to see her mother. Madame Hohlakov entrusts Alyosha with the task of visiting Lise to understand her distress and urges him not to forget the importance of this mission.",
+  "evidence_quotes": [
+    "Madame Hohlakov was lying on a couch... in a state of extreme nervous excitement.",
+    "Now, dear Alexey Fyodorovitch, I rest all my hopes on you... it’s a question of life and death!"
+  ],
+  "needs_review": false
+}

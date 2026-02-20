@@ -1,0 +1,88 @@
+{
+  "new_nodes": [
+    "grigory-ivanovich-herzenstube",
+    "vladimir-fyodorovich-komarovsky",
+    "various-patients-previously-treated-by-doctor-herzenstube",
+    "doctor-ivan-matveyevich-herzenstube",
+    "unspecified-patients",
+    "doctor-ivan-petrovich-herzenstube",
+    "doctor-herzenstube",
+    "ivan-fedorovich-herzenstube",
+    "fetyukovitch-varvinsky",
+    "dr-ivan-fedorovich-herzenstube",
+    "doctor-ivanovich-herzenstube",
+    "women",
+    "kolya-kroyt"
+  ],
+  "new_edges": [
+    {
+      "source": "grigory-ivanovich-herzenstube",
+      "target": "vladimir-fyodorovich-komarovsky",
+      "label": "professional rivalry"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "various-patients-previously-treated-by-doctor-herzenstube",
+      "label": "service relationship"
+    },
+    {
+      "source": "doctor-ivan-matveyevich-herzenstube",
+      "target": "unspecified-patients",
+      "label": "service relationship"
+    },
+    {
+      "source": "doctor-ivan-petrovich-herzenstube",
+      "target": "doctor-herzenstube",
+      "label": "self-relationship"
+    },
+    {
+      "source": "ivan-fedorovich-herzenstube",
+      "target": "fetyukovitch-varvinsky",
+      "label": "professional acquaintance"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "dr-ivan-fedorovich-herzenstube",
+      "label": "appreciation"
+    },
+    {
+      "source": "doctor-ivanovich-herzenstube",
+      "target": "women",
+      "label": "admiration"
+    },
+    {
+      "source": "ilusha",
+      "target": "ippolit-kirillovitch",
+      "label": "interrogator"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "kolya-kroyt",
+      "label": "mentor"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "kolya",
+      "label": "benefactor"
+    }
+  ],
+  "summary": "New characters: Grigory Ivanovich Herzenstube, Vladimir Fyodorovich Komarovsky, Various Patients Previously Treated By Doctor Herzenstube, Doctor Ivan Matveyevich Herzenstube, Unspecified Patients, Doctor Ivan Petrovich Herzenstube and 7 more. New connections: Grigory–Vladimir (professional rivalry), Mikhail–Various (service relationship), Doctor–Unspecified (service relationship), Doctor–Doctor (self-relationship) and 6 more.",
+  "summary_short": "Introduces Grigory Ivanovich Herzenstube, Vladimir Fyodorovich Komarovsky, Various Patients Previously Treated By Doctor Herzenstube, Doctor Ivan Matveyevich Herzenstube, and 9 others. Alyosha Karamazov is the most connected figure (81 ties). Key relationship types: service relationship, professional rivalry.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (81), Dmitri Karamazov (79), Fyodor Karamazov (41), Ivan Karamazov (38)",
+    "Key ties: Grigory–Vladimir (professional rivalry), Mikhail–Various (service relationship), Doctor–Unspecified (service relationship), Doctor–Doctor (self-relationship), +6 more",
+    "New characters: Grigory, Vladimir, Various, Doctor, Unspecified, Doctor, +7 more",
+    "Totals: 379 characters, 557 relations (+13 new, +10 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Three medical experts testify about the prisoner's mental condition, with Doctor Herzenstube and the Moscow doctor diagnosing abnormality and mania, while Doctor Varvinsky insists the prisoner is normal. Doctor Herzenstube shares a touching anecdote about the prisoner's childhood, which creates a favorable impression on the public. The chapter ends as the defense witnesses begin their testimony, with Alyosha recalling a fact that challenges the prosecution's case.",
+  "evidence_quotes": [
+    "Doctor Herzenstube roundly declared that the abnormality of the prisoner’s mental faculties was self‐evident.",
+    "Doctor Varvinsky gave the last touch of comedy to the difference of opinion between the experts."
+  ],
+  "needs_review": false
+}

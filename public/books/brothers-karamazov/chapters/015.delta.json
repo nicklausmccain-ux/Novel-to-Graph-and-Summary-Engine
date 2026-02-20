@@ -1,0 +1,66 @@
+{
+  "new_nodes": [
+    "lizaveta-ilyinichna-karamazov",
+    "ilya-karamazov",
+    "lizaveta-ibryamovna",
+    "lizaveta-smerdyachkov",
+    "lizaveta-smerdyashchaya",
+    "lizaveta-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "lizaveta-ilyinichna-karamazov",
+      "target": "ilya-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "ilya-karamazov",
+      "target": "lizaveta-ibryamovna",
+      "label": "child"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "lizaveta-smerdyachkov",
+      "label": "miscreant-victim"
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "captain-smerdyakov",
+      "label": "nurse / caregiver"
+    },
+    {
+      "source": "lizaveta-smerdyashchaya",
+      "target": "captain-smerdyakov",
+      "label": "mother / child"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "lizaveta-ivanovna",
+      "label": "child / mother"
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "pavel-smerdyakov",
+      "label": "household members"
+    }
+  ],
+  "summary": "New characters: Lizaveta Ilyinichna Karamazov, Ilya Karamazov, Lizaveta Ibryamovna, Lizaveta Smerdyachkov, Lizaveta Smerdyashchaya, Lizaveta Ivanovna. New connections: Lizaveta–Ilya (parent), Ilya–Lizaveta (child), Fyodor–Lizaveta (miscreant-victim), Grigory–Captain (nurse / caregiver) and 3 more.",
+  "summary_short": "Introduces Lizaveta Ilyinichna Karamazov, Ilya Karamazov, Lizaveta Ibryamovna, Lizaveta Smerdyachkov, and 2 others. Alyosha Karamazov is the most connected figure (22 ties). Key relationship types: parent, child.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (22), Fyodor Karamazov (21), Dmitri Karamazov (17), Ivan Karamazov (16)",
+    "Key ties: Lizaveta–Ilya (parent), Ilya–Lizaveta (child), Fyodor–Lizaveta (miscreant-victim), Grigory–Captain (nurse / caregiver), +3 more",
+    "New characters: Lizaveta, Ilya, Lizaveta, Lizaveta, Lizaveta, Lizaveta",
+    "Totals: 70 characters, 111 relations (+6 new, +7 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "Lizaveta, a mentally disabled and neglected young woman, lived a harsh life wandering barefoot in a smock and was cared for by townspeople despite her condition. After a scandalous rumor implicated Fyodor Pavlovitch in her pregnancy, she was taken in by a merchant’s widow but escaped and died after injuring herself while climbing into Fyodor Pavlovitch’s garden. Grigory and Marfa cared for her newborn son, Pavel Fyodorovitch Smerdyakov, who became Fyodor Pavlovitch’s servant and cook.",
+  "evidence_quotes": [
+    "Lizaveta was a dwarfish creature, not five foot within a wee bit",
+    "Lizaveta died at dawn. Grigory took the baby, brought it home"
+  ],
+  "needs_review": false
+}

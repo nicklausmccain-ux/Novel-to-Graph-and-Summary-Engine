@@ -1,0 +1,53 @@
+{
+  "new_nodes": [
+    "the-women-attending-the-trial",
+    "the-ladies-of-the-court",
+    "grushenka-svyetlov"
+  ],
+  "new_edges": [
+    {
+      "source": "the-women-attending-the-trial",
+      "target": "dmitri-karamazov",
+      "label": "public interest"
+    },
+    {
+      "source": "the-ladies-of-the-court",
+      "target": "dmitri-karamazov",
+      "label": "conviction of guilt"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "ippolit-kirillovitch",
+      "label": "professional interest"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "grushenka-svyetlov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "grushenka-svyetlov",
+      "target": "alyosha-karamazov",
+      "label": "interest"
+    }
+  ],
+  "summary": "New characters: The Women Attending The Trial, The Ladies Of The Court, Grushenka Svyetlov. New connections: The–Dmitri (public interest), The–Dmitri (conviction of guilt), Zosima–Ippolit (professional interest), Mikhail–Grushenka (acquaintance) and 1 more.",
+  "summary_short": "Introduces The Women Attending The Trial, The Ladies Of The Court and Grushenka Svyetlov. Alyosha Karamazov is the most connected figure (81 ties). Key relationship types: public interest, conviction of guilt.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (81), Dmitri Karamazov (79), Fyodor Karamazov (40), Ivan Karamazov (38)",
+    "Key ties: The–Dmitri (public interest), The–Dmitri (conviction of guilt), Zosima–Ippolit (professional interest), Mikhail–Grushenka (acquaintance), +1 more",
+    "New characters: The, The, Grushenka",
+    "Totals: 366 characters, 547 relations (+3 new, +5 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "The trial begins with the prosecution presenting strong evidence against Dmitri, making his guilt seem obvious to all. Fetyukovitch, the defense counsel, skillfully cross-examines witnesses like Grigory and Rakitin, casting doubt on their testimonies and revealing inconsistencies. Despite the overwhelming case for the prosecution, Fetyukovitch's confident and meticulous approach leaves the court intrigued and hopeful for a surprising defense.",
+  "evidence_quotes": [
+    "the case was beyond dispute, that there was no doubt about it",
+    "Fetyukovitch succeeded in casting a slur on all of them"
+  ],
+  "needs_review": false
+}

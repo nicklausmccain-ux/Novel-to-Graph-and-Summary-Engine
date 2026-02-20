@@ -1,0 +1,55 @@
+{
+  "new_nodes": [
+    "father-fyodor-pavlovitch-zossima",
+    "alexei-ivanovich-kalganov",
+    "kolya-krasotkin",
+    "katarina-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "father-iosif",
+      "target": "mikhail-rakitin",
+      "label": "other"
+    },
+    {
+      "source": "father-fyodor-pavlovitch-zossima",
+      "target": "alexei-ivanovich-kalganov",
+      "label": "other"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "father-iosif",
+      "label": "opponent"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "kolya-krasotkin",
+      "label": "discontented acquaintance"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "katarina-ivanovna",
+      "label": "spouse"
+    }
+  ],
+  "summary": "New characters: Father Fyodor Pavlovitch Zossima, Alexei Ivanovich Kalganov, Kolya Krasotkin, Katarina Ivanovna. New connections: Father–Mikhail (other), Father–Alexei (other), Dmitri–Father (opponent), Dmitri–Kolya (discontented acquaintance) and 1 more.",
+  "summary_short": "Introduces Father Fyodor Pavlovitch Zossima, Alexei Ivanovich Kalganov, Kolya Krasotkin and Katarina Ivanovna. Alyosha Karamazov is the most connected figure (22 ties). Key relationship types: other, opponent.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (22), Fyodor Karamazov (19), Dmitri Karamazov (17), Ivan Karamazov (16)",
+    "Key ties: Father–Mikhail (other), Father–Alexei (other), Dmitri–Father (opponent), Dmitri–Kolya (discontented acquaintance), +1 more",
+    "New characters: Father, Alexei, Kolya, Katarina",
+    "Totals: 63 characters, 100 relations (+4 new, +5 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "Miüsov visits the Father Superior with Ivan and resolves to drop his litigation against the monastery, adopting a conciliatory attitude. Fyodor Pavlovitch unexpectedly returns to the monastery, disrupts the dinner with rude behavior, and declares his intention to take his son Alexey away from the monastery. After a tense departure, Fyodor Pavlovitch and Ivan travel home in silence, with Fyodor announcing plans to remove Alyosha from the monastery despite Ivan's contempt.",
+  "evidence_quotes": [
+    "He determined to drop his litigation with the monastery",
+    "Fyodor Pavlovitch appeared in the Father Superior’s dining‐room",
+    "‘But I shall take Alyosha away from the monastery’"
+  ],
+  "needs_review": false
+}

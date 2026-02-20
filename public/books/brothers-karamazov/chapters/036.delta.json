@@ -1,0 +1,146 @@
+{
+  "new_nodes": [
+    "the-blessed-virgin-mary",
+    "the-damned",
+    "the-saints-and-angels-of-heaven",
+    "fyodor-ivanovich-tyutchev",
+    "jesus-christ",
+    "crowd-of-people",
+    "blind-man",
+    "the-people",
+    "the-old-man",
+    "the-little-girl",
+    "lyosha",
+    "the-grand-inquisitor",
+    "humanity",
+    "pope-alexander-vi",
+    "the-holy-roman-catholic-church",
+    "the-freemasons"
+  ],
+  "new_edges": [
+    {
+      "source": "the-blessed-virgin-mary",
+      "target": "the-damned",
+      "label": "other"
+    },
+    {
+      "source": "god",
+      "target": "the-saints-and-angels-of-heaven",
+      "label": "other"
+    },
+    {
+      "source": "fyodor-ivanovich-tyutchev",
+      "target": "jesus-christ",
+      "label": "worship"
+    },
+    {
+      "source": "jesus-christ",
+      "target": "crowd-of-people",
+      "label": "Other"
+    },
+    {
+      "source": "blind-man",
+      "target": "jesus-christ",
+      "label": "Other"
+    },
+    {
+      "source": "the-people",
+      "target": "the-old-man",
+      "label": "Other"
+    },
+    {
+      "source": "marya-karamazov",
+      "target": "jesus-christ",
+      "label": "Other"
+    },
+    {
+      "source": "jesus-christ",
+      "target": "the-little-girl",
+      "label": "Other"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "lyosha",
+      "label": "parent"
+    },
+    {
+      "source": "the-grand-inquisitor",
+      "target": "jesus-christ",
+      "label": "authority over"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "jesus-christ",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "the-grand-inquisitor",
+      "target": "god",
+      "label": "other"
+    },
+    {
+      "source": "god",
+      "target": "humanity",
+      "label": "master-slave"
+    },
+    {
+      "source": "jesus-christ",
+      "target": "god",
+      "label": "Son – Father"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "jesus-christ",
+      "label": "rebel – savior"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "humanity",
+      "label": "leader – followers"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "the-grand-inquisitor",
+      "label": "Oppressors"
+    },
+    {
+      "source": "the-grand-inquisitor",
+      "target": "humanity",
+      "label": "concerned individual"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "the-grand-inquisitor",
+      "label": "critic"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "pope-alexander-vi",
+      "label": "historical connection"
+    },
+    {
+      "source": "the-holy-roman-catholic-church",
+      "target": "the-freemasons",
+      "label": "rivalry"
+    }
+  ],
+  "summary": "New characters: The Blessed Virgin Mary, The Damned, The Saints And Angels Of Heaven, Fyodor Ivanovich Tyutchev, Jesus Christ, Crowd Of People and 10 more. New connections: The–The (other), God–The (other), Fyodor–Jesus (worship), Jesus–Crowd (Other) and 17 more.",
+  "summary_short": "Introduces The Blessed Virgin Mary, The Damned, The Saints And Angels Of Heaven, Fyodor Ivanovich Tyutchev, and 12 others. Alyosha Karamazov is the most connected figure (42 ties). Key relationship types: Other, other.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (42), Dmitri Karamazov (33), Fyodor Karamazov (30), Ivan Karamazov (26)",
+    "Key ties: The–The (other), God–The (other), Fyodor–Jesus (worship), Jesus–Crowd (Other), +17 more",
+    "New characters: The, The, The, Fyodor, Jesus, Crowd, +10 more",
+    "Totals: 161 characters, 245 relations (+16 new, +21 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan recounts a poem about a mysterious visit of Jesus during the Spanish Inquisition, where Jesus silently witnesses the suffering and is arrested by the Grand Inquisitor. The Grand Inquisitor confronts Jesus, accusing Him of hindering the Church's authority and the suppression of human freedom for the sake of order and happiness, but Jesus responds only with a silent kiss. After the poem, Ivan and Alyosha discuss its meaning and their differing beliefs, ending with Ivan declaring his intention to leave and Alyosha rushing to visit the dying Pater Seraphicus.",
+  "evidence_quotes": [
+    "‘Go, and come no more ... come not at all, never, never!’",
+    "‘I meant to end it like this. When the Inquisitor ceased speaking...’"
+  ],
+  "needs_review": false
+}

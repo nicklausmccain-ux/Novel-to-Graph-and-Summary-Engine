@@ -1,0 +1,31 @@
+{
+  "new_nodes": [
+    "various-characters-from-the-townspeople"
+  ],
+  "new_edges": [
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "various-characters-from-the-townspeople",
+      "label": "inferiority"
+    }
+  ],
+  "summary": "New characters: Various Characters From The Townspeople. New connections: Zosima–Various (inferiority).",
+  "summary_short": "Introduces Various Characters From The Townspeople. Alyosha Karamazov is the most connected figure (60 ties). Key relationship types: inferiority.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (60), Dmitri Karamazov (51), Fyodor Karamazov (34), Ivan Karamazov (31)",
+    "Key ties: Zosima–Various (inferiority)",
+    "New characters: Various",
+    "Totals: 227 characters, 328 relations (+1 new, +1 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha struggles deeply with his faith and the premature decomposition of his beloved elder's body, which causes him great sorrow and confusion. Rakitin finds Alyosha in a distressed state and offers him food and vodka, noticing a change in Alyosha's demeanor. They decide to visit Grushenka together, with Rakitin secretly hoping to exploit Alyosha's vulnerable state for his own gain.",
+  "evidence_quotes": [
+    "Alyosha’s heart was bleeding",
+    "‘Let’s go to Grushenka,’ Alyosha answered calmly"
+  ],
+  "needs_review": false
+}

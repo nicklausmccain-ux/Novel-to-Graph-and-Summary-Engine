@@ -1,0 +1,31 @@
+{
+  "new_nodes": [
+    "mary-mother-of-jesus"
+  ],
+  "new_edges": [
+    {
+      "source": "mary-mother-of-jesus",
+      "target": "jesus-christ",
+      "label": "mother-son"
+    }
+  ],
+  "summary": "New characters: Mary Mother Of Jesus. New connections: Mary–Jesus (mother-son).",
+  "summary_short": "Introduces Mary Mother Of Jesus. Alyosha Karamazov is the most connected figure (62 ties). Key relationship types: mother-son.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (62), Dmitri Karamazov (53), Fyodor Karamazov (35), Ivan Karamazov (31)",
+    "Key ties: Mary–Jesus (mother-son)",
+    "New characters: Mary",
+    "Totals: 234 characters, 343 relations (+1 new, +1 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha returns late to the hermitage and finds Father Païssy reading the Gospel over the elder's coffin. As Alyosha prays and dozes, he envisions a joyous wedding feast at Cana where the elder appears alive and invites him to join the celebration of new gladness. Awakening filled with rapture, Alyosha embraces the earth, feeling a profound connection to the world and resolves to love and forgive all, marking a transformative moment in his life.",
+  "evidence_quotes": [
+    "Father Païssy, reading the Gospel in solitude over the coffin",
+    "He kissed it weeping, sobbing and watering it with his tears"
+  ],
+  "needs_review": false
+}

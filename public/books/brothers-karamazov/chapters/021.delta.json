@@ -1,0 +1,42 @@
+{
+  "new_nodes": [
+    "pyotr-ivanovich-belyavsky",
+    "alyoshas-mother"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-karamazov",
+      "target": "alexei-karamazov",
+      "label": "parent-child"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "pyotr-ivanovich-belyavsky",
+      "label": "acquaintance/enemy"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "alyoshas-mother",
+      "label": "mother"
+    }
+  ],
+  "summary": "New characters: Pyotr Ivanovich Belyavsky, Alyoshas Mother. New connections: Dmitri–Alexei (parent-child), Maria–Pyotr (acquaintance/enemy), Ivan–Alyoshas (mother).",
+  "summary_short": "Introduces Pyotr Ivanovich Belyavsky and Alyoshas Mother. Alyosha Karamazov is the most connected figure (25 ties). Key relationship types: parent-child, acquaintance/enemy.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (25), Dmitri Karamazov (25), Fyodor Karamazov (24), Ivan Karamazov (20)",
+    "Key ties: Dmitri–Alexei (parent-child), Maria–Pyotr (acquaintance/enemy), Ivan–Alyoshas (mother)",
+    "New characters: Pyotr, Alyoshas",
+    "Totals: 92 characters, 143 relations (+2 new, +3 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Fyodor Pavlovitch becomes increasingly drunk and irritable, discussing his disdain for Russia and his complicated views on God, immortality, and the monks with Ivan and Alyosha. He reminisces about his mother and his past, which triggers a sudden emotional outburst from Alyosha, who begins to weep violently. The chapter ends abruptly as Dmitri bursts in, causing Fyodor Pavlovitch to panic and cling to Ivan for protection.",
+  "evidence_quotes": [
+    "Fyodor Pavlovitch, who had been so gay, suddenly began frowning.",
+    "Dmitri burst into the room. The old man rushed to Ivan in terror."
+  ],
+  "needs_review": false
+}

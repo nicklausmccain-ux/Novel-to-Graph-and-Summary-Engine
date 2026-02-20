@@ -1,0 +1,47 @@
+{
+  "new_nodes": [
+    "madame-svyetlova",
+    "grushenka-akhroumovna"
+  ],
+  "new_edges": [
+    {
+      "source": "ippolit-kirillovitch",
+      "target": "captain-smerdyakov",
+      "label": "observer"
+    },
+    {
+      "source": "madame-svyetlova",
+      "target": "dmitri-karamazov",
+      "label": "supporter"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "captain-smerdyakov",
+      "label": "accuser"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "grushenka-akhroumovna",
+      "label": "romantic connection"
+    }
+  ],
+  "summary": "New characters: Madame Svyetlova, Grushenka Akhroumovna. New connections: Ippolit–Captain (observer), Madame–Dmitri (supporter), Rodion–Captain (accuser), Dmitri–Grushenka (romantic connection).",
+  "summary_short": "Introduces Madame Svyetlova and Grushenka Akhroumovna. Dmitri Karamazov is the most connected figure (82 ties). Key relationship types: observer, supporter.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (82), Alyosha Karamazov (81), Fyodor Karamazov (44), Ivan Karamazov (40)",
+    "Key ties: Ippolit–Captain (observer), Madame–Dmitri (supporter), Rodion–Captain (accuser), Dmitri–Grushenka (romantic connection)",
+    "New characters: Madame, Grushenka",
+    "Totals: 389 characters, 569 relations (+2 new, +4 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ippolit Kirillovitch questions the credibility of the accusations against Smerdyakov, highlighting the lack of concrete evidence and the implausibility of his guilt. He argues that Smerdyakov's epileptic fits and behavior do not align with the actions of a calculated murderer and that the real murderer is likely Dmitri Karamazov, who had clear motives and left incriminating evidence. The chapter ends with a detailed recounting of the murder scene and Dmitri's actions immediately afterward, emphasizing his panic and focus on finding a woman rather than hiding his guilt.",
+  "evidence_quotes": [
+    "The charge is confirmed by three persons only",
+    "He ran to her lodging and learnt an unexpected and astounding piece of news"
+  ],
+  "needs_review": false
+}

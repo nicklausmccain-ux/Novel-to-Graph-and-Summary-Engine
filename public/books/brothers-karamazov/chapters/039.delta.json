@@ -1,0 +1,148 @@
+{
+  "new_nodes": [
+    "alexey-karamazov",
+    "porfiry-ivanovitch",
+    "markel-karamazov",
+    "ivan-fedorovich",
+    "na",
+    "doctor-dmitri-fyodorovich",
+    "abraham",
+    "sarah",
+    "isaac-karamazov",
+    "rebecca-karamazov",
+    "jacob-karamazov",
+    "laban",
+    "joseph-karamazov",
+    "benjamin-karamazov",
+    "father-fyodor-karamazov",
+    "the-peasant-people-of-russia",
+    "unknown",
+    "the-bear"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "father-iosif",
+      "label": "student-teacher"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "alexey-karamazov",
+      "label": "spiritual mentor"
+    },
+    {
+      "source": "porfiry-ivanovitch",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "friendship/relationship"
+    },
+    {
+      "source": "markel-karamazov",
+      "target": "alexei-karamazov",
+      "label": "sibling"
+    },
+    {
+      "source": "markel-karamazov",
+      "target": "maria-karamazov",
+      "label": "child"
+    },
+    {
+      "source": "markel-karamazov",
+      "target": "ivan-fedorovich",
+      "label": "friend"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "na",
+      "label": "other relationship"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "doctor-dmitri-fyodorovich",
+      "label": "doctor-patient"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "maria-petrovna",
+      "label": "child"
+    },
+    {
+      "source": "abraham",
+      "target": "sarah",
+      "label": "spouse"
+    },
+    {
+      "source": "isaac-karamazov",
+      "target": "rebecca-karamazov",
+      "label": "spouse"
+    },
+    {
+      "source": "jacob-karamazov",
+      "target": "laban",
+      "label": "relationship"
+    },
+    {
+      "source": "jacob-karamazov",
+      "target": "joseph-karamazov",
+      "label": "father-son"
+    },
+    {
+      "source": "joseph-karamazov",
+      "target": "benjamin-karamazov",
+      "label": "brothers"
+    },
+    {
+      "source": "joseph-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "siblings"
+    },
+    {
+      "source": "jacob-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "parent-child"
+    },
+    {
+      "source": "makar-alexeyevich",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "community members"
+    },
+    {
+      "source": "father-fyodor-karamazov",
+      "target": "the-peasant-people-of-russia",
+      "label": "spiritual authority"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "unknown",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alexei-karamazov",
+      "target": "ivan-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "the-bear",
+      "label": "compassionate encounter"
+    }
+  ],
+  "summary": "New characters: Alexey Karamazov, Porfiry Ivanovitch, Markel Karamazov, Ivan Fedorovich, Na, Doctor Dmitri Fyodorovich and 12 more. New connections: Alyosha–Father (student-teacher), Dmitri–Alexey (spiritual mentor), Porfiry–Zosima (friendship/relationship), Markel–Alexei (sibling) and 17 more.",
+  "summary_short": "Introduces Alexey Karamazov, Porfiry Ivanovitch, Markel Karamazov, Ivan Fedorovich, and 14 others. Alyosha Karamazov is the most connected figure (48 ties). Key relationship types: child, friend.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (48), Dmitri Karamazov (37), Fyodor Karamazov (32), Ivan Karamazov (29)",
+    "Key ties: Alyosha–Father (student-teacher), Dmitri–Alexey (spiritual mentor), Porfiry–Zosima (friendship/relationship), Markel–Alexei (sibling), +17 more",
+    "New characters: Alexey, Porfiry, Markel, Ivan, Na, Doctor, +12 more",
+    "Totals: 182 characters, 274 relations (+18 new, +21 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits the elder Father Zossima, who, contrary to Alyosha's fears, is sitting up and engaging joyfully with visitors. Father Zossima speaks tenderly to Alyosha about his brothers and shares a personal story about his own deceased elder brother, revealing deep spiritual reflections. The chapter also includes Father Zossima's thoughts on the importance of Scripture and teaching the Bible to the people, emphasizing faith and love.",
+  "evidence_quotes": [
+    "he saw him sitting up in his chair and, though weak and exhausted, his face was bright and cheerful",
+    "‘Make haste to find him, go again to‐morrow and make haste, leave everything and make haste.’"
+  ],
+  "needs_review": false
+}

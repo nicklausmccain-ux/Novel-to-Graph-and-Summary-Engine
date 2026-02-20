@@ -1,0 +1,38 @@
+{
+  "new_nodes": [
+    "mr-rakitin",
+    "the-heroine",
+    "grushenka-svetlovidova"
+  ],
+  "new_edges": [
+    {
+      "source": "mr-rakitin",
+      "target": "the-heroine",
+      "label": "character assessment"
+    },
+    {
+      "source": "grushenka-svetlovidova",
+      "target": "fyodor-karamazov",
+      "label": "benefactor"
+    }
+  ],
+  "summary": "New characters: Mr Rakitin, The Heroine, Grushenka Svetlovidova. New connections: Mr–The (character assessment), Grushenka–Fyodor (benefactor).",
+  "summary_short": "Introduces Mr Rakitin, The Heroine and Grushenka Svetlovidova. Alyosha Karamazov is the most connected figure (81 ties). Key relationship types: character assessment, benefactor.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (81), Dmitri Karamazov (80), Fyodor Karamazov (44), Ivan Karamazov (40)",
+    "Key ties: Mr–The (character assessment), Grushenka–Fyodor (benefactor)",
+    "New characters: Mr, The, Grushenka",
+    "Totals: 387 characters, 565 relations (+3 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ippolit Kirillovitch argues that the prisoner is sane but driven by jealousy, particularly over the three thousand roubles and his passion for Grushenka. The prosecutor details the prisoner's escalating jealousy and premeditation to murder his father, supported by a letter written two days prior to the crime. Despite efforts to borrow money and resist violence, the prisoner ultimately succumbs to jealousy and uses a brass pestle as a weapon in the murder.",
+  "evidence_quotes": [
+    "the prisoner’s mental faculties have always been normal",
+    "the whole fact of the murder was premeditated"
+  ],
+  "needs_review": false
+}

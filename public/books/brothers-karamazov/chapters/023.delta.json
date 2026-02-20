@@ -1,0 +1,62 @@
+{
+  "new_nodes": [
+    "alexey-fyodorovitch",
+    "dmitri"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "connection through family"
+    },
+    {
+      "source": "alexey-fyodorovitch",
+      "target": "dmitri",
+      "label": "brother"
+    },
+    {
+      "source": "ekaterina-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "friendship"
+    },
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "agrafena-alexandrovna-svetlova",
+      "label": "friend"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "grushenka",
+      "label": "friendship"
+    },
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "grushenka",
+      "label": "friendship"
+    },
+    {
+      "source": "grushenka",
+      "target": "ekaterina-karamazov",
+      "label": "friendship"
+    }
+  ],
+  "summary": "New characters: Alexey Fyodorovitch, Dmitri. New connections: Katerina–Alyosha (connection through family), Alexey–Dmitri (brother), Ekaterina–Alyosha (friendship), Katerina–Agrafena (friend) and 3 more.",
+  "summary_short": "Introduces Alexey Fyodorovitch and Dmitri. Alyosha Karamazov is the most connected figure (27 ties). Key relationship types: friendship, connection through family.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (27), Dmitri Karamazov (25), Fyodor Karamazov (24), Ivan Karamazov (20)",
+    "Key ties: Katerina–Alyosha (connection through family), Alexey–Dmitri (brother), Ekaterina–Alyosha (friendship), Katerina–Agrafena (friend), +3 more",
+    "New characters: Alexey, Dmitri",
+    "Totals: 94 characters, 150 relations (+2 new, +7 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits Katerina Ivanovna to deliver a message from Dmitri and finds her excited and hopeful about saving Dmitri despite his troubles. Grushenka arrives, and a tense confrontation ensues between her and Katerina Ivanovna, ending with Grushenka leaving and Katerina Ivanovna breaking down in tears. Alyosha leaves the house deeply troubled, receiving a letter from Madame Hohlakov as he departs.",
+  "evidence_quotes": [
+    "He told me to give you his compliments—and to say that he would never come again",
+    "Katerina Ivanovna went into a fit of hysterics. She sobbed, and was shaken with convulsions"
+  ],
+  "needs_review": false
+}

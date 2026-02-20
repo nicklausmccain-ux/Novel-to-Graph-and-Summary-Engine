@@ -1,0 +1,41 @@
+{
+  "new_nodes": [
+    "marfa-semyonovna"
+  ],
+  "new_edges": [
+    {
+      "source": "fyodor-karamazov",
+      "target": "alexei-karamazov",
+      "label": "father-son"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "captain-smerdyakov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "marfa-semyonovna",
+      "label": "associates"
+    }
+  ],
+  "summary": "New characters: Marfa Semyonovna. New connections: Fyodor–Alexei (father-son), Alyosha–Captain (acquaintance), Fyodor–Marfa (associates).",
+  "summary_short": "Introduces Marfa Semyonovna. Alyosha Karamazov is the most connected figure (25 ties). Key relationship types: father-son, acquaintance.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (25), Fyodor Karamazov (24), Dmitri Karamazov (24), Ivan Karamazov (18)",
+    "Key ties: Fyodor–Alexei (father-son), Alyosha–Captain (acquaintance), Fyodor–Marfa (associates)",
+    "New characters: Marfa",
+    "Totals: 90 characters, 139 relations (+1 new, +3 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "Alyosha finds his father Fyodor Pavlovitch and Ivan at the table after dinner, where Fyodor Pavlovitch jovially offers Alyosha coffee and liqueur. The chapter then focuses on Smerdyakov, the taciturn and conceited valet, detailing his upbringing, epilepsy, education, and eventual training as a cook in Moscow. Despite his outward changes, Smerdyakov remains unsociable and mysterious, often lost in silent contemplation, while Fyodor Pavlovitch grows to trust and like him.",
+  "evidence_quotes": [
+    "Fyodor Pavlovitch was roaring with laughter.",
+    "Smerdyakov was a young man of about four and twenty, remarkably unsociable and taciturn."
+  ],
+  "needs_review": false
+}

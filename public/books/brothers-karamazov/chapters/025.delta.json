@@ -1,0 +1,60 @@
+{
+  "new_nodes": [
+    "maria-prohorovna",
+    "vassily-ivanovich-karamazov",
+    "vassily-ivanovich-smerdyakov",
+    "madame-hohlakov",
+    "st-sylvester"
+  ],
+  "new_edges": [
+    {
+      "source": "maria-prohorovna",
+      "target": "vassily-ivanovich-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "vassily-ivanovich-smerdyakov",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "child"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "supporter"
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "st-sylvester",
+      "label": "fellow monk"
+    },
+    {
+      "source": "the-monk",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "other relationship"
+    }
+  ],
+  "summary": "New characters: Maria Prohorovna, Vassily Ivanovich Karamazov, Vassily Ivanovich Smerdyakov, Madame Hohlakov, St Sylvester. New connections: Maria–Vassily (parent), Vassily–Zosima (child), Madame–Zosima (supporter), Grigory–Zosima (other) and 2 more.",
+  "summary_short": "Introduces Maria Prohorovna, Vassily Ivanovich Karamazov, Vassily Ivanovich Smerdyakov, Madame Hohlakov, and 1 others. Alyosha Karamazov is the most connected figure (28 ties). Key relationship types: parent, child.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (28), Dmitri Karamazov (25), Fyodor Karamazov (24), Ivan Karamazov (20)",
+    "Key ties: Maria–Vassily (parent), Vassily–Zosima (child), Madame–Zosima (supporter), Grigory–Zosima (other), +2 more",
+    "New characters: Maria, Vassily, Vassily, Madame, St",
+    "Totals: 100 characters, 158 relations (+5 new, +6 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Father Zossima, feeling weak but joyful, confesses and delivers a heartfelt final message to the monks about love and humility. Alyosha receives a letter from Madame Hohlakov about a fulfilled prophecy concerning a sergeant’s widow’s son, which stirs excitement and skepticism among the monks. Later, Alyosha meets the austere Father Païssy, who gives him solemn advice and a blessing before Alyosha leaves the monastery to fulfill his promises.",
+  "evidence_quotes": [
+    "“Love one another, Fathers,” said Father Zossima",
+    "Father Païssy blessed him. As Alyosha left the monastery"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,41 @@
+{
+  "new_nodes": [
+    "kuzma-kuzmitch-samsonov"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-karamazov",
+      "target": "samsonov",
+      "label": "business acquaintance"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "kuzma-kuzmitch-samsonov",
+      "label": "friends or acquaintances"
+    },
+    {
+      "source": "samsonov",
+      "target": "alyosha-karamazov",
+      "label": "parent-child"
+    }
+  ],
+  "summary": "New characters: Kuzma Kuzmitch Samsonov. New connections: Dmitri–Samsonov (business acquaintance), Dmitri–Kuzma (friends or acquaintances), Samsonov–Alyosha (parent-child).",
+  "summary_short": "Introduces Kuzma Kuzmitch Samsonov. Alyosha Karamazov is the most connected figure (63 ties). Key relationship types: business acquaintance, friends or acquaintances.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (63), Dmitri Karamazov (55), Fyodor Karamazov (35), Ivan Karamazov (31)",
+    "Key ties: Dmitri–Samsonov (business acquaintance), Dmitri–Kuzma (friends or acquaintances), Samsonov–Alyosha (parent-child)",
+    "New characters: Kuzma",
+    "Totals: 235 characters, 346 relations (+1 new, +3 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Dmitri is in a state of feverish agitation, struggling with his destiny and anxiously awaiting Grushenka's decision between him and Fyodor Pavlovitch. He decides to repay Katerina Ivanovna the three thousand roubles he owes before starting a new life with Grushenka and seeks financial help from Kuzma Samsonov, Grushenka's protector. Samsonov refuses to assist Dmitri and mocks him, causing Dmitri to leave hopeful but ultimately humiliated.",
+  "evidence_quotes": [
+    "he was in a condition of feverish agitation and activity",
+    "Excuse me, we don’t undertake such business"
+  ],
+  "needs_review": false
+}

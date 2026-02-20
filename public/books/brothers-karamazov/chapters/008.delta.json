@@ -1,0 +1,122 @@
+{
+  "new_nodes": [
+    "grushenka",
+    "nastasya-filippovna",
+    "seryozha",
+    "alexei-karamazov",
+    "nikita-karamazov",
+    "nikita-ivanovich-karamazov",
+    "praskovya-fyodorovna-karamazov",
+    "nikita-fyodorovich-karamazov",
+    "elder",
+    "deceased-child",
+    "maria-grigorievna-karamazov",
+    "prohorovna-ilyinishna",
+    "vasilij-ivanovich",
+    "marfa-ignatyevna-karamazov",
+    "praskovya-osipovna",
+    "lizaveta-snegiryov",
+    "father-fyodor-pavlovich-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "grushenka",
+      "label": "healer-patient"
+    },
+    {
+      "source": "nastasya-filippovna",
+      "target": "seryozha",
+      "label": "parent/child"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "alexei-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "nikita-karamazov",
+      "label": "spouse"
+    },
+    {
+      "source": "nikita-ivanovich-karamazov",
+      "target": "maria-karamazov",
+      "label": "spouse"
+    },
+    {
+      "source": "praskovya-fyodorovna-karamazov",
+      "target": "nikita-fyodorovich-karamazov",
+      "label": "relationship"
+    },
+    {
+      "source": "nikita-fyodorovich-karamazov",
+      "target": "maria-karamazov",
+      "label": "relationship"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "katerina-karamazov",
+      "label": "spiritual guide"
+    },
+    {
+      "source": "elder",
+      "target": "deceased-child",
+      "label": "Parent-Child Relationship"
+    },
+    {
+      "source": "maria-grigorievna-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "Marital Relationship"
+    },
+    {
+      "source": "prohorovna-ilyinishna",
+      "target": "vasilij-ivanovich",
+      "label": "Parent-Child Relationship"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "grushenka",
+      "label": "spiritual advisor"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "god",
+      "label": "spiritual connection"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "marfa-ignatyevna-karamazov",
+      "label": "other relationship"
+    },
+    {
+      "source": "praskovya-osipovna",
+      "target": "lizaveta-snegiryov",
+      "label": "parent"
+    },
+    {
+      "source": "father-fyodor-pavlovich-karamazov",
+      "target": "captain-smerdyakov",
+      "label": "blessing"
+    }
+  ],
+  "summary": "New characters: Grushenka, Nastasya Filippovna, Seryozha, Alexei Karamazov, Nikita Karamazov, Nikita Ivanovich Karamazov and 11 more. New connections: Alyosha–Grushenka (healer-patient), Nastasya–Seryozha (parent/child), Maria–Alexei (parent), Maria–Nikita (spouse) and 12 more.",
+  "summary_short": "Introduces Grushenka, Nastasya Filippovna, Seryozha, Alexei Karamazov, and 13 others. Fyodor Karamazov is the most connected figure (17 ties). Key relationship types: parent, spouse.",
+  "highlights": [
+    "Most central: Fyodor Karamazov (17), Alyosha Karamazov (15), Ivan Karamazov (10), Zosima Fyodorovich Karamazov (10)",
+    "Key ties: Alyosha–Grushenka (healer-patient), Nastasya–Seryozha (parent/child), Maria–Alexei (parent), Maria–Nikita (spouse), +12 more",
+    "New characters: Grushenka, Nastasya, Seryozha, Alexei, Nikita, Nikita, +11 more",
+    "Totals: 49 characters, 68 relations (+17 new, +16 new)"
+  ],
+  "key_characters": [
+    "Fyodor Karamazov",
+    "Alyosha Karamazov",
+    "Ivan Karamazov"
+  ],
+  "story_summary": "Father Zossima appears on the portico and blesses a crowd of peasant women, including a crazed woman who is instantly soothed by his prayer. A grieving mother named Nastasya tells Father Zossima about her deceased son and her sorrow, and he comforts her with words about her child's place in heaven. The elder also listens to a repentant widow confessing a secret sin and reassures her of God's infinite love and forgiveness before blessing other visitors.",
+  "evidence_quotes": [
+    "Father Zossima stood on the top step, put on his stole, and began blessing the women",
+    "‘Have you told it in confession?’ ‘I have confessed it. Twice I have confessed it.’"
+  ],
+  "needs_review": false
+}

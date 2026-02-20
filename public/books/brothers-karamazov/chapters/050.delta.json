@@ -1,0 +1,64 @@
+{
+  "new_nodes": [
+    "pyotr-ilyitch-perhotin",
+    "pyotr-ilyitch-smerdyakov",
+    "mikhail-fyodorovitch-karamazov",
+    "andrey"
+  ],
+  "new_edges": [
+    {
+      "source": "fenya",
+      "target": "grushenka",
+      "label": "employer-employee"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "pyotr-ilyitch-perhotin",
+      "label": "transactional relationship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "pyotr-ilyitch-smerdyakov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "pyotr-ilyitch-smerdyakov",
+      "target": "mikhail-fyodorovitch-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "andrey",
+      "label": "professional relationship"
+    },
+    {
+      "source": "pyotr-ilyitch-smerdyakov",
+      "target": "grushenka",
+      "label": "acquaintance"
+    },
+    {
+      "source": "fenya",
+      "target": "pyotr-ilyitch-smerdyakov",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New characters: Pyotr Ilyitch Perhotin, Pyotr Ilyitch Smerdyakov, Mikhail Fyodorovitch Karamazov, Andrey. New connections: Fenya–Grushenka (employer-employee), Dmitri–Pyotr (transactional relationship), Dmitri–Pyotr (acquaintance), Pyotr–Mikhail (other) and 3 more.",
+  "summary_short": "Introduces Pyotr Ilyitch Perhotin, Pyotr Ilyitch Smerdyakov, Mikhail Fyodorovitch Karamazov and Andrey. Alyosha Karamazov is the most connected figure (63 ties). Key relationship types: acquaintance, employer-employee.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (63), Dmitri Karamazov (61), Fyodor Karamazov (36), Ivan Karamazov (31)",
+    "Key ties: Fenya–Grushenka (employer-employee), Dmitri–Pyotr (transactional relationship), Dmitri–Pyotr (acquaintance), Pyotr–Mikhail (other), +3 more",
+    "New characters: Pyotr, Pyotr, Mikhail, Andrey",
+    "Totals: 248 characters, 362 relations (+4 new, +7 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya violently confronts Fenya to learn that Grushenka has gone to Mokroe with an officer from her past, then calmly questions Fenya about the day's events. He retrieves his pistols from Pyotr Ilyitch, buys a large quantity of provisions and champagne, and prepares to go to Mokroe, despite his bloodstained appearance and erratic behavior. Pyotr Ilyitch worries about Mitya's state and intentions, but Mitya insists on going, while Pyotr Ilyitch later tries unsuccessfully to get information from Fenya by knocking on Grushenka's house late at night.",
+  "evidence_quotes": [
+    "Mitya ran in, pounced on Fenya and seized her by the throat.",
+    "Mitya seized ten roubles and handed it to Pyotr Ilyitch, then tossed another ten‐rouble note to Misha."
+  ],
+  "needs_review": false
+}

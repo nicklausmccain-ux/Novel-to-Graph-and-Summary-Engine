@@ -1,0 +1,71 @@
+{
+  "new_nodes": [
+    "trifon-borissovitch",
+    "sonia-karamazov",
+    "stepan-trofimovich",
+    "fedor-pavlovich-kalganov",
+    "ivan-fedorovich-miusov",
+    "marya"
+  ],
+  "new_edges": [
+    {
+      "source": "trifon-borissovitch",
+      "target": "dmitri-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "trifon-borissovitch",
+      "target": "agrafena-alexandrovna-svetlova",
+      "label": "indirect relationship"
+    },
+    {
+      "source": "sonia-karamazov",
+      "target": "stepan-trofimovich",
+      "label": "in-law relationship"
+    },
+    {
+      "source": "fedor-pavlovich-kalganov",
+      "target": "ivan-fedorovich-miusov",
+      "label": "relative"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "marya",
+      "label": "romantic interest"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "maxim-maximovich",
+      "label": "friendship"
+    },
+    {
+      "source": "maxim-maximovich",
+      "target": "grushenka",
+      "label": "friendship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "maxim-maximovich",
+      "label": "unknown"
+    }
+  ],
+  "summary": "New characters: Trifon Borissovitch, Sonia Karamazov, Stepan Trofimovich, Fedor Pavlovich Kalganov, Ivan Fedorovich Miusov, Marya. New connections: Trifon–Dmitri (acquaintance), Trifon–Agrafena (indirect relationship), Sonia–Stepan (in-law relationship), Fedor–Ivan (relative) and 4 more.",
+  "summary_short": "Introduces Trifon Borissovitch, Sonia Karamazov, Stepan Trofimovich, Fedor Pavlovich Kalganov, and 2 others. Dmitri Karamazov is the most connected figure (64 ties). Key relationship types: friendship, acquaintance.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (64), Alyosha Karamazov (63), Fyodor Karamazov (36), Ivan Karamazov (31)",
+    "Key ties: Trifon–Dmitri (acquaintance), Trifon–Agrafena (indirect relationship), Sonia–Stepan (in-law relationship), Fedor–Ivan (relative), +4 more",
+    "New characters: Trifon, Sonia, Stepan, Fedor, Ivan, Marya",
+    "Totals: 254 characters, 370 relations (+6 new, +8 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Dmitri Fyodorovitch rushes to Mokroe with Andrey, eager to see Grushenka one last time despite his inner turmoil and resolution to punish himself. Upon arrival at the inn, he learns Grushenka is there with several gentlemen, including Kalganov and Maximov, and arranges for a lively celebration with wine, food, and singing girls. Dmitri secretly observes the group before boldly entering the room, where Grushenka is the first to notice him.",
+  "evidence_quotes": [
+    "Mitya cried out in horrible anxiety: 'Andrey! What if they’re asleep?'",
+    "‘Aie!’ shrieked Grushenka, the first to notice him."
+  ],
+  "needs_review": false
+}

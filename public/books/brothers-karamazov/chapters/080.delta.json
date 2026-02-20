@@ -1,0 +1,48 @@
+{
+  "new_nodes": [
+    "ivan-fedorovich-dyachkov",
+    "alyoshas-father",
+    "foma-fomich-opiskin"
+  ],
+  "new_edges": [
+    {
+      "source": "ippolit-kirillovitch",
+      "target": "alyosha-karamazov",
+      "label": "professional relationship"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "ivan-fedorovich-dyachkov",
+      "label": "professional relationship"
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "alyoshas-father",
+      "label": "professional relationship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "foma-fomich-opiskin",
+      "label": "client-lawyer relationship"
+    }
+  ],
+  "summary": "New characters: Ivan Fedorovich Dyachkov, Alyoshas Father, Foma Fomich Opiskin. New connections: Ippolit–Alyosha (professional relationship), Captain–Ivan (professional relationship), Grigory–Alyoshas (professional relationship), Dmitri–Foma (client-lawyer relationship).",
+  "summary_short": "Introduces Ivan Fedorovich Dyachkov, Alyoshas Father and Foma Fomich Opiskin. Alyosha Karamazov is the most connected figure (80 ties). Key relationship types: professional relationship, client-lawyer relationship.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (80), Dmitri Karamazov (77), Fyodor Karamazov (40), Ivan Karamazov (38)",
+    "Key ties: Ippolit–Alyosha (professional relationship), Captain–Ivan (professional relationship), Grigory–Alyoshas (professional relationship), Dmitri–Foma (client-lawyer relationship)",
+    "New characters: Ivan, Alyoshas, Foma",
+    "Totals: 363 characters, 542 relations (+3 new, +4 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "The trial of Dmitri Karamazov begins with great public interest and a packed courtroom including many ladies who favor Mitya. The court is described in detail, including the judges, prosecutor, defense counsel Fetyukovitch, and the jury, who are mostly petty officials, merchants, peasants, and artisans. During the proceedings, Mitya makes a loud outburst about Smerdyakov's death and pleads guilty to drunkenness and dissipation but denies guilt in the murder, after which the witnesses begin to be called.",
+  "evidence_quotes": [
+    "Visitors had arrived not only from the chief town of our province",
+    "“I plead guilty to drunkenness and dissipation,” he exclaimed"
+  ],
+  "needs_review": false
+}

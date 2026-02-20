@@ -1,0 +1,38 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "nina",
+      "label": "acquaintance"
+    },
+    {
+      "source": "kolya-ivanovich-krasotkin",
+      "target": "madame-hohlakov",
+      "label": "family"
+    },
+    {
+      "source": "alexei-karamazov",
+      "target": "nikolai-ivanovich-krasotkin",
+      "label": "friend"
+    }
+  ],
+  "summary": "New connections: Kolya–Nina (acquaintance), Kolya–Madame (family), Alexei–Nikolai (friend).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (77 ties). Key relationship types: acquaintance, family.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (77), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Kolya–Nina (acquaintance), Kolya–Madame (family), Alexei–Nikolai (friend)",
+    "Totals: 335 characters, 501 relations (+0 new, +3 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Kolya and Alyosha discuss Ilusha's critical condition and their differing beliefs about God and society. Kolya reveals his socialist views and insecurities, while Alyosha offers gentle understanding and encouragement. Their conversation deepens their friendship just as the doctor arrives with news about Ilusha.",
+  "evidence_quotes": [
+    "Ilusha is dying. I think that’s certain,” answered Alyosha",
+    "Kolya, for some reason, smiled, “And on that question at least I am quite of one mind with that pseudo‐great man."
+  ],
+  "needs_review": false
+}

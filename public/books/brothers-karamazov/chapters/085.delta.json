@@ -1,0 +1,42 @@
+{
+  "new_nodes": [
+    "mityas-father-fyodor-pavlovitch-karamazov",
+    "the-society-around-fyodor-pavlovich-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-karamazov",
+      "target": "mityas-father-fyodor-pavlovitch-karamazov",
+      "label": "Benefactor"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "the-society-around-fyodor-pavlovich-karamazov",
+      "label": "Member of society"
+    },
+    {
+      "source": "ippolit-kirillovitch",
+      "target": "ivan-karamazov",
+      "label": "rivalry"
+    }
+  ],
+  "summary": "New characters: Mityas Father Fyodor Pavlovitch Karamazov, The Society Around Fyodor Pavlovich Karamazov. New connections: Dmitri–Mityas (Benefactor), Fyodor–The (Member of society), Ippolit–Ivan (rivalry).",
+  "summary_short": "Introduces Mityas Father Fyodor Pavlovitch Karamazov and The Society Around Fyodor Pavlovich Karamazov. Alyosha Karamazov is the most connected figure (81 ties). Key relationship types: Benefactor, Member of society.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (81), Dmitri Karamazov (80), Fyodor Karamazov (43), Ivan Karamazov (40)",
+    "Key ties: Dmitri–Mityas (Benefactor), Fyodor–The (Member of society), Ippolit–Ivan (rivalry)",
+    "New characters: Mityas, The",
+    "Totals: 384 characters, 563 relations (+2 new, +3 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ippolit Kirillovitch delivers a passionate and sincere speech accusing the prisoner while reflecting on the moral decay in society and the Karamazov family. He describes the father, Fyodor Pavlovitch, and his three sons, focusing on the contradictory nature of the prisoner, Dmitri, who is torn between nobility and baseness. The speech also addresses Dmitri's financial disputes with his father and questions the credibility of Dmitri's claim about a bag of money he supposedly kept untouched.",
+  "evidence_quotes": [
+    "He genuinely believed in the prisoner’s guilt",
+    "He is a marvelous mingling of good and evil"
+  ],
+  "needs_review": false
+}

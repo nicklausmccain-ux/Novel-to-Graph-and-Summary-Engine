@@ -1,0 +1,31 @@
+{
+  "new_nodes": [
+    "mikhail"
+  ],
+  "new_edges": [
+    {
+      "source": "grushenka",
+      "target": "mikhail",
+      "label": "romantic interest"
+    }
+  ],
+  "summary": "New characters: Mikhail. New connections: Grushenka–Mikhail (romantic interest).",
+  "summary_short": "Introduces Mikhail. Alyosha Karamazov is the most connected figure (78 ties). Key relationship types: romantic interest.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (78), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (32)",
+    "Key ties: Grushenka–Mikhail (romantic interest)",
+    "New characters: Mikhail",
+    "Totals: 339 characters, 512 relations (+1 new, +1 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits Lise, who is seriously ill and expresses a desire for chaos and destruction. She reveals her dark thoughts and feelings, including a disturbing dream and a letter she insists Alyosha deliver to Ivan Fyodorovitch Karamazov immediately. After Alyosha leaves, Lise injures her finger slamming the door and laments her own wretchedness.",
+  "evidence_quotes": [
+    "I should like some one to torture me, marry me and then torture me",
+    "Give it to him, you must give it to him! To‐day, at once"
+  ],
+  "needs_review": false
+}

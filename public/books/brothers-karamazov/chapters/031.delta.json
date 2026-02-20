@@ -1,0 +1,78 @@
+{
+  "new_nodes": [
+    "grushenka-katerina-ivanovna-and-marfa-ignatyevna",
+    "captain-alyosha-karamazov",
+    "rodion-raskolnikov"
+  ],
+  "new_edges": [
+    {
+      "source": "ilusha",
+      "target": "fyodor-karamazov",
+      "label": "child"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "grushenka-katerina-ivanovna-and-marfa-ignatyevna",
+      "label": "caregiver"
+    },
+    {
+      "source": "grushenka",
+      "target": "captain-smerdyakov",
+      "label": "employer-employee"
+    },
+    {
+      "source": "ilusha",
+      "target": "captain-smerdyakov",
+      "label": "adversarial"
+    },
+    {
+      "source": "captain-alyosha-karamazov",
+      "target": "marya-karamazov",
+      "label": "spouse"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "captain-smerdyakov",
+      "label": "helper/benefactor"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "grushenka",
+      "label": "acquaintance or friend"
+    },
+    {
+      "source": "alexei-karamazov",
+      "target": "varvara-ivanovna",
+      "label": "Compassionate Caregiver"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "nina",
+      "label": "Caretaker"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "nina",
+      "label": "family"
+    }
+  ],
+  "summary": "New characters: Grushenka Katerina Ivanovna And Marfa Ignatyevna, Captain Alyosha Karamazov, Rodion Raskolnikov. New connections: Ilusha–Fyodor (child), Dmitri–Grushenka (caregiver), Grushenka–Captain (employer-employee), Ilusha–Captain (adversarial) and 6 more.",
+  "summary_short": "Introduces Grushenka Katerina Ivanovna And Marfa Ignatyevna, Captain Alyosha Karamazov and Rodion Raskolnikov. Alyosha Karamazov is the most connected figure (37 ties). Key relationship types: child, caregiver.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (37), Dmitri Karamazov (31), Fyodor Karamazov (26), Ivan Karamazov (24)",
+    "Key ties: Ilusha–Fyodor (child), Dmitri–Grushenka (caregiver), Grushenka–Captain (employer-employee), Ilusha–Captain (adversarial), +6 more",
+    "New characters: Grushenka, Captain, Rodion",
+    "Totals: 121 characters, 202 relations (+3 new, +10 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits the captain to discuss the incident involving Dmitri and Ilusha, learning about the captain's struggles and Ilusha's suffering at school. Alyosha offers the captain two hundred roubles sent by Dmitri's betrothed to help his family, but the captain angrily refuses the money, valuing his honor above financial aid. The chapter ends with the captain rejecting the money and running away, while Alyosha picks up the crumpled notes and plans to report back to Katerina Ivanovna.",
+  "evidence_quotes": [
+    "‘Let me tell you of your brother’s highly chivalrous soldierly generosity.’",
+    "‘Tell those who sent you that the wisp of tow does not sell his honor.’"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,73 @@
+{
+  "new_nodes": [
+    "god",
+    "the-elder",
+    "paissy-velitchkovsky",
+    "the-disciples-of-paissy-velitchkovsky",
+    "zossima",
+    "aloysius-karamazov",
+    "patriarch-of-constantinople",
+    "patriarch-filaret"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "god",
+      "label": "spiritual aspiration"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "maria-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "the-elder",
+      "label": "mentor"
+    },
+    {
+      "source": "paissy-velitchkovsky",
+      "target": "the-disciples-of-paissy-velitchkovsky",
+      "label": "teacher-student"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "zossima",
+      "label": "successor"
+    },
+    {
+      "source": "aloysius-karamazov",
+      "target": "patriarch-of-constantinople",
+      "label": "seeking release"
+    },
+    {
+      "source": "patriarch-filaret",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "power"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "zossima",
+      "label": "mentor"
+    }
+  ],
+  "summary": "New characters: God, The Elder, Paissy Velitchkovsky, The Disciples Of Paissy Velitchkovsky, Zossima, Aloysius Karamazov and 2 more. New connections: Alyosha–God (spiritual aspiration), Alyosha–Maria (parent), Alyosha–The (mentor), Paissy–The (teacher-student) and 4 more.",
+  "summary_short": "Introduces God, The Elder, Paissy Velitchkovsky, The Disciples Of Paissy Velitchkovsky, and 4 others. Alyosha Karamazov is the most connected figure (13 ties). Key relationship types: mentor, spiritual aspiration.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (13), Fyodor Karamazov (11), Dmitri Karamazov (8), Ivan Karamazov (7)",
+    "Key ties: Alyosha–God (spiritual aspiration), Alyosha–Maria (parent), Alyosha–The (mentor), Paissy–The (teacher-student), +4 more",
+    "New characters: God, The, Paissy, The, Zossima, Aloysius, +2 more",
+    "Totals: 25 characters, 40 relations (+8 new, +8 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "Alyosha is described as a healthy, thoughtful young man deeply devoted to his faith and the elder Zossima, who holds great spiritual authority in the monastery. The elder Zossima is revered by many for his wisdom and healing powers, attracting numerous pilgrims despite his declining health. A tense family gathering is planned in the elder's cell to address conflicts, with Alyosha anxious about the outcome and the elder's well-being.",
+  "evidence_quotes": [
+    "Alyosha was at this time a well‐grown, red‐cheeked, clear‐eyed lad of nineteen",
+    "The elder Zossima was sixty‐five... he had acquired the keenest intuition"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,38 @@
+{
+  "new_nodes": [
+    "ivan",
+    "katya",
+    "dr-mikhail-ivanovich"
+  ],
+  "new_edges": [
+    {
+      "source": "ivan",
+      "target": "katya",
+      "label": "romantic interest"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "dr-mikhail-ivanovich",
+      "label": "patient-doctor relationship"
+    }
+  ],
+  "summary": "New characters: Ivan, Katya, Dr Mikhail Ivanovich. New connections: Ivan–Katya (romantic interest), Ivan–Dr (patient-doctor relationship).",
+  "summary_short": "Introduces Ivan, Katya and Dr Mikhail Ivanovich. Alyosha Karamazov is the most connected figure (81 ties). Key relationship types: romantic interest, patient-doctor relationship.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (81), Dmitri Karamazov (79), Fyodor Karamazov (42), Ivan Karamazov (39)",
+    "Key ties: Ivan–Katya (romantic interest), Ivan–Dr (patient-doctor relationship)",
+    "New characters: Ivan, Katya, Dr",
+    "Totals: 382 characters, 560 relations (+3 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan appears in court looking ill and gives reluctant, brief testimony denying knowledge of key details but then dramatically reveals money from Smerdyakov, claiming Smerdyakov was the murderer. Katerina Ivanovna has a hysterical outburst, presenting a letter from Mitya that implicates him in the murder and describes their troubled relationship. The court is thrown into chaos as Ivan is forcibly removed due to brain fever, Katerina is carried out in hysteria, and a doctor confirms Ivan's mental state before the trial continues.",
+  "evidence_quotes": [
+    "Ivan suddenly pulled out a roll of notes.",
+    "Katerina Ivanovna had an attack of hysterics."
+  ],
+  "needs_review": false
+}

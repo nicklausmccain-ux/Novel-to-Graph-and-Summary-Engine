@@ -1,0 +1,59 @@
+{
+  "new_nodes": [
+    "stefan-trofimovich-miusov",
+    "father-iosif",
+    "mikhailovitch-miusov",
+    "pavel-smerdyakov"
+  ],
+  "new_edges": [
+    {
+      "source": "ivan-karamazov",
+      "target": "stefan-trofimovich-miusov",
+      "label": "intellectual peers"
+    },
+    {
+      "source": "father-iosif",
+      "target": "ivan-karamazov",
+      "label": "professional acquaintance"
+    },
+    {
+      "source": "father-iosif",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "colleagues"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "mikhail-rakitin",
+      "label": "discussants"
+    },
+    {
+      "source": "mikhailovitch-miusov",
+      "target": "ivan-karamazov",
+      "label": "discussants"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "pavel-smerdyakov",
+      "label": "observation"
+    }
+  ],
+  "summary": "New characters: Stefan Trofimovich Miusov, Father Iosif, Mikhailovitch Miusov, Pavel Smerdyakov. New connections: Ivan–Stefan (intellectual peers), Father–Ivan (professional acquaintance), Father–Zosima (colleagues), Ivan–Mikhail (discussants) and 2 more.",
+  "summary_short": "Introduces Stefan Trofimovich Miusov, Father Iosif, Mikhailovitch Miusov and Pavel Smerdyakov. Alyosha Karamazov is the most connected figure (21 ties). Key relationship types: discussants, intellectual peers.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (21), Fyodor Karamazov (17), Ivan Karamazov (14), Zosima Fyodorovich Karamazov (14)",
+    "Key ties: Ivan–Stefan (intellectual peers), Father–Ivan (professional acquaintance), Father–Zosima (colleagues), Ivan–Mikhail (discussants), +2 more",
+    "New characters: Stefan, Father, Mikhailovitch, Pavel",
+    "Totals: 57 characters, 83 relations (+4 new, +6 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Ivan Karamazov"
+  ],
+  "story_summary": "Father Zossima returns to find the guests engaged in a heated discussion about Ivan's article on Church and State jurisdiction. Ivan argues that the Church should ultimately encompass the State, transforming society into a Christian Church that reforms criminals through conscience rather than punishment. Miüsov expresses skepticism and recounts an anecdote about socialist Christians being feared, just as Dmitri Fyodorovitch unexpectedly arrives.",
+  "evidence_quotes": [
+    "Ivan...maintain[s] that the Church ought to include the whole State",
+    "Dmitri Fyodorovitch, came in...his sudden appearance caused some surprise"
+  ],
+  "needs_review": false
+}

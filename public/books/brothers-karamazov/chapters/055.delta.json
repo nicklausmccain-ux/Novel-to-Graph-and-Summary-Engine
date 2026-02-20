@@ -1,0 +1,73 @@
+{
+  "new_nodes": [
+    "maria-makarovitch",
+    "darya-makarovitch-and-sofia-makarovitch",
+    "ippolit-kirillovitch",
+    "olga-mihailovna",
+    "prosecutor-ippolit-kirillovich",
+    "dr-ivan-fyodorovich-pavlovitch",
+    "rogozhin",
+    "kavalov"
+  ],
+  "new_edges": [
+    {
+      "source": "maria-makarovitch",
+      "target": "darya-makarovitch-and-sofia-makarovitch",
+      "label": "parent"
+    },
+    {
+      "source": "ippolit-kirillovitch",
+      "target": "marfa-ignatyevna-karamazov",
+      "label": "spousal relationship"
+    },
+    {
+      "source": "ippolit-kirillovitch",
+      "target": "olga-mihailovna",
+      "label": "friend"
+    },
+    {
+      "source": "marya-kondratyevna",
+      "target": "grigory-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "prosecutor-ippolit-kirillovich",
+      "target": "dmitri-karamazov",
+      "label": "Other"
+    },
+    {
+      "source": "prosecutor-ippolit-kirillovich",
+      "target": "ippolit-kirillovitch",
+      "label": "Other"
+    },
+    {
+      "source": "dr-ivan-fyodorovich-pavlovitch",
+      "target": "fyodor-karamazov",
+      "label": "professional relationship"
+    },
+    {
+      "source": "rogozhin",
+      "target": "kavalov",
+      "label": "professional relationship"
+    }
+  ],
+  "summary": "New characters: Maria Makarovitch, Darya Makarovitch And Sofia Makarovitch, Ippolit Kirillovitch, Olga Mihailovna, Prosecutor Ippolit Kirillovich, Dr Ivan Fyodorovich Pavlovitch and 2 more. New connections: Maria–Darya (parent), Ippolit–Marfa (spousal relationship), Ippolit–Olga (friend), Marya–Grigory (acquaintance) and 4 more.",
+  "summary_short": "Introduces Maria Makarovitch, Darya Makarovitch And Sofia Makarovitch, Ippolit Kirillovitch, Olga Mihailovna, and 4 others. Dmitri Karamazov is the most connected figure (70 ties). Key relationship types: Other, professional relationship.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (70), Alyosha Karamazov (64), Fyodor Karamazov (39), Ivan Karamazov (31)",
+    "Key ties: Maria–Darya (parent), Ippolit–Marfa (spousal relationship), Ippolit–Olga (friend), Marya–Grigory (acquaintance), +4 more",
+    "New characters: Maria, Darya, Ippolit, Olga, Prosecutor, Dr, +2 more",
+    "Totals: 277 characters, 401 relations (+8 new, +8 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mihail Makarovitch Makarov, the police captain, hosts a social gathering where many key town figures are present. During the evening, news arrives that Fyodor Pavlovitch has been murdered in his home, and witnesses find Grigory injured nearby. An inquiry begins immediately, and authorities prepare to pursue the suspect, Dmitri Fyodorovitch, who is believed to be planning suicide.",
+  "evidence_quotes": [
+    "old Fyodor Pavlovitch really had been murdered that evening",
+    "It was resolved to act with energy"
+  ],
+  "needs_review": false
+}

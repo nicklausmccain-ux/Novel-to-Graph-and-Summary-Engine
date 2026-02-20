@@ -1,0 +1,44 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "kolya",
+      "label": "friend"
+    },
+    {
+      "source": "ilusha",
+      "target": "pavel-smerdyakov",
+      "label": "Other"
+    },
+    {
+      "source": "alexei-karamazov",
+      "target": "nikolai-ivanovich-krassotkin",
+      "label": "friend"
+    },
+    {
+      "source": "nikolai-ivanovich-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "friend"
+    }
+  ],
+  "summary": "New connections: Alyosha–Kolya (friend), Ilusha–Pavel (Other), Alexei–Nikolai (friend), Nikolai–Alyosha (friend).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (76 ties). Key relationship types: friend, Other.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (76), Dmitri Karamazov (74), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Alyosha–Kolya (friend), Ilusha–Pavel (Other), Alexei–Nikolai (friend), Nikolai–Alyosha (friend)",
+    "Totals: 322 characters, 475 relations (+0 new, +4 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Kolya eagerly awaits Alyosha's arrival, hoping to impress him and explain the situation with Ilusha and the lost dog. Alyosha arrives, and they discuss Ilusha's illness, the teasing he endured, and Kolya's efforts to protect and discipline him. Kolya reveals his plan to perform a theatrical trick involving his dog Perezvon to amuse Ilusha and deepen his acquaintance with Alyosha.",
+  "evidence_quotes": [
+    "Ilusha is very ill. He is certainly dying.",
+    "I took him under my protection.",
+    "I’ll show you something directly, Karamazov; it’s a theatrical performance, too."
+  ],
+  "needs_review": false
+}

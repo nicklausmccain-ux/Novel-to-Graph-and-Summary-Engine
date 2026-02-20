@@ -1,0 +1,58 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "fenya",
+      "target": "pyotr-ilyitch-perhotin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "pyotr-ilyitch-smerdyakov",
+      "target": "fyodor-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "pyotr-ilyitch-smerdyakov",
+      "target": "madame-hohlakov",
+      "label": "other"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "pyotr-ilyitch-perhotin",
+      "label": "other"
+    },
+    {
+      "source": "pyotr-ilyitch-perhotin",
+      "target": "madame-hohlakov",
+      "label": "Stranger"
+    },
+    {
+      "source": "grushenka",
+      "target": "marya-kondratyevna",
+      "label": "acquaintance"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "maria-petrovna",
+      "label": "eccentric meeting"
+    }
+  ],
+  "summary": "New connections: Fenya–Pyotr (acquaintance), Pyotr–Fyodor (other), Pyotr–Madame (other), Fyodor–Pyotr (other) and 3 more.",
+  "summary_short": "Dmitri Karamazov is the most connected figure (69 ties). Key relationship types: other, acquaintance.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (69), Alyosha Karamazov (64), Fyodor Karamazov (38), Ivan Karamazov (31)",
+    "Key ties: Fenya–Pyotr (acquaintance), Pyotr–Fyodor (other), Pyotr–Madame (other), Fyodor–Pyotr (other), +3 more",
+    "Totals: 269 characters, 393 relations (+0 new, +7 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Pyotr Ilyitch Perhotin visits Fenya to question her about Dmitri Fyodorovitch's bloodied hands and learns that Dmitri claimed to have killed someone. Pyotr then goes to Madame Hohlakov to verify if she gave Dmitri three thousand roubles, but she denies it and expresses fear for Fyodor Pavlovitch's safety. After receiving a written statement from Madame Hohlakov, Pyotr decides to report the matter to the police captain.",
+  "evidence_quotes": [
+    "Dmitri Fyodorovitch had run out to look for Grushenka",
+    "Madame Hohlakov’s face assumed an expression of intense and painful excitement"
+  ],
+  "needs_review": false
+}

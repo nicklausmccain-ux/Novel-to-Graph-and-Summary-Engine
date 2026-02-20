@@ -1,0 +1,43 @@
+{
+  "new_nodes": [
+    "not-a-specific-character",
+    "the-prisoner",
+    "his-father"
+  ],
+  "new_edges": [
+    {
+      "source": "fyodor-karamazov",
+      "target": "ippolit-kirillovitch",
+      "label": "defendant/accuser"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "not-a-specific-character",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "the-prisoner",
+      "target": "his-father",
+      "label": "father-son"
+    }
+  ],
+  "summary": "New characters: Not A Specific Character, The Prisoner, His Father. New connections: Fyodor–Ippolit (defendant/accuser), Dmitri–Not (unknown relationship), The–His (father-son).",
+  "summary_short": "Introduces Not A Specific Character, The Prisoner and His Father. Dmitri Karamazov is the most connected figure (84 ties). Key relationship types: defendant/accuser, unknown relationship.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (84), Alyosha Karamazov (81), Fyodor Karamazov (47), Ivan Karamazov (40)",
+    "Key ties: Fyodor–Ippolit (defendant/accuser), Dmitri–Not (unknown relationship), The–His (father-son)",
+    "New characters: Not, The, His",
+    "Totals: 394 characters, 576 relations (+3 new, +3 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Fetyukovitch argues that the alleged stolen three thousand roubles may never have existed and challenges the prosecution's evidence. He suggests alternative explanations for the missing money, including that Fyodor Pavlovitch himself might have taken it, and questions the reliability of witness testimonies. Fetyukovitch also disputes the interpretation of the prisoner's letter and denies the charge of robbery, emphasizing the lack of concrete proof.",
+  "evidence_quotes": [
+    "he flatly denied the existence of the fatal three thousand roubles",
+    "the charge of robbery I repudiate with indignation"
+  ],
+  "needs_review": false
+}

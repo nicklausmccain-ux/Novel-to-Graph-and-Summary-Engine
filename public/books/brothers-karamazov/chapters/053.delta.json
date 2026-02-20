@@ -1,0 +1,54 @@
+{
+  "new_nodes": [
+    "sonia-marmeladov",
+    "aleksandr-ivanovich-karamazov",
+    "mihail-makarovitch",
+    "mavriky-mavrikyevitch"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "sonia-marmeladov",
+      "label": "romantic connection"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "trifon-borissovitch",
+      "label": "other relationship"
+    },
+    {
+      "source": "aleksandr-ivanovich-karamazov",
+      "target": "grushenka",
+      "label": "former romantic connection"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "mihail-makarovitch",
+      "label": "law enforcement officer"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "mavriky-mavrikyevitch",
+      "label": "law enforcement officer"
+    }
+  ],
+  "summary": "New characters: Sonia Marmeladov, Aleksandr Ivanovich Karamazov, Mihail Makarovitch, Mavriky Mavrikyevitch. New connections: Rodion–Sonia (romantic connection), Rodion–Trifon (other relationship), Aleksandr–Grushenka (former romantic connection), Dmitri–Mihail (law enforcement officer) and 1 more.",
+  "summary_short": "Introduces Sonia Marmeladov, Aleksandr Ivanovich Karamazov, Mihail Makarovitch and Mavriky Mavrikyevitch. Dmitri Karamazov is the most connected figure (69 ties). Key relationship types: law enforcement officer, romantic connection.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (69), Alyosha Karamazov (64), Fyodor Karamazov (36), Ivan Karamazov (31)",
+    "Key ties: Rodion–Sonia (romantic connection), Rodion–Trifon (other relationship), Aleksandr–Grushenka (former romantic connection), Dmitri–Mihail (law enforcement officer), +1 more",
+    "New characters: Sonia, Aleksandr, Mihail, Mavriky",
+    "Totals: 269 characters, 386 relations (+4 new, +5 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya and Grushenka host a wild, drunken feast with peasants and friends, where Grushenka reveals her deep feelings and confesses her love for Mitya. As the party continues, Mitya struggles with his inner turmoil about his past actions and his love for Grushenka. The celebration is abruptly interrupted when police and officials arrive to arrest Mitya, charging him with the murder of his father.",
+  "evidence_quotes": [
+    "Grushenka babbled on, getting more and more drunk.",
+    "Ex‐Lieutenant Karamazov, it is my duty to inform you that you are charged."
+  ],
+  "needs_review": false
+}

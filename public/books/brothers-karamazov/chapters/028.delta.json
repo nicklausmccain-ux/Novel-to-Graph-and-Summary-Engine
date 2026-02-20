@@ -1,0 +1,63 @@
+{
+  "new_nodes": [
+    "cinderella-lise",
+    "praskovya-ivanovna",
+    "yulia-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "madame-hohlakov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "dmitri-karamazov",
+      "label": "family relation"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "alexei-karamazov",
+      "label": "mother-daughter"
+    },
+    {
+      "source": "cinderella-lise",
+      "target": "alyosha-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "marfa-ignatyevna-karamazov",
+      "label": "family"
+    },
+    {
+      "source": "praskovya-ivanovna",
+      "target": "yulia-ivanovna",
+      "label": "friend"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "ivan-karamazov",
+      "label": "romantic involvement"
+    }
+  ],
+  "summary": "New characters: Cinderella Lise, Praskovya Ivanovna, Yulia Ivanovna. New connections: Alyosha–Madame (acquaintance), Madame–Dmitri (family relation), Madame–Alexei (mother-daughter), Cinderella–Alyosha (friend) and 3 more.",
+  "summary_short": "Introduces Cinderella Lise, Praskovya Ivanovna and Yulia Ivanovna. Alyosha Karamazov is the most connected figure (32 ties). Key relationship types: friend, acquaintance.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (32), Dmitri Karamazov (28), Fyodor Karamazov (24), Ivan Karamazov (21)",
+    "Key ties: Alyosha–Madame (acquaintance), Madame–Dmitri (family relation), Madame–Alexei (mother-daughter), Cinderella–Alyosha (friend), +3 more",
+    "New characters: Cinderella, Praskovya, Yulia",
+    "Totals: 105 characters, 169 relations (+3 new, +7 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha arrives at Madame Hohlakov’s house and is greeted with news about a recent miracle and the tense situation involving Katerina Ivanovna and Alyosha's brothers. Lise, who is ill and hysterical, tends to Alyosha's injured finger while they discuss his recent encounters and plans. Madame Hohlakov reveals the complicated romantic entanglements involving Alyosha's brothers and insists on accompanying him to witness the unfolding drama.",
+  "evidence_quotes": [
+    "He restored the son to his mother!",
+    "She loves your brother, Ivan, and she is doing her utmost to persuade herself she loves your brother, Dmitri."
+  ],
+  "needs_review": false
+}

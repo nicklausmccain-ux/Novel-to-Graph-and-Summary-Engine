@@ -1,0 +1,47 @@
+{
+  "new_nodes": [
+    "alyosha-kalganov",
+    "makarov-miusov"
+  ],
+  "new_edges": [
+    {
+      "source": "ivan-karamazov",
+      "target": "alyosha-kalganov",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "makarov-miusov",
+      "label": "self-relationship (to self)"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "pyotr-alexandrovitch-miusov",
+      "label": "other relationship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "unknown"
+    }
+  ],
+  "summary": "New characters: Alyosha Kalganov, Makarov Miusov. New connections: Ivan–Alyosha (unknown relationship), Pyotr–Makarov (self-relationship (to self)), Zosima–Pyotr (other relationship), Dmitri–Zosima (unknown).",
+  "summary_short": "Introduces Alyosha Kalganov and Makarov Miusov. Fyodor Karamazov is the most connected figure (15 ties). Key relationship types: unknown relationship, self-relationship (to self).",
+  "highlights": [
+    "Most central: Fyodor Karamazov (15), Alyosha Karamazov (14), Ivan Karamazov (10), Dmitri Karamazov (9)",
+    "Key ties: Ivan–Alyosha (unknown relationship), Pyotr–Makarov (self-relationship (to self)), Zosima–Pyotr (other relationship), Dmitri–Zosima (unknown)",
+    "New characters: Alyosha, Makarov",
+    "Totals: 32 characters, 52 relations (+2 new, +4 new)"
+  ],
+  "key_characters": [
+    "Fyodor Karamazov",
+    "Alyosha Karamazov",
+    "Ivan Karamazov"
+  ],
+  "story_summary": "Father Zossima receives visitors including Fyodor Pavlovitch, Miüsov, and others in his cell, where a formal ceremony of reverence takes place. Fyodor Pavlovitch behaves like a buffoon, telling stories and making jokes that embarrass the other visitors, especially Miüsov and Alyosha. Despite the awkwardness, Father Zossima responds with patience and wisdom, advising Fyodor Pavlovitch on honesty and humility before leaving the room to attend other visitors.",
+  "evidence_quotes": [
+    "Father Zossima sat down on a very old‐fashioned mahogany sofa",
+    "‘Don’t lie to yourself,’ said the elder"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,28 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "pavel-smerdyakov",
+      "target": "marya-kondratyevna",
+      "label": "other"
+    }
+  ],
+  "summary": "New connections: Pavel–Marya (other).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (78 ties). Key relationship types: other.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (78), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (33)",
+    "Key ties: Pavel–Marya (other)",
+    "Totals: 340 characters, 516 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha visits Katerina Ivanovna and finds Ivan there; she urges Alyosha to follow Ivan because he is mad. Ivan and Alyosha have a tense conversation about the murder, with Alyosha insisting Ivan is not the murderer and Ivan rejecting him. Ivan then abruptly breaks off relations with Alyosha and goes to visit the ailing Smerdyakov at Marya Kondratyevna's house.",
+  "evidence_quotes": [
+    "She’s mad! Don’t you know that he’s mad?",
+    "I tell you once and for all, it’s not you."
+  ],
+  "needs_review": false
+}

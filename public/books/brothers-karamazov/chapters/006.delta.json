@@ -1,0 +1,70 @@
+{
+  "new_nodes": [
+    "mikhail-rakitin",
+    "alyoshenka-miusov",
+    "captain-smerdyakov",
+    "maxim-maximovich",
+    "the-monk"
+  ],
+  "new_edges": [
+    {
+      "source": "mikhail-rakitin",
+      "target": "alyosha-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "alyoshenka-miusov",
+      "target": "captain-smerdyakov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "maxim-maximovich",
+      "target": "fyodor-karamazov",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "maxim-maximovich",
+      "label": "stranger"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "professional"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "the-monk",
+      "label": "antagonistic"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "disdain"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "fyodor-karamazov",
+      "label": "other"
+    }
+  ],
+  "summary": "New characters: Mikhail Rakitin, Alyoshenka Miusov, Captain Smerdyakov, Maxim Maximovich, The Monk. New connections: Mikhail–Alyosha (guardian), Alyoshenka–Captain (acquaintance), Maxim–Fyodor (unknown relationship), Ivan–Maxim (stranger) and 4 more.",
+  "summary_short": "Introduces Mikhail Rakitin, Alyoshenka Miusov, Captain Smerdyakov, Maxim Maximovich, and 1 others. Fyodor Karamazov is the most connected figure (15 ties). Key relationship types: guardian, acquaintance.",
+  "highlights": [
+    "Most central: Fyodor Karamazov (15), Alyosha Karamazov (14), Ivan Karamazov (9), Dmitri Karamazov (8)",
+    "Key ties: Mikhail–Alyosha (guardian), Alyoshenka–Captain (acquaintance), Maxim–Fyodor (unknown relationship), Ivan–Maxim (stranger), +4 more",
+    "New characters: Mikhail, Alyoshenka, Captain, Maxim, The",
+    "Totals: 30 characters, 48 relations (+5 new, +8 new)"
+  ],
+  "key_characters": [
+    "Fyodor Karamazov",
+    "Alyosha Karamazov",
+    "Ivan Karamazov"
+  ],
+  "story_summary": "Miüsov and Pyotr Fomitch Kalganov arrive at the monastery with Fyodor Pavlovitch and Ivan, while Dmitri is late. They are guided by Maximov and a monk to the hermitage to meet Father Zossima, despite some awkwardness and Fyodor Pavlovitch's disruptive behavior. Upon arrival, they observe the surroundings and prepare to meet the elder, with Miüsov feeling irritated and anticipating a quarrel.",
+  "evidence_quotes": [
+    "Miüsov and a distant relative of his, a young man called Pyotr Fomitch Kalganov.",
+    "The Father Superior invites all of you gentlemen to dine with him after your visit."
+  ],
+  "needs_review": false
+}

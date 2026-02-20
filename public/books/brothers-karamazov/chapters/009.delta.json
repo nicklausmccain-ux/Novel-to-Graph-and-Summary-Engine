@@ -1,0 +1,74 @@
+{
+  "new_nodes": [
+    "marya-dmitrievna-karamazov",
+    "lise-svetlov",
+    "lisa-karamazov",
+    "lisaveta-smerdyakovna-karamazova"
+  ],
+  "new_edges": [
+    {
+      "source": "marya-dmitrievna-karamazov",
+      "target": "alexei-karamazov",
+      "label": "mother"
+    },
+    {
+      "source": "lise-svetlov",
+      "target": "alyosha-karamazov",
+      "label": "daughter"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "alexei-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "katerina-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "marfa-ignatyevna-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "lisa-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "grushenka",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "other relationship"
+    },
+    {
+      "source": "lisaveta-smerdyakovna-karamazova",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "zosima-fyodorovich-karamazov",
+      "target": "alexei-karamazov",
+      "label": "other"
+    }
+  ],
+  "summary": "New characters: Marya Dmitrievna Karamazov, Lise Svetlov, Lisa Karamazov, Lisaveta Smerdyakovna Karamazova. New connections: Marya–Alexei (mother), Lise–Alyosha (daughter), Alyosha–Alexei (acquaintance), Alyosha–Katerina (acquaintance) and 5 more.",
+  "summary_short": "Introduces Marya Dmitrievna Karamazov, Lise Svetlov, Lisa Karamazov and Lisaveta Smerdyakovna Karamazova. Alyosha Karamazov is the most connected figure (20 ties). Key relationship types: acquaintance, other.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (20), Fyodor Karamazov (17), Zosima Fyodorovich Karamazov (13), Ivan Karamazov (10)",
+    "Key ties: Marya–Alexei (mother), Lise–Alyosha (daughter), Alyosha–Alexei (acquaintance), Alyosha–Katerina (acquaintance), +5 more",
+    "New characters: Marya, Lise, Lisa, Lisaveta",
+    "Totals: 53 characters, 77 relations (+4 new, +9 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Zosima Fyodorovich Karamazov"
+  ],
+  "story_summary": "A society lady expresses gratitude to the elder for healing her daughter Lise, who shows signs of improvement. Alyosha receives an urgent note from Katerina Ivanovna asking him to visit her, which he agrees to do despite his surprise. The lady confesses her spiritual doubts to the elder, who advises her to strive for active love, while Lise playfully mocks Alyosha and expresses hurt over his distant behavior.",
+  "evidence_quotes": [
+    "You have healed my Lise, healed her completely",
+    "Katerina Ivanovna has sent you this through me"
+  ],
+  "needs_review": false
+}

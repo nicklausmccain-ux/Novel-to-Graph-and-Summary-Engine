@@ -1,0 +1,58 @@
+{
+  "new_nodes": [
+    "maria-nikolaevna-karamazov",
+    "unnamed-character-likely-dmitri-or-another-karamazov",
+    "foma-fomich-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "ekaterina-karamazov",
+      "target": "adelaida-ivanovna-karamazov",
+      "label": "adoptive daughter"
+    },
+    {
+      "source": "maria-nikolaevna-karamazov",
+      "target": "ekaterina-karamazov",
+      "label": "benefactor"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "ekaterina-karamazov",
+      "label": "romantic interest"
+    },
+    {
+      "source": "unnamed-character-likely-dmitri-or-another-karamazov",
+      "target": "grushenka",
+      "label": "romantic interest"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "pavel-smerdyakov",
+      "label": "trust"
+    },
+    {
+      "source": "foma-fomich-karamazov",
+      "target": "grushenka",
+      "label": "work relationship"
+    }
+  ],
+  "summary": "New characters: Maria Nikolaevna Karamazov, Unnamed Character Likely Dmitri Or Another Karamazov, Foma Fomich Karamazov. New connections: Ekaterina–Adelaida (adoptive daughter), Maria–Ekaterina (benefactor), Ivan–Ekaterina (romantic interest), Unnamed–Grushenka (romantic interest) and 2 more.",
+  "summary_short": "Introduces Maria Nikolaevna Karamazov, Unnamed Character Likely Dmitri Or Another Karamazov and Foma Fomich Karamazov. Alyosha Karamazov is the most connected figure (24 ties). Key relationship types: romantic interest, adoptive daughter.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (24), Dmitri Karamazov (24), Fyodor Karamazov (22), Ivan Karamazov (18)",
+    "Key ties: Ekaterina–Adelaida (adoptive daughter), Maria–Ekaterina (benefactor), Ivan–Ekaterina (romantic interest), Unnamed–Grushenka (romantic interest), +2 more",
+    "New characters: Maria, Unnamed, Foma",
+    "Totals: 89 characters, 136 relations (+3 new, +6 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Dmitri explains to Alyosha the complicated situation involving his betrothal to Katerina Ivanovna and his passionate, troubled relationship with Grushenka. He reveals that he has spent money meant for Agafya Ivanovna on Grushenka and plans to send Alyosha to deliver a final message to Katerina Ivanovna, while he waits in secret to see if Grushenka will visit his father. Dmitri expresses despair and fear of a tragic outcome, but holds onto hope for a miracle as Alyosha prepares to confront their father.",
+  "evidence_quotes": [
+    "‘He sends you his compliments.’",
+    "‘I believe in miracles. Go!’"
+  ],
+  "needs_review": false
+}

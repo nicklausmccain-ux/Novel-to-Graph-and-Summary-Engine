@@ -1,0 +1,62 @@
+{
+  "new_nodes": [
+    "agrafena-alexandrovna-svetlova",
+    "father-isidore"
+  ],
+  "new_edges": [
+    {
+      "source": "mikhail-rakitin",
+      "target": "grushenka",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "katerina-karamazov",
+      "label": "romantic interest"
+    },
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "fyodor-karamazov",
+      "label": "romantic interest"
+    },
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "dmitri-karamazov",
+      "label": "romantic interest"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "katerina-karamazov",
+      "label": "potential romantic interest"
+    },
+    {
+      "source": "mikhail-rakitin",
+      "target": "dmitri-karamazov",
+      "label": "informant"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "father-isidore",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New characters: Agrafena Alexandrovna Svetlova, Father Isidore. New connections: Mikhail–Grushenka (Acquaintance), Ivan–Katerina (romantic interest), Agrafena–Fyodor (romantic interest), Agrafena–Dmitri (romantic interest) and 3 more.",
+  "summary_short": "Introduces Agrafena Alexandrovna Svetlova and Father Isidore. Alyosha Karamazov is the most connected figure (22 ties). Key relationship types: romantic interest, Acquaintance.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (22), Fyodor Karamazov (19), Ivan Karamazov (16), Dmitri Karamazov (14)",
+    "Key ties: Mikhail–Grushenka (Acquaintance), Ivan–Katerina (romantic interest), Agrafena–Fyodor (romantic interest), Agrafena–Dmitri (romantic interest), +3 more",
+    "New characters: Agrafena, Father",
+    "Totals: 59 characters, 95 relations (+2 new, +7 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Ivan Karamazov"
+  ],
+  "story_summary": "Alyosha assists the exhausted Father Zossima to his bedroom, where the elder gives Alyosha a final blessing and instructs him to leave the monastery when the time comes. On his way to serve at the Father Superior’s dinner, Alyosha encounters Rakitin, who discusses the tensions and potential conflicts within Alyosha’s family, particularly involving Dmitri, their father, and Grushenka. Their conversation is interrupted by a commotion as Alyosha’s father and brother Ivan leave the Father Superior’s dinner in anger, suggesting a scandalous scene has occurred.",
+  "evidence_quotes": [
+    "Go, my dear boy, go. Porfiry is enough for me.",
+    "There’s nothing wonderful about it, of course, only the usual holy mummery."
+  ],
+  "needs_review": false
+}

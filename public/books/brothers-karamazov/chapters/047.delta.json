@@ -1,0 +1,37 @@
+{
+  "new_nodes": [
+    "father-ivan-fyodorovich-zosimov",
+    "the-forester"
+  ],
+  "new_edges": [
+    {
+      "source": "father-ivan-fyodorovich-zosimov",
+      "target": "grigory-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "the-forester",
+      "target": "fyodor-karamazov",
+      "label": "other"
+    }
+  ],
+  "summary": "New characters: Father Ivan Fyodorovich Zosimov, The Forester. New connections: Father–Grigory (acquaintance), The–Fyodor (other).",
+  "summary_short": "Introduces Father Ivan Fyodorovich Zosimov and The Forester. Alyosha Karamazov is the most connected figure (63 ties). Key relationship types: acquaintance, other.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (63), Dmitri Karamazov (55), Fyodor Karamazov (36), Ivan Karamazov (31)",
+    "Key ties: Father–Grigory (acquaintance), The–Fyodor (other)",
+    "New characters: Father, The",
+    "Totals: 237 characters, 348 relations (+2 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya sells his old silver watch and borrows money to hire posting-horses to reach Lyagavy, hoping to resolve his troubles. Upon arrival, he finds Lyagavy drunk and uncooperative, forcing Mitya to wait overnight in despair and nearly suffocate from charcoal fumes. The next morning, realizing the futility of his mission, Mitya leaves the hut, wanders lost in the forest, and eventually returns to Volovya, where he prepares to confront his problems and rushes to see Grushenka.",
+  "evidence_quotes": [
+    "Mitya had not a farthing, and that he had sold his watch",
+    "The cursed peasant was drunk again, hopelessly and incurably"
+  ],
+  "needs_review": false
+}

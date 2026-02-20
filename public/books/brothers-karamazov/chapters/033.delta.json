@@ -1,0 +1,46 @@
+{
+  "new_nodes": [
+    "marya-kondratyevna"
+  ],
+  "new_edges": [
+    {
+      "source": "pavel-smerdyakov",
+      "target": "grushenka",
+      "label": "other"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "marya-kondratyevna",
+      "label": "other"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "marya-kondratyevna",
+      "label": "acquaintance"
+    },
+    {
+      "source": "marya-kondratyevna",
+      "target": "captain-smerdyakov",
+      "label": "friend"
+    }
+  ],
+  "summary": "New characters: Marya Kondratyevna. New connections: Pavel–Grushenka (other), Dmitri–Marya (other), Alyosha–Marya (acquaintance), Marya–Captain (friend).",
+  "summary_short": "Introduces Marya Kondratyevna. Alyosha Karamazov is the most connected figure (41 ties). Key relationship types: other, acquaintance.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (41), Dmitri Karamazov (32), Fyodor Karamazov (26), Ivan Karamazov (24)",
+    "Key ties: Pavel–Grushenka (other), Dmitri–Marya (other), Alyosha–Marya (acquaintance), Marya–Captain (friend)",
+    "New characters: Marya",
+    "Totals: 132 characters, 214 relations (+1 new, +4 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha sneaks into the summer-house to find his brother Dmitri but finds it empty and overhears a conversation between Smerdyakov and Marya Kondratyevna. Smerdyakov reveals he does not know Dmitri's whereabouts but mentions that Ivan Fyodorovitch invited Dmitri to dine at the Metropolis tavern. Alyosha rushes to the tavern and is called up by Ivan, where he joins him for dinner.",
+  "evidence_quotes": [
+    "He climbed over the hurdle almost in the same spot as the day before",
+    "Ivan was alone dining"
+  ],
+  "needs_review": false
+}

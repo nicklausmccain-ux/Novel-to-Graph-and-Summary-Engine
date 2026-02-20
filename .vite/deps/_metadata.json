@@ -1,0 +1,40 @@
+{
+  "hash": "31cac8ff",
+  "configHash": "a65b80b5",
+  "lockfileHash": "3473a6c3",
+  "browserHash": "7bc2fdc2",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a0e829c4",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "7343ad2e",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "afb9d4ef",
+      "needsInterop": false
+    },
+    "react-cytoscapejs": {
+      "src": "../../node_modules/react-cytoscapejs/dist/react-cytoscape.modern.js",
+      "file": "react-cytoscapejs.js",
+      "fileHash": "0299be47",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NOSD3EBE": {
+      "file": "chunk-NOSD3EBE.js"
+    },
+    "chunk-G4V7ITBN": {
+      "file": "chunk-G4V7ITBN.js"
+    }
+  }
+}

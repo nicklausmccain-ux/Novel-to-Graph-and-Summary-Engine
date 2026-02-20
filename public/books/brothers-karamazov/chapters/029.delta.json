@@ -1,0 +1,72 @@
+{
+  "new_nodes": [
+    "snegiryov",
+    "alyoshas-fiancée-lise-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "ivan-karamazov",
+      "label": "uncertain romantic interest"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "agrafena-alexandrovna-svetlova",
+      "label": "other"
+    },
+    {
+      "source": "agrafena-alexandrovna-svetlova",
+      "target": "ivan-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "madame-hohlakov",
+      "label": "friend"
+    },
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "agafya-ivanovna",
+      "label": "friend"
+    },
+    {
+      "source": "katerina-ivanovna-karamazov",
+      "target": "maria-petrovna",
+      "label": "family"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "katerina-karamazov",
+      "label": "friends/acquaintances"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "snegiryov",
+      "label": "sympathetic acquaintance"
+    },
+    {
+      "source": "alyoshas-fiancée-lise-karamazov",
+      "target": "ivan-karamazov",
+      "label": "unrequited love"
+    }
+  ],
+  "summary": "New characters: Snegiryov, Alyoshas Fiancée Lise Karamazov. New connections: Katerina–Ivan (uncertain romantic interest), Alyosha–Agrafena (other), Agrafena–Ivan (friend), Katerina–Madame (friend) and 5 more.",
+  "summary_short": "Introduces Snegiryov and Alyoshas Fiancée Lise Karamazov. Alyosha Karamazov is the most connected figure (33 ties). Key relationship types: friend, uncertain romantic interest.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (33), Dmitri Karamazov (29), Fyodor Karamazov (24), Ivan Karamazov (24)",
+    "Key ties: Katerina–Ivan (uncertain romantic interest), Alyosha–Agrafena (other), Agrafena–Ivan (friend), Katerina–Madame (friend), +5 more",
+    "New characters: Snegiryov, Alyoshas",
+    "Totals: 107 characters, 178 relations (+2 new, +9 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha struggles with his doubts about Katerina Ivanovna's feelings for his brothers Ivan and Dmitri. Katerina Ivanovna reveals her painful decision to remain devoted to Dmitri despite his betrayals, with Ivan's reluctant approval. After a tense confrontation, Ivan leaves abruptly, and Katerina Ivanovna asks Alyosha to discreetly help a destitute man wronged by Dmitri.",
+  "evidence_quotes": [
+    "Katerina Ivanovna was greatly excited, though she looked resolute.",
+    "Ivan suddenly laughed and got up. His hat was in his hand."
+  ],
+  "needs_review": false
+}

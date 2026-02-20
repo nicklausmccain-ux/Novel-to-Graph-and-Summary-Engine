@@ -1,0 +1,47 @@
+{
+  "new_nodes": [
+    "no-specific-name-given",
+    "other-nations"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "grigory-karamazov",
+      "label": "relation of responsibility"
+    },
+    {
+      "source": "no-specific-name-given",
+      "target": "fyodor-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "fyodor-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "other-nations",
+      "label": "none specified"
+    }
+  ],
+  "summary": "New characters: No Specific Name Given, Other Nations. New connections: Rodion–Grigory (relation of responsibility), No–Fyodor (other), Nikolay–Fyodor (other), Dmitri–Other (none specified).",
+  "summary_short": "Introduces No Specific Name Given and Other Nations. Dmitri Karamazov is the most connected figure (83 ties). Key relationship types: other, relation of responsibility.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (83), Alyosha Karamazov (81), Fyodor Karamazov (46), Ivan Karamazov (40)",
+    "Key ties: Rodion–Grigory (relation of responsibility), No–Fyodor (other), Nikolay–Fyodor (other), Dmitri–Other (none specified)",
+    "New characters: No, Other",
+    "Totals: 391 characters, 573 relations (+2 new, +4 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ippolit Kirillovitch delivers a detailed and impassioned prosecutorial speech describing Karamazov's jealousy, despair, and preparations for suicide, emphasizing his guilt and the evidence against him. He recounts Karamazov's arrest, his contradictory statements, and the implausibility of his defense involving a hidden bag of money. The courtroom audience reacts with mixed opinions on the speech's rhetoric and effectiveness as the trial continues with Fetyukovitch preparing to speak.",
+  "evidence_quotes": [
+    "Karamazov felt all this, knew that all ways were barred to him by his crime",
+    "‘Then Smerdyakov murdered him, it was Smerdyakov!’ and so betrayed the basis"
+  ],
+  "needs_review": false
+}

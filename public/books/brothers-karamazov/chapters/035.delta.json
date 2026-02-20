@@ -1,0 +1,88 @@
+{
+  "new_nodes": [
+    "richard-alexeevich-karamazov",
+    "shepherds",
+    "richard-al-envy-karamazov",
+    "the-priests",
+    "richard-aleshin",
+    "the-ladies-of-the-society-for-the-charitable-organization",
+    "geneva",
+    "richard-karamazov",
+    "the-judges-of-geneva",
+    "richard-alexievich-karamazov",
+    "unnamed-karamazov-child",
+    "marya-ivanovna-smerdyakova",
+    "ilya-smerdyakov"
+  ],
+  "new_edges": [
+    {
+      "source": "richard-alexeevich-karamazov",
+      "target": "shepherds",
+      "label": "parental figures"
+    },
+    {
+      "source": "richard-al-envy-karamazov",
+      "target": "the-priests",
+      "label": "mentors"
+    },
+    {
+      "source": "richard-aleshin",
+      "target": "the-ladies-of-the-society-for-the-charitable-organization",
+      "label": "mentors"
+    },
+    {
+      "source": "richard-alexeevich-karamazov",
+      "target": "geneva",
+      "label": "community"
+    },
+    {
+      "source": "richard-karamazov",
+      "target": "the-judges-of-geneva",
+      "label": "judiciary"
+    },
+    {
+      "source": "richard-alexievich-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "family"
+    },
+    {
+      "source": "ilusha",
+      "target": "maria-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "unnamed-karamazov-child",
+      "label": "abuser"
+    },
+    {
+      "source": "marya-ivanovna-smerdyakova",
+      "target": "ilya-smerdyakov",
+      "label": "parent-child"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "marya-kondratyevna",
+      "label": "authority-subordinate"
+    }
+  ],
+  "summary": "New characters: Richard Alexeevich Karamazov, Shepherds, Richard Al Envy Karamazov, The Priests, Richard Aleshin, The Ladies Of The Society For The Charitable Organization and 7 more. New connections: Richard–Shepherds (parental figures), Richard–The (mentors), Richard–The (mentors), Richard–Geneva (community) and 6 more.",
+  "summary_short": "Introduces Richard Alexeevich Karamazov, Shepherds, Richard Al Envy Karamazov, The Priests, and 9 others. Alyosha Karamazov is the most connected figure (41 ties). Key relationship types: mentors, parental figures.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (41), Dmitri Karamazov (33), Fyodor Karamazov (28), Ivan Karamazov (24)",
+    "Key ties: Richard–Shepherds (parental figures), Richard–The (mentors), Richard–The (mentors), Richard–Geneva (community), +6 more",
+    "New characters: Richard, Shepherds, Richard, The, Richard, The, +7 more",
+    "Totals: 145 characters, 224 relations (+13 new, +10 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan confesses to Alyosha his inability to understand love for one's neighbors and expresses his anguish over the suffering of innocent children. He recounts brutal examples of cruelty inflicted on children and questions the justice of a world where such suffering is necessary for harmony. Ivan ultimately rejects the idea of harmony built on innocent suffering and prepares to share a poem called 'The Grand Inquisitor' with Alyosha.",
+  "evidence_quotes": [
+    "One can love one’s neighbors in the abstract, or even at a distance",
+    "I don’t want harmony. From love for humanity I don’t want it"
+  ],
+  "needs_review": false
+}

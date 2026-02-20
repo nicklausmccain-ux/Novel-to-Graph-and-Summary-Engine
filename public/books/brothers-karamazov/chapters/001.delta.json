@@ -1,0 +1,61 @@
+{
+  "new_nodes": [
+    "alyosha-karamazov",
+    "fyodor-karamazov",
+    "dmitri-karamazov",
+    "ivan-karamazov",
+    "adelaida-ivanovna-karamazov",
+    "marya-karamazov"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "son"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "ivan-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "adelaida-ivanovna-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "mother"
+    },
+    {
+      "source": "adelaida-ivanovna-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "spouse"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "marya-karamazov",
+      "label": "spouse"
+    }
+  ],
+  "summary": "New characters: Alyosha Karamazov, Fyodor Karamazov, Dmitri Karamazov, Ivan Karamazov, Adelaida Ivanovna Karamazov, Marya Karamazov. New connections: Alyosha–Fyodor (son), Fyodor–Dmitri (parent), Fyodor–Ivan (parent), Adelaida–Dmitri (mother) and 2 more.",
+  "summary_short": "Introduces Alyosha Karamazov, Fyodor Karamazov, Dmitri Karamazov, Ivan Karamazov, and 2 others. Fyodor Karamazov is the most connected figure (5 ties). Key relationship types: parent, spouse.",
+  "highlights": [
+    "Most central: Fyodor Karamazov (5), Dmitri Karamazov (2), Adelaida Ivanovna Karamazov (2), Alyosha Karamazov (1)",
+    "Key ties: Alyosha–Fyodor (son), Fyodor–Dmitri (parent), Fyodor–Ivan (parent), Adelaida–Dmitri (mother), +2 more",
+    "New characters: Alyosha, Fyodor, Dmitri, Ivan, Adelaida, Marya",
+    "Totals: 6 characters, 6 relations (+6 new, +6 new)"
+  ],
+  "key_characters": [
+    "Fyodor Karamazov",
+    "Dmitri Karamazov",
+    "Adelaida Ivanovna Karamazov"
+  ],
+  "story_summary": "Alexey Fyodorovitch Karamazov is introduced as the third son of Fyodor Pavlovitch Karamazov, a landowner known for his senseless and vicious nature. Fyodor Pavlovitch married twice, first to Adelaïda Ivanovna, who eloped with him but soon left him for a divinity student, leaving their son Dmitri behind. After her death in Petersburg, Fyodor Pavlovitch reacted with a mixture of joy and sorrow, revealing his complex emotions.",
+  "evidence_quotes": [
+    "Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch Karamazov",
+    "she left the house and ran away from Fyodor Pavlovitch with a destitute divinity student"
+  ],
+  "needs_review": false
+}

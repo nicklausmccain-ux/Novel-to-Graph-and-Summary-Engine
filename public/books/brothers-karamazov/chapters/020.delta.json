@@ -1,0 +1,28 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "ivan-karamazov",
+      "target": "pavel-smerdyakov",
+      "label": "curious observer"
+    }
+  ],
+  "summary": "New connections: Ivan–Pavel (curious observer).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (25 ties). Key relationship types: curious observer.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (25), Fyodor Karamazov (24), Dmitri Karamazov (24), Ivan Karamazov (19)",
+    "Key ties: Ivan–Pavel (curious observer)",
+    "Totals: 90 characters, 140 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Fyodor Karamazov",
+    "Dmitri Karamazov"
+  ],
+  "story_summary": "Grigory recounts a story about a Russian soldier who was tortured and died for refusing to renounce Christianity. Smerdyakov argues that renouncing faith under threat is not sinful because one is immediately cut off from the Church and no longer a Christian. Fyodor Pavlovitch mocks Smerdyakov's reasoning, while Alyosha disagrees with Smerdyakov's views on faith.",
+  "evidence_quotes": [
+    "This soldier ... was tortured, flayed alive, and died, praising and glorifying Christ.",
+    "If I’m no longer a Christian, then I can’t renounce Christ."
+  ],
+  "needs_review": false
+}

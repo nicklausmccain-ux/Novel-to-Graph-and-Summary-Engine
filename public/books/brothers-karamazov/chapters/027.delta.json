@@ -1,0 +1,47 @@
+{
+  "new_nodes": [
+    "smurov",
+    "ilusha"
+  ],
+  "new_edges": [
+    {
+      "source": "alyosha-karamazov",
+      "target": "smurov",
+      "label": "protective"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "ilusha",
+      "label": "antagonism"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "ilusha",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "smurov",
+      "label": "rival"
+    }
+  ],
+  "summary": "New characters: Smurov, Ilusha. New connections: Alyosha–Smurov (protective), Dmitri–Ilusha (antagonism), Alyosha–Ilusha (unknown relationship), Dmitri–Smurov (rival).",
+  "summary_short": "Introduces Smurov and Ilusha. Alyosha Karamazov is the most connected figure (30 ties). Key relationship types: protective, antagonism.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (30), Dmitri Karamazov (27), Fyodor Karamazov (24), Ivan Karamazov (20)",
+    "Key ties: Alyosha–Smurov (protective), Dmitri–Ilusha (antagonism), Alyosha–Ilusha (unknown relationship), Dmitri–Smurov (rival)",
+    "New characters: Smurov, Ilusha",
+    "Totals: 102 characters, 162 relations (+2 new, +4 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha encounters a group of schoolboys engaged in a stone-throwing feud with a solitary left-handed boy named Smurov. When Alyosha tries to intervene and understand the conflict, the solitary boy attacks him, biting his finger and then fleeing in tears when questioned. Alyosha decides to find out the reason behind the boy's hostility when he has more time.",
+  "evidence_quotes": [
+    "He threw a stone savagely right into Alyosha’s face",
+    "The spiteful child had seized his left hand with both of his and bit his middle finger"
+  ],
+  "needs_review": false
+}

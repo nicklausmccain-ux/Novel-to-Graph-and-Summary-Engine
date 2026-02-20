@@ -1,0 +1,33 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "pavel-smerdyakov",
+      "target": "agrafena-alexandrovna-svetlova",
+      "label": "acquaintance"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "captain-smerdyakov",
+      "label": "hostile relationship"
+    }
+  ],
+  "summary": "New connections: Pavel–Agrafena (acquaintance), Ivan–Captain (hostile relationship).",
+  "summary_short": "Alyosha Karamazov is the most connected figure (42 ties). Key relationship types: acquaintance, hostile relationship.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (42), Dmitri Karamazov (33), Fyodor Karamazov (30), Ivan Karamazov (27)",
+    "Key ties: Pavel–Agrafena (acquaintance), Ivan–Captain (hostile relationship)",
+    "Totals: 161 characters, 247 relations (+0 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Ivan returns to Fyodor Pavlovitch’s house feeling an undefined depression and soon realizes it is caused by his loathing of the valet Smerdyakov. Smerdyakov reveals secret signals used to communicate with Fyodor Pavlovitch about the arrival of Agrafena Alexandrovna and expresses fear of Dmitri Fyodorovitch’s threats and potential violent actions. Despite his anger and disgust, Ivan decides to leave for Moscow the next morning but remains unsettled by the conversation with Smerdyakov.",
+  "evidence_quotes": [
+    "Ivan could not have said what the cause of it",
+    "Smerdyakov was sitting enjoying the coolness of the evening"
+  ],
+  "needs_review": false
+}

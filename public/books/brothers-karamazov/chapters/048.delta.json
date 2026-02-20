@@ -1,0 +1,67 @@
+{
+  "new_nodes": [
+    "othello",
+    "desdemona",
+    "cassio",
+    "count-alexei-ivanovich-rostov",
+    "darya-alexeyevna-belmesov",
+    "stephan-belmesov",
+    "maria-belmesov"
+  ],
+  "new_edges": [
+    {
+      "source": "othello",
+      "target": "desdemona",
+      "label": "romantic connection"
+    },
+    {
+      "source": "othello",
+      "target": "cassio",
+      "label": "rivalry"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "count-alexei-ivanovich-rostov",
+      "label": "rivalry"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "zossima",
+      "label": "mentioning the deceased"
+    },
+    {
+      "source": "grushenka",
+      "target": "darya-alexeyevna-belmesov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "stephan-belmesov",
+      "target": "maria-belmesov",
+      "label": "spouse"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "fenya",
+      "label": "other relationship"
+    }
+  ],
+  "summary": "New characters: Othello, Desdemona, Cassio, Count Alexei Ivanovich Rostov, Darya Alexeyevna Belmesov, Stephan Belmesov and 1 more. New connections: Othello–Desdemona (romantic connection), Othello–Cassio (rivalry), Dmitri–Count (rivalry), Dmitri–Zossima (mentioning the deceased) and 3 more.",
+  "summary_short": "Introduces Othello, Desdemona, Cassio, Count Alexei Ivanovich Rostov, and 3 others. Alyosha Karamazov is the most connected figure (63 ties). Key relationship types: rivalry, romantic connection.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (63), Dmitri Karamazov (58), Fyodor Karamazov (36), Ivan Karamazov (31)",
+    "Key ties: Othello–Desdemona (romantic connection), Othello–Cassio (rivalry), Dmitri–Count (rivalry), Dmitri–Zossima (mentioning the deceased), +3 more",
+    "New characters: Othello, Desdemona, Cassio, Count, Darya, Stephan, +1 more",
+    "Totals: 244 characters, 355 relations (+7 new, +7 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya tries to secure a loan by pawning his pistols and then seeks help from Madame Hohlakov, who promises support through gold-mines but refuses to lend him money immediately. Frustrated and desperate, Mitya confronts an old servant about Grushenka's whereabouts, only to be misled and enraged. He then rushes to Grushenka's house, where Fenya denies knowing where Grushenka is, and Mitya, in a frantic state, takes a pestle with him as he leaves.",
+  "evidence_quotes": [
+    "Mitya went straight to him, and offered to pawn his pistols",
+    "Madame Hohlakov ... said she was expecting him"
+  ],
+  "needs_review": false
+}

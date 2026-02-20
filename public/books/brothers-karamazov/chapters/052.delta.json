@@ -1,0 +1,91 @@
+{
+  "new_nodes": [
+    "stepan-ivanovich-kalganov",
+    "pavel-ivanovich-smerdyakov",
+    "stefan-trofimovich",
+    "vladimir-kalganov",
+    "lieutenant-ivan-fedorovich",
+    "lieutenant-mikhail-ivanovich-kalganov",
+    "pyotr-alekseyevich-vrublevsky",
+    "pavle-ivanovitch-vrublevsky",
+    "pavel-alexandrovich-smerdjakov",
+    "pyotr-fyodorovich-vrublevsky",
+    "kalganov"
+  ],
+  "new_edges": [
+    {
+      "source": "stepan-ivanovich-kalganov",
+      "target": "pavel-ivanovich-smerdyakov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "stefan-trofimovich",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "vladimir-kalganov",
+      "target": "lieutenant-ivan-fedorovich",
+      "label": "friend"
+    },
+    {
+      "source": "lieutenant-mikhail-ivanovich-kalganov",
+      "target": "alyosha-karamazov",
+      "label": "relation"
+    },
+    {
+      "source": "marya-kondratyevna",
+      "target": "maxim-maximovich",
+      "label": "spouse"
+    },
+    {
+      "source": "pyotr-alekseyevich-vrublevsky",
+      "target": "dmitri-karamazov",
+      "label": "fellow countrymen"
+    },
+    {
+      "source": "pavle-ivanovitch-vrublevsky",
+      "target": "dmitri-karamazov",
+      "label": "gambling opponent"
+    },
+    {
+      "source": "pavel-alexandrovich-smerdjakov",
+      "target": "pyotr-fyodorovich-vrublevsky",
+      "label": "companionship"
+    },
+    {
+      "source": "captain-smerdyakov",
+      "target": "agrafena-alexandrovna-svetlova",
+      "label": "romantic pursuit"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "kalganov",
+      "label": "friend"
+    },
+    {
+      "source": "trifon-borissovitch",
+      "target": "grushenka",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New characters: Stepan Ivanovich Kalganov, Pavel Ivanovich Smerdyakov, Stefan Trofimovich, Vladimir Kalganov, Lieutenant Ivan Fedorovich, Lieutenant Mikhail Ivanovich Kalganov and 5 more. New connections: Stepan–Pavel (acquaintance), Captain–Stefan (unknown relationship), Vladimir–Lieutenant (friend), Lieutenant–Alyosha (relation) and 7 more.",
+  "summary_short": "Introduces Stepan Ivanovich Kalganov, Pavel Ivanovich Smerdyakov, Stefan Trofimovich, Vladimir Kalganov, and 7 others. Dmitri Karamazov is the most connected figure (67 ties). Key relationship types: acquaintance, friend.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (67), Alyosha Karamazov (64), Fyodor Karamazov (36), Ivan Karamazov (31)",
+    "Key ties: Stepan–Pavel (acquaintance), Captain–Stefan (unknown relationship), Vladimir–Lieutenant (friend), Lieutenant–Alyosha (relation), +7 more",
+    "New characters: Stepan, Pavel, Stefan, Vladimir, Lieutenant, Lieutenant, +5 more",
+    "Totals: 265 characters, 381 relations (+11 new, +11 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya arrives at the inn and joins Grushenka and others, bringing champagne and attempting to recreate a festive atmosphere. He engages in a heated card game with two Polish men, which ends in accusations of cheating and a physical altercation. After the Poles leave following a confrontation with Grushenka and Mitya, the group locks the door to prevent their return.",
+  "evidence_quotes": [
+    "Mitya rushed up to him, too.",
+    "Mitya flew at him at once, clutched him in both hands."
+  ],
+  "needs_review": false
+}

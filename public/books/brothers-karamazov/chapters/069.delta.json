@@ -1,0 +1,38 @@
+{
+  "new_nodes": [
+    "ippolit-kirilovich-verkhovensky",
+    "dr-dmitri-fyodorovich-karamazov",
+    "nikolay-kolya-krassotkin"
+  ],
+  "new_edges": [
+    {
+      "source": "ippolit-kirilovich-verkhovensky",
+      "target": "nikolai-ivanovich-karamazov",
+      "label": "professional acquaintance"
+    },
+    {
+      "source": "dr-dmitri-fyodorovich-karamazov",
+      "target": "nikolay-kolya-krassotkin",
+      "label": "antagonist"
+    }
+  ],
+  "summary": "New characters: Ippolit Kirilovich Verkhovensky, Dr Dmitri Fyodorovich Karamazov, Nikolay Kolya Krassotkin. New connections: Ippolit–Nikolai (professional acquaintance), Dr–Nikolay (antagonist).",
+  "summary_short": "Introduces Ippolit Kirilovich Verkhovensky, Dr Dmitri Fyodorovich Karamazov and Nikolay Kolya Krassotkin. Alyosha Karamazov is the most connected figure (77 ties). Key relationship types: professional acquaintance, antagonist.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (77), Dmitri Karamazov (76), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Ippolit–Nikolai (professional acquaintance), Dr–Nikolay (antagonist)",
+    "New characters: Ippolit, Dr, Nikolay",
+    "Totals: 338 characters, 503 relations (+3 new, +2 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "The doctor delivers a grim prognosis for Ilusha and suggests sending him to Syracuse for possible improvement. Kolya insults the doctor and leaves the room in anger, while Alyosha stays with Ilusha and comforts him. The captain is overcome with grief, refusing to accept another child in Ilusha's place, and Kolya promises to return later that day.",
+  "evidence_quotes": [
+    "If you could, for instance ... send ... your patient ... at once, without delay to Syracuse",
+    "Ilusha ... I know what the new doctor said to you about me.... I saw!"
+  ],
+  "needs_review": false
+}

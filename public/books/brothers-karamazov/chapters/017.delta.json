@@ -1,0 +1,125 @@
+{
+  "new_nodes": [
+    "katarina-ivanovna-svidrigailov",
+    "agafya-ivanovna",
+    "colonel-ivan-petrovich",
+    "ekaterina-karamazov",
+    "general-ivan-ivanovich",
+    "aleksei-fedorovich-karamazov",
+    "vladimir-alexandrovich-kravchenko",
+    "lieutenant-colonel-pavel-fyodorovich-smerdyakov",
+    "mikhail-trifonov",
+    "aleksey-mikhailovich-trifonov",
+    "lieutenant-colonel-pytor-ilyich-smerdyakov",
+    "lieutenant-colonel-katerina-ivanovna",
+    "katerina-ivanovna-silvenko",
+    "katarina-ivanovna-verkhovtseva",
+    "makar-ivanovich-marmeladov"
+  ],
+  "new_edges": [
+    {
+      "source": "katarina-ivanovna-svidrigailov",
+      "target": "dmitri-karamazov",
+      "label": "romantic connection"
+    },
+    {
+      "source": "agafya-ivanovna",
+      "target": "maria-petrovna",
+      "label": "family"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "colonel-ivan-petrovich",
+      "label": "other relationship"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "agafya-ivanovna",
+      "label": "friendship"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "ekaterina-karamazov",
+      "label": "Interest/Resentment"
+    },
+    {
+      "source": "agafya-ivanovna",
+      "target": "ekaterina-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "agafya-ivanovna",
+      "label": "friend"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "general-ivan-ivanovich",
+      "label": "other"
+    },
+    {
+      "source": "aleksei-fedorovich-karamazov",
+      "target": "vladimir-alexandrovich-kravchenko",
+      "label": "professional acquaintance"
+    },
+    {
+      "source": "lieutenant-colonel-pavel-fyodorovich-smerdyakov",
+      "target": "mikhail-trifonov",
+      "label": "business relationship"
+    },
+    {
+      "source": "mikhail-trifonov",
+      "target": "aleksey-mikhailovich-trifonov",
+      "label": "father-son"
+    },
+    {
+      "source": "lieutenant-colonel-pytor-ilyich-smerdyakov",
+      "target": "agafya-ivanovna",
+      "label": "subject to suspicion"
+    },
+    {
+      "source": "agafya-ivanovna",
+      "target": "lieutenant-colonel-katerina-ivanovna",
+      "label": "savior"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "katerina-ivanovna-karamazov",
+      "label": "unidentified relationship"
+    },
+    {
+      "source": "katerina-ivanovna-silvenko",
+      "target": "alyosha-karamazov",
+      "label": "requestor"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "katarina-ivanovna-verkhovtseva",
+      "label": "romantic interest"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "makar-ivanovich-marmeladov",
+      "label": "child-parent"
+    }
+  ],
+  "summary": "New characters: Katarina Ivanovna Svidrigailov, Agafya Ivanovna, Colonel Ivan Petrovich, Ekaterina Karamazov, General Ivan Ivanovich, Aleksei Fedorovich Karamazov and 9 more. New connections: Katarina–Dmitri (romantic connection), Agafya–Maria (family), Dmitri–Colonel (other relationship), Alyosha–Agafya (friendship) and 13 more.",
+  "summary_short": "Introduces Katarina Ivanovna Svidrigailov, Agafya Ivanovna, Colonel Ivan Petrovich, Ekaterina Karamazov, and 11 others. Alyosha Karamazov is the most connected figure (24 ties). Key relationship types: friend, romantic connection.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (24), Dmitri Karamazov (24), Fyodor Karamazov (21), Ivan Karamazov (17)",
+    "Key ties: Katarina–Dmitri (romantic connection), Agafya–Maria (family), Dmitri–Colonel (other relationship), Alyosha–Agafya (friendship), +13 more",
+    "New characters: Katarina, Agafya, Colonel, Ekaterina, General, Aleksei, +9 more",
+    "Totals: 86 characters, 130 relations (+15 new, +17 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Dmitri recounts his wild lifestyle and his complex relationships with women, including a failed attempt to manipulate Katerina Ivanovna for money to cover her father's financial deficit. He describes the town's social dynamics, the colonel's family troubles, and a dramatic incident where Katerina Ivanovna comes to him for money, leading to an intense emotional confrontation. Dmitri reveals his inner conflict and honesty about the episode, sharing it only with Alyosha and Ivan.",
+  "evidence_quotes": [
+    "‘My sister told me ... I have come ... give me the money!’",
+    "‘I looked at her for three seconds ... with fearful hatred ...’"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,33 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "alyosha-karamazov",
+      "label": "authority"
+    },
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "grigory-karamazov",
+      "label": "supportive relationship"
+    }
+  ],
+  "summary": "New connections: Nikolay–Alyosha (authority), Nikolay–Grigory (supportive relationship).",
+  "summary_short": "Dmitri Karamazov is the most connected figure (74 ties). Key relationship types: authority, supportive relationship.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (74), Alyosha Karamazov (65), Fyodor Karamazov (39), Ivan Karamazov (31)",
+    "Key ties: Nikolay–Alyosha (authority), Nikolay–Grigory (supportive relationship)",
+    "Totals: 280 characters, 411 relations (+0 new, +2 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Mitya is forced to undress and have his bloodstained clothes examined as evidence, feeling humiliated and angry throughout the process. The prosecutor presents testimony from Grigory claiming Mitya ran from an open door, which Mitya vehemently denies, insisting that Smerdyakov is the true murderer. After heated exchanges, Mitya finally agrees to reveal the source of the money found on him, hinting at a forthcoming confession.",
+  "evidence_quotes": [
+    "You must take off your shirt, too. That’s very important as material evidence.",
+    "Grigory himself confidently affirms and bears witness that you must have run from that door."
+  ],
+  "needs_review": false
+}

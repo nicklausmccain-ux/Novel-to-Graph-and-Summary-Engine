@@ -1,0 +1,104 @@
+{
+  "new_nodes": [
+    "madame-stefania-ivanovna",
+    "maria-karamazov",
+    "sofia-karamazov",
+    "yefim-petrovitch-polenov"
+  ],
+  "new_edges": [
+    {
+      "source": "fyodor-karamazov",
+      "target": "madame-stefania-ivanovna",
+      "label": "benefactor"
+    },
+    {
+      "source": "fyodor-karamazov",
+      "target": "grigory-karamazov",
+      "label": "servant"
+    },
+    {
+      "source": "adelaida-ivanovna-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "mother"
+    },
+    {
+      "source": "adelaida-ivanovna-karamazov",
+      "target": "ivan-karamazov",
+      "label": "mother"
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "ivan-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "grigory-karamazov",
+      "target": "alyosha-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "maria-karamazov",
+      "target": "sofia-karamazov",
+      "label": "parent"
+    },
+    {
+      "source": "katerina-karamazov",
+      "target": "fyodor-karamazov",
+      "label": "former acquaintance"
+    },
+    {
+      "source": "yefim-petrovitch-polenov",
+      "target": "alyosha-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "yefim-petrovitch-polenov",
+      "target": "ivan-karamazov",
+      "label": "guardian"
+    },
+    {
+      "source": "adelaida-ivanovna-karamazov",
+      "target": "yefim-petrovitch-polenov",
+      "label": "executor"
+    },
+    {
+      "source": "ivan-karamazov",
+      "target": "dmitri-karamazov",
+      "label": "brother"
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "fyodor-karamazov",
+      "label": "cousin-in-law"
+    },
+    {
+      "source": "pyotr-alexandrovitch-miusov",
+      "target": "ivan-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "ivan-karamazov",
+      "label": "sibling"
+    }
+  ],
+  "summary": "New characters: Madame Stefania Ivanovna, Maria Karamazov, Sofia Karamazov, Yefim Petrovitch Polenov. New connections: Fyodor–Madame (benefactor), Fyodor–Grigory (servant), Adelaida–Alyosha (mother), Adelaida–Ivan (mother) and 11 more.",
+  "summary_short": "Introduces Madame Stefania Ivanovna, Maria Karamazov, Sofia Karamazov and Yefim Petrovitch Polenov. Fyodor Karamazov is the most connected figure (10 ties). Key relationship types: guardian, mother.",
+  "highlights": [
+    "Most central: Fyodor Karamazov (10), Dmitri Karamazov (8), Ivan Karamazov (7), Alyosha Karamazov (6)",
+    "Key ties: Fyodor–Madame (benefactor), Fyodor–Grigory (servant), Adelaida–Alyosha (mother), Adelaida–Ivan (mother), +11 more",
+    "New characters: Madame, Maria, Sofia, Yefim",
+    "Totals: 15 characters, 28 relations (+4 new, +15 new)"
+  ],
+  "key_characters": [
+    "Fyodor Karamazov",
+    "Dmitri Karamazov",
+    "Ivan Karamazov"
+  ],
+  "story_summary": "Fyodor Pavlovitch married Sofya Ivanovna, an orphan girl, who suffered greatly in their marriage and bore him two sons, Ivan and Alexey. After Sofya's death, the general’s widow took the boys from Fyodor Pavlovitch and ensured their education and upbringing, with Yefim Petrovitch Polenov playing a significant role in their lives. Ivan Fyodorovitch later returned to live with his father, Fyodor Pavlovitch, acting as a mediator between him and his elder brother Dmitri, while Alexey became a novice in a monastery.",
+  "evidence_quotes": [
+    "Sofya Ivanovna was once cut down from a halter in which she was hanging",
+    "Ivan Fyodorovitch had come partly at the request of, and in the interests of, his elder brother"
+  ],
+  "needs_review": false
+}

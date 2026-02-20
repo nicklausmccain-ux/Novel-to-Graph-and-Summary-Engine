@@ -1,0 +1,76 @@
+{
+  "new_nodes": [
+    "kolya-kreutzer"
+  ],
+  "new_edges": [
+    {
+      "source": "nikolai-ivanovich-krassotkin",
+      "target": "dmitri-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "snegiryov",
+      "target": "nina",
+      "label": "sibling"
+    },
+    {
+      "source": "god",
+      "target": "snegiryov",
+      "label": "spouse"
+    },
+    {
+      "source": "madame-hohlakov",
+      "target": "ilusha",
+      "label": "friend"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "snegiryov",
+      "label": "friend"
+    },
+    {
+      "source": "snegiryov",
+      "target": "katerina-karamazov",
+      "label": "other"
+    },
+    {
+      "source": "god",
+      "target": "ilusha",
+      "label": "parent"
+    },
+    {
+      "source": "kolya-krasotkin",
+      "target": "snegiryov",
+      "label": "friend"
+    },
+    {
+      "source": "alexei-karamazov",
+      "target": "ilusha",
+      "label": "friend"
+    },
+    {
+      "source": "kolya-kreutzer",
+      "target": "dmitri-karamazov",
+      "label": "Sibling"
+    }
+  ],
+  "summary": "New characters: Kolya Kreutzer. New connections: Nikolai–Dmitri (friend), Snegiryov–Nina (sibling), God–Snegiryov (spouse), Madame–Ilusha (friend) and 6 more.",
+  "summary_short": "Introduces Kolya Kreutzer. Dmitri Karamazov is the most connected figure (91 ties). Key relationship types: friend, sibling.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (91), Alyosha Karamazov (83), Fyodor Karamazov (47), Ivan Karamazov (40)",
+    "Key ties: Nikolai–Dmitri (friend), Snegiryov–Nina (sibling), God–Snegiryov (spouse), Madame–Ilusha (friend), +6 more",
+    "New characters: Kolya",
+    "Totals: 406 characters, 597 relations (+1 new, +10 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Alyosha arrives late to the funeral of Ilusha, who died shortly after Mitya's sentencing, and is greeted by Ilusha's schoolboys who discuss Mitya's innocence. The funeral service is held in a poor church, with Snegiryov, Ilusha's father, showing signs of distress and grief, especially when placing flowers and bread on the grave as Ilusha had requested. After the burial, Alyosha speaks to the boys at Ilusha's stone, urging them to remember Ilusha and their shared kindness, and they all agree to keep his memory alive.",
+  "evidence_quotes": [
+    "They had waited for him and had already decided to bear the pretty flower‐decked little coffin",
+    "Boys, we shall soon part... Let us make a compact here, at Ilusha’s stone"
+  ],
+  "needs_review": false
+}

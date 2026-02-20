@@ -1,0 +1,75 @@
+{
+  "new_nodes": [
+    "lise-alyoshin",
+    "maria-poletkin",
+    "maria-fyodorovna-karamazov",
+    "makar-ivanovich",
+    "dunya-and-lizaveta",
+    "unnamed-man",
+    "elizaveta-smerdyashchaya",
+    "maria-grigorievna-smerdyashchaya",
+    "dmitri-famusov",
+    "sofya-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "lise-alyoshin",
+      "target": "alyosha-karamazov",
+      "label": "friend"
+    },
+    {
+      "source": "maria-poletkin",
+      "target": "alexei-karamazov",
+      "label": "family (mother/daughter)"
+    },
+    {
+      "source": "maria-fyodorovna-karamazov",
+      "target": "madame-hohlakov",
+      "label": "parent"
+    },
+    {
+      "source": "makar-ivanovich",
+      "target": "dunya-and-lizaveta",
+      "label": "parent"
+    },
+    {
+      "source": "unnamed-man",
+      "target": "zosima-fyodorovich-karamazov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "elizaveta-smerdyashchaya",
+      "target": "maria-grigorievna-smerdyashchaya",
+      "label": "family ties"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "dmitri-famusov",
+      "label": "literary reference"
+    },
+    {
+      "source": "alyosha-karamazov",
+      "target": "sofya-ivanovna",
+      "label": "literary reference"
+    }
+  ],
+  "summary": "New characters: Lise Alyoshin, Maria Poletkin, Maria Fyodorovna Karamazov, Makar Ivanovich, Dunya And Lizaveta, Unnamed Man and 4 more. New connections: Lise–Alyosha (friend), Maria–Alexei (family (mother/daughter)), Maria–Madame (parent), Makar–Dunya (parent) and 4 more.",
+  "summary_short": "Introduces Lise Alyoshin, Maria Poletkin, Maria Fyodorovna Karamazov, Makar Ivanovich, and 6 others. Alyosha Karamazov is the most connected figure (40 ties). Key relationship types: parent, literary reference.",
+  "highlights": [
+    "Most central: Alyosha Karamazov (40), Dmitri Karamazov (31), Fyodor Karamazov (26), Ivan Karamazov (24)",
+    "Key ties: Lise–Alyosha (friend), Maria–Alexei (family (mother/daughter)), Maria–Madame (parent), Makar–Dunya (parent), +4 more",
+    "New characters: Lise, Maria, Maria, Makar, Dunya, Unnamed, +4 more",
+    "Totals: 131 characters, 210 relations (+10 new, +8 new)"
+  ],
+  "key_characters": [
+    "Alyosha Karamazov",
+    "Dmitri Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Madame Hohlakov informs Alyosha that Katerina Ivanovna is gravely ill and unconscious, causing great worry among her family. Alyosha then meets with Lise, where they discuss his failed attempt to give money to a poor man and their mutual feelings, culminating in a tender moment and plans for the future. Madame Hohlakov confronts Alyosha about Lise's letter and Katerina Ivanovna's condition, but he refuses to show the letter and leaves hurriedly.",
+  "evidence_quotes": [
+    "Katerina Ivanovna’s hysterics had ended in a fainting fit",
+    "Lise snatched his hand and impulsively kissed it three times"
+  ],
+  "needs_review": false
+}

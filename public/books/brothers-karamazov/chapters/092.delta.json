@@ -1,0 +1,50 @@
+{
+  "new_nodes": [
+    "the-client",
+    "old-karamazov",
+    "friedrich-schiller",
+    "the-people-of-st-petersburg",
+    "mercy"
+  ],
+  "new_edges": [
+    {
+      "source": "the-client",
+      "target": "old-karamazov",
+      "label": "father"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "friedrich-schiller",
+      "label": "admiration"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "the-people-of-st-petersburg",
+      "label": "resentment"
+    },
+    {
+      "source": "dmitri-karamazov",
+      "target": "mercy",
+      "label": "recipient of mercy"
+    }
+  ],
+  "summary": "New characters: The Client, Old Karamazov, Friedrich Schiller, The People Of St Petersburg, Mercy. New connections: The–Old (father), Dmitri–Friedrich (admiration), Rodion–The (resentment), Dmitri–Mercy (recipient of mercy).",
+  "summary_short": "Introduces The Client, Old Karamazov, Friedrich Schiller, The People Of St Petersburg, and 1 others. Dmitri Karamazov is the most connected figure (88 ties). Key relationship types: father, admiration.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (88), Alyosha Karamazov (81), Fyodor Karamazov (47), Ivan Karamazov (40)",
+    "Key ties: The–Old (father), Dmitri–Friedrich (admiration), Rodion–The (resentment), Dmitri–Mercy (recipient of mercy)",
+    "New characters: The, Old, Friedrich, The, Mercy",
+    "Totals: 400 characters, 582 relations (+5 new, +4 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "The defense lawyer passionately argues to the jury that the accused should not be condemned solely based on the death of his father, emphasizing the father's unworthiness and the son's difficult upbringing. He insists the accused did not intend to kill his father and appeals for mercy, suggesting that punishment would only harden the son's heart and prevent his redemption. The lawyer calls for a rational and humane judgment, urging the jury to consider the spirit of justice and mercy rather than prejudice and harsh retribution.",
+  "evidence_quotes": [
+    "such a father as old Karamazov cannot be called a father",
+    "Better acquit ten guilty men than punish one innocent man!"
+  ],
+  "needs_review": false
+}

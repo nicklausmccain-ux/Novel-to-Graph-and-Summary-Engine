@@ -1,0 +1,39 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "grushenka",
+      "label": "acquaintance"
+    },
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "mihail-makarovitch",
+      "label": "professional relationship"
+    },
+    {
+      "source": "nikolay-parfenovitch",
+      "target": "agrafena-alexandrovna-svetlova",
+      "label": "professional"
+    }
+  ],
+  "summary": "New connections: Nikolay–Grushenka (acquaintance), Nikolay–Mihail (professional relationship), Nikolay–Agrafena (professional).",
+  "summary_short": "Dmitri Karamazov is the most connected figure (74 ties). Key relationship types: acquaintance, professional relationship.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (74), Alyosha Karamazov (65), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Nikolay–Grushenka (acquaintance), Nikolay–Mihail (professional relationship), Nikolay–Agrafena (professional)",
+    "Totals: 280 characters, 415 relations (+0 new, +3 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "The examination of witnesses focused on the disputed sums of money Mitya had spent, with all testimony contradicting his account and revealing new damaging details. Grushenka testified calmly and honestly about her relationship with Mitya and confirmed the amount of money spent, while Mitya declared his innocence and was reassured by her faith in him. Exhausted, Mitya fell asleep and dreamed of a compassionate vision of poverty and hope, awakening with a renewed sense of courage and willingness to cooperate.",
+  "evidence_quotes": [
+    "all the evidence given by every one turned out to be against Mitya",
+    "Grushenka firmly and quietly replied: 'He was an acquaintance...'",
+    "“I’ve had a good dream, gentlemen,” he said in a strange voice"
+  ],
+  "needs_review": false
+}

@@ -1,0 +1,28 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "trifon-borissovitch",
+      "target": "mavriky-mavrikyevitch",
+      "label": "other relationship"
+    }
+  ],
+  "summary": "New connections: Trifon–Mavriky (other relationship).",
+  "summary_short": "Dmitri Karamazov is the most connected figure (74 ties). Key relationship types: other relationship.",
+  "highlights": [
+    "Most central: Dmitri Karamazov (74), Alyosha Karamazov (65), Fyodor Karamazov (40), Ivan Karamazov (31)",
+    "Key ties: Trifon–Mavriky (other relationship)",
+    "Totals: 280 characters, 416 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Dmitri Karamazov",
+    "Alyosha Karamazov",
+    "Fyodor Karamazov"
+  ],
+  "story_summary": "Nikolay Parfenovitch formally informs Mitya that he is now a prisoner and will be taken to town for further inquiry. Mitya bids a brief farewell to Grushenka and the people gathered, expressing his acceptance of punishment but denying guilt for his father's death. As Mitya is escorted away by Mavriky Mavrikyevitch, Kalganov watches him leave and breaks down in tears, overwhelmed by the situation.",
+  "evidence_quotes": [
+    "Mitya was informed that he was, from that moment, a prisoner",
+    "Kalganov ran back, sat down in a corner, bent his head, hid his face in his hands, and burst out crying"
+  ],
+  "needs_review": false
+}
