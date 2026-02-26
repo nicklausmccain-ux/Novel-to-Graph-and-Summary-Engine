@@ -1,0 +1,11 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "nikolay",
+      "label": "indirect concern"
+    }
+  ],
+  "summary": "New connections: Rodion–Nikolay (indirect concern)."
+}

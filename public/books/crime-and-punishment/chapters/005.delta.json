@@ -1,0 +1,23 @@
+{
+  "new_nodes": [
+    "lizaveta-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "sonia-semyonovna-marmeladov",
+      "target": "marmeladov",
+      "label": "parent"
+    },
+    {
+      "source": "lizaveta-ivanovna",
+      "target": "alyona-ivanovna",
+      "label": "sisters"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "lizaveta-ivanovna",
+      "label": "sibling-like relationship"
+    }
+  ],
+  "summary": "New characters: Lizaveta Ivanovna. New connections: Sonia–Marmeladov (parent), Lizaveta–Alyona (sisters), Rodion–Lizaveta (sibling-like relationship)."
+}

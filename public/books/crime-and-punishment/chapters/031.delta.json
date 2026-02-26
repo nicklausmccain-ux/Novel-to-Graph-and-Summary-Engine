@@ -1,0 +1,13 @@
+{
+  "new_nodes": [
+    "aleksey-ivanovich-svidrigailov"
+  ],
+  "new_edges": [
+    {
+      "source": "aleksey-ivanovich-svidrigailov",
+      "target": "porfiry-petrovich",
+      "label": "colleagues"
+    }
+  ],
+  "summary": "New characters: Aleksey Ivanovich Svidrigailov. New connections: aleksey-ivanovich-svidrigailov–Porfiry (colleagues)."
+}

@@ -1,0 +1,11 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "arkady-svidrigailov",
+      "label": "mistrustful acquaintance"
+    }
+  ],
+  "summary": "New connections: Pyotr–Arkady (mistrustful acquaintance)."
+}

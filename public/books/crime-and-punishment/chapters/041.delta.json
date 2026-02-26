@@ -1,0 +1,31 @@
+{
+  "new_nodes": [
+    "fate",
+    "raskolnikovs-acquaintances-or-other-unnamed-prisoners",
+    "the-prisoners",
+    "the-prisoners-wives-and-sweethearts"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "fate",
+      "label": "abstract relationship"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "raskolnikovs-acquaintances-or-other-unnamed-prisoners",
+      "label": "other relationship"
+    },
+    {
+      "source": "the-prisoners",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "admiration"
+    },
+    {
+      "source": "the-prisoners-wives-and-sweethearts",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "friendship"
+    }
+  ],
+  "summary": "New characters: Fate, Raskolnikovs Acquaintances Or Other Unnamed Prisoners, The Prisoners, The Prisoners Wives And Sweethearts. New connections: Rodion–fate (abstract relationship), Katerina–raskolnikovs-acquaintances-or-other-unnamed-prisoners (other relationship), the-prisoners–Katerina (admiration), the-prisoners-wives-and-sweethearts–Katerina (friendship)."
+}

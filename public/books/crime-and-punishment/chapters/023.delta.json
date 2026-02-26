@@ -1,0 +1,16 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "dmitri-razumihin",
+      "target": "darya-pavlovna-raskolnikov",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "friendship"
+    }
+  ],
+  "summary": "New connections: Dmitri–Darya (friend), Dmitri–Avdotya (friendship)."
+}

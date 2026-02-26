@@ -1,0 +1,55 @@
+{
+  "new_nodes": [
+    "kapernaumov-children",
+    "madame-marmeladov",
+    "semyon-marmeladov",
+    "maria-petrovna-marmeladov",
+    "the-most-sensible-of-mothers",
+    "her-children",
+    "the-girl-does-not-have-a-specific-full-name-as-she-is-not-given-one-in-the-text",
+    "not-explicitly-named-in-the-text-but-often-referred-to-as-aglaya-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "kapernaumov-children",
+      "label": "caregiver"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "madame-marmeladov",
+      "label": "family relation"
+    },
+    {
+      "source": "arkady-svidrigailov",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "arkady-svidrigailov",
+      "target": "sonia-semyonovna-marmeladov",
+      "label": "betrothed"
+    },
+    {
+      "source": "semyon-marmeladov",
+      "target": "maria-petrovna-marmeladov",
+      "label": "spouse"
+    },
+    {
+      "source": "arkady-svidrigailov",
+      "target": "alyona-ivanovna",
+      "label": "family tie"
+    },
+    {
+      "source": "the-most-sensible-of-mothers",
+      "target": "her-children",
+      "label": "family tie"
+    },
+    {
+      "source": "the-girl-does-not-have-a-specific-full-name-as-she-is-not-given-one-in-the-text",
+      "target": "not-explicitly-named-in-the-text-but-often-referred-to-as-aglaya-ivanovna",
+      "label": "family"
+    }
+  ],
+  "summary": "New characters: Kapernaumov Children, Madame Marmeladov, Semyon Marmeladov, Maria Petrovna Marmeladov, The Most Sensible Of Mothers, Her Children and 2 more. New connections: Katerina–kapernaumov-children (caregiver), Katerina–madame-marmeladov (family relation), Arkady–Dmitri (acquaintance), Arkady–Sonia (betrothed) and 4 more."
+}

@@ -1,0 +1,89 @@
+{
+  "new_nodes": [
+    "mr-luzhin",
+    "policeman",
+    "the-policeman",
+    "sonya-semyonovna-marmeladov",
+    "svidrigailovs-girl",
+    "razumihin",
+    "dmitri-razumihin"
+  ],
+  "new_edges": [
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "mr-luzhin",
+      "label": "romantic relationship"
+    },
+    {
+      "source": "pulcheria-alexandrovna-raskolnikova",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "potential spouse"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "arkady-svidrigailov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "marmeladov",
+      "label": "connection"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "pulcheria-alexandrovna-raskolnikova",
+      "label": "children-parent"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "other relations"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "marmeladov",
+      "label": "compassionate stranger"
+    },
+    {
+      "source": "porfiry-petrovich",
+      "target": "rodion-raskolnikov",
+      "label": "collaborators in helping"
+    },
+    {
+      "source": "policeman",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "other"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "the-policeman",
+      "label": "other"
+    },
+    {
+      "source": "sonya-semyonovna-marmeladov",
+      "target": "katherine-ivanovna-marmeladov",
+      "label": "family"
+    },
+    {
+      "source": "svidrigailovs-girl",
+      "target": "darya-pavlovna-raskolnikov",
+      "label": "possible acquaintance"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "razumihin",
+      "label": "friendship"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "rodion-raskolnikov",
+      "label": "friend"
+    }
+  ],
+  "summary": "New characters: Mr Luzhin, Policeman, The Policeman, Sonya Semyonovna Marmeladov, Svidrigailovs Girl, Razumihin and 1 more. New connections: Avdotya–mr-luzhin (romantic relationship), Pulcheria–Pyotr (potential spouse), Avdotya–Arkady (acquaintance), Avdotya–Marmeladov (connection) and 11 more."
+}

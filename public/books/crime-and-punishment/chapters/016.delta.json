@@ -1,0 +1,67 @@
+{
+  "new_nodes": [
+    "unnamed-hypochondriac-man",
+    "unnamed-little-boy",
+    "pulcheria-alexandrovna-raskolnikov-and-dunya-raskolnikov",
+    "pulcheria-alexandrovna-dounia",
+    "dounia-rodionovna-raskolnikov"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "complicated acquaintance"
+    },
+    {
+      "source": "unnamed-hypochondriac-man",
+      "target": "unnamed-little-boy",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "razumihin",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "razumihin",
+      "target": "porfiry-petrovich",
+      "label": "acquaintance"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "praskovya-pavlovna",
+      "label": "acquaintance"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "pulcheria-alexandrovna-raskolnikov-and-dunya-raskolnikov",
+      "label": "unknown relationship"
+    },
+    {
+      "source": "pulcheria-alexandrovna-dounia",
+      "target": "rodion-raskolnikov",
+      "label": "mother-son"
+    },
+    {
+      "source": "razumihin",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "friend"
+    },
+    {
+      "source": "darya-pavlovna-raskolnikov",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend"
+    },
+    {
+      "source": "darya-pavlovna-raskolnikov",
+      "target": "rodion-raskolnikov",
+      "label": "sibling"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "dounia-rodionovna-raskolnikov",
+      "label": "friend"
+    }
+  ],
+  "summary": "New characters: Unnamed Hypochondriac Man, Unnamed Little Boy, Pulcheria Alexandrovna Raskolnikov And Dunya Raskolnikov, Pulcheria Alexandrovna Dounia, Dounia Rodionovna Raskolnikov. New connections: Dmitri–Marfa (complicated acquaintance), unnamed-hypochondriac-man–unnamed-little-boy (unknown relationship), razumihin–Pyotr (acquaintance), razumihin–Porfiry (acquaintance) and 7 more."
+}

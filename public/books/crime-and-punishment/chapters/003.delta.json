@@ -1,0 +1,154 @@
+{
+  "new_nodes": [
+    "nastasya-petrovna",
+    "pulcheria-alexandrovna-raskolnikova",
+    "vassily-ivanovitch-vahrushin",
+    "arkady-svidrigailov",
+    "darya-alexandrovna",
+    "duniya-romanovna-raskolnikov",
+    "avdotya-romanovna-raskolnikova",
+    "rodya",
+    "darya-alexeyevna-raskolnikov",
+    "narrator",
+    "pulkheria-alexandrovna-raskolnikov",
+    "roderick-raskolnikov"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "nastasya-petrovna",
+      "label": "servant"
+    },
+    {
+      "source": "nastasya-petrovna",
+      "target": "praskovya-pavlovna",
+      "label": "employer-employee"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "pulcheria-alexandrovna-raskolnikova",
+      "label": "friend"
+    },
+    {
+      "source": "pulcheria-alexandrovna-raskolnikova",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "sibling"
+    },
+    {
+      "source": "pulcheria-alexandrovna-raskolnikova",
+      "target": "vassily-ivanovitch-vahrushin",
+      "label": "friend"
+    },
+    {
+      "source": "marfa-petrovna-svidrigailova",
+      "target": "rodion-raskolnikov",
+      "label": "sibling"
+    },
+    {
+      "source": "arkady-svidrigailov",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "unreciprocated romantic interest"
+    },
+    {
+      "source": "darya-pavlovna-raskolnikov",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "antagonist"
+    },
+    {
+      "source": "darya-alexandrovna",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "subject of conflict"
+    },
+    {
+      "source": "duniya-romanovna-raskolnikov",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "sibling connection"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "sibling connection"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "slandered by"
+    },
+    {
+      "source": "arkady-svidrigailov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "former acquaintance"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "arkady-svidrigailov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "arkady-svidrigailov",
+      "target": "darya-pavlovna-raskolnikov",
+      "label": "other relationship"
+    },
+    {
+      "source": "marfa-petrovna-svidrigailova",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "suitor"
+    },
+    {
+      "source": "rodya",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "darya-alexeyevna-raskolnikov",
+      "target": "rodion-raskolnikov",
+      "label": "sibling"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "narrator",
+      "label": "other relationship"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "romantic connection"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "self"
+    },
+    {
+      "source": "pulkheria-alexandrovna-raskolnikov",
+      "target": "rodion-raskolnikov",
+      "label": "parent"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "parent"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "other"
+    },
+    {
+      "source": "darya-pavlovna-raskolnikov",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "romantic connection"
+    },
+    {
+      "source": "roderick-raskolnikov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "sibling"
+    },
+    {
+      "source": "pulcheria-alexandrovna-raskolnikova",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "mother"
+    }
+  ],
+  "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Vassily Ivanovitch Vahrushin, Arkady Svidrigailov, Darya Alexandrovna, Duniya Romanovna Raskolnikov and 6 more. New connections: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling) and 23 more."
+}

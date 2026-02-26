@@ -1,0 +1,133 @@
+{
+  "new_nodes": [
+    "marmeladov",
+    "semyon-zakharovich-lebeziatnikov",
+    "kokhlakov",
+    "kokhlakova",
+    "katerina-ivanovna-marmeladova",
+    "ilya-sasha-and-kolya",
+    "andrei-semyonovich-lebeziatnikov",
+    "marfa-petrovna-svidrigailova",
+    "liza-kolya-and-sanya",
+    "katherine-ivanovna-marmeladov",
+    "pyotr-petrovich-luzhin",
+    "sonia-semyonovna-marmeladov",
+    "mikhail-lunevich-lebeziatnikov",
+    "ivan-ivanitch-klopstock",
+    "darya-frantsovna",
+    "darya-pavlovna-raskolnikov",
+    "amalia-fyodorovna-lebeziatnikov",
+    "alexander-semyonovich-lebeziatnikov",
+    "kapernaumov",
+    "polenka-marmeladov",
+    "kuzma-marmeladov"
+  ],
+  "new_edges": [
+    {
+      "source": "marmeladov",
+      "target": "rodion-raskolnikov",
+      "label": "other"
+    },
+    {
+      "source": "marmeladov",
+      "target": "semyon-zakharovich-lebeziatnikov",
+      "label": "conflict"
+    },
+    {
+      "source": "kokhlakov",
+      "target": "kokhlakova",
+      "label": "spouse"
+    },
+    {
+      "source": "marmeladov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "spouse"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "spouse"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "ilya-sasha-and-kolya",
+      "label": "parent"
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "abuser"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "liza-kolya-and-sanya",
+      "label": "parent"
+    },
+    {
+      "source": "katherine-ivanovna-marmeladov",
+      "target": "marmeladov",
+      "label": "spouse"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "spouse"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "spouse"
+    },
+    {
+      "source": "sonia-semyonovna-marmeladov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "stepdaughter/stepmother"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "mikhail-lunevich-lebeziatnikov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "sonia-semyonovna-marmeladov",
+      "target": "ivan-ivanitch-klopstock",
+      "label": "employer/employee"
+    },
+    {
+      "source": "darya-frantsovna",
+      "target": "marmeladov",
+      "label": "antagonistic relationship"
+    },
+    {
+      "source": "darya-pavlovna-raskolnikov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "antagonistic"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "amalia-fyodorovna-lebeziatnikov",
+      "label": "other"
+    },
+    {
+      "source": "alexander-semyonovich-lebeziatnikov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "other"
+    },
+    {
+      "source": "kapernaumov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "landlord-tenant"
+    },
+    {
+      "source": "polenka-marmeladov",
+      "target": "kuzma-marmeladov",
+      "label": "sibling"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "sonia-semyonovna-marmeladov",
+      "label": "romantic connection"
+    }
+  ],
+  "summary": "New characters: Marmeladov, Semyon Zakharovich Lebeziatnikov, Kokhlakov, Kokhlakova, Katerina Ivanovna Marmeladova, Ilya Sasha And Kolya and 15 more. New connections: Marmeladov–Rodion (other), Marmeladov–semyon-zakharovich-lebeziatnikov (conflict), kokhlakov–kokhlakova (spouse), Marmeladov–Katerina (spouse) and 17 more."
+}

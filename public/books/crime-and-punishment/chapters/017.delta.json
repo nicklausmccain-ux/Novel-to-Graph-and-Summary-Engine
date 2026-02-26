@@ -1,0 +1,30 @@
+{
+  "new_nodes": [
+    "rodya-dmitrievich-raskolnikov",
+    "daria-raskolnikov",
+    "dounia-dmitrievna-raskolnikov"
+  ],
+  "new_edges": [
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "andrei-semyonovich-zossimov",
+      "label": "friend"
+    },
+    {
+      "source": "rodya-dmitrievich-raskolnikov",
+      "target": "pulcheria-alexandrovna-raskolnikova",
+      "label": "mother"
+    },
+    {
+      "source": "roderick-raskolnikov",
+      "target": "daria-raskolnikov",
+      "label": "sibling"
+    },
+    {
+      "source": "dounia-dmitrievna-raskolnikov",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend/ally"
+    }
+  ],
+  "summary": "New characters: Rodya Dmitrievich Raskolnikov, Daria Raskolnikov, Dounia Dmitrievna Raskolnikov. New connections: Avdotya–Andrei (friend), rodya-dmitrievich-raskolnikov–Pulcheria (mother), roderick-raskolnikov–daria-raskolnikov (sibling), dounia-dmitrievna-raskolnikov–Dmitri (friend/ally)."
+}

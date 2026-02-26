@@ -1,0 +1,11 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "porfiry-petrovich",
+      "target": "nikolay",
+      "label": "authority"
+    }
+  ],
+  "summary": "New connections: Porfiry–Nikolay (authority)."
+}

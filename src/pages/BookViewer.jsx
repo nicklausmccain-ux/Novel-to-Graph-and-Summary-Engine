@@ -729,8 +729,26 @@ export default function BookViewer() {
     return (
       <div className="loading-screen">
         <div className="loading-content">
-          <h1 className="loading-title">Error</h1>
-          <p className="loading-subtitle">{error}</p>
+          <h1 className="loading-title">Unable to Load Book</h1>
+          <p className="loading-subtitle" style={{ marginBottom: "0.5rem" }}>
+            {bookMeta?.title || bookId}
+          </p>
+          <p
+            style={{
+              color: "#94a3b8",
+              fontSize: "0.85rem",
+              maxWidth: "420px",
+              lineHeight: 1.5,
+              marginBottom: "1.5rem",
+            }}
+          >
+            {error || "The book data could not be loaded."}
+            <br />
+            <span style={{ color: "#64748b", fontSize: "0.8rem" }}>
+              This usually means the BookPack is missing or incomplete. Ensure{" "}
+              <code style={{ color: "#7dd3fc" }}>chapters/index.json</code> exists.
+            </span>
+          </p>
           <button className="library-back-btn" onClick={goToLibrary}>
             &larr; Back to Library
           </button>

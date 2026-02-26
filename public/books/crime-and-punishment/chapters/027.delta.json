@@ -1,0 +1,60 @@
+{
+  "new_nodes": [
+    "mikhail-ivanovich-terebyaev",
+    "maria-terebyaeva",
+    "madame-terebyaeva",
+    "darya-nikolaevna-varents",
+    "sofya-semyonovna-terebyaeva",
+    "sofya-semyonovna-dunya-razumihin",
+    "mr-and-mrs-marmeladov",
+    "the-orphans-of-katerina-ivanovna"
+  ],
+  "new_edges": [
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "amalia-ivanovna",
+      "label": "respect"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "mikhail-ivanovich-terebyaev",
+      "label": "parent"
+    },
+    {
+      "source": "maria-terebyaeva",
+      "target": "madame-terebyaeva",
+      "label": "parent"
+    },
+    {
+      "source": "darya-nikolaevna-varents",
+      "target": "sofya-semyonovna-terebyaeva",
+      "label": "spouse"
+    },
+    {
+      "source": "sofya-semyonovna-dunya-razumihin",
+      "target": "rodion-raskolnikov",
+      "label": "romantic connection"
+    },
+    {
+      "source": "marmeladov",
+      "target": "mr-and-mrs-marmeladov",
+      "label": "parent"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "sonia-semyonovna-marmeladov",
+      "label": "other relationship"
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "other relationship"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "the-orphans-of-katerina-ivanovna",
+      "label": "caring individual"
+    }
+  ],
+  "summary": "New characters: Mikhail Ivanovich Terebyaev, Maria Terebyaeva, Madame Terebyaeva, Darya Nikolaevna Varents, Sofya Semyonovna Terebyaeva, Sofya Semyonovna Dunya Razumihin and 2 more. New connections: Pyotr–Amalia (respect), Katerina–mikhail-ivanovich-terebyaev (parent), maria-terebyaeva–madame-terebyaeva (parent), darya-nikolaevna-varents–sofya-semyonovna-terebyaeva (spouse) and 5 more."
+}

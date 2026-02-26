@@ -1,0 +1,30 @@
+{
+  "new_nodes": [
+    "natasha",
+    "afrosinya",
+    "alyosha"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "natasha",
+      "label": "Other"
+    },
+    {
+      "source": "na",
+      "target": "afrosinya",
+      "label": "relationship type"
+    },
+    {
+      "source": "mikhail-ivanovich",
+      "target": "alyosha",
+      "label": "community"
+    },
+    {
+      "source": "porfiry-petrovich",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "community"
+    }
+  ],
+  "summary": "New characters: Natasha, Afrosinya, Alyosha. New connections: Katerina–natasha (Other), N/a–afrosinya (relationship type), mikhail-ivanovich–alyosha (community), Porfiry–Pyotr (community)."
+}

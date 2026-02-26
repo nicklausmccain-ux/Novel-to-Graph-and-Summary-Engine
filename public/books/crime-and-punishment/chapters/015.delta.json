@@ -1,0 +1,50 @@
+{
+  "new_nodes": [
+    "pulcheria-alexandrovna-rascalnikov",
+    "dmitriy-prokofych-razumihin",
+    "andrei-semyonovich-luhov"
+  ],
+  "new_edges": [
+    {
+      "source": "pulcheria-alexandrovna-rascalnikov",
+      "target": "dmitri-razumihin",
+      "label": "friend"
+    },
+    {
+      "source": "pulcheria-alexandrovna-raskolnikova",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "acquaintances or friends"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "pulcheria-alexandrovna-raskolnikova",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "friend"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend"
+    },
+    {
+      "source": "dmitriy-prokofych-razumihin",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "friendly"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "andrei-semyonovich-zossimov",
+      "label": "friendship"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "andrei-semyonovich-luhov",
+      "label": "friend"
+    }
+  ],
+  "summary": "New characters: Pulcheria Alexandrovna Rascalnikov, Dmitriy Prokofych Razumihin, Andrei Semyonovich Luhov. New connections: pulcheria-alexandrovna-rascalnikov–Dmitri (friend), Pulcheria–Dmitri (acquaintances or friends), Dmitri–Pulcheria (friend), Dmitri–Marfa (friend) and 4 more."
+}

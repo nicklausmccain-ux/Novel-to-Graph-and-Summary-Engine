@@ -1,0 +1,13 @@
+{
+  "new_nodes": [
+    "painters"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "painters",
+      "label": "indirect relationship"
+    }
+  ],
+  "summary": "New characters: Painters. New connections: Rodion–painters (indirect relationship)."
+}

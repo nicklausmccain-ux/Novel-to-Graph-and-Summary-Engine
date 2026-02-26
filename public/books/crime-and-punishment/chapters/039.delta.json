@@ -1,0 +1,11 @@
+{
+  "new_nodes": [],
+  "new_edges": [
+    {
+      "source": "marmeladov",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "friend"
+    }
+  ],
+  "summary": "New connections: Marmeladov–Marfa (friend)."
+}

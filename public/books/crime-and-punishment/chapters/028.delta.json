@@ -1,0 +1,29 @@
+{
+  "new_nodes": [
+    "the-two-little-ones",
+    "her-late-husband"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "andrei-semyonovich-lebeziatnikov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "the-two-little-ones",
+      "label": "caretaker"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "amalia-ivanovna",
+      "label": "tenant/landlord"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "her-late-husband",
+      "label": "spouse"
+    }
+  ],
+  "summary": "New characters: The Two Little Ones, Her Late Husband. New connections: Katerina–Andrei (acquaintance), Katerina–the-two-little-ones (caretaker), Rodion–Amalia (tenant/landlord), Katerina–her-late-husband (spouse)."
+}

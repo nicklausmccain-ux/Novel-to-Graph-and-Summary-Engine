@@ -1,0 +1,13 @@
+{
+  "new_nodes": [
+    "the-authorities"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "the-authorities",
+      "label": "other relationship"
+    }
+  ],
+  "summary": "New characters: The Authorities. New connections: Katerina–the-authorities (other relationship)."
+}

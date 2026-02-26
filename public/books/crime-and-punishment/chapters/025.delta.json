@@ -1,0 +1,13 @@
+{
+  "new_nodes": [
+    "porfiry"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "porfiry",
+      "label": "interrogator"
+    }
+  ],
+  "summary": "New characters: Porfiry. New connections: Rodion–porfiry (interrogator)."
+}

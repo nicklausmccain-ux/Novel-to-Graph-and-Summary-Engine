@@ -1,0 +1,90 @@
+{
+  "new_nodes": [
+    "andrei-semyonovich-zossimov",
+    "ilya-petrovich-zametov",
+    "mikhail-zametov",
+    "andrey-semyonovich-zossimov",
+    "koch-and-pestryakov",
+    "nikolay",
+    "mikhail-petrovich-pestryakov",
+    "mikhail-ivanovich-pestryakov"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "andrei-semyonovich-zossimov",
+      "label": "collaborators"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "ilya-petrovich-zametov",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "dmitri-razumihin",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "mikhail-zametov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "porfiry-petrovich",
+      "label": "distant relative"
+    },
+    {
+      "source": "andrei-semyonovich-zossimov",
+      "target": "nastasya-petrovna",
+      "label": "Other"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "andrey-semyonovich-zossimov",
+      "label": "friendship"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "dmitri-razumihin",
+      "label": "friendship"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "koch-and-pestryakov",
+      "label": "accusers"
+    },
+    {
+      "source": "nikolay",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "other"
+    },
+    {
+      "source": "nikolay",
+      "target": "alyona-ivanovna",
+      "label": "acquaintance"
+    },
+    {
+      "source": "nikolay",
+      "target": "lizaveta-ivanovna",
+      "label": "acquaintance"
+    },
+    {
+      "source": "andrei-semyonovich-zossimov",
+      "target": "rodion-raskolnikov",
+      "label": "concerned companion"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "mikhail-petrovich-pestryakov",
+      "label": "Other"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "mikhail-ivanovich-pestryakov",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New characters: Andrei Semyonovich Zossimov, Ilya Petrovich Zametov, Mikhail Zametov, Andrey Semyonovich Zossimov, Koch And Pestryakov, Nikolay and 2 more. New connections: Dmitri–Andrei (collaborators), Dmitri–ilya-petrovich-zametov (friend), Dmitri–Dmitri (friend), Dmitri–mikhail-zametov (acquaintance) and 11 more."
+}

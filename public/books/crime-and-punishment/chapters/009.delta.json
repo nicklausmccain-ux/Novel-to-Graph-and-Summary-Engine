@@ -1,0 +1,36 @@
+{
+  "new_nodes": [
+    "makar-ivanovich-heruvimov",
+    "heruvimov",
+    "the-narrator-likely-raskolnikov",
+    "sonia-d-marmeladov"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "makar-ivanovich-heruvimov",
+      "label": "professional relationship"
+    },
+    {
+      "source": "heruvimov",
+      "target": "the-narrator-likely-raskolnikov",
+      "label": "financial arrangement"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "alyona-ivanovna",
+      "label": "collaborators"
+    },
+    {
+      "source": "marfa-petrovna-svidrigailova",
+      "target": "sonia-d-marmeladov",
+      "label": "parent-child"
+    },
+    {
+      "source": "ilya-petrovitch",
+      "target": "alyona-ivanovna",
+      "label": "other"
+    }
+  ],
+  "summary": "New characters: Makar Ivanovich Heruvimov, Heruvimov, The Narrator Likely Raskolnikov, Sonia D Marmeladov. New connections: Rodion–makar-ivanovich-heruvimov (professional relationship), heruvimov–the-narrator-likely-raskolnikov (financial arrangement), Dmitri–Alyona (collaborators), Marfa–sonia-d-marmeladov (parent-child) and 1 more."
+}

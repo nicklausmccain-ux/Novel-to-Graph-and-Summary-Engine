@@ -1,0 +1,18 @@
+{
+  "new_nodes": [
+    "raskolnikovs-mother"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "porfiry-petrovich",
+      "label": "acquaintance"
+    },
+    {
+      "source": "raskolnikovs-mother",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "concern"
+    }
+  ],
+  "summary": "New characters: Raskolnikovs Mother. New connections: Katerina–Porfiry (acquaintance), raskolnikovs-mother–Katerina (concern)."
+}

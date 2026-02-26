@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0",
+  "id": "crime-and-punishment",
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "coverImage": null,
+  "chapterCount": 41,
+  "characterCount": 25,
+  "generatedAt": "2026-02-26T11:05:13Z",
+  "pipelineVersion": "1.0.0"
+}

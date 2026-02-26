@@ -1,0 +1,29 @@
+{
+  "new_nodes": [
+    "the-monastery",
+    "lizaveta"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-razumihin",
+      "target": "alyona-ivanovna",
+      "label": "acquaintance"
+    },
+    {
+      "source": "lizaveta-ivanovna",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "sibling"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "the-monastery",
+      "label": "other"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "lizaveta",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New characters: The Monastery, Lizaveta. New connections: Dmitri–Alyona (acquaintance), Lizaveta–Katerina (sibling), Alyona–the-monastery (other), Rodion–lizaveta (acquaintance)."
+}

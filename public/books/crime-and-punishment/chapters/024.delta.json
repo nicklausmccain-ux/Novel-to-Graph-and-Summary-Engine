@@ -1,0 +1,49 @@
+{
+  "new_nodes": [
+    "god",
+    "jesus-christ",
+    "martha",
+    "lazarus",
+    "mary-magdalene",
+    "the-jews",
+    "sonia"
+  ],
+  "new_edges": [
+    {
+      "source": "marmeladov",
+      "target": "god",
+      "label": "reliance"
+    },
+    {
+      "source": "sonia-semyonovna-marmeladov",
+      "target": "lizaveta-ivanovna",
+      "label": "friendship"
+    },
+    {
+      "source": "jesus-christ",
+      "target": "martha",
+      "label": "teacher-student"
+    },
+    {
+      "source": "martha",
+      "target": "lazarus",
+      "label": "sibling"
+    },
+    {
+      "source": "mary-magdalene",
+      "target": "jesus-christ",
+      "label": "sibling"
+    },
+    {
+      "source": "the-jews",
+      "target": "jesus-christ",
+      "label": "witnesses"
+    },
+    {
+      "source": "sonia",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance"
+    }
+  ],
+  "summary": "New characters: God, Jesus Christ, Martha, Lazarus, Mary Magdalene, The Jews and 1 more. New connections: Marmeladov–god (reliance), Sonia–Lizaveta (friendship), jesus-christ–martha (teacher-student), martha–lazarus (sibling) and 3 more."
+}

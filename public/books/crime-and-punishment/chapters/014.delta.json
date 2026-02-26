@@ -1,0 +1,76 @@
+{
+  "new_nodes": [
+    "polya",
+    "lyova",
+    "polenka-ivanovna",
+    "lyubov-ivanovna",
+    "the-little-boy",
+    "amalia-ivanovna",
+    "the-little-ones",
+    "victor-zossimov",
+    "daria-rodionovna-raskolnikov"
+  ],
+  "new_edges": [
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "polenka-marmeladov",
+      "label": "mother"
+    },
+    {
+      "source": "polya",
+      "target": "lyova",
+      "label": "sister"
+    },
+    {
+      "source": "polenka-ivanovna",
+      "target": "lyubov-ivanovna",
+      "label": "sister"
+    },
+    {
+      "source": "the-little-boy",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "child"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "amalia-ivanovna",
+      "label": "other relationship"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "the-little-ones",
+      "label": "parent"
+    },
+    {
+      "source": "praskovya-pavlovna",
+      "target": "alyona-ivanovna",
+      "label": "parent"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "razumihin",
+      "label": "friend"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "victor-zossimov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "ilya-petrovitch",
+      "label": "acquaintance"
+    },
+    {
+      "source": "daria-rodionovna-raskolnikov",
+      "target": "rodion-raskolnikov",
+      "label": "sibling"
+    },
+    {
+      "source": "pulcheria-alexandrovna-raskolnikova",
+      "target": "darya-pavlovna-raskolnikov",
+      "label": "parent to child"
+    }
+  ],
+  "summary": "New characters: Polya, Lyova, Polenka Ivanovna, Lyubov Ivanovna, The Little Boy, Amalia Ivanovna and 3 more. New connections: Katerina–Polenka (mother), polya–lyova (sister), polenka-ivanovna–lyubov-ivanovna (sister), the-little-boy–Katerina (child) and 8 more."
+}

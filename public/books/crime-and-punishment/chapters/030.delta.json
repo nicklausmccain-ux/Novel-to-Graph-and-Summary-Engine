@@ -1,0 +1,18 @@
+{
+  "new_nodes": [
+    "maria-raskolnikov"
+  ],
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "maria-raskolnikov",
+      "label": "parent"
+    },
+    {
+      "source": "aleksey-ivanovich-lebeziatnikov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "Acquaintance"
+    }
+  ],
+  "summary": "New characters: Maria Raskolnikov. New connections: Rodion–maria-raskolnikov (parent), aleksey-ivanovich-lebeziatnikov–Katerina (Acquaintance)."
+}

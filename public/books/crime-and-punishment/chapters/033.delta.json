@@ -1,0 +1,13 @@
+{
+  "new_nodes": [
+    "mr-dmitri-prokofych-zametov"
+  ],
+  "new_edges": [
+    {
+      "source": "mr-dmitri-prokofych-zametov",
+      "target": "porfiry-petrovich",
+      "label": "other relationship"
+    }
+  ],
+  "summary": "New characters: Mr Dmitri Prokofych Zametov. New connections: mr-dmitri-prokofych-zametov–Porfiry (other relationship)."
+}

@@ -1,0 +1,29 @@
+{
+  "new_nodes": [
+    "daria-alexandrovna-raskolnikova",
+    "unknown-gentleman"
+  ],
+  "new_edges": [
+    {
+      "source": "pulcheria-alexandrovna-raskolnikova",
+      "target": "marmeladov",
+      "label": "friend"
+    },
+    {
+      "source": "daria-alexandrovna-raskolnikova",
+      "target": "pulcheria-alexandrovna-raskolnikova",
+      "label": "daughter-mother"
+    },
+    {
+      "source": "unknown-gentleman",
+      "target": "sonia-semyonovna-marmeladov",
+      "label": "unknown observer"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "sonia-semyonovna-marmeladov",
+      "label": "acquaintances"
+    }
+  ],
+  "summary": "New characters: Daria Alexandrovna Raskolnikova, Unknown Gentleman. New connections: Pulcheria–Marmeladov (friend), daria-alexandrovna-raskolnikova–Pulcheria (daughter-mother), unknown-gentleman–Sonia (unknown observer), Dmitri–Sonia (acquaintances)."
+}

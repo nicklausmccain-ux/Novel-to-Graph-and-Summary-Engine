@@ -1,0 +1,40 @@
+{
+  "new_nodes": [
+    "andrei-semyonovitch-zossimov",
+    "the-old-pawnbroker",
+    "mrs-raskolnikova"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "acquaintance or formal relationship"
+    },
+    {
+      "source": "dmitri-razumihin",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "andrei-semyonovitch-zossimov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "alyona-ivanovna",
+      "label": "victim"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "the-old-pawnbroker",
+      "label": "victim"
+    },
+    {
+      "source": "katerina-ivanovna-marmeladova",
+      "target": "mrs-raskolnikova",
+      "label": "indirect relationship"
+    }
+  ],
+  "summary": "New characters: Andrei Semyonovitch Zossimov, The Old Pawnbroker, Mrs Raskolnikova. New connections: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Pyotr–andrei-semyonovitch-zossimov (acquaintance), Katerina–Alyona (victim) and 2 more."
+}
