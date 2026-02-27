@@ -2,21 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "porfiry-petrovich",
+      "source": "rodion-raskolnikov",
       "target": "nikolay",
-      "label": "authority"
+      "label": "Other relationship"
     }
   ],
-  "summary": "New connections: Porfiry–Nikolay (authority).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: authority.",
+  "summary": "New connections: Rodion–Nikolay (Other relationship).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (10 ties). Key relationship types: other relationship.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (13)",
-    "Key ties: Porfiry–Nikolay (authority)",
-    "Totals: 24 characters, 90 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (10), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
+    "Key ties: Rodion–Nikolay (Other relationship)",
+    "Totals: 24 characters, 21 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich"
   ]
 }

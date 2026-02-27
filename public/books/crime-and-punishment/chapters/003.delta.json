@@ -7,112 +7,22 @@
   ],
   "new_edges": [
     {
-      "source": "rodion-raskolnikov",
-      "target": "nastasya-petrovna",
-      "label": "servant"
-    },
-    {
-      "source": "nastasya-petrovna",
-      "target": "praskovya-pavlovna",
-      "label": "employer-employee"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "pulcheria-alexandrovna-raskolnikova",
-      "label": "friend"
-    },
-    {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "sibling"
-    },
-    {
-      "source": "marfa-petrovna-svidrigailova",
-      "target": "rodion-raskolnikov",
-      "label": "sibling"
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "unreciprocated romantic interest"
-    },
-    {
-      "source": "darya-pavlovna-raskolnikov",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "antagonist"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "avdotya-romanovna-raskolnikova",
-      "label": "sibling connection"
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "slandered by"
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "former acquaintance"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "arkady-svidrigailov",
-      "label": "acquaintance"
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "darya-pavlovna-raskolnikov",
-      "label": "other relationship"
-    },
-    {
-      "source": "marfa-petrovna-svidrigailova",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "suitor"
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "romantic connection"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "avdotya-romanovna-raskolnikova",
-      "label": "self"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "parent"
-    },
-    {
-      "source": "alyona-ivanovna",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "other"
-    },
-    {
-      "source": "darya-pavlovna-raskolnikov",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "romantic connection"
-    },
-    {
       "source": "pulcheria-alexandrovna-raskolnikova",
       "target": "katerina-ivanovna-marmeladova",
       "label": "mother"
     }
   ],
-  "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. New connections: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling) and 15 more.",
-  "summary_short": "Introduces Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. Rodion Raskolnikov is the most connected figure (11 ties). Key relationship types: acquaintance, antagonist, employer-employee, former acquaintance.",
+  "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. New connections: Pulcheria–Katerina (mother).",
+  "summary_short": "Introduces Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. Dmitri Prokofich Razumihin is the most connected figure (1 ties). Key relationship types: mother.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (11), Katerina Ivanovna Marmeladova (9), Marfa Petrovna Svidrigailova (8), Pyotr Petrovich Luzhin (5)",
-    "Key ties: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling), and 15 more",
+    "Most central: Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Rodion Raskolnikov (1), Sonia Semyonovna Marmeladov (1)",
+    "Key ties: Pulcheria–Katerina (mother)",
     "New characters: Nastasya, Pulcheria, Arkady, Avdotya",
-    "Totals: 16 characters, 31 relations (+4 new, +19 new)"
+    "Totals: 16 characters, 3 relations (+4 new, +1 new)"
   ],
   "key_characters": [
-    "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Marfa Petrovna Svidrigailova"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich",
+    "Rodion Raskolnikov"
   ]
 }

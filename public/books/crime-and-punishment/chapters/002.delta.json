@@ -10,62 +10,22 @@
   ],
   "new_edges": [
     {
-      "source": "marmeladov",
-      "target": "rodion-raskolnikov",
-      "label": "other"
-    },
-    {
-      "source": "marmeladov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "spouse"
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "spouse"
-    },
-    {
-      "source": "andrei-semyonovich-lebeziatnikov",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "abuser"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "spouse"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "spouse"
-    },
-    {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "stepdaughter/stepmother"
-    },
-    {
-      "source": "darya-pavlovna-raskolnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "antagonistic"
-    },
-    {
       "source": "rodion-raskolnikov",
       "target": "sonia-semyonovna-marmeladov",
       "label": "romantic connection"
     }
   ],
-  "summary": "New characters: Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, Pyotr Petrovich Luzhin, Sonia Semyonovna Marmeladov and 1 more. New connections: Marmeladov–Rodion (other), Marmeladov–Katerina (spouse), Dmitri–Katerina (spouse), Andrei–Marfa (abuser) and 5 more.",
-  "summary_short": "Introduces Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, and 3 others. Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: abuser, antagonistic, other, romantic connection.",
+  "summary": "New characters: Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, Pyotr Petrovich Luzhin, Sonia Semyonovna Marmeladov and 1 more. New connections: Rodion–Sonia (romantic connection).",
+  "summary_short": "Introduces Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, and 3 others. Dmitri Prokofich Razumihin is the most connected figure (1 ties). Key relationship types: romantic connection.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (6), Katerina Ivanovna Marmeladova (5), Dmitri Prokofich Razumihin (2), Marmeladov (2)",
-    "Key ties: Marmeladov–Rodion (other), Marmeladov–Katerina (spouse), Dmitri–Katerina (spouse), Andrei–Marfa (abuser), and 5 more",
+    "Most central: Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Rodion Raskolnikov (1), Sonia Semyonovna Marmeladov (1)",
+    "Key ties: Rodion–Sonia (romantic connection)",
     "New characters: Marmeladov, Katerina, Andrei, Marfa, Pyotr, Sonia, and 1 more",
-    "Totals: 12 characters, 12 relations (+7 new, +9 new)"
+    "Totals: 12 characters, 2 relations (+7 new, +1 new)"
   ],
   "key_characters": [
-    "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich",
+    "Rodion Raskolnikov"
   ]
 }

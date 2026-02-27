@@ -1,15 +1,22 @@
 {
   "new_nodes": [],
-  "new_edges": [],
-  "summary": "No new characters or connections in this chapter.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties).",
+  "new_edges": [
+    {
+      "source": "rodion-raskolnikov",
+      "target": "marmeladov",
+      "label": "romantic connection"
+    }
+  ],
+  "summary": "New connections: Rodion–Marmeladov (romantic connection).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (14 ties). Key relationship types: romantic connection.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (19), Dmitri Prokofich Razumihin (17), Pyotr Petrovich Luzhin (15)",
-    "Totals: 24 characters, 103 relations (+0 new, +0 new)"
+    "Most central: Rodion Raskolnikov (14), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
+    "Key ties: Rodion–Marmeladov (romantic connection)",
+    "Totals: 24 characters, 29 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
+    "Pyotr Petrovich Luzhin",
     "Dmitri Prokofich Razumihin"
   ]
 }

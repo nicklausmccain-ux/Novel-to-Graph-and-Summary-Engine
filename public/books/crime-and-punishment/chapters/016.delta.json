@@ -2,36 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "complicated acquaintance"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "praskovya-pavlovna",
+      "source": "dmitri-razumihin",
+      "target": "pulcheria-alexandrovna-raskolnikova",
       "label": "acquaintance"
-    },
-    {
-      "source": "darya-pavlovna-raskolnikov",
-      "target": "dmitri-prokofich-razumihin",
-      "label": "friend"
-    },
-    {
-      "source": "darya-pavlovna-raskolnikov",
-      "target": "rodion-raskolnikov",
-      "label": "sibling"
     }
   ],
-  "summary": "New connections: Dmitri–Marfa (complicated acquaintance), Katerina–Praskovya (acquaintance), Darya–Dmitri (friend), Darya–Rodion (sibling).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (19 ties). Key relationship types: acquaintance, complicated acquaintance, friend, sibling.",
+  "summary": "New connections: Dmitri–Pulcheria (acquaintance).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: acquaintance.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (19), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Marfa Petrovna Svidrigailova (10)",
-    "Key ties: Dmitri–Marfa (complicated acquaintance), Katerina–Praskovya (acquaintance), Darya–Dmitri (friend), Darya–Rodion (sibling)",
-    "Totals: 24 characters, 81 relations (+0 new, +4 new)"
+    "Most central: Rodion Raskolnikov (6), Dmitri Prokofich Razumihin (3), Pulcheria Alexandrovna Raskolnikova (3), Alyona Ivanovna (3)",
+    "Key ties: Dmitri–Pulcheria (acquaintance)",
+    "Totals: 24 characters, 13 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Pulcheria Alexandrovna Raskolnikova"
   ]
 }

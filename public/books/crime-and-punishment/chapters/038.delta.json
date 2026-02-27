@@ -1,22 +1,15 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "porfiry-petrovich",
-      "label": "acquaintance"
-    }
-  ],
-  "summary": "New connections: Katerina–Porfiry (acquaintance).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: acquaintance.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (12 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (19), Dmitri Prokofich Razumihin (17), Pyotr Petrovich Luzhin (15)",
-    "Key ties: Katerina–Porfiry (acquaintance)",
-    "Totals: 24 characters, 102 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (12), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
+    "Totals: 24 characters, 27 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
+    "Pyotr Petrovich Luzhin",
     "Dmitri Prokofich Razumihin"
   ]
 }

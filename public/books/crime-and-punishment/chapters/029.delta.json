@@ -1,27 +1,15 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "andrei-semyonovich-lebeziatnikov",
-      "target": "rodion-raskolnikov",
-      "label": "friend"
-    },
-    {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "marmeladov",
-      "label": "adversarial relationship"
-    }
-  ],
-  "summary": "New connections: Andrei–Rodion (friend), Pyotr–Marmeladov (adversarial relationship).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: adversarial relationship, friend.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (10 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (14)",
-    "Key ties: Andrei–Rodion (friend), Pyotr–Marmeladov (adversarial relationship)",
-    "Totals: 24 characters, 97 relations (+0 new, +2 new)"
+    "Most central: Rodion Raskolnikov (10), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
+    "Totals: 24 characters, 23 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich"
   ]
 }

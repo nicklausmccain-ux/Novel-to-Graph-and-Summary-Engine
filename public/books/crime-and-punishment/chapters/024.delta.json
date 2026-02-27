@@ -1,22 +1,15 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "lizaveta-ivanovna",
-      "label": "friendship"
-    }
-  ],
-  "summary": "New connections: Sonia–Lizaveta (friendship).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: friendship.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (8 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (13)",
-    "Key ties: Sonia–Lizaveta (friendship)",
-    "Totals: 24 characters, 89 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (8), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
+    "Totals: 24 characters, 19 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Pulcheria Alexandrovna Raskolnikova"
   ]
 }

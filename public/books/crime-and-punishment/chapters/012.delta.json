@@ -1,32 +1,15 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "acquaintance or formal relationship"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "acquaintance"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "alyona-ivanovna",
-      "label": "victim"
-    }
-  ],
-  "summary": "New connections: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Katerina–Alyona (victim).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, acquaintance or formal relationship, victim.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (5 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (18), Katerina Ivanovna Marmeladova (14), Dmitri Prokofich Razumihin (11), Pyotr Petrovich Luzhin (9)",
-    "Key ties: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Katerina–Alyona (victim)",
-    "Totals: 22 characters, 66 relations (+0 new, +3 new)"
+    "Most central: Rodion Raskolnikov (5), Alyona Ivanovna (3), Dmitri Prokofich Razumihin (2), Porfiry Petrovich (1)",
+    "Totals: 22 characters, 9 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
+    "Alyona Ivanovna",
     "Dmitri Prokofich Razumihin"
   ]
 }

@@ -519,14 +519,18 @@ export default function BookViewer() {
           }
         }
 
+        // Prefer per-chapter description (anti-spoiler) over global
+        const chapterDesc = snapshot?.character_descriptions?.[nodeData.id];
+        const description = chapterDesc
+          || charInfo.description
+          || nodeData.description
+          || "No description available.";
+
         setSelected({
           type: "node",
           id: nodeData.id,
           name: charInfo.name || nodeData.label,
-          description:
-            charInfo.description ||
-            nodeData.description ||
-            "No description available.",
+          description,
           aliases: charInfo.aliases || [],
           neighbors: uniqueNeighbors,
         });
@@ -561,7 +565,7 @@ export default function BookViewer() {
         }
       });
     },
-    [characters, focusMode, isMobile]
+    [characters, focusMode, isMobile, snapshot]
   );
 
   useEffect(() => {
@@ -1018,7 +1022,9 @@ export default function BookViewer() {
             layout={{ name: "preset" }}
             cy={handleCyMount}
             style={{ width: "100%", height: "100%", position: "relative", zIndex: 1 }}
-            wheelSensitivity={0.3}
+            wheelSensitivity={1.5}
+            minZoom={0.05}
+            maxZoom={10}
           />
         </div>
       ) : (

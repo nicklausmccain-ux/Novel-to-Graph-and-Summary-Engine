@@ -4,62 +4,22 @@
   ],
   "new_edges": [
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "potential spouse"
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "arkady-svidrigailov",
-      "label": "acquaintance"
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "marmeladov",
-      "label": "connection"
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "pulcheria-alexandrovna-raskolnikova",
-      "label": "children-parent"
-    },
-    {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "other relations"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "dmitri-prokofich-razumihin",
-      "label": "unknown relationship"
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "marmeladov",
-      "label": "compassionate stranger"
-    },
-    {
-      "source": "porfiry-petrovich",
-      "target": "rodion-raskolnikov",
-      "label": "collaborators in helping"
-    },
-    {
       "source": "dmitri-razumihin",
       "target": "rodion-raskolnikov",
       "label": "friend"
     }
   ],
-  "summary": "New characters: Dmitri Razumihin. New connections: Pulcheria–Pyotr (potential spouse), Avdotya–Arkady (acquaintance), Avdotya–Marmeladov (connection), Avdotya–Pulcheria (children-parent) and 5 more.",
-  "summary_short": "Introduces Dmitri Razumihin. Rodion Raskolnikov is the most connected figure (14 ties). Key relationship types: acquaintance, children-parent, collaborators in helping, compassionate stranger.",
+  "summary": "New characters: Dmitri Razumihin. New connections: Dmitri–Rodion (friend).",
+  "summary_short": "Introduces Dmitri Razumihin. Rodion Raskolnikov is the most connected figure (2 ties). Key relationship types: friend.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (14), Katerina Ivanovna Marmeladova (10), Marfa Petrovna Svidrigailova (8), Pyotr Petrovich Luzhin (7)",
-    "Key ties: Pulcheria–Pyotr (potential spouse), Avdotya–Arkady (acquaintance), Avdotya–Marmeladov (connection), Avdotya–Pulcheria (children-parent), and 5 more",
+    "Most central: Rodion Raskolnikov (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Sonia Semyonovna Marmeladov (1)",
+    "Key ties: Dmitri–Rodion (friend)",
     "New characters: Dmitri",
-    "Totals: 17 characters, 40 relations (+1 new, +9 new)"
+    "Totals: 17 characters, 4 relations (+1 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Marfa Petrovna Svidrigailova"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich"
   ]
 }

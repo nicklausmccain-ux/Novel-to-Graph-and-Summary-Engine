@@ -4,32 +4,22 @@
   ],
   "new_edges": [
     {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "marmeladov",
-      "label": "parent"
-    },
-    {
       "source": "lizaveta-ivanovna",
       "target": "alyona-ivanovna",
-      "label": "sisters"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "lizaveta-ivanovna",
-      "label": "sibling-like relationship"
+      "label": "sibling"
     }
   ],
-  "summary": "New characters: Lizaveta Ivanovna. New connections: Sonia–Marmeladov (parent), Lizaveta–Alyona (sisters), Rodion–Lizaveta (sibling-like relationship).",
-  "summary_short": "Introduces Lizaveta Ivanovna. Rodion Raskolnikov is the most connected figure (15 ties). Key relationship types: parent, sibling-like relationship, sisters.",
+  "summary": "New characters: Lizaveta Ivanovna. New connections: Lizaveta–Alyona (sibling).",
+  "summary_short": "Introduces Lizaveta Ivanovna. Rodion Raskolnikov is the most connected figure (2 ties). Key relationship types: sibling.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (15), Katerina Ivanovna Marmeladova (10), Marfa Petrovna Svidrigailova (8), Pyotr Petrovich Luzhin (7)",
-    "Key ties: Sonia–Marmeladov (parent), Lizaveta–Alyona (sisters), Rodion–Lizaveta (sibling-like relationship)",
+    "Most central: Rodion Raskolnikov (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Sonia Semyonovna Marmeladov (1)",
+    "Key ties: Lizaveta–Alyona (sibling)",
     "New characters: Lizaveta",
-    "Totals: 18 characters, 43 relations (+1 new, +3 new)"
+    "Totals: 18 characters, 5 relations (+1 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Marfa Petrovna Svidrigailova"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich"
   ]
 }

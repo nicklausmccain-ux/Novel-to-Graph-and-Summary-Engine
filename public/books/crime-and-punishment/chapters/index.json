@@ -4,42 +4,42 @@
     "title": "Chapter 1",
     "snapshot": "001.snapshot.json",
     "delta": "001.delta.json",
-    "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, Porfiry Petrovich. New connections: Rodion–Praskovya (landlord-tenant), Rodion–Alyona (unknown relationship), Dmitri–Porfiry (negative relationship)."
+    "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, Porfiry Petrovich. New connections: Dmitri–Porfiry (negative relationship)."
   },
   {
     "chapter": 2,
     "title": "Chapter 2",
     "snapshot": "002.snapshot.json",
     "delta": "002.delta.json",
-    "summary": "New characters: Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, Pyotr Petrovich Luzhin, Sonia Semyonovna Marmeladov and 1 more. New connections: Marmeladov–Rodion (other), Marmeladov–Katerina (spouse), Dmitri–Katerina (spouse), Andrei–Marfa (abuser) and 5 more."
+    "summary": "New characters: Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, Pyotr Petrovich Luzhin, Sonia Semyonovna Marmeladov and 1 more. New connections: Rodion–Sonia (romantic connection)."
   },
   {
     "chapter": 3,
     "title": "Chapter 3",
     "snapshot": "003.snapshot.json",
     "delta": "003.delta.json",
-    "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. New connections: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling) and 15 more."
+    "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. New connections: Pulcheria–Katerina (mother)."
   },
   {
     "chapter": 4,
     "title": "Chapter 4",
     "snapshot": "004.snapshot.json",
     "delta": "004.delta.json",
-    "summary": "New characters: Dmitri Razumihin. New connections: Pulcheria–Pyotr (potential spouse), Avdotya–Arkady (acquaintance), Avdotya–Marmeladov (connection), Avdotya–Pulcheria (children-parent) and 5 more."
+    "summary": "New characters: Dmitri Razumihin. New connections: Dmitri–Rodion (friend)."
   },
   {
     "chapter": 5,
     "title": "Chapter 5",
     "snapshot": "005.snapshot.json",
     "delta": "005.delta.json",
-    "summary": "New characters: Lizaveta Ivanovna. New connections: Sonia–Marmeladov (parent), Lizaveta–Alyona (sisters), Rodion–Lizaveta (sibling-like relationship)."
+    "summary": "New characters: Lizaveta Ivanovna. New connections: Lizaveta–Alyona (sibling)."
   },
   {
     "chapter": 6,
     "title": "Chapter 6",
     "snapshot": "006.snapshot.json",
     "delta": "006.delta.json",
-    "summary": "New connections: Dmitri–Alyona (acquaintance), Lizaveta–Katerina (sibling)."
+    "summary": "New connections: Alyona–Rodion (unknown relationship)."
   },
   {
     "chapter": 7,
@@ -53,35 +53,35 @@
     "title": "Chapter 8",
     "snapshot": "008.snapshot.json",
     "delta": "008.delta.json",
-    "summary": "New characters: Nikodim Fomitch, Ilya Petrovitch. New connections: Nikodim–Ilya (professional), Nikodim–Rodion (acquaintance), Ilya–Katerina (professional relationship), Rodion–Ilya (Professional Relationship)."
+    "summary": "New characters: Nikodim Fomitch, Ilya Petrovitch. New connections: Nikodim–Rodion (antagonistic)."
   },
   {
     "chapter": 9,
     "title": "Chapter 9",
     "snapshot": "009.snapshot.json",
     "delta": "009.delta.json",
-    "summary": "New connections: Dmitri–Alyona (collaborators), Ilya–Alyona (other)."
+    "summary": "New connections: Rodion–Nastasya (servant)."
   },
   {
     "chapter": 10,
     "title": "Chapter 10",
     "snapshot": "010.snapshot.json",
     "delta": "010.delta.json",
-    "summary": "New connections: Nastasya–Dmitri (servant), Dmitri–Nastasya (friend), Dmitri–Praskovya (relation)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 11,
     "title": "Chapter 11",
     "snapshot": "011.snapshot.json",
     "delta": "011.delta.json",
-    "summary": "New characters: Andrei Semyonovich Zossimov, Nikolay. New connections: Dmitri–Andrei (collaborators), Dmitri–Dmitri (friend), Dmitri–Porfiry (distant relative), Andrei–Nastasya (Other) and 5 more."
+    "summary": "New characters: Andrei Semyonovich Zossimov, Nikolay. New connections: Dmitri–Alyona (acquaintance)."
   },
   {
     "chapter": 12,
     "title": "Chapter 12",
     "snapshot": "012.snapshot.json",
     "delta": "012.delta.json",
-    "summary": "New connections: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Katerina–Alyona (victim)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 13,
@@ -95,119 +95,119 @@
     "title": "Chapter 14",
     "snapshot": "014.snapshot.json",
     "delta": "014.delta.json",
-    "summary": "New characters: Polenka Marmeladov, Amalia Ivanovna. New connections: Katerina–Polenka (mother), Katerina–Amalia (other relationship), Praskovya–Alyona (parent), Dmitri–Ilya (acquaintance) and 1 more."
+    "summary": "New characters: Polenka Marmeladov, Amalia Ivanovna. New connections: Pulcheria–Rodion (parent to child)."
   },
   {
     "chapter": 15,
     "title": "Chapter 15",
     "snapshot": "015.snapshot.json",
     "delta": "015.delta.json",
-    "summary": "New connections: Pulcheria–Dmitri (acquaintances or friends), Dmitri–Pulcheria (friend), Dmitri–Marfa (friend), Avdotya–Dmitri (friend) and 1 more."
+    "summary": "New connections: Dmitri–Nastasya (romantic interest)."
   },
   {
     "chapter": 16,
     "title": "Chapter 16",
     "snapshot": "016.snapshot.json",
     "delta": "016.delta.json",
-    "summary": "New connections: Dmitri–Marfa (complicated acquaintance), Katerina–Praskovya (acquaintance), Darya–Dmitri (friend), Darya–Rodion (sibling)."
+    "summary": "New connections: Dmitri–Pulcheria (acquaintance)."
   },
   {
     "chapter": 17,
     "title": "Chapter 17",
     "snapshot": "017.snapshot.json",
     "delta": "017.delta.json",
-    "summary": "New connections: Avdotya–Andrei (friend)."
+    "summary": "New connections: Pulcheria–Pyotr (acquaintance)."
   },
   {
     "chapter": 18,
     "title": "Chapter 18",
     "snapshot": "018.snapshot.json",
     "delta": "018.delta.json",
-    "summary": "New connections: Pulcheria–Marmeladov (friend), Dmitri–Sonia (acquaintances)."
+    "summary": "New connections: Dmitri–Rodion (friend)."
   },
   {
     "chapter": 19,
     "title": "Chapter 19",
     "snapshot": "019.snapshot.json",
     "delta": "019.delta.json",
-    "summary": "New connections: Rodion–Nikolay (indirect concern)."
+    "summary": "New connections: Porfiry–Dmitri (colleague)."
   },
   {
     "chapter": 20,
     "title": "Chapter 20",
     "snapshot": "020.snapshot.json",
     "delta": "020.delta.json",
-    "summary": "No new characters or connections in this chapter."
+    "summary": "New connections: Rodion–Arkady (acquaintance)."
   },
   {
     "chapter": 21,
     "title": "Chapter 21",
     "snapshot": "021.snapshot.json",
     "delta": "021.delta.json",
-    "summary": "No new characters or connections in this chapter."
+    "summary": "New connections: Marfa–Avdotya (relationship related to inheritance)."
   },
   {
     "chapter": 22,
     "title": "Chapter 22",
     "snapshot": "022.snapshot.json",
     "delta": "022.delta.json",
-    "summary": "New connections: Pulcheria–Arkady (adversarial)."
+    "summary": "New connections: Pyotr–Marfa (failed suitor)."
   },
   {
     "chapter": 23,
     "title": "Chapter 23",
     "snapshot": "023.snapshot.json",
     "delta": "023.delta.json",
-    "summary": "New connections: Dmitri–Darya (friend), Dmitri–Avdotya (friendship)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 24,
     "title": "Chapter 24",
     "snapshot": "024.snapshot.json",
     "delta": "024.delta.json",
-    "summary": "New connections: Sonia–Lizaveta (friendship)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 25,
     "title": "Chapter 25",
     "snapshot": "025.snapshot.json",
     "delta": "025.delta.json",
-    "summary": "No new characters or connections in this chapter."
+    "summary": "New connections: Porfiry–Rodion (antagonistic relationship)."
   },
   {
     "chapter": 26,
     "title": "Chapter 26",
     "snapshot": "026.snapshot.json",
     "delta": "026.delta.json",
-    "summary": "New connections: Porfiry–Nikolay (authority)."
+    "summary": "New connections: Rodion–Nikolay (Other relationship)."
   },
   {
     "chapter": 27,
     "title": "Chapter 27",
     "snapshot": "027.snapshot.json",
     "delta": "027.delta.json",
-    "summary": "New connections: Pyotr–Amalia (respect), Pyotr–Sonia (other relationship), Andrei–Pyotr (other relationship)."
+    "summary": "New connections: Andrei–Pyotr (associate/relationship implied through conversation)."
   },
   {
     "chapter": 28,
     "title": "Chapter 28",
     "snapshot": "028.snapshot.json",
     "delta": "028.delta.json",
-    "summary": "New connections: Katerina–Andrei (acquaintance), Rodion–Amalia (tenant/landlord)."
+    "summary": "New connections: Sonia–Katerina (family tie)."
   },
   {
     "chapter": 29,
     "title": "Chapter 29",
     "snapshot": "029.snapshot.json",
     "delta": "029.delta.json",
-    "summary": "New connections: Andrei–Rodion (friend), Pyotr–Marmeladov (adversarial relationship)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 30,
     "title": "Chapter 30",
     "snapshot": "030.snapshot.json",
     "delta": "030.delta.json",
-    "summary": "No new characters or connections in this chapter."
+    "summary": "New connections: Katerina–Rodion (Supportive relationship)."
   },
   {
     "chapter": 31,
@@ -235,7 +235,7 @@
     "title": "Chapter 34",
     "snapshot": "034.snapshot.json",
     "delta": "034.delta.json",
-    "summary": "No new characters or connections in this chapter."
+    "summary": "New connections: Rodion–Avdotya (sibling relationship)."
   },
   {
     "chapter": 35,
@@ -249,28 +249,28 @@
     "title": "Chapter 36",
     "snapshot": "036.snapshot.json",
     "delta": "036.delta.json",
-    "summary": "New connections: Pyotr–Arkady (mistrustful acquaintance)."
+    "summary": "New connections: Pyotr–Arkady (Romantic connection)."
   },
   {
     "chapter": 37,
     "title": "Chapter 37",
     "snapshot": "037.snapshot.json",
     "delta": "037.delta.json",
-    "summary": "New connections: Arkady–Dmitri (acquaintance), Arkady–Sonia (betrothed), Arkady–Alyona (family tie)."
+    "summary": "New connections: Arkady–Katerina (unclear relationship)."
   },
   {
     "chapter": 38,
     "title": "Chapter 38",
     "snapshot": "038.snapshot.json",
     "delta": "038.delta.json",
-    "summary": "New connections: Katerina–Porfiry (acquaintance)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 39,
     "title": "Chapter 39",
     "snapshot": "039.snapshot.json",
     "delta": "039.delta.json",
-    "summary": "New connections: Marmeladov–Marfa (friend)."
+    "summary": "New connections: Ilya–Rodion (concern)."
   },
   {
     "chapter": 40,
@@ -284,6 +284,6 @@
     "title": "Chapter 41",
     "snapshot": "041.snapshot.json",
     "delta": "041.delta.json",
-    "summary": "No new characters or connections in this chapter."
+    "summary": "New connections: Rodion–Marmeladov (romantic connection)."
   }
 ]

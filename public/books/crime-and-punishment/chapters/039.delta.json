@@ -2,21 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "marmeladov",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "friend"
+      "source": "ilya-petrovitch",
+      "target": "rodion-raskolnikov",
+      "label": "concern"
     }
   ],
-  "summary": "New connections: Marmeladov–Marfa (friend).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: friend.",
+  "summary": "New connections: Ilya–Rodion (concern).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (13 ties). Key relationship types: concern.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (19), Dmitri Prokofich Razumihin (17), Pyotr Petrovich Luzhin (15)",
-    "Key ties: Marmeladov–Marfa (friend)",
-    "Totals: 24 characters, 103 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (13), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
+    "Key ties: Ilya–Rodion (concern)",
+    "Totals: 24 characters, 28 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
+    "Pyotr Petrovich Luzhin",
     "Dmitri Prokofich Razumihin"
   ]
 }

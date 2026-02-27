@@ -2,26 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "alyona-ivanovna",
-      "label": "collaborators"
-    },
-    {
-      "source": "ilya-petrovitch",
-      "target": "alyona-ivanovna",
-      "label": "other"
+      "source": "rodion-raskolnikov",
+      "target": "nastasya-petrovna",
+      "label": "servant"
     }
   ],
-  "summary": "New connections: Dmitri–Alyona (collaborators), Ilya–Alyona (other).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (17 ties). Key relationship types: collaborators, other.",
+  "summary": "New connections: Rodion–Nastasya (servant).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (5 ties). Key relationship types: servant.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (17), Katerina Ivanovna Marmeladova (12), Marfa Petrovna Svidrigailova (8), Pyotr Petrovich Luzhin (7)",
-    "Key ties: Dmitri–Alyona (collaborators), Ilya–Alyona (other)",
-    "Totals: 20 characters, 51 relations (+0 new, +2 new)"
+    "Most central: Rodion Raskolnikov (5), Alyona Ivanovna (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1)",
+    "Key ties: Rodion–Nastasya (servant)",
+    "Totals: 20 characters, 8 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Marfa Petrovna Svidrigailova"
+    "Alyona Ivanovna",
+    "Dmitri Prokofich Razumihin"
   ]
 }

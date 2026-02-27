@@ -8,32 +8,21 @@
   ],
   "new_edges": [
     {
-      "source": "rodion-raskolnikov",
-      "target": "praskovya-pavlovna",
-      "label": "landlord-tenant"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "alyona-ivanovna",
-      "label": "unknown relationship"
-    },
-    {
       "source": "dmitri-prokofich-razumihin",
       "target": "porfiry-petrovich",
       "label": "negative relationship"
     }
   ],
-  "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, Porfiry Petrovich. New connections: Rodion–Praskovya (landlord-tenant), Rodion–Alyona (unknown relationship), Dmitri–Porfiry (negative relationship).",
-  "summary_short": "Introduces Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, and 1 others. Rodion Raskolnikov is the most connected figure (2 ties). Key relationship types: landlord-tenant, negative relationship, unknown relationship.",
+  "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, Porfiry Petrovich. New connections: Dmitri–Porfiry (negative relationship).",
+  "summary_short": "Introduces Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, and 1 others. Dmitri Prokofich Razumihin is the most connected figure (1 ties). Key relationship types: negative relationship.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (2), Praskovya Pavlovna (1), Alyona Ivanovna (1), Dmitri Prokofich Razumihin (1)",
-    "Key ties: Rodion–Praskovya (landlord-tenant), Rodion–Alyona (unknown relationship), Dmitri–Porfiry (negative relationship)",
+    "Most central: Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1)",
+    "Key ties: Dmitri–Porfiry (negative relationship)",
     "New characters: Rodion, Praskovya, Alyona, Dmitri, Porfiry",
-    "Totals: 5 characters, 3 relations (+5 new, +3 new)"
+    "Totals: 5 characters, 1 relations (+5 new, +1 new)"
   ],
   "key_characters": [
-    "Rodion Raskolnikov",
-    "Praskovya Pavlovna",
-    "Alyona Ivanovna"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich"
   ]
 }

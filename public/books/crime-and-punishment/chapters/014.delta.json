@@ -5,42 +5,22 @@
   ],
   "new_edges": [
     {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "polenka-marmeladov",
-      "label": "mother"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "amalia-ivanovna",
-      "label": "other relationship"
-    },
-    {
-      "source": "praskovya-pavlovna",
-      "target": "alyona-ivanovna",
-      "label": "parent"
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "ilya-petrovitch",
-      "label": "acquaintance"
-    },
-    {
       "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "darya-pavlovna-raskolnikov",
+      "target": "rodion-raskolnikov",
       "label": "parent to child"
     }
   ],
-  "summary": "New characters: Polenka Marmeladov, Amalia Ivanovna. New connections: Katerina–Polenka (mother), Katerina–Amalia (other relationship), Praskovya–Alyona (parent), Dmitri–Ilya (acquaintance) and 1 more.",
-  "summary_short": "Introduces Polenka Marmeladov, Amalia Ivanovna. Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, mother, other relationship, parent.",
+  "summary": "New characters: Polenka Marmeladov, Amalia Ivanovna. New connections: Pulcheria–Rodion (parent to child).",
+  "summary_short": "Introduces Polenka Marmeladov, Amalia Ivanovna. Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: parent to child.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (18), Katerina Ivanovna Marmeladova (16), Dmitri Prokofich Razumihin (12), Pyotr Petrovich Luzhin (10)",
-    "Key ties: Katerina–Polenka (mother), Katerina–Amalia (other relationship), Praskovya–Alyona (parent), Dmitri–Ilya (acquaintance), and 1 more",
+    "Most central: Rodion Raskolnikov (6), Alyona Ivanovna (3), Dmitri Prokofich Razumihin (2), Porfiry Petrovich (2)",
+    "Key ties: Pulcheria–Rodion (parent to child)",
     "New characters: Polenka, Amalia",
-    "Totals: 24 characters, 72 relations (+2 new, +5 new)"
+    "Totals: 24 characters, 11 relations (+2 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
+    "Alyona Ivanovna",
     "Dmitri Prokofich Razumihin"
   ]
 }

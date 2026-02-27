@@ -11,19 +11,28 @@
         "Avdotya Romanovna",
         "Dounia Raskolnikov",
         "Pulcheria Alexandrovna Raskolnikov"
-      ]
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 1.0
     },
     {
       "id": "praskovya-pavlovna",
       "name": "Praskovya Pavlovna",
       "description": "Praskovya Pavlovna is a woman of formidable presence, characterized by her round face and wide, penetrating eyes that seem to scrutinize the world with a blend of concern and self-importance. Often adorned in modest but decidedly feminine attire, she embodies the practicality of a provincial landlady with an air of earnestness that masks deeper vulnerabilities. Her demeanor oscillates between maternal and manipulative; she possesses a keen instinct for social navigation and is at once solicitous and calculating. Praskovya's sharp tongue and relentless drive to maintain her authority are tempered by moments of genuine warmth, revealing a complex personality forged by the harsh realities of her social environment. Her actions, though often driven by self-interest, hint at a deeper longing for connection and respect, rendering her a poignant reflection of the struggles inherent in her society.",
-      "aliases": []
+      "aliases": [],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.01
     },
     {
       "id": "alyona-ivanovna",
       "name": "Alyona Ivanovna",
       "description": "Alyona Ivanovna is portrayed as a gaunt, elderly pawnbroker, her sharp features and sunken cheeks etched with the lines of age and hardship. Her eyes, small and calculating, reflect a shrewdness that has been honed through years of bartering and haggling. Often dressed in tattered garments that betray her poverty, she emanates an air of greed and coldness, her demeanor as frigid as the coins she clutches. Alyona is not merely a figure of financial exchange; she personifies the oppressive weight of desperation and moral decay in the lives of those around her, embodying a blend of cunning intelligence and unyielding selfishness that ultimately defines her character in Dostoevsky's narrative.",
-      "aliases": []
+      "aliases": [],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.06
     },
     {
       "id": "dmitri-prokofich-razumihin",
@@ -36,7 +45,10 @@
         "Dmitri Prokofych Zametov",
         "Dmitri Prokofych Zossimov",
         "Dmitri Prokofyevich Razumihin"
-      ]
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.24
     },
     {
       "id": "porfiry-petrovich",
@@ -44,24 +56,13 @@
       "description": "Porfiry Petrovich, the astute investigator in Dostoevsky's 'Crime and Punishment,' embodies an air of calm intelligence that contrasts starkly with the turbulent world around him. His lean, somewhat delicate frame hints at an active mind, always in motion, while his sharp, penetrating eyes seem to scrutinize the very soul of those he interrogates. Porfiry often appears dressed in a simple yet tidy manner, exuding a sense of understated authority and a meticulous nature. His demeanor is characterized by a blend of playfulness and seriousness, enabling him to navigate tense conversations with a subtle wit that disarms his subjects. This combination of shrewdness and empathy makes him a formidable adversary for Raskolnikov, as he artfully balances the roles of both confidant and challenger, drawing out confessions with an almost hypnotic patience.",
       "aliases": [
         "Porfiry Petrovitch"
-      ]
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.1
     }
   ],
   "links": [
-    {
-      "source": "rodion-raskolnikov",
-      "target": "praskovya-pavlovna",
-      "label": "landlord-tenant",
-      "description": "The relationship between Rodion Romanovich Raskolnikov and Praskovya Pavlovna is marked by tension and economic strain, revealing a dynamic built not on camaraderie but on necessity and obligation. Praskovya, as Raskolnikov's landlady, constantly reminds him of his debts, highlighting his precarious financial situation and hinting at a societal judgment that looms over him. One key moment is when Praskovya expresses disbelief at Raskolnikov's lack of responsibility, saying, \"You must have been mad to sign an IOU,\" which not only underscores her practical attitude but also reflects Raskolnikov's internal conflict and deteriorating mental state. Their interactions encapsulate themes of isolation, desperation, and the burdens of guilt, serving as a microcosm of Raskolnikov's larger existential struggles within the oppressive societal framework.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "alyona-ivanovna",
-      "label": "unknown relationship",
-      "description": "The relationship between Rodion Romanovich Raskolnikov and Alyona Ivanovna is primarily predatory, characterized by Raskolnikov's intent to exploit the old pawnbroker for her wealth. Their interactions begin with Raskolnikov pawning a watch, indicative of a transactional dynamic rather than a personal connection. As Raskolnikov grapples with his deteriorating circumstances, he contemplates murder, believing Alyona's life holds little value in comparison to the greater good he envisions for society. This culminates in a violent act where he kills Alyona with her own axe, a grim marker of his moral degradation. Their relationship is steeped in themes of desperation, greed, and the complexities of moral justification, underscoring the tension between Raskolnikov’s philosophical justifications and the stark reality of his actions.",
-      "weight": 1.0
-    },
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "porfiry-petrovich",

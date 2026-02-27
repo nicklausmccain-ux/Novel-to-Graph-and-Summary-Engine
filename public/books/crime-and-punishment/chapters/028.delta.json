@@ -2,26 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "andrei-semyonovich-lebeziatnikov",
-      "label": "acquaintance"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "amalia-ivanovna",
-      "label": "tenant/landlord"
+      "source": "sonia-semyonovna-marmeladov",
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "family tie"
     }
   ],
-  "summary": "New connections: Katerina–Andrei (acquaintance), Rodion–Amalia (tenant/landlord).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance, tenant/landlord.",
+  "summary": "New connections: Sonia–Katerina (family tie).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (10 ties). Key relationship types: family tie.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (21), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (13)",
-    "Key ties: Katerina–Andrei (acquaintance), Rodion–Amalia (tenant/landlord)",
-    "Totals: 24 characters, 95 relations (+0 new, +2 new)"
+    "Most central: Rodion Raskolnikov (10), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
+    "Key ties: Sonia–Katerina (family tie)",
+    "Totals: 24 characters, 23 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Porfiry Petrovich"
   ]
 }

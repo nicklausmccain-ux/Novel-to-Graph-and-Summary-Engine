@@ -2,26 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "marmeladov",
+      "source": "dmitri-prokofich-razumihin",
+      "target": "rodion-raskolnikov",
       "label": "friend"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "sonia-semyonovna-marmeladov",
-      "label": "acquaintances"
     }
   ],
-  "summary": "New connections: Pulcheria–Marmeladov (friend), Dmitri–Sonia (acquaintances).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (19 ties). Key relationship types: acquaintances, friend.",
+  "summary": "New connections: Dmitri–Rodion (friend).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (7 ties). Key relationship types: friend.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (19), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (11)",
-    "Key ties: Pulcheria–Marmeladov (friend), Dmitri–Sonia (acquaintances)",
-    "Totals: 24 characters, 84 relations (+0 new, +2 new)"
+    "Most central: Rodion Raskolnikov (7), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Alyona Ivanovna (3)",
+    "Key ties: Dmitri–Rodion (friend)",
+    "Totals: 24 characters, 15 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Pulcheria Alexandrovna Raskolnikova"
   ]
 }

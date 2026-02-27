@@ -3,30 +3,20 @@
   "new_edges": [
     {
       "source": "arkady-svidrigailov",
-      "target": "dmitri-prokofich-razumihin",
-      "label": "acquaintance"
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "sonia-semyonovna-marmeladov",
-      "label": "betrothed"
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "alyona-ivanovna",
-      "label": "family tie"
+      "target": "katerina-ivanovna-marmeladova",
+      "label": "unclear relationship"
     }
   ],
-  "summary": "New connections: Arkady–Dmitri (acquaintance), Arkady–Sonia (betrothed), Arkady–Alyona (family tie).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: acquaintance, betrothed, family tie.",
+  "summary": "New connections: Arkady–Katerina (unclear relationship).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: unclear relationship.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (17), Pyotr Petrovich Luzhin (15)",
-    "Key ties: Arkady–Dmitri (acquaintance), Arkady–Sonia (betrothed), Arkady–Alyona (family tie)",
-    "Totals: 24 characters, 101 relations (+0 new, +3 new)"
+    "Most central: Rodion Raskolnikov (12), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
+    "Key ties: Arkady–Katerina (unclear relationship)",
+    "Totals: 24 characters, 27 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
+    "Pyotr Petrovich Luzhin",
     "Dmitri Prokofich Razumihin"
   ]
 }

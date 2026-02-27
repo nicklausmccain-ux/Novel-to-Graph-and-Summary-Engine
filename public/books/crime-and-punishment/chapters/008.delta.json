@@ -6,36 +6,21 @@
   "new_edges": [
     {
       "source": "nikodim-fomitch",
-      "target": "ilya-petrovitch",
-      "label": "professional"
-    },
-    {
-      "source": "nikodim-fomitch",
       "target": "rodion-raskolnikov",
-      "label": "acquaintance"
-    },
-    {
-      "source": "ilya-petrovitch",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "professional relationship"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "ilya-petrovitch",
-      "label": "Professional Relationship"
+      "label": "antagonistic"
     }
   ],
-  "summary": "New characters: Nikodim Fomitch, Ilya Petrovitch. New connections: Nikodim–Ilya (professional), Nikodim–Rodion (acquaintance), Ilya–Katerina (professional relationship), Rodion–Ilya (Professional Relationship).",
-  "summary_short": "Introduces Nikodim Fomitch, Ilya Petrovitch. Rodion Raskolnikov is the most connected figure (17 ties). Key relationship types: acquaintance, professional, professional relationship.",
+  "summary": "New characters: Nikodim Fomitch, Ilya Petrovitch. New connections: Nikodim–Rodion (antagonistic).",
+  "summary_short": "Introduces Nikodim Fomitch, Ilya Petrovitch. Rodion Raskolnikov is the most connected figure (4 ties). Key relationship types: antagonistic.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (17), Katerina Ivanovna Marmeladova (12), Marfa Petrovna Svidrigailova (8), Pyotr Petrovich Luzhin (7)",
-    "Key ties: Nikodim–Ilya (professional), Nikodim–Rodion (acquaintance), Ilya–Katerina (professional relationship), Rodion–Ilya (Professional Relationship)",
+    "Most central: Rodion Raskolnikov (4), Alyona Ivanovna (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1)",
+    "Key ties: Nikodim–Rodion (antagonistic)",
     "New characters: Nikodim, Ilya",
-    "Totals: 20 characters, 49 relations (+2 new, +4 new)"
+    "Totals: 20 characters, 7 relations (+2 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Marfa Petrovna Svidrigailova"
+    "Alyona Ivanovna",
+    "Dmitri Prokofich Razumihin"
   ]
 }

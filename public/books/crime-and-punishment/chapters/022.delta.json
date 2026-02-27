@@ -2,21 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "arkady-svidrigailov",
-      "label": "adversarial"
+      "source": "pyotr-petrovich-luzhin",
+      "target": "marfa-petrovna-svidrigailova",
+      "label": "failed suitor"
     }
   ],
-  "summary": "New connections: Pulcheria–Arkady (adversarial).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: adversarial.",
+  "summary": "New connections: Pyotr–Marfa (failed suitor).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (8 ties). Key relationship types: failed suitor.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (11)",
-    "Key ties: Pulcheria–Arkady (adversarial)",
-    "Totals: 24 characters, 86 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (8), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
+    "Key ties: Pyotr–Marfa (failed suitor)",
+    "Totals: 24 characters, 19 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Pulcheria Alexandrovna Raskolnikova"
   ]
 }

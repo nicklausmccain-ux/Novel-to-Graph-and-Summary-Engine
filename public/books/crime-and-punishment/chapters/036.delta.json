@@ -4,19 +4,19 @@
     {
       "source": "pyotr-petrovich-luzhin",
       "target": "arkady-svidrigailov",
-      "label": "mistrustful acquaintance"
+      "label": "Romantic connection"
     }
   ],
-  "summary": "New connections: Pyotr–Arkady (mistrustful acquaintance).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: mistrustful acquaintance.",
+  "summary": "New connections: Pyotr–Arkady (Romantic connection).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: romantic connection.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (15)",
-    "Key ties: Pyotr–Arkady (mistrustful acquaintance)",
-    "Totals: 24 characters, 98 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (12), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
+    "Key ties: Pyotr–Arkady (Romantic connection)",
+    "Totals: 24 characters, 26 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
+    "Pyotr Petrovich Luzhin",
     "Dmitri Prokofich Razumihin"
   ]
 }

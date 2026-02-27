@@ -2,41 +2,21 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "dmitri-prokofich-razumihin",
-      "label": "acquaintances or friends"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "pulcheria-alexandrovna-raskolnikova",
-      "label": "friend"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "friend"
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "dmitri-prokofich-razumihin",
-      "label": "friend"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "andrei-semyonovich-zossimov",
-      "label": "friendship"
+      "source": "dmitri-prokofich-razumihin",
+      "target": "nastasya-petrovna",
+      "label": "romantic interest"
     }
   ],
-  "summary": "New connections: Pulcheria–Dmitri (acquaintances or friends), Dmitri–Pulcheria (friend), Dmitri–Marfa (friend), Avdotya–Dmitri (friend) and 1 more.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintances or friends, friend, friendship.",
+  "summary": "New connections: Dmitri–Nastasya (romantic interest).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: romantic interest.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (18), Katerina Ivanovna Marmeladova (16), Dmitri Prokofich Razumihin (14), Pyotr Petrovich Luzhin (10)",
-    "Key ties: Pulcheria–Dmitri (acquaintances or friends), Dmitri–Pulcheria (friend), Dmitri–Marfa (friend), Avdotya–Dmitri (friend), and 1 more",
-    "Totals: 24 characters, 77 relations (+0 new, +5 new)"
+    "Most central: Rodion Raskolnikov (6), Dmitri Prokofich Razumihin (3), Alyona Ivanovna (3), Porfiry Petrovich (2)",
+    "Key ties: Dmitri–Nastasya (romantic interest)",
+    "Totals: 24 characters, 12 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Katerina Ivanovna Marmeladova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Alyona Ivanovna"
   ]
 }
