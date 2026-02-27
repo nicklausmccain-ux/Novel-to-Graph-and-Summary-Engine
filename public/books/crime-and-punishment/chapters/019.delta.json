@@ -1,23 +1,16 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "porfiry-petrovich",
-      "target": "dmitri-razumihin",
-      "label": "colleague"
-    }
-  ],
-  "summary": "New connections: Porfiry–Dmitri (colleague).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (7 ties). Key relationship types: colleague.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (7), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
-    "Key ties: Porfiry–Dmitri (colleague)",
-    "Totals: 24 characters, 16 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Pyotr Petrovich Luzhin (10)",
+    "Totals: 24 characters, 83 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Raskolnikov enters a room with Razumihin, who is awkward and embarrassed. They meet Porfiry Petrovitch, who is intrigued by Raskolnikov's visit, as he has a matter of business to discuss. Raskolnikov pretends to be embarrassed about his financial situation while claiming ownership of some items related to a murder case, and the conversation becomes increasingly tense as Porfiry questions him."
 }

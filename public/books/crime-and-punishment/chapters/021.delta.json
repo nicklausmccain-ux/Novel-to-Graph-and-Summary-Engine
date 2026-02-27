@@ -1,23 +1,16 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "marfa-petrovna-svidrigailova",
-      "target": "avdotya-romanovna-raskolnikova",
-      "label": "relationship related to inheritance"
-    }
-  ],
-  "summary": "New connections: Marfa–Avdotya (relationship related to inheritance).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (8 ties). Key relationship types: relationship related to inheritance.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (8), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
-    "Key ties: Marfa–Avdotya (relationship related to inheritance)",
-    "Totals: 24 characters, 18 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Pyotr Petrovich Luzhin (10)",
+    "Totals: 24 characters, 83 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Raskolnikov is bewildered by the unexpected visit from Svidrigailov, who expresses interest in meeting him and seeks his support regarding Raskolnikov's sister, Dunya. Svidrigailov discusses his past with Dunya and his late wife, Marfa Petrovna, while Raskolnikov remains hostile and dismissive. The conversation reveals Svidrigailov's complex nature, as he reflects on his actions and the consequences of his relationships."
 }

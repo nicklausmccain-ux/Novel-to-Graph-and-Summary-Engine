@@ -1,29 +1,110 @@
 {
   "new_nodes": [
-    "nastasya-petrovna",
-    "pulcheria-alexandrovna-raskolnikova",
-    "arkady-svidrigailov",
-    "avdotya-romanovna-raskolnikova"
+    "nastasya",
+    "avdotya-romanovna-raskolnikova",
+    "pulcheria-alexandrovna",
+    "arkady-ivanovich-svidrigailov",
+    "zossimov"
   ],
   "new_edges": [
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "mother"
+      "source": "nastasya",
+      "target": "rodion-raskolnikov",
+      "label": "servant"
+    },
+    {
+      "source": "nastasya",
+      "target": "praskovya-pavlovna",
+      "label": "employer"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "rodion-raskolnikov",
+      "label": "sibling"
+    },
+    {
+      "source": "pulcheria-alexandrovna",
+      "target": "rodion-raskolnikov",
+      "label": "friend"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "pulcheria-alexandrovna",
+      "label": "sibling"
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "romantic"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "marfa-petrovna",
+      "label": "other relationship"
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "marfa-petrovna",
+      "label": "conflict"
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "marfa-petrovna",
+      "label": "other relationship"
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "darya-pavlovna",
+      "label": "other relationship"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "romantic"
+    },
+    {
+      "source": "marfa-petrovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "relation"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "zossimov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "other"
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "romantic"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "darya-pavlovna",
+      "label": "sibling"
     }
   ],
-  "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. New connections: Pulcheria–Katerina (mother).",
-  "summary_short": "Introduces Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. Dmitri Prokofich Razumihin is the most connected figure (1 ties). Key relationship types: mother.",
+  "summary": "New characters: Nastasya, Avdotya Romanovna, Pulcheria Alexandrovna, Arkady Svidrigailov, Zossimov. New connections: Nastasya-Rodion (servant), Nastasya-Praskovya (employer), Avdotya-Rodion (sibling), Pulcheria-Rodion (friend) and 13 more.",
+  "summary_short": "Introduces Nastasya, Avdotya Romanovna, Pulcheria Alexandrovna, Arkady Svidrigailov, and 1 others. Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: acquaintance, conflict, employer, friend.",
   "highlights": [
-    "Most central: Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Rodion Raskolnikov (1), Sonia Semyonovna Marmeladov (1)",
-    "Key ties: Pulcheria–Katerina (mother)",
-    "New characters: Nastasya, Pulcheria, Arkady, Avdotya",
-    "Totals: 16 characters, 3 relations (+4 new, +1 new)"
+    "Most central: Rodion Raskolnikov (12), Avdotya Romanovna (6), Katerina Ivanovna (5), Marfa Petrovna (5)",
+    "Key ties: Nastasya-Rodion (servant), Nastasya-Praskovya (employer), Avdotya-Rodion (sibling), Pulcheria-Rodion (friend), and 13 more",
+    "New characters: Nastasya, Avdotya, Pulcheria, Arkady, Zossimov",
+    "Totals: 19 characters, 33 relations (+5 new, +17 new)"
   ],
   "key_characters": [
-    "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich",
-    "Rodion Raskolnikov"
+    "Rodion Raskolnikov",
+    "Avdotya Romanovna",
+    "Katerina Ivanovna"
   ],
   "story_summary": "Raskolnikov wakes up irritable and disheveled in his cramped, neglected room. Nastasya, the servant, brings him tea and informs him that his landlady is considering involving the police due to his unpaid rent. After a brief conversation, she mentions a letter has arrived for him, which excites Raskolnikov. When he receives the letter from his mother, he is overwhelmed with emotions and hesitates to open it."
 }

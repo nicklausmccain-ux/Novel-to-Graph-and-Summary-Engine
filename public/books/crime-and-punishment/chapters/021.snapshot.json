@@ -1,54 +1,61 @@
 {
   "nodes": [
     {
+      "id": "praskovya-pavlovna",
+      "name": "Praskovya Pavlovna",
+      "description": "Praskovya Pavlovna is a woman of formidable presence, characterized by her round face and wide, penetrating eyes that seem to scrutinize the world with a blend of concern and self-importance. Often adorned in modest but decidedly feminine attire, she embodies the practicality of a provincial landlady with an air of earnestness that masks deeper vulnerabilities. Her demeanor oscillates between maternal and manipulative; she possesses a keen instinct for social navigation and is at once solicitous and calculating. Praskovya's sharp tongue and relentless drive to maintain her authority are tempered by moments of genuine warmth, revealing a complex personality forged by the harsh realities of her social environment. Her actions, though often driven by self-interest, hint at a deeper longing for connection and respect, rendering her a poignant reflection of the struggles inherent in her society.",
+      "aliases": [
+        "Pashenka"
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.04
+    },
+    {
       "id": "rodion-raskolnikov",
       "name": "Rodion Raskolnikov",
       "description": "Rodion Romanovitch Raskolnikov is a gaunt figure, with a pallid complexion and sunken eyes that reflect both torment and intellect. His unkempt hair falls haphazardly over his forehead, accentuating his brooding demeanor. Often clad in worn clothing, he carries an air of dishevelment that mirrors his inner turmoil. Raskolnikov embodies a complex personality; he oscillates between arrogance and abject despair, grappling with his radical theories of morality and the weight of existential guilt. His sharp, penetrating gaze reveals a mind in turmoil, constantly at odds with itself, as he wrestles with profound philosophical questions that alienate him from society while simultaneously fueling his desperate search for redemption.",
       "aliases": [
         "Rodion Romanovich Raskolnikov",
         "Rodion Romanovitch Raskolnikov",
-        "Darya Alexandrovna Raskolnikov",
-        "Avdotya Romanovna",
-        "Dounia Raskolnikov",
-        "Pulcheria Alexandrovna Raskolnikov"
+        "Raskolnikov",
+        "Rodion",
+        "Rodya",
+        "Rodenka",
+        "Rodion Romanitch",
+        "The Young Man"
       ],
       "is_core": true,
       "is_unnamed": false,
       "importance": 1.0
     },
     {
-      "id": "praskovya-pavlovna",
-      "name": "Praskovya Pavlovna",
-      "description": "Praskovya Pavlovna is a woman of formidable presence, characterized by her round face and wide, penetrating eyes that seem to scrutinize the world with a blend of concern and self-importance. Often adorned in modest but decidedly feminine attire, she embodies the practicality of a provincial landlady with an air of earnestness that masks deeper vulnerabilities. Her demeanor oscillates between maternal and manipulative; she possesses a keen instinct for social navigation and is at once solicitous and calculating. Praskovya's sharp tongue and relentless drive to maintain her authority are tempered by moments of genuine warmth, revealing a complex personality forged by the harsh realities of her social environment. Her actions, though often driven by self-interest, hint at a deeper longing for connection and respect, rendering her a poignant reflection of the struggles inherent in her society.",
-      "aliases": [],
-      "is_core": false,
-      "is_unnamed": false,
-      "importance": 0.01
-    },
-    {
       "id": "alyona-ivanovna",
       "name": "Alyona Ivanovna",
       "description": "Alyona Ivanovna is portrayed as a gaunt, elderly pawnbroker, her sharp features and sunken cheeks etched with the lines of age and hardship. Her eyes, small and calculating, reflect a shrewdness that has been honed through years of bartering and haggling. Often dressed in tattered garments that betray her poverty, she emanates an air of greed and coldness, her demeanor as frigid as the coins she clutches. Alyona is not merely a figure of financial exchange; she personifies the oppressive weight of desperation and moral decay in the lives of those around her, embodying a blend of cunning intelligence and unyielding selfishness that ultimately defines her character in Dostoevsky's narrative.",
-      "aliases": [],
+      "aliases": [
+        "The Old Woman",
+        "The Pawnbroker"
+      ],
       "is_core": false,
       "is_unnamed": false,
-      "importance": 0.06
+      "importance": 0.11
     },
     {
       "id": "dmitri-prokofich-razumihin",
       "name": "Dmitri Prokofich Razumihin",
-      "description": "Dmitri Prokofych Luzhin is depicted as a stout, balding man, with an air of nervousness that permeates his being, often reflected in the twitch of his mustache and the quick, darting movements of his eyes. He carries himself with an uneasy fidget, betraying a deeply insecure nature, while his attire—a somewhat shabby suit that seems ill-fitted—underscores his socially awkward demeanor. Luzhin's personality is marked by a blend of cunning intelligence and an unsettling sense of entitlement; he exudes a calculating charm, often trying to assert his superiority over others, which only amplifies his insecurities when met with resistance. His obsession with status and material wealth further reveals his superficial values, making him a compelling, if not deeply flawed, character in the narrative.",
+      "description": "Dmitri Prokofyevich Razumihin is a sturdy young man, characterized by his unyielding loyalty and infectious optimism. He possesses a robust frame, with a fair complexion and an earnest expression that reflects both his intellect and warmth. His dark hair often falls in disarray, mirroring his carefree spirit, and his bright eyes gleam with compassion and understanding. Razumihin's demeanor is genial and approachable, exuding a sense of reliability that draws others to him, particularly in the shadowy atmosphere of St. Petersburg. Despite the turmoil surrounding his friend Raskolnikov, he remains steadfast and determined, embodying the essence of friendship with unwavering support and a deep sense of humanity. His jovial nature and insightful perceptions make him a crucial anchor amidst the chaos, showcasing a profound depth that contrasts sharply with the struggles of his peers.",
       "aliases": [
         "Dmitri Prokofitch Razumihin",
         "Dmitri Prokofych Razumihin",
-        "Dmitri Prokofych Luzhin",
-        "Dmitri Prokofych Zametov",
-        "Dmitri Prokofych Zossimov",
-        "Dmitri Prokofyevich Razumihin"
+        "Dmitri Prokofyevich Razumihin",
+        "Dmitri Razumihin",
+        "Razumihin",
+        "Razumikhin"
       ],
       "is_core": true,
       "is_unnamed": false,
-      "importance": 0.24
+      "importance": 0.36
     },
     {
       "id": "porfiry-petrovich",
@@ -59,151 +66,204 @@
       ],
       "is_core": false,
       "is_unnamed": false,
-      "importance": 0.1
-    },
-    {
-      "id": "marmeladov",
-      "name": "Marmeladov",
-      "description": "Semyon Zakharovich Marmeladov is a broken man, embodying the despair and hopelessness of his circumstances. He is characterized by his disheveled appearance, with unkempt hair and a worn, gaunt face, reflecting the toll that poverty and alcoholism have taken on him. His eyes are troubled and glassy, filled with a deep melancholy and regret, often darting around as if seeking solace in the shadows. Dressed in tattered clothing that hangs loosely from his frail frame, he carries himself with a defeated demeanor, each movement a chronicling of his inner turmoil. Despite his desolate state, Marmeladov possesses a certain dignity, often speaking with dramatic fervor, recounting tales of his suffering and losses with a haunting eloquence. His character reveals a profound awareness of his own failings, as well as a desperate longing for redemption, making him a tragically sympathetic figure in Dostoevsky's narrative.",
-      "aliases": [
-        "Mikolka",
-        "Semyon Zakharovich Marmeladov",
-        "Sofia Semyonovna Marmeladov",
-        "Sonia Marmeladov"
-      ],
-      "is_core": false,
-      "is_unnamed": false,
       "importance": 0.12
     },
     {
-      "id": "katerina-ivanovna-marmeladova",
-      "name": "Katerina Ivanovna Marmeladova",
+      "id": "semyon-zakharovich-marmeladov",
+      "name": "Marmeladov",
+      "description": "Semyon Zakharovich Marmeladov is a broken man, embodying the despair and hopelessness of his circumstances. He is characterized by his disheveled appearance, with unkempt hair and a worn, gaunt face, reflecting the toll that poverty and alcoholism have taken on him. His eyes are troubled and glassy, filled with a deep melancholy and regret, often darting around as if seeking solace in the shadows. Dressed in tattered clothing that hangs loosely from his frail frame, he carries himself with a defeated demeanor, each movement a chronicling of his inner turmoil. Despite his desolate state, Marmeladov possesses a certain dignity, often speaking with dramatic fervor, recounting tales of his suffering and losses with a haunting eloquence. His character reveals a profound awareness of his own failings, as well as a desperate longing for redemption, making him a tragically sympathetic figure in Dostoevsky's narrative.",
+      "aliases": [
+        "Semyon Zakharovich Marmeladov",
+        "Semyon Marmeladov",
+        "Semyon Zakharovitch Marmeladov"
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.07
+    },
+    {
+      "id": "nikolay",
+      "name": "Nikolay",
+      "description": "Nikolay, a minor yet significant character in Dostoevsky's 'Crime and Punishment', is portrayed as a devoted and earnest servant, embodying the struggles of the lower class. With his somewhat frail physique, he possesses a round face framed by unkempt hair, suggesting both a sense of vulnerability and a lack of pretense. Nikolay's demeanor reflects deep loyalty and compassion, as he navigates the complexities of his existence against a backdrop of social despair. His straightforwardness and humility stand in stark contrast to the moral ambiguity of the protagonists, making him a poignant representation of innocence amid chaos.",
+      "aliases": [
+        "Mikolka",
+        "Nikolay Dementiev"
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.09
+    },
+    {
+      "id": "katerina-ivanovna",
+      "name": "Katerina Ivanovna",
       "description": "Katerina Ivanovna Marmeladova, a haunting figure in Dostoevsky's 'Crime and Punishment,' is marked by her fragile beauty and tragic demeanor. With a gaunt face etched by suffering and desperation, her once vibrant features have now dulled under the weight of poverty and illness. Her eyes, awash with a mixture of endurance and despair, gleam with a fierce, almost delusional pride that clashes with her disheveled appearance. Katerina's hair, unkempt and often hastily tied back, frames her face with chaotic elegance, underscoring her volatile emotional state. Despite her struggles, she possesses a fierce loyalty to her children and a haunting dignity, which manifests in her passionate rants and fervent delusions of nobility. This complex blend of vulnerability and fierce maternal instinct makes her a deeply sympathetic character, resonating with the themes of suffering and moral conflict that permeate the novel.",
       "aliases": [
-        "Katerina Ivanovna",
-        "Mikolka",
-        "Semyon Zakharovich Marmeladov",
-        "Sofia Semyonovna Marmeladov",
-        "Sonia Marmeladov"
+        "Katerina Ivanovna Marmeladova",
+        "Katerina Ivanovna Marmeladov"
       ],
       "is_core": true,
       "is_unnamed": false,
-      "importance": 0.52
+      "importance": 0.23
     },
     {
       "id": "andrei-semyonovich-lebeziatnikov",
       "name": "Andrei Semyonovich Lebeziatnikov",
       "description": "Andrei Semyonovich Lebeziatnikov is a lanky, somewhat disheveled young man marked by his strikingly earnest demeanor. His pale complexion and thin, angular features often reflect a contemplative sadness, hinting at the intellectual depth that lies beneath his unassuming exterior. Lebeziatnikov’s attire is modest, often appearing slightly rumpled, yet this only serves to highlight his obsessive ideals and fervent beliefs in progressive thought. With wide, earnest eyes, he exudes a sense of moral conviction, often engaging in fervent discussions that reveal his naivety and social aspirations. His earnestness and occasionally misguided enthusiasm give him an endearing quality, but it is his inclination toward reform and his complex interplay of idealism and practicality that define him as a character caught between the ideals of modernity and the harsh realities of society.",
-      "aliases": [],
-      "is_core": false,
-      "is_unnamed": false,
-      "importance": 0.01
-    },
-    {
-      "id": "marfa-petrovna-svidrigailova",
-      "name": "Marfa Petrovna Svidrigailova",
-      "description": "Marfa Petrovna Svidrigailova is a striking figure, embodying both a dignified presence and an undercurrent of despair that marks her as a woman of complex emotions. She is described as being of medium height, with a refined appearance that hints at her status, yet her face often carries the shadows of unfulfilled desires. With a sharp gaze that can switch from warmth to coldness in an instant, her demeanor is as multifaceted as her character. Marfa possesses an uncanny ability to oscillate between a maternal kindness and a shrewd pragmatism, revealing a depth of understanding about the world that few can match. Her personality is defined by a blend of resilience and vulnerability; she has faced the tribulations of life head-on, yet remains a romantic at heart, yearning for connection in a world fraught with betrayal and disappointment. It is this combination of strength and sadness that makes her a lasting presence in the narrative, echoing the novel's themes of moral complexity and the human condition.",
       "aliases": [
-        "Marfa Petrovna",
-        "Marfa Petrovna Svidrigailov"
+        "Andrey Semyonovitch Lebeziatnikov",
+        "Lebeziatnikov"
       ],
-      "is_core": true,
-      "is_unnamed": false,
-      "importance": 0.22
-    },
-    {
-      "id": "pyotr-petrovich-luzhin",
-      "name": "Pyotr Petrovich Luzhin",
-      "description": "Pyotr Petrovitch Luzhin is a middle-aged man of moderate stature, with a sharp, angular face that conveys a sense of cunning intelligence. His thinning hair, slicked back, frames a forehead that seems perpetually furrowed in thought. His eyes, small and piercing, gleam with a calculating light, revealing a personality that is both self-serving and manipulative. Luzhin’s demeanor is marked by an air of self-importance; he often walks with a slight swagger, as if he is acutely aware of his own superiority. Dressed in meticulous, albeit slightly outdated, clothing, he presents himself as an affluent bachelor looking to impress, yet his tendencies for tight-fistedness and egotism shine through, making him a figure of intrigue and disdain. His conversations are laced with condescension, revealing a man who measures others by their utility to him, embodying the very essence of moral bankruptcy in the pursuit of social status.",
-      "aliases": [
-        "Pyotr Petrovitch Luzhin"
-      ],
-      "is_core": false,
-      "is_unnamed": false,
-      "importance": 0.13
-    },
-    {
-      "id": "sonia-semyonovna-marmeladov",
-      "name": "Sonia Semyonovna Marmeladov",
-      "description": "Sonia Semyonovna Marmeladov is a frail, delicate young woman, marked by an air of quiet resilience amidst the crushing weight of her circumstances. With her pale, almost ghostly complexion and strikingly beautiful, sorrowful eyes, she embodies vulnerability and grace. Sonia's slender figure is often draped in simple, worn clothing that emphasizes her humble origins and enduring spirit. Despite the hardships she faces, including her forced descent into destitution, her demeanor radiates a profound empathy and kindness that draws others to her, illuminating the darkness around her. Her unwavering faith and steadfast hope, even in the face of abject despair, are defining traits that lend her an almost ethereal strength, making her both a symbol of sacrifice and a beacon of redemption within the tumultuous world of Dostoevsky's narrative.",
-      "aliases": [],
       "is_core": false,
       "is_unnamed": false,
       "importance": 0.06
     },
     {
-      "id": "darya-pavlovna-raskolnikov",
-      "name": "Darya Pavlovna Raskolnikov",
+      "id": "marfa-petrovna",
+      "name": "Marfa Petrovna",
+      "description": "Marfa Petrovna Svidrigailova is a striking figure, embodying both a dignified presence and an undercurrent of despair that marks her as a woman of complex emotions. She is described as being of medium height, with a refined appearance that hints at her status, yet her face often carries the shadows of unfulfilled desires. With a sharp gaze that can switch from warmth to coldness in an instant, her demeanor is as multifaceted as her character. Marfa possesses an uncanny ability to oscillate between a maternal kindness and a shrewd pragmatism, revealing a depth of understanding about the world that few can match. Her personality is defined by a blend of resilience and vulnerability; she has faced the tribulations of life head-on, yet remains a romantic at heart, yearning for connection in a world fraught with betrayal and disappointment. It is this combination of strength and sadness that makes her a lasting presence in the narrative, echoing the novel's themes of moral complexity and the human condition.",
+      "aliases": [
+        "Marfa Petrovna Svidrigailova",
+        "Marfa Petrovna Svidrigailov"
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.09
+    },
+    {
+      "id": "pyotr-petrovich-luzhin",
+      "name": "Pyotr Petrovich Luzhin",
+      "description": "Dmitri Prokofych Luzhin is depicted as a stout, balding man, with an air of nervousness that permeates his being, often reflected in the twitch of his mustache and the quick, darting movements of his eyes. He carries himself with an uneasy fidget, betraying a deeply insecure nature, while his attire—a somewhat shabby suit that seems ill-fitted—underscores his socially awkward demeanor. Luzhin's personality is marked by a blend of cunning intelligence and an unsettling sense of entitlement; he exudes a calculating charm, often trying to assert his superiority over others, which only amplifies his insecurities when met with resistance. His obsession with status and material wealth further reveals his superficial values, making him a compelling, if not deeply flawed, character in the narrative.",
+      "aliases": [
+        "Pyotr Petrovitch Luzhin",
+        "Luzhin"
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.18
+    },
+    {
+      "id": "sofia-semyonovna-marmeladov",
+      "name": "Sonia Marmeladov",
+      "description": "Sonia Semyonovna Marmeladov is a frail, delicate young woman, marked by an air of quiet resilience amidst the crushing weight of her circumstances. With her pale, almost ghostly complexion and strikingly beautiful, sorrowful eyes, she embodies vulnerability and grace. Sonia's slender figure is often draped in simple, worn clothing that emphasizes her humble origins and enduring spirit. Despite the hardships she faces, including her forced descent into destitution, her demeanor radiates a profound empathy and kindness that draws others to her, illuminating the darkness around her. Her unwavering faith and steadfast hope, even in the face of abject despair, are defining traits that lend her an almost ethereal strength, making her both a symbol of sacrifice and a beacon of redemption within the tumultuous world of Dostoevsky's narrative.",
+      "aliases": [
+        "Sofia Semyonovna Marmeladov",
+        "Sofya Semyonovna Marmeladov",
+        "Sofia Semyonovna",
+        "Sofya Semyonovna",
+        "Sonia Semyonovna Marmeladov",
+        "Sonya",
+        "Sonia",
+        "Sonechka"
+      ],
+      "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.29
+    },
+    {
+      "id": "darya-pavlovna",
+      "name": "Darya Pavlovna",
       "description": "Darya Pavlovna Raskolnikov, known affectionately as Dunya, embodies a complex blend of resilience and compassion. Her striking features include a delicate face framed by chestnut hair that whispers of her gentle nature. With a poised demeanor, she carries herself with a mixture of defiance and maternal warmth, often demonstrating a fierce loyalty to her family. Dunya's expressive eyes reveal her inner strength and unwavering determination, hinting at the depth of her character. In the face of adversity, she emerges as a pillar of integrity and dignity, steadfastly navigating the moral ambiguities around her with grace and courage.",
       "aliases": [
+        "Darya Pavlovna Raskolnikov",
         "Darya Alexandrovna Raskolnikov"
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.09
+    },
+    {
+      "id": "amalia-ivanovna",
+      "name": "Amalia Ivanovna",
+      "description": "Amalia Ivanovna, the landlady in Fyodor Dostoevsky's 'Crime and Punishment', is a forceful presence characterized by her imposing figure and sharp features. With her thickly lined face reflecting years of struggle and her dark hair pulled tightly back, she exudes an air of authority tinged with a hint of cruelty. Her piercing eyes, cold yet calculating, reveal a woman used to navigating the harsh realities of her role as both a landlord and a moral arbiter. Amalia's demeanor is often domineering, as she is relentless in her pursuit of rent and quick to reprimand those she considers beneath her. Despite her stern exterior, there are moments when her vulnerabilities shine through, particularly in her overwhelming sense of pride and social ambition, showcasing the complex layers of her character that resonate within the fabric of the novel.",
+      "aliases": [
+        "Amalia Fyodorovna",
+        "Amalia Ludwigovna"
       ],
       "is_core": false,
       "is_unnamed": false,
       "importance": 0.03
     },
     {
-      "id": "nastasya-petrovna",
-      "name": "Nastasya Petrovna",
+      "id": "nastasya",
+      "name": "Nastasya",
       "description": "Nastasya Petrovna, a haunting beauty, possesses an enigmatic allure that draws both admiration and pity from those around her. Her striking features include high cheekbones and dark, expressive eyes that betray a depth of emotion and suffering. Often dressed in tattered yet elegant attire, she embodies a tragic nobility, hinting at her once-great lineage. Nastasya's demeanor oscillates between fierce independence and vulnerability, as she grapples with the heavy burdens of her tumultuous past. She exudes a raw emotional intensity, often showcasing moments of impulsive passion, revealing her defiance against societal constraints and her longing for redemption in a world that seems to conspire against her. Her presence is both captivating and unsettling, a testament to the internal struggle between her desire for love and her deep-seated fears of abandonment and betrayal.",
       "aliases": [
-        "Nastasya"
+        "Nastasya Petrovna",
+        "Nastenka"
       ],
       "is_core": false,
       "is_unnamed": false,
-      "importance": 0.05
+      "importance": 0.08
     },
     {
-      "id": "pulcheria-alexandrovna-raskolnikova",
-      "name": "Pulcheria Alexandrovna Raskolnikova",
-      "description": "Pulcheria Alexandrovna Raskolnikov, a woman of modest stature and gentle demeanor, embodies the complexities of maternal devotion. Her soft, gray hair, often neatly drawn back, frames a face marked by lines that tell tales of worry and sacrifice. Eyes, imbued with worry yet shimmering with love, reflect her resilient spirit as she navigates the turbulent emotional landscape caused by her son Raskolnikov’s inner turmoil. Known for her nurturing nature, she is often overwhelmed by her fears, particularly concerning her son’s well-being, yet her unwavering support showcases a profound strength. Pulcheria’s character is defined by her compassion and the depths of her maternal love, tender yet tinged with anxiety, captivating both those who encounter her and the reader alike.",
+      "id": "avdotya-romanovna-raskolnikova",
+      "name": "Avdotya Romanovna",
+      "description": "Avdotya Romanovna, often referred to as Dunya, embodies the strength and resilience of the human spirit. She possesses a captivating beauty, characterized by her striking, dark hair that frames her face, and expressive eyes that reflect both determination and compassion. Her demeanor is a blend of grace and unwavering resolve, imbuing her with a dignified presence even in the direst of circumstances. Dunya is marked by her selflessness, often sacrificing her own happiness for the sake of her loved ones. Her steadfast moral compass and adamant conviction in justice set her apart, making her not only an emblem of familial loyalty but also a beacon of hope amidst the moral dilemmas that plague her world. Dunya is a character who, despite facing immense challenges, exemplifies strength and an unwavering will to uphold what is right.",
       "aliases": [
-        "Pulcheria Alexandrovna Raskolnikov"
+        "Avdotya Romanovna Raskolnikova",
+        "Dounia",
+        "Dounia Raskolnikov",
+        "Dunya",
+        "Dunechka"
       ],
       "is_core": true,
+      "is_unnamed": false,
+      "importance": 0.41
+    },
+    {
+      "id": "pulcheria-alexandrovna",
+      "name": "Pulcheria Alexandrovna",
+      "description": "Pulcheria Alexandrovna Raskolnikov, a woman of modest stature and gentle demeanor, embodies the complexities of maternal devotion. Her soft, gray hair, often neatly drawn back, frames a face marked by lines that tell tales of worry and sacrifice. Eyes, imbued with worry yet shimmering with love, reflect her resilient spirit as she navigates the turbulent emotional landscape caused by her son Raskolnikov’s inner turmoil. Known for her nurturing nature, she is often overwhelmed by her fears, particularly concerning her son’s well-being, yet her unwavering support showcases a profound strength. Pulcheria’s character is defined by her compassion and the depths of her maternal love, tender yet tinged with anxiety, captivating both those who encounter her and the reader alike.",
+      "aliases": [
+        "Pulcheria Alexandrovna Raskolnikova",
+        "Pulcheria Alexandrovna Raskolnikov"
+      ],
+      "is_core": false,
       "is_unnamed": false,
       "importance": 0.17
     },
     {
-      "id": "arkady-svidrigailov",
+      "id": "arkady-ivanovich-svidrigailov",
       "name": "Arkady Svidrigailov",
       "description": "Arkady Ivanovich Svidrigailov is a figure steeped in ambiguity and complexity, marked by an unsettling charm that belies his dark inclinations. Tall and lanky, he possesses a gaunt frame, his pallid complexion adding to an aura of faded elegance. His eyes, sharp and penetrating, swirl with a mixture of cunning and a certain melancholic detachment, revealing the turbulent depths of his character. Svidrigailov exudes a nonchalant demeanor, often flashing a disarming smile that hints at his manipulative nature. His refined attire suggests a man with a taste for luxury, yet the disheveled edges of his clothing signify a life of inner turmoil and moral decay. Deeply enigmatic, he navigates the world with a blend of charisma and menace, embodying a haunting presence that leaves a lasting impression on those around him.",
       "aliases": [
         "Arkady Ivanovich Svidrigailov",
         "Arkady Ivanovitch Svidrigailov",
-        "Marfa Petrovna",
-        "Marfa Petrovna Svidrigailov"
+        "Svidrigailov"
       ],
       "is_core": true,
       "is_unnamed": false,
-      "importance": 0.15
+      "importance": 0.19
     },
     {
-      "id": "avdotya-romanovna-raskolnikova",
-      "name": "Avdotya Romanovna Raskolnikova",
-      "description": "Avdotya Romanovna, often referred to as Dunya, embodies the strength and resilience of the human spirit. She possesses a captivating beauty, characterized by her striking, dark hair that frames her face, and expressive eyes that reflect both determination and compassion. Her demeanor is a blend of grace and unwavering resolve, imbuing her with a dignified presence even in the direst of circumstances. Dunya is marked by her selflessness, often sacrificing her own happiness for the sake of her loved ones. Her steadfast moral compass and adamant conviction in justice set her apart, making her not only an emblem of familial loyalty but also a beacon of hope amidst the moral dilemmas that plague her world. Dunya is a character who, despite facing immense challenges, exemplifies strength and an unwavering will to uphold what is right.",
+      "id": "zossimov",
+      "name": "Zossimov",
+      "description": "Dmitri Prokofych Zossimov, with his lanky frame and pallid complexion, embodies both the earnestness and the quirks of a young man burdened by the weight of intellectual curiosity and emotional turmoil. His sharp, inquisitive eyes mask a gentle yet skeptical spirit; they flicker with sympathy and understanding when addressing the ills of the human condition, reflecting his compassionate nature. Clad in a somewhat disheveled attire, Zossimov’s appearance hints at his deep preoccupation with the complexities of life, rather than with superficial concerns. A physician by trade, he exudes a mixture of self-assuredness and vulnerability, making him a confidant to those around him, particularly to Raskolnikov, whose plight he strives to comprehend while wrestling with his own conflicting emotions.",
       "aliases": [
-        "Avdotya Romanovna",
-        "Dounia Raskolnikov"
+        "Andrei Semyonovich Zossimov"
       ],
       "is_core": false,
       "is_unnamed": false,
-      "importance": 0.13
-    },
-    {
-      "id": "dmitri-razumihin",
-      "name": "Dmitri Razumihin",
-      "description": "Dmitri Razumihin is a plump and jovial young man, characterized by his friendly demeanor and thoughtful disposition. His round face, often adorned with a genial smile, radiates warmth and approachability, while his sharp, intelligent eyes exude a keen understanding of the complexities surrounding him. His hair is dark and unkempt, adding to his charm, as he navigates the gritty realities of St. Petersburg with an unwavering determination to support his friends, particularly Raskolnikov. Razumihin's defining traits include his unwavering loyalty, genuine compassion, and an innate ability to inspire those around him, often through his philosophical musings and optimistic outlook, serving as a beacon of hope amidst the moral turbulence of the novel.",
-      "aliases": [],
-      "is_core": false,
-      "is_unnamed": false,
-      "importance": 0.09
+      "importance": 0.14
     },
     {
       "id": "lizaveta-ivanovna",
       "name": "Lizaveta Ivanovna",
       "description": "Lizaveta Ivanovna is a delicate figure, often depicted with a soft and gentle appearance that reflects her compassionate nature. She has a youthful face, framed by unruly, unkempt hair, which adds to her vulnerability and sincerity. Her large, expressive eyes reveal a depth of understanding and kindness, distinguishing her from the harsher characters around her. Lizaveta is often characterized by her meek demeanor and modest disposition, embodying an aura of innocence and submissiveness. She moves quietly, with a certain fragility, and her very presence is laden with empathy, making her a poignant symbol of unacknowledged suffering in Dostoevsky's narrative. Her steadfast loyalty to her half-sibling, despite their turbulent relationship, highlights her desire for connection and familial love, underscoring her profound loneliness and virtue in a world marred by moral ambiguity.",
-      "aliases": [],
+      "aliases": [
+        "Lizaveta"
+      ],
+      "is_core": false,
+      "is_unnamed": false,
+      "importance": 0.08
+    },
+    {
+      "id": "ilya-petrovitch",
+      "name": "Ilya Petrovitch",
+      "description": "Ilya Petrovitch, the astute and often sarcastic police inspector in Dostoevsky's 'Crime and Punishment,' embodies an air of weary authority. With a pronounced balding head and a stout, solid frame, he presents a formidable presence, despite the fatigue etched across his lined face. His sharp, piercing eyes often glimmer with skepticism, hinting at his seasoned experience in uncovering the darker sides of human nature. Clad in a rumpled uniform that speaks to the demands of his role, Ilya balances an arsenal of acute intelligence with a deeply entrenched cynicism. His demeanor oscillates between shrewd assessment and a begrudging empathy for the transient lives he scrutinizes, revealing a complexity rooted in the moral ambiguities of his world. Here stands a man who, despite the burdens of his profession, navigates the murky waters of life with a weary resolve and an unwavering commitment to justice.",
+      "aliases": [
+        "Ilya Petrovich"
+      ],
       "is_core": false,
       "is_unnamed": false,
       "importance": 0.03
@@ -212,183 +272,618 @@
       "id": "nikodim-fomitch",
       "name": "Nikodim Fomitch",
       "description": "Nikodim Fomitch, an emblematic figure in Dostoevsky's 'Crime and Punishment', stands as a testament to the struggles of existential inquiry. Dressed in a threadbare coat that speaks to a life of frugality, his gaunt frame and weary visage reflect the weight of his convictions. His sharp, inquisitive eyes, often narrowed in scrutiny, reveal a mind that is both perceptive and skeptical, challenging those around him to reflect deeply upon their choices. Despite his unassuming appearance, a sense of moral fortitude emanates from him, as he navigates the murky waters of humanity with a blend of compassion and sternness. Fomitch embodies the tension between empathy and the harsh realities of the world, making him a formidable yet relatable character in Raskolnikov's tumultuous journey.",
-      "aliases": [],
-      "is_core": false,
-      "is_unnamed": false,
-      "importance": 0.01
-    },
-    {
-      "id": "ilya-petrovitch",
-      "name": "Ilya Petrovitch",
-      "description": "Ilya Petrovitch, the astute and often sarcastic police inspector in Dostoevsky's 'Crime and Punishment,' embodies an air of weary authority. With a pronounced balding head and a stout, solid frame, he presents a formidable presence, despite the fatigue etched across his lined face. His sharp, piercing eyes often glimmer with skepticism, hinting at his seasoned experience in uncovering the darker sides of human nature. Clad in a rumpled uniform that speaks to the demands of his role, Ilya balances an arsenal of acute intelligence with a deeply entrenched cynicism. His demeanor oscillates between shrewd assessment and a begrudging empathy for the transient lives he scrutinizes, revealing a complexity rooted in the moral ambiguities of his world. Here stands a man who, despite the burdens of his profession, navigates the murky waters of life with a weary resolve and an unwavering commitment to justice.",
-      "aliases": [],
+      "aliases": [
+        "Nikodim Fomich"
+      ],
       "is_core": false,
       "is_unnamed": false,
       "importance": 0.02
     },
     {
-      "id": "andrei-semyonovich-zossimov",
-      "name": "Andrei Semyonovich Zossimov",
-      "description": "Andrei Semyonovich Zossimov is a strikingly tall and lean figure, embodying an aura of introspection and quiet intelligence. With a sharp jawline and features that seem almost austere, his pallid complexion hints at both a reflective nature and an underlying melancholy. Zossimov’s dark, brooding eyes analyze the world around him with a discerning gaze, revealing an empathetic yet distant demeanor. Clad in modest attire, his presence is marked by a subtle elegance, often enhanced by a slight air of aloofness. This detached quality belies the depth of his character, as he is deeply considerate of those around him, particularly Raskolnikov, whom he observes with both concern and curiosity. His calm, rational approach to the chaos that surrounds him demonstrates a contrasting resilience, positioning him as a beacon of stability in a turbulent world.",
-      "aliases": [],
+      "id": "alexander-grigorievich-zametov",
+      "name": "Zametov",
+      "description": "Dmitri Prokofych Zametov is a striking figure, tall and lean, with an air of confidence that is both charming and unsettling. His sharp, angular features are accentuated by deep-set eyes that gleam with a piercing intelligence, a reflection of his keen observational skills and psychological insight. Clad in a neat, well-tailored coat that hints at his attention to detail, Zametov carries himself with a composed demeanor, marked by a certain restlessness that betrays his underlying ambition. His manner is often smooth and easy, suggesting a sociable nature, yet there lies a brooding depth to him, hinting at the complexities of his character. He possesses a wry sense of humor, often revealing a satirical view of the world around him, which serves as a subtle mask for the weighty moral questions that preoccupy him, making him an intriguing and layered individual in Dostoevsky's narrative.",
+      "aliases": [
+        "Alexander Grigorievich Zametov",
+        "Zamyotov"
+      ],
       "is_core": false,
       "is_unnamed": false,
-      "importance": 0.01
-    },
-    {
-      "id": "nikolay",
-      "name": "Nikolay",
-      "description": "Nikolay, a minor yet significant character in Dostoevsky's 'Crime and Punishment', is portrayed as a devoted and earnest servant, embodying the struggles of the lower class. With his somewhat frail physique, he possesses a round face framed by unkempt hair, suggesting both a sense of vulnerability and a lack of pretense. Nikolay's demeanor reflects deep loyalty and compassion, as he navigates the complexities of his existence against a backdrop of social despair. His straightforwardness and humility stand in stark contrast to the moral ambiguity of the protagonists, making him a poignant representation of innocence amid chaos.",
-      "aliases": [],
-      "is_core": false,
-      "is_unnamed": false,
-      "importance": 0.03
+      "importance": 0.05
     },
     {
       "id": "polenka-marmeladov",
-      "name": "Polenka Marmeladov",
+      "name": "Polenka",
       "description": "Polenka Marmeladov, a tender soul ensnared by the claws of poverty, embodies the fragility and innocence of youth amidst despair. With her delicate frame and fair complexion, she possesses a strikingly ethereal beauty, accentuated by large, soulful eyes that seem to reflect the depths of her suffering. Her hair, golden and fine, cascades messily around her face, a testament to her humble circumstances. Polenka's demeanor is marked by a quiet resilience; she navigates her bleak reality with a grace that belies her age, carrying the burdens of her family with an almost unnatural strength. Yet, there is a haunting sadness that lingers in her smile, revealing the weight of the world upon her small shoulders. In her compassionate nature, she embodies both the gentleness of a child and the wisdom of one who has seen too much, making her a poignant figure in the tapestry of suffering that Dostoevsky intricately weaves in 'Crime and Punishment.'",
-      "aliases": [],
+      "aliases": [
+        "Polenka Marmeladov"
+      ],
       "is_core": false,
       "is_unnamed": false,
-      "importance": 0.01
-    },
-    {
-      "id": "amalia-ivanovna",
-      "name": "Amalia Ivanovna",
-      "description": "Amalia Ivanovna, the landlady in Fyodor Dostoevsky's 'Crime and Punishment', is a forceful presence characterized by her imposing figure and sharp features. With her thickly lined face reflecting years of struggle and her dark hair pulled tightly back, she exudes an air of authority tinged with a hint of cruelty. Her piercing eyes, cold yet calculating, reveal a woman used to navigating the harsh realities of her role as both a landlord and a moral arbiter. Amalia's demeanor is often domineering, as she is relentless in her pursuit of rent and quick to reprimand those she considers beneath her. Despite her stern exterior, there are moments when her vulnerabilities shine through, particularly in her overwhelming sense of pride and social ambition, showcasing the complex layers of her character that resonate within the fabric of the novel.",
-      "aliases": [],
-      "is_core": false,
-      "is_unnamed": false,
-      "importance": 0.03
+      "importance": 0.07
     }
   ],
   "links": [
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "porfiry-petrovich",
-      "label": "negative relationship",
-      "description": "Dmitri Prokofich Razumihin and Porfiry Petrovich share a complex relationship characterized by wary mutual interest and underlying tension. Razumihin, who acts as a steadfast friend to Raskolnikov, turns to Porfiry for insight regarding their troubled friend, which reveals both a desire for understanding and an instinctive mistrust. Porfiry, embodying the role of an astute investigator, regards Razumihin with a mix of skepticism and intrigue, often revealing a psychological edge in their exchanges. Their interactions highlight themes of suspicion, intellect, and the quest for truth, as Razumihin grapples with loyalty to Raskolnikov while navigating the intricate dynamics with Porfiry, who represents the law and social order. Key moments, such as Razumihin's anxious inquiries into Raskolnikov's well-being and Porfiry's probing questions, lay bare the undercurrents of rivalry and camaraderie that define their relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "sonia-semyonovna-marmeladov",
-      "label": "romantic connection",
-      "description": "The relationship between Rodion Romanovich Raskolnikov and Sonia Semyonovna Marmeladov is marked by deep empathy and mutual reliance, evolving from a sense of moral obligation to profound emotional connection. Raskolnikov's concern for Sonia's welfare, evident in his willingness to provide for her and help her family, highlights his compassion, while Sonia's unwavering support and love for him signify a bond that transcends mere friendship. Key moments, such as Raskolnikov's reflections on her words about sin and redemption and the emotional intensity of their embraces, illustrate a journey toward understanding and forgiveness. This dynamic captures themes of sacrifice, redemption, and the struggle between despair and hope, positioning Sonia as both a moral compass and a source of strength for Raskolnikov, anchoring him amid his turmoil.",
-      "weight": 1.0
-    },
-    {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "mother",
-      "description": "She is an angel and you, Rodya, you are everything to us...",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-razumihin",
+      "source": "praskovya-pavlovna",
       "target": "rodion-raskolnikov",
-      "label": "friend",
-      "description": "Dmitri Razumihin and Rodion Romanovich Raskolnikov share a deep friendship characterized by mutual concern and emotional support. Razumihin, seeing Raskolnikov in distress, often takes on the role of caretaker, bringing him soup and staying close during his illness, reflecting the warmth of their bond. Their interactions are marked by Razumihin’s eagerness to help, as he expresses frustration and concern for Raskolnikov's wellbeing and choices, demonstrating a familiarity that highlights their camaraderie. Key moments include Razumihin's enthusiastic support for Raskolnikov’s publishing aspirations and his persistent companionship, as he vows not to leave his sick friend. These elements illustrate themes of loyalty and the struggle against isolation, underscoring Razumihin’s role as a stabilizing force in Raskolnikov's turbulent life.",
-      "weight": 1.0
-    },
-    {
-      "source": "lizaveta-ivanovna",
-      "target": "alyona-ivanovna",
-      "label": "sibling",
-      "description": "Alyona Ivanovna and Lizaveta Ivanovna share a complex and strained relationship marked by both familial ties and underlying tensions. As half-sisters, with Alyona being the older, more domineering figure and Lizaveta the younger, more submissive one, their interactions often oscillate between care and conflict. Their relationship becomes pivotal when Lizaveta, seeking independence, grapples with the oppressive nature of Alyona’s character, which ultimately leads to tragic outcomes. Key moments include Alyona’s manipulative control over Lizaveta and Lizaveta’s desperate attempts to break free, culminating in a tragic event that highlights the themes of isolation and moral ambiguity. The dynamics between them serve as a poignant reflection on the impact of familial obligations and the struggle for autonomy.",
-      "weight": 1.0
+      "label": "landlord-tenant",
+      "description": "The relationship between Rodion Romanovich Raskolnikov and Praskovya Pavlovna is marked by tension and economic strain, revealing a dynamic built not on camaraderie but on necessity and obligation. Praskovya, as Raskolnikov's landlady, constantly reminds him of his debts, highlighting his precarious financial situation and hinting at a societal judgment that looms over him. One key moment is when Praskovya expresses disbelief at Raskolnikov's lack of responsibility, saying, \"You must have been mad to sign an IOU,\" which not only underscores her practical attitude but also reflects Raskolnikov's internal conflict and deteriorating mental state. Their interactions encapsulate themes of isolation, desperation, and the burdens of guilt, serving as a microcosm of Raskolnikov's larger existential struggles within the oppressive societal framework.",
+      "weight": 1
     },
     {
       "source": "alyona-ivanovna",
       "target": "rodion-raskolnikov",
-      "label": "unknown relationship",
+      "label": "acquaintance",
       "description": "The relationship between Rodion Romanovich Raskolnikov and Alyona Ivanovna is primarily predatory, characterized by Raskolnikov's intent to exploit the old pawnbroker for her wealth. Their interactions begin with Raskolnikov pawning a watch, indicative of a transactional dynamic rather than a personal connection. As Raskolnikov grapples with his deteriorating circumstances, he contemplates murder, believing Alyona's life holds little value in comparison to the greater good he envisions for society. This culminates in a violent act where he kills Alyona with her own axe, a grim marker of his moral degradation. Their relationship is steeped in themes of desperation, greed, and the complexities of moral justification, underscoring the tension between Raskolnikov’s philosophical justifications and the stark reality of his actions.",
-      "weight": 1.0
+      "weight": 6
     },
     {
-      "source": "nikodim-fomitch",
-      "target": "rodion-raskolnikov",
-      "label": "antagonistic",
-      "description": "The relationship between Rodion Romanovich Raskolnikov and Nikodim Fomitch is marked by a complex interplay of guilt and moral tension. Raskolnikov, burdened by the weight of his actions, considers approaching Nikodim to reveal his secrets, illustrating his internal struggle and desire for redemption. When Nikodim stands before him, his intense gaze reflects an understanding that transcends mere acquaintance; he embodies societal judgment and the law. Their interactions reveal key moments of Raskolnikov’s isolation and fear as he senses Nikodim’s scrutiny, which serves as a constant reminder of his turmoil. This dynamic underscores themes of guilt, conscience, and the search for absolution, ultimately symbolizing the conflict between Raskolnikov’s inner desires and the external moral expectations from society.",
-      "weight": 1.0
+      "source": "dmitri-prokofich-razumihin",
+      "target": "porfiry-petrovich",
+      "label": "conflict",
+      "description": "Dmitri Razumihin and Porfiry Petrovitch share a complex relationship characterized by mutual respect yet an underlying tension. Razumihin, a close friend of Raskolnikov, shows a keen interest in Porfiry’s interactions with him, suggesting a protective instinct toward Raskolnikov and a desire to navigate the delicate dynamics at play. Their encounters reveal subtle shifts in power; Porfiry, as the investigator, exudes authority while Razumihin’s loyalty to Raskolnikov positions him as a moral compass amidst growing ambiguity. Key moments, such as their discussions about Raskolnikov's actions, underscore themes of justice, guilt, and social morality, highlighting Porfiry's cunning intellect and Razumihin’s earnestness. This relationship serves as a microcosm of the greater moral dilemmas that resonate throughout the novel.",
+      "weight": 1
     },
     {
       "source": "rodion-raskolnikov",
-      "target": "nastasya-petrovna",
+      "target": "semyon-zakharovich-marmeladov",
+      "label": "other",
+      "description": "The relationship between Rodion Romanovich Raskolnikov and Marmeladov is marked by a profound sense of pity and moral conflict. Marmeladov, a desperate former government clerk, opens up to Raskolnikov about his suffering and the burden of his family, highlighting the depths of despair in St. Petersburg’s underbelly. Their interaction begins when Marmeladov speaks candidly to Raskolnikov about his troubles, drawing a stark portrait of his helplessness. This encounter leads Raskolnikov to evoke a sense of empathy, compelling him to contribute money for Marmeladov's funeral, despite his own financial straits. Key moments include Marmeladov's heartfelt confessions and Raskolnikov’s internal struggle with his own philosophical justifications for his actions. Symbolically, their dynamic reflects the broader themes of suffering, redemption, and the weight of human connection amidst existential isolation.",
+      "weight": 4
+    },
+    {
+      "source": "nikolay",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance",
+      "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Rodion Romanovich Raskolnikov and Mikolka is marked by a sharp contrast between Raskolnikov's philosophical turmoil and Mikolka's mundane existence. Their encounter, initiated when Raskolnikov approaches Mikolka to discuss a notice he has received, reveals the existential burden Raskolnikov carries, overshadowed by his intense internal conflict. Key moments arise as Raskolnikov grapples with his nihilistic theories and Mikolka represents the everyday reality, grounded in survival. This dynamic emphasizes themes of isolation versus connection, and the struggle between lofty ideals and the harshness of life, as Raskolnikov's alienation is poignantly highlighted through his interactions with the seemingly unremarkable figure of Mikolka.",
+      "weight": 1
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "semyon-zakharovich-marmeladov",
+      "label": "spouse",
+      "description": "Marmeladov and Katerina Ivanovna share a complex and troubled relationship marked by a stark contrast between their characters. Marmeladov, often self-loathing and weak, refers to Katerina with a sense of reverence, calling her 'my spouse' and acknowledging her noble spirit, which he feels he has diminished through his own failures. Their interactions reveal a dynamic of dependency and conflict, highlighted by Marmeladov's shameful act of stealing the key to her box, symbolizing his destructive influence on her life. Key moments, such as his confessions of inadequacy and Katerina's struggles with pride, showcase an emotional interplay where love and despair intertwine. Ultimately, their relationship embodies the themes of sacrifice, responsibility, and the harsh realities of existence.",
+      "weight": 10
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "katerina-ivanovna",
+      "label": "spouse",
+      "description": "Her mohair shawl I sold for drink, a present to her long ago, her own property, not mine; and we live in a cold room...",
+      "weight": 1
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "marfa-petrovna",
+      "label": "abuser",
+      "description": "In the novel, the relationship between Andrei Semyonovich Lebeziatnikov and Marfa Petrovna is marked by tension and rudeness, reflecting the broader themes of social hierarchy and disconnection. Lebeziatnikov often exhibits a dismissive attitude towards Marfa, undermining her status and showcasing his self-importance. Their interactions, particularly during moments of conflict over societal views and personal beliefs, highlight Marfa's resilience in the face of his condescension. Key moments include his blunt remarks that reveal his contempt, which only deepen her resolve to assert her dignity. The emotional undertone of their dynamic conveys a struggle against both personal and social constraints, symbolizing the clash between old values and emerging ideologies.",
+      "weight": 1
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "rodion-raskolnikov",
+      "label": "spouse",
+      "description": "The relationship between Rodion Romanovich Raskolnikov and Pyotr Petrovich Luzhin is marked by deep-seated animosity and conflict, as Raskolnikov vehemently opposes Luzhin's intentions towards his sister, Dounia. Raskolnikov's contempt for Luzhin is palpable, illustrated when he exclaims, \"Never such a marriage while I am alive and Mr. Luzhin be damned!\" This rejection mirrors Raskolnikov’s protective nature and moral stance, positioning Luzhin not just as a rival for Dounia's affections but as a symbol of bourgeois opportunism. Key moments of confrontation reveal Raskolnikov's astonishment and disbelief at Luzhin's self-serving proposal, emphasizing the thematic struggle between moral integrity and societal advantages. Ultimately, their interactions encapsulate a broader commentary on the clash between ideologies, with Raskolnikov embodying the struggle against a corrupt social fabric.",
+      "weight": 1
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "parent",
+      "description": "The relationship between Sofia Semyonovna Marmeladov and Rodion Romanovich Raskolnikov is deeply rooted in compassion and emotional dependency, marked by a profound connection that transcends mere friendship. Sonia, embodying unwavering support, offers Raskolnikov solace amidst his turmoil, evident in her silent yet inviting demeanor and her heartfelt desire to read to him. Their interactions reveal a tender bond, as Sonia's joyful reception of Raskolnikov and her insistence on prayer highlight her genuine care for his wellbeing. The evolution of their relationship is shaped by Raskolnikov's initial indifference giving way to a reliance on Sonia's visits, transforming from a reluctant acquaintance to an essential presence in his solitary life. Key moments, such as Sonia's public confession of faith through reading and her quiet yet impactful gestures of affection, symbolize their intertwining fates, reflecting themes of redemption and the search for meaning in the face of suffering.",
+      "weight": 2
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "rodion-raskolnikov",
+      "label": "spouse",
+      "description": "The relationship between Rodion Romanovich Raskolnikov and Katerina Ivanovna Marmeladova is marked by a blend of compassion and mutual despair. Raskolnikov, despite his own turmoil, steps into a protective role for Katerina during her moments of distress, urging her to remain calm and calling for a doctor when she is in need. This dynamic highlights a poignant contrast between Raskolnikov's inner conflict and Katerina's external struggles as a mother beset by poverty and illness. Key moments, such as Raskolnikov's urgent reassurances and his relief when the doctor arrives, unveil the depth of human connection in times of crisis, underscoring themes of empathy and shared suffering within the harsh realities they face. Their interactions symbolize the fleeting solace one can find in another amidst the relentless weight of their circumstances.",
+      "weight": 3
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "friend",
+      "description": "Sofia Semyonovna Marmeladov and Katerina Ivanovna share a tumultuous relationship marked by a blend of empathy and conflict. Sofia, often seen as a beacon of compassion, feels a sense of duty towards Katerina, who is consumed by her madness and despair due to her husband’s failures and societal neglect. Their interactions are tinged with tension; Katerina's bouts of jealousy and hysteria clash with Sofia’s quiet strength and self-sacrifice. A pivotal moment occurs when Sofia offers support to Katerina during her most desperate times, illuminating the depth of Sofia’s character and her unwavering loyalty. However, Katerina's psychological unraveling often leads to resentment, showcasing the theme of suffering and the struggle for dignity. Ultimately, their bond encapsulates the fragility of human connection amid despair, reflecting the broader societal decay around them.",
+      "weight": 6
+    },
+    {
+      "source": "semyon-zakharovich-marmeladov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "friend",
+      "description": "Sofia Semyonovna Marmeladov and her father Marmeladov share a complex and ultimately tragic relationship marked by dependency and despair. Marmeladov, a broken man consumed by alcoholism and remorse, places his burden of suffering upon Sonia, expecting her to preserve his dignity through her compassion. In turn, Sonia, deeply empathetic and devoted, seeks to protect her father's fragile state but is also forced to confront the harsh realities of their existence. Key moments, such as her father's confession of his failures and her unwavering support despite his shortcomings, highlight their bond, illustrating the themes of sacrifice and familial obligation. Yet, their relationship is also a reflection of the broader social decay surrounding them, symbolizing the struggle for redemption amidst overwhelming sorrow.",
+      "weight": 7
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "antagonistic",
+      "description": "Marmeladov indicates that Darya Frantsovna had a leading part in forcing his daughter Sofya Semyonovna to take a yellow ticket, suggesting an adversarial relationship.",
+      "weight": 1
+    },
+    {
+      "source": "amalia-ivanovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "other",
+      "description": "Marmeladov states that Amalia Fyodorovna would not hear of Sofya living with them, indicating a strained relationship.",
+      "weight": 1
+    },
+    {
+      "source": "amalia-ivanovna",
+      "target": "katerina-ivanovna",
+      "label": "conflict",
+      "description": "The relationship between Amalia Ivanovna and Katerina Ivanovna is marked by tension and class conflict, with Amalia asserting her authority as a landlady over Katerina. Their interactions are characterized by Amalia's insistence on proper titles and her affronted pride, especially after Katerina's laughter, which Amalia perceives as disrespectful. Amalia's pointed remarks about Katerina's father serve to elevate her own status while diminishing Katerina's, highlighting the power dynamics in their landlord-tenant relationship. Key moments include Amalia's assertion of her social importance and Katerina's resistance, defining their exchanges as a rivalry steeped in issues of identity and societal standing.",
+      "weight": 1
+    },
+    {
+      "source": "nastasya",
+      "target": "rodion-raskolnikov",
       "label": "servant",
       "description": "Nastasya serves as both caretaker and confidante to Rodion Romanovich Raskolnikov, her concern for his well-being evident as she brings him food and attends to his needs. Their relationship embodies a complex interplay of empathy and dependence, with Nastasya's actions reflecting a nurturing spirit amidst Raskolnikov's turbulent psyche. Key moments arise as she not only provides sustenance but also fulfills his commands, illustrating her role in his life as both supporter and enabler. The emotional undercurrents between them resonate with themes of isolation and human connection, highlighting the struggle between Raskolnikov's inner turmoil and his longing for understanding, symbolized through Nastasya's presence.",
-      "weight": 1.0
+      "weight": 3
     },
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "alyona-ivanovna",
-      "label": "acquaintance",
-      "description": "In Fyodor Dostoevsky's narrative, Dmitri Prokofych Razumihin and Alyona Ivanovna represent contrasting facets of humanity, with Razumihin embodying compassion and moral integrity, while Alyona symbolizes avarice and self-interest. Their relationship is primarily defined by Razumihin's admiration for Alyona's intellect, despite her cruel nature. A key moment arises when Razumihin, motivated by his socio-economic struggles, attempts to engage Alyona in discussions about women's rights, reflecting his progressive views. However, the tensions between their characters escalate as Alyona's greed becomes apparent, particularly in her oppressive usury, leading Razumihin to reveal the disparity between his ideals and her harsh reality. This dynamic encapsulates broader themes of morality and the human condition, contrasting Razumihin’s empathy with Alyona's moral depravity.",
-      "weight": 1.0
+      "source": "nastasya",
+      "target": "praskovya-pavlovna",
+      "label": "employer",
+      "description": "The relationship between Nastasya and Praskovya Pavlovna is marked by tension and conflict, driven by financial disputes and personal grievances. Praskovya, feeling wronged by Raskolnikov's failure to pay rent, seeks to assert her authority by considering police intervention, which sets the stage for her antagonistic stance. Nastasya, often caught in the crossfire of these disputes, serves as both a witness and a participant in the escalating drama, reflecting the struggles of the lower classes navigating moral dilemmas. Their interactions are charged with a sense of desperation and helplessness, underscoring themes of survival and the harsh realities of life in a society that often disregards the vulnerable.",
+      "weight": 1
     },
     {
-      "source": "porfiry-petrovich",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "community",
-      "description": "The man in a long coat suggests taking Raskolnikov to the police station.",
-      "weight": 1.0
-    },
-    {
-      "source": "pulcheria-alexandrovna-raskolnikova",
+      "source": "avdotya-romanovna-raskolnikova",
       "target": "rodion-raskolnikov",
-      "label": "parent to child",
+      "label": "sibling",
+      "description": "Rodion Romanovich Raskolnikov and Dounia Raskolnikov share a deep and complex sibling bond, characterized by love, concern, and significant emotional turmoil. As brother and sister, Rodion often expresses his protective instincts, particularly evident in his inquiries about Dounia's feelings towards Razumihin, displaying a brotherly care that underscores their connection. Dounia’s heartfelt tears for Rodion reveal her unwavering emotional support and the weight of shared struggles, reflecting their intertwined fates amidst societal pressures. Key moments—like Rodion's promise not to disgrace her and their candid conversations about his thoughts—underscore a profound trust and affection, despite the looming shadows of Rodion's conflicts and ethical dilemmas. Their relationship encapsulates themes of loyalty, sacrifice, and the haunting consequences of isolation.",
+      "weight": 17
+    },
+    {
+      "source": "pulcheria-alexandrovna",
+      "target": "rodion-raskolnikov",
+      "label": "friend",
       "description": "Rodion Romanovich Raskolnikov and Pulcheria Alexandrovna Raskolnikov share a deeply intertwined relationship characterized by familial love and concern. As his mother, Pulcheria's unwavering affection for Rodya is evident in her joyful reactions to his successes and her alarm at his distressing behavior. Her protective nature surfaces through moments like taking his hand to comfort him, reflecting a nurturing bond amidst their struggles. Raskolnikov's uncertainty and guilt lead him to seek assurance of her unconditional love, a poignant request that emphasizes the emotional weight of their connection. This interplay of affection and anxiety illustrates the themes of familial loyalty and the burden of expectation, shaping both characters' development throughout the narrative.",
-      "weight": 1.0
+      "weight": 3
     },
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "nastasya-petrovna",
-      "label": "romantic interest",
-      "description": "Nastasya and Dmitri Prokofych Razumihin share a complex relationship marked by mutual concern and practical collaboration, primarily revolving around Raskolnikov. Their interactions are characterized by Razumihin's protective instincts towards Nastasya, as he navigates the burdensome tasks related to their troubled friend. Key moments include Razumihin's earnest efforts to support Raskolnikov, which inadvertently draw Nastasya into the emotional turmoil. As they work together, tensions arise from their differing perspectives on duty and loyalty, yet a thread of camaraderie persists, underscoring themes of empathy and the struggle against despair. Their relationship is a testament to resilience and connection amid chaos, reflecting the broader human desire for understanding and support.",
-      "weight": 1.0
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "pulcheria-alexandrovna",
+      "label": "sibling",
+      "description": "Dounia Raskolnikov and Pulcheria Alexandrovna Raskolnikov share a profound bond characterized by familial affection and sacrifice. Dounia emerges as a protective figure, often reassuring her mother with phrases like \"don't be afraid, mother,\" reflecting her nurturing instincts amidst their struggles. Their relationship is defined by mutual concern; Dounia shows awareness of Pulcheria's emotional state and the family's welfare, particularly regarding her brother Rodya's situation. Notably, Dounia's silence in pivotal moments indicates her resolve to face difficult decisions, suggesting an undercurrent of strength as she prepares to navigate the complexities of their circumstances. Their interactions highlight themes of loyalty, sacrifice, and the weight of familial duty, underscoring the deep emotional ties that bind them.",
+      "weight": 2
     },
     {
-      "source": "dmitri-razumihin",
-      "target": "pulcheria-alexandrovna-raskolnikova",
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "romantic",
+      "description": "Dounia Raskolnikov and Arkady Svidrigailov share a complex and tumultuous relationship marked by tension and underlying conflict. Their interactions oscillate between confrontation and emotional manipulation, exemplified when Dounia raises a revolver at Svidrigailov, an act that symbolizes her defiance against his predatory nature. Initially, Svidrigailov is drawn to Dounia's strength and beauty, yet his intentions are rooted in self-interest, creating an atmosphere of rivalry rather than camaraderie. Key moments, such as Svidrigailov's attempts to exert control over Dounia and her resolute rejection of his advances, highlight themes of power, choice, and morality. Their relationship underscores the struggle for agency in a world rife with moral ambiguity, revealing both characters' vulnerabilities and desires.",
+      "weight": 3
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "marfa-petrovna",
+      "label": "other relationship",
+      "description": "The relationship between Dounia Raskolnikov and Marfa Petrovna Svidrigailova is marked by tension and complexity, oscillating between animosity and an uneasy truce. Marfa, wielding her influence, initially seeks to tarnish Dounia's reputation, spewing slander that infects social perceptions of her. Yet, in a turn fueled by desperation and remorse, Marfa embraces Dounia, pleading for forgiveness as if acknowledging the weight of her earlier actions. This dynamic encapsulates themes of power, redemption, and the struggle for identity, with Dounia representing innocence caught in the crossfire of Marfa's manipulations and eventual desire for atonement.",
+      "weight": 5
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "marfa-petrovna",
+      "label": "conflict",
+      "description": "The relationship between Darya Alexandrovna Raskolnikov and Marfa Petrovna Svidrigailov is marked by intense conflict and rivalry. Marfa, possessing a domineering nature, does not hesitate to confront Dounia, exemplified by her striking Dounia and shouting at her for an extended period, revealing her volatile temperament. This moment underscores Marfa's desire to control and intimidate, positioning her as an antagonist in Dounia's life. Their interactions are charged with tension, as Dounia represents resilience in the face of Marfa's aggression. The emotional weight of their encounters highlights themes of power dynamics and the struggle for autonomy, emphasizing the personal turmoil resulting from Marfa's attempts to assert her influence over Dounia.",
+      "weight": 1
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "rodion-raskolnikov",
       "label": "acquaintance",
-      "description": "The relationship between Dmitri Razumihin and Pulcheria Alexandrovna Raskolnikov is marked by a blend of friendship and protective mentorship. Razumihin, deeply concerned for Pulcheria and her daughter, Dounia, takes it upon himself to safeguard their well-being amid their precarious situation. His sincerity shines through as he expresses his regard for them, insisting that his bond with Raskolnikov binds him to them too. Key moments include his unwavering promise to escort them home and his heartfelt confession of his feelings for Pulcheria, whom he regards as family. These interactions reflect themes of loyalty and compassion, showcasing Razumihin's role as a steadfast ally in the tumult of their lives.",
-      "weight": 1.0
+      "description": "Raskolnikov and Svidrigailov share a complex and uneasy relationship marked by an undercurrent of rivalry and mutual intrigue. Their interactions unfold with tension as Raskolnikov grapples with his own guilt and moral dilemmas, while Svidrigailov embodies a more carefree and nihilistic view of life. Key moments include Raskolnikov's pointed questioning about ghosts, indicating a deeper search for truth and understanding, suggesting a subtle competition between their ideologies. Svidrigailov, with his manipulative charm, reveals a darker aspect of human nature that challenges Raskolnikov's convictions. Their relationship encapsulates themes of existential conflict, guilt, and the haunting nature of one's past, symbolizing the struggle between fate and free will.",
+      "weight": 1
     },
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "marfa-petrovna",
+      "label": "other relationship",
+      "description": "Arkady Ivanovitch Svidrigailov and Marfa Petrovna Svidrigailova share a complex relationship marked by a mixture of familiarity and underlying tension. Their interactions reveal a past filled with both care and conflict, as seen when Arkady recalls Marfa's reminders about the mundane act of winding the clock, signifying her nurturing yet controlling nature. This dynamic is underscored by moments where Arkady's memories of Marfa evoke both longing and discomfort, reflecting the duality of love and strife in their history. Key developments, such as Marfa's insistence on order in their lives, juxtapose with Arkady's restless spirit, culminating in a relationship that embodies the themes of obligation and emotional entrapment. Ultimately, their bond serves as a poignant symbol of the struggle between companionship and the yearning for freedom.",
+      "weight": 1
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "darya-pavlovna",
+      "label": "other relationship",
+      "description": "Between Darya Alexandrovna Raskolnikov and Arkady Ivanovich Svidrigailov lies a complex and fraught dynamic marked by manipulation and desperation. Dounia, caught in the web of her brother Raskolnikov's moral dilemmas, seeks refuge in Svidrigailov after he shows interest in her. Their relationship oscillates between danger and dependency; Svidrigailov's libertine nature poses a threat, yet he simultaneously embodies a means of escape for Dounia from her brother's shadow. Key moments, such as Dounia's confrontation with Svidrigailov, reveal her strength and resolve as she navigates his unsettling advances. Thematically, their interactions highlight the struggles of choice and moral ambiguity, with Svidrigailov often symbolizing temptation and moral decay, contrasting with Dounia's quest for integrity and autonomy.",
+      "weight": 1
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
       "target": "pyotr-petrovich-luzhin",
+      "label": "romantic",
+      "description": "The relationship between Dounia Raskolnikov and Pyotr Petrovich Luzhin is primarily one of calculated ambition and moral conflict, laden with tension. Dounia, convinced that her virtuous influence can reform Luzhin, is torn between her sense of duty and her growing discomfort with his manipulative nature. A pivotal moment occurs when Luzhin attempts to assert control over Dounia, revealing his true character and sparking her resistance. Their interactions are imbued with themes of power, autonomy, and the struggle for dignity, as Dounia navigates the complexities of her circumstances while clinging to her ideals. Ultimately, their dynamic encapsulates a deeper commentary on the roles of women and the societal expectations that bind them.",
+      "weight": 4
+    },
+    {
+      "source": "marfa-petrovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "relation",
+      "description": "The relationship between Pyotr Petrovitch Luzhin and Marfa Petrovna Svidrigailova is complex and marked by an underlying tension stemming from their respective influences on Mr. Svidrigailov. Luzhin, who views Marfa as a shadowy figure in her husband’s life, grapples with the aftermath of her mysterious death, which has significantly altered the family's financial landscape. Their interactions hint at a rivalry, as Luzhin's keen observations about Marfa's impact on Svidrigailov reveal his desire to control the narrative surrounding her influence. Key moments include Luzhin's reflections on her death and its consequences, which embody themes of power, loss, and the haunting presence of the past. The emotional weight of their relationship underscores the idea that even in absence, Marfa's enigmatic nature continues to sway the dynamics of those left behind.",
+      "weight": 1
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "zossimov",
       "label": "acquaintance",
+      "description": "In Fyodor Dostoevsky's narrative, the relationship between Andrei Semyonovich Zossimov and Rodion Romanovich Raskolnikov is marked by a complex interplay of mentorship and concern, tinged with existential anxiety. Zossimov, a physician, takes on a role of a reluctant confidant as he observes Raskolnikov's psychological unraveling. Their interactions, particularly during moments when Zossimov gently probes Raskolnikov’s thoughts, illuminate the struggle between rationality and moral chaos within Raskolnikov. A pivotal moment occurs when Zossimov, though perplexed by Raskolnikov’s behavior, maintains a thread of hope, suggesting an underlying empathy that contrasts sharply with Raskolnikov's inner turmoil. Emotionally charged and symbolically rich, their relationship encapsulates themes of isolation, the search for redemption, and the quest for understanding amidst suffering.",
+      "weight": 1
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "other",
+      "description": "Alyona Ivanovna and Pyotr Petrovitch Luzhin share a complex relationship marked by layers of ambition and moral ambiguity. Luzhin, with his manipulative tendencies, seeks to possess Alyona both as an object of desire and a symbol of his intellectual superiority. Their interactions are tinged with tension; Alyona, a pawnbroker, views Luzhin's advances through a transactional lens, while Luzhin sees her as a means to elevate his social standing. A pivotal moment occurs when Luzhin proclaims his intentions towards her, which inadvertently underscores the power imbalance in their relationship and foreshadows the ensuing conflict. The emotional undercurrents are heavy, reflecting themes of greed, power, and the superficial nature of social relationships, ultimately serving as a microcosm of the broader societal struggles within the novel.",
+      "weight": 1
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "romantic",
+      "description": "The relationship between Darya Pavlovna Raskolnikov and Pyotr Petrovitch Luzhin is marked by tension and undercurrents of manipulation. Dounia's lighthearted remark about marrying Luzhin to provoke Raskolnikov underscores a complex interplay of emotions, signaling her awareness of the awkward bond between the two men. Luzhin, an ambitious and self-serving suitor, represents societal expectations and materialism, contrasting sharply with Raskolnikov's intellectual and existential struggles. Their interactions are laden with conflict; Luzhin's condescension often provokes Raskolnikov, revealing the latter's deep-seated insecurities and moral dilemmas. Key moments, such as Luzhin's attempts to assert control over Dounia and her subsequent rejection of him, amplify themes of autonomy, sacrifice, and the quest for integrity amidst societal pressures. Ultimately, their dynamic encapsulates a struggle between self-interest and genuine connection, with Dounia caught in the middle, embodying the tension between her familial loyalty and personal freedom.",
+      "weight": 1
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "darya-pavlovna",
+      "label": "sibling",
+      "description": "Dounia is described as being all excitement at the thought of seeing Raskolnikov's mother, indicating a close familial bond.",
+      "weight": 1
+    },
+    {
+      "source": "pulcheria-alexandrovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "potential spouse",
       "description": "The relationship between Pyotr Petrovich Luzhin and Pulcheria Alexandrovna Raskolnikov is marked by a complex blend of familial expectation and underlying tension. Luzhin, as the fiancé of Pulcheria's daughter Dounia, embodies both allure and unease for Pulcheria. His initial charm quickly fades as his self-serving nature reveals itself, especially when he attempts to manipulate Dounia’s loyalty towards him, causing Pulcheria to grapple with her maternal instincts and societal pressures. A pivotal moment occurs during Luzhin’s confrontation with Dounia, where Pulcheria’s support for her daughter becomes evident, solidifying the chasm between her protective love and Luzhin’s calculating ambition. This dynamic is imbued with themes of love, control, and the struggles of familial bonds, as Pulcheria ultimately stands against Luzhin, highlighting a mother’s fierce commitment to her child over her own societal aspirations.",
-      "weight": 1.0
+      "weight": 1
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "connection",
+      "description": "Dounia Raskolnikov and Sofia Semyonovna Marmeladov share a bond forged through shared suffering and compassion, navigating the harsh realities of their lives. Their relationship is marked by an understanding that transcends words; Dounia's protective instincts toward her brother Raskolnikov resonate with Sonia’s empathy for the downtrodden. Key moments include Sonia’s steadfast support of Dounia amid family turmoil and her unwavering belief in redemption, paralleling Dounia's inner struggles. Their connection is infused with themes of sacrifice and moral ambiguity, embodying the hope for a better future despite their dire circumstances, while capturing the essence of sisterhood born from adversity.",
+      "weight": 1
     },
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "rodion-raskolnikov",
       "label": "friend",
-      "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Dmitri Prokofych Zametov and Rodion Romanovich Raskolnikov is marked by tension and unease. Zametov, a police clerk with a quick tongue, begins to view Raskolnikov through a lens of suspicion, particularly after the murder of Alyona Ivanovna, where his casual remarks about the crime weigh heavily on Raskolnikov's already troubled conscience. Raskolnikov, in turn, perceives Zametov as increasingly rude, suggesting a deterioration in their acquaintance, which symbolizes Raskolnikov’s own moral decline and isolation. Key moments in their interactions reveal a complex interplay of fear and disdain, reflecting the broader themes of guilt and existential struggle within the novel. Their relationship ultimately serves as a stark contrast to Raskolnikov’s internal turmoil, highlighting the disconnection between human relationships in a state of moral crisis.",
-      "weight": 1.0
+      "description": "Dmitri Razumihin and Rodion Romanovich Raskolnikov share a deep friendship characterized by mutual concern and emotional support. Razumihin, seeing Raskolnikov in distress, often takes on the role of caretaker, bringing him soup and staying close during his illness, reflecting the warmth of their bond. Their interactions are marked by Razumihin’s eagerness to help, as he expresses frustration and concern for Raskolnikov's wellbeing and choices, demonstrating a familiarity that highlights their camaraderie. Key moments include Razumihin's enthusiastic support for Raskolnikov’s publishing aspirations and his persistent companionship, as he vows not to leave his sick friend. These elements illustrate themes of loyalty and the struggle against isolation, underscoring Razumihin’s role as a stabilizing force in Raskolnikov's turbulent life.",
+      "weight": 4
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "stranger",
+      "description": "Dmitri Razumihin and Sonia Semyonovna Marmeladov share a relationship rooted in compassion and mutual support amid their struggles. Their encounters begin when Dmitri, a kind-hearted and earnest man, approaches Sonia, revealing their shared living conditions as neighbors. As the story unfolds, Dmitri becomes a source of comfort for Sonia, an impoverished young woman forced into a life of hardship. Key moments spark their connection, such as Dmitri's genuine concern for Sonia's well-being and his attempts to uplift her spirits. Their bond symbolizes hope and redemption, highlighting themes of human connection in the face of despair. Ultimately, their relationship embodies a tender camaraderie that offers solace against a backdrop of societal judgment.",
+      "weight": 1
     },
     {
       "source": "porfiry-petrovich",
-      "target": "dmitri-razumihin",
-      "label": "colleague",
-      "description": "Dmitri Razumihin and Porfiry Petrovitch share a complex relationship characterized by mutual respect yet an underlying tension. Razumihin, a close friend of Raskolnikov, shows a keen interest in Porfiry’s interactions with him, suggesting a protective instinct toward Raskolnikov and a desire to navigate the delicate dynamics at play. Their encounters reveal subtle shifts in power; Porfiry, as the investigator, exudes authority while Razumihin’s loyalty to Raskolnikov positions him as a moral compass amidst growing ambiguity. Key moments, such as their discussions about Raskolnikov's actions, underscore themes of justice, guilt, and social morality, highlighting Porfiry's cunning intellect and Razumihin’s earnestness. This relationship serves as a microcosm of the greater moral dilemmas that resonate throughout the novel.",
-      "weight": 1.0
+      "target": "rodion-raskolnikov",
+      "label": "collaborators in helping",
+      "description": "The relationship between Porfiry Petrovitch and Rodion Romanovich Raskolnikov is marked by tension and mutual respect, set against the backdrop of an investigation. Porfiry, as the investigator, approaches Raskolnikov with a blend of formality and familiarity, addressing him directly and expressing a certain apologetic tone, which underscores the complexity of their interactions. Their conversations reveal Porfiry's keen awareness of Raskolnikov's psychological state and intentions, as he questions him about his curiosity regarding the case—a subtle hint at Raskolnikov's guilt and turmoil. Key moments arise from their dialogues, where Porfiry's probing questions not only challenge Raskolnikov's motives but also reflect the broader themes of morality and existential struggle within the novel. This dynamic encapsulates a cat-and-mouse game, where Porfiry's role as the investigator epitomizes both the societal pressures on Raskolnikov and the inner conflict he faces, highlighting the intricate dance of suspicion and understanding between the two characters.",
+      "weight": 1
     },
     {
-      "source": "rodion-raskolnikov",
-      "target": "arkady-svidrigailov",
+      "source": "nikolay",
+      "target": "semyon-zakharovich-marmeladov",
+      "label": "interaction",
+      "description": "In Dostoevsky's narrative, Mikolka and Semyon Zakharovich Marmeladov embody the stark contrasts of human nature, with Mikolka representing raw brutality and Semyon a tragic quest for redemption. Their relationship is strained and antagonistic; Mikolka's violent outburst at the mare serves not only as a reflection of his turmoil but also as a catalyst that highlights Semyon's deep-seated despair and his own moral struggles. As Mikolka's actions unfold, Semyon's passive disapproval becomes a haunting backdrop, illustrating the broader societal decay they inhabit. The tension between them encapsulates themes of power and vulnerability, with Mikolka’s aggression symbolizing the chaotic forces of life, while Semyon’s sorrow echoes the profound search for meaning amidst suffering.",
+      "weight": 1
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "nikolay",
+      "label": "interaction",
+      "description": "The woman seized Mikolka by the hand, attempting to take him away from the scene and showing concern for his actions.",
+      "weight": 1
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "lizaveta-ivanovna",
+      "label": "sisters",
+      "description": "Alyona Ivanovna and Lizaveta Ivanovna share a complex and strained relationship marked by both familial ties and underlying tensions. As half-sisters, with Alyona being the older, more domineering figure and Lizaveta the younger, more submissive one, their interactions often oscillate between care and conflict. Their relationship becomes pivotal when Lizaveta, seeking independence, grapples with the oppressive nature of Alyona’s character, which ultimately leads to tragic outcomes. Key moments include Alyona’s manipulative control over Lizaveta and Lizaveta’s desperate attempts to break free, culminating in a tragic event that highlights the themes of isolation and moral ambiguity. The dynamics between them serve as a poignant reflection on the impact of familial obligations and the struggle for autonomy.",
+      "weight": 2
+    },
+    {
+      "source": "lizaveta-ivanovna",
+      "target": "rodion-raskolnikov",
+      "label": "sibling-like relationship",
+      "description": "The relationship between Rodion Romanovich Raskolnikov and Lizaveta Ivanovna is marked by tragedy and complexity, rooted in their shared circumstances of poverty and the oppressive influence of their society. Raskolnikov's initial observations of Lizaveta, the old woman's sister, reveal his awareness and fleeting compassion for her plight. Their fates intertwine when Raskolnikov, in a moment of desperation, accidentally murders Lizaveta, mistaking her presence for an obstacle to his intended crime against the old woman. This act of violence leads him to reflect deeply on her death, evoking feelings of regret and sorrow as he mourns her loss and questions the randomness of fate. The emotional weight of their connection is underscored by Raskolnikov's awareness of Lizaveta’s innocence, symbolizing the collateral damage of his philosophical justifications for murder, and highlighting a profound commentary on morality, guilt, and the human condition.",
+      "weight": 1
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "dmitri-prokofich-razumihin",
       "label": "acquaintance",
-      "description": "Raskolnikov and Svidrigailov share a complex and uneasy relationship marked by an undercurrent of rivalry and mutual intrigue. Their interactions unfold with tension as Raskolnikov grapples with his own guilt and moral dilemmas, while Svidrigailov embodies a more carefree and nihilistic view of life. Key moments include Raskolnikov's pointed questioning about ghosts, indicating a deeper search for truth and understanding, suggesting a subtle competition between their ideologies. Svidrigailov, with his manipulative charm, reveals a darker aspect of human nature that challenges Raskolnikov's convictions. Their relationship encapsulates themes of existential conflict, guilt, and the haunting nature of one's past, symbolizing the struggle between fate and free will.",
-      "weight": 1.0
+      "description": "Dmitri Razumihin and Alyona Ivanovna share a complex, transactional relationship rooted in the darker themes of poverty and morality. Razumihin, a friend of Raskolnikov, recognizes Alyona as a miserly pawnbroker who exploits the desperate for monetary gain, reflecting a social critique of their environment. Their interactions are largely defined by Razumihin's awareness of Alyona's role as both a victim of circumstance and a perpetrator of greed. The discovery of the jewel-case linked to her murder deepens the intrigue, transforming their relationship into one underscored by tension and ethical dilemmas. Ultimately, Alyona symbolizes the corrupting influence of wealth and the impact of desperation, revealing the thematic depth of human interactions in a world fraught with moral ambiguity.",
+      "weight": 1
     },
     {
-      "source": "marfa-petrovna-svidrigailova",
-      "target": "avdotya-romanovna-raskolnikova",
-      "label": "relationship related to inheritance",
-      "description": "The relationship between Dounia Raskolnikov and Marfa Petrovna Svidrigailova is marked by tension and complexity, oscillating between animosity and an uneasy truce. Marfa, wielding her influence, initially seeks to tarnish Dounia's reputation, spewing slander that infects social perceptions of her. Yet, in a turn fueled by desperation and remorse, Marfa embraces Dounia, pleading for forgiveness as if acknowledging the weight of her earlier actions. This dynamic encapsulates themes of power, redemption, and the struggle for identity, with Dounia representing innocence caught in the crossfire of Marfa's manipulations and eventual desire for atonement.",
-      "weight": 1.0
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "lizaveta-ivanovna",
+      "label": "sibling",
+      "description": "Lizaveta did not dare to accept an order or job of any kind without her sister's permission.",
+      "weight": 1
+    },
+    {
+      "source": "ilya-petrovitch",
+      "target": "nikodim-fomitch",
+      "label": "colleague",
+      "description": "Ilya Petrovitch and Nikodim Fomitch share a complex relationship characterized by a blend of camaraderie and underlying tension. Their interactions are marked by moments of playful banter, yet simmering rivalry lurks beneath the surface. Ilya's peculiar pronunciation adds a unique flavor to their exchanges, often disarming Nikodim and leading to both humor and frustration. A pivotal moment occurs when a shared crisis forces them to confront their differences, revealing a deeper understanding of each other's motivations. The emotional landscape of their relationship reflects themes of loyalty and the struggle for identity, highlighting how friendship can be fraught with competition and the desire for validation.",
+      "weight": 4
+    },
+    {
+      "source": "nikodim-fomitch",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance",
+      "description": "The relationship between Rodion Romanovich Raskolnikov and Nikodim Fomitch is marked by a complex interplay of guilt and moral tension. Raskolnikov, burdened by the weight of his actions, considers approaching Nikodim to reveal his secrets, illustrating his internal struggle and desire for redemption. When Nikodim stands before him, his intense gaze reflects an understanding that transcends mere acquaintance; he embodies societal judgment and the law. Their interactions reveal key moments of Raskolnikov’s isolation and fear as he senses Nikodim’s scrutiny, which serves as a constant reminder of his turmoil. This dynamic underscores themes of guilt, conscience, and the search for absolution, ultimately symbolizing the conflict between Raskolnikov’s inner desires and the external moral expectations from society.",
+      "weight": 5
+    },
+    {
+      "source": "ilya-petrovitch",
+      "target": "rodion-raskolnikov",
+      "label": "professional relationship",
+      "description": "In Fyodor Dostoevsky's novel, the relationship between Rodion Romanovich Raskolnikov and Ilya Petrovitch is marked by a complex blend of mutual respect and underlying tension. Raskolnikov struggles with his own guilt and moral dilemmas, often feeling the weight of his actions in Ilya's presence. Their interactions are characterized by Raskolnikov's introspection and Ilya's steadfastness as a representative of law and order. Key moments include Raskolnikov leaning on the table to confront Ilya, illustrating a moment of vulnerability and an attempt to assert dominance over his tumultuous emotions. This dynamic serves to highlight the themes of isolation and the search for redemption, as Raskolnikov's internal conflict clashes with the external reality that Ilya embodies.",
+      "weight": 3
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "ilya-petrovitch",
+      "label": "other",
+      "description": "Ilya Petrovitch here and beating the landlady! He is kicking her, banging her head against the steps—that's clear, that can be told from the sounds, from the cries and the thuds.",
+      "weight": 1
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "zossimov",
+      "label": "acquaintance",
+      "description": "Dmitri Razumihin and Andrei Semyonovich Zossimov share a strong camaraderie, rooted in mutual respect and concern for one another's well-being. Their bond is characterized by Razumihin's unwavering support for Zossimov, especially in times of crisis, reflecting a deep friendship forged through shared struggles. Key moments in the narrative highlight their interactions, such as Razumihin's attempts to lift Zossimov’s spirits during his moments of despondency, which symbolizes the theme of loyalty amidst hardship. As Zossimov grapples with the moral complexities of their world, Razumihin serves as a grounding force, illustrating a juxtaposition between despair and the hope found in companionship, ultimately presenting their relationship as a beacon of solidarity in the tumult of their lives.",
+      "weight": 1
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "nastasya",
+      "label": "friend",
+      "description": "Dmitri Razumihin and Nastasya share a complex relationship that straddles the line between friendship and unspoken affection. Their interactions often reveal Dmitri's protective nature and his deep concern for Nastasya's well-being, highlighted in moments where he offers her companionship, such as when he asks her to join him for beer, symbolizing a desire for connection amidst her struggles. Key events include Dmitri's unwavering support during Nastasya's moments of despair, which showcases his role as a confidant and potential romantic interest. This dynamic, marked by emotional turmoil and longing, encapsulates themes of loyalty and the quest for solace in life's hardships.",
+      "weight": 4
+    },
+    {
+      "source": "alexander-grigorievich-zametov",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance",
+      "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Dmitri Prokofych Zametov and Rodion Romanovich Raskolnikov is marked by tension and unease. Zametov, a police clerk with a quick tongue, begins to view Raskolnikov through a lens of suspicion, particularly after the murder of Alyona Ivanovna, where his casual remarks about the crime weigh heavily on Raskolnikov's already troubled conscience. Raskolnikov, in turn, perceives Zametov as increasingly rude, suggesting a deterioration in their acquaintance, which symbolizes Raskolnikov’s own moral decline and isolation. Key moments in their interactions reveal a complex interplay of fear and disdain, reflecting the broader themes of guilt and existential struggle within the novel. Their relationship ultimately serves as a stark contrast to Raskolnikov’s internal turmoil, highlighting the disconnection between human relationships in a state of moral crisis.",
+      "weight": 3
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "praskovya-pavlovna",
+      "label": "relation",
+      "description": "Dmitri Prokofych Razumihin and Praskovya Pavlovna share a complex relationship that dances between camaraderie and subtle tension. Razumihin, often seen as kind-hearted and perceptive, recognizes Praskovya's intelligence beneath her seemingly foolish exterior, offering a nuanced appreciation of her character. Their interactions reveal moments of support, particularly when Razumihin endeavors to aid Raskolnikov, showcasing Praskovya's loyalty and practicality. However, humorous banter and misunderstandings often surface, highlighting a playful yet earnest dynamic. The contrast between Razumihin's open-mindedness and Praskovya's more traditional views creates a tension that underlines broader themes of social class and gender roles within the narrative. Their relationship ultimately reflects a blend of respect and comradery, with emotional undertones that represent the struggle for understanding amidst societal expectations.",
+      "weight": 2
+    },
+    {
+      "source": "alexander-grigorievich-zametov",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend",
+      "description": "Razumihin states that now he and Zametov are friends, as they see each other almost every day.",
+      "weight": 1
+    },
+    {
+      "source": "nastasya",
+      "target": "zossimov",
+      "label": "Other",
+      "description": "In the novel, Andrei Semyonovich Zossimov and Nastasya Petrovna share a complex dynamic marked by tension and misunderstanding. Their relationship is characterized by Zossimov's marked displeasure at Nastasya's chatter, which indicates a clash between his reserved nature and her exuberant personality. Key moments arise when Zossimov's interruptions reveal his frustration, suggesting a deeper incompatibility in their goals and desires. Nastasya, often seeking connection and validation, finds herself at odds with Zossimov's pragmatic demeanor, leading to an emotional gap between them. Their interactions symbolically illustrate the struggles of communication and connection in a world where contrasting temperaments hinder understanding.",
+      "weight": 1
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "nikolay",
+      "label": "acquaintance",
+      "description": "Nikolay and Dmitri Prokofych Razumihin share a complex bond marked by camaraderie and loyalty in the tumultuous backdrop of their lives. Both characters are drawn together in the aftermath of a crisis, their friendship forged amidst chaos as they flee the scene of unexpected events. Key moments arise when Dmitri’s unwavering support provides Nikolay with a sense of stability, while their interactions often reveal the contrasting aspirations and ideals they hold. The emotional weight of their relationship is underscored by themes of sacrifice and solidarity, with Dmitri embodying a guiding force that shapes Nikolay’s journey, ultimately reflecting the broader struggles against despair and moral ambiguity that permeate the narrative.",
+      "weight": 7
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "nikolay",
+      "label": "acquaintance",
+      "description": "Dushkin mentions he knew Alyona Ivanovna, who was murdered, which implies a level of familiarity.",
+      "weight": 1
+    },
+    {
+      "source": "lizaveta-ivanovna",
+      "target": "nikolay",
+      "label": "acquaintance",
+      "description": "Dushkin mentions he knew Lizaveta Ivanovna, who was also murdered, indicating he is familiar with both victims.",
+      "weight": 1
+    },
+    {
+      "source": "nikolay",
+      "target": "zossimov",
+      "label": "listener",
+      "description": "Zossimov listens to Dushkin’s tale, indicating a listener-speaker relationship.",
+      "weight": 1
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "acquaintance",
+      "description": "Dmitri Razumihin and Pyotr Petrovitch Luzhin share a contentious relationship marked by sharp disagreements and contrasting ideals. Razumihin, with his warmer, more empathetic approach, often finds himself in direct conflict with Luzhin, who represents a colder, utilitarian view of life. Their interactions highlight the tension between practicality and human connection, especially during debates where Razumihin passionately defends the value of emotion against Luzhin's rigid arguments. Key moments include Razumihin's interruption of Luzhin's points, showcasing his frustration and disdain for Luzhin's lack of compassion. This dynamic not only illustrates their personal animosity but also serves to underscore broader themes of morality versus practicality in the narrative.",
+      "weight": 5
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "zossimov",
+      "label": "acquaintance",
+      "description": "Pyotr Petrovitch put in, addressing Zossimov.",
+      "weight": 1
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "zossimov",
+      "label": "victim",
+      "description": "You are talking of the murder of the old pawnbroker, I believe?",
+      "weight": 1
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "porfiry-petrovich",
+      "label": "community",
+      "description": "The man in a long coat suggests taking Raskolnikov to the police station.",
+      "weight": 1
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "polenka-marmeladov",
+      "label": "mother",
+      "description": "Katerina Ivanovna refers to Polya as 'my heart had long been another's. That other was your father, Polya; papa was fearfully angry.'",
+      "weight": 5
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "polenka-marmeladov",
+      "label": "sibling",
+      "description": "Little Lida rushes to Polenka, showing a sibling relationship.",
+      "weight": 1
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "nikolay",
+      "label": "others",
+      "description": "Katerina Ivanovna berates the crowd for gawking at her husband, showing her sense of ownership and familial ties to him, as well as her relationship with the onlookers.",
+      "weight": 1
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "katerina-ivanovna",
+      "label": "spouse",
+      "description": "Katerina Ivanovna looked at him with a sad but stern face, and tears trickled from her eyes.",
+      "weight": 2
+    },
+    {
+      "source": "polenka-marmeladov",
+      "target": "rodion-raskolnikov",
+      "label": "friend",
+      "description": "Polenka ran after Raskolnikov, calling 'Wait! wait!' and showed a bright childish smile, indicating her fondness for him.",
+      "weight": 3
+    },
+    {
+      "source": "polenka-marmeladov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "sibling",
+      "description": "Polenka states, 'Sister Sonia sent me,' suggesting a familial relationship as siblings.",
+      "weight": 2
+    },
+    {
+      "source": "polenka-marmeladov",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "parent",
+      "description": "Polenka mentions, 'Mamma sent me, too,' indicating that Mamma is her mother.",
+      "weight": 1
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "polenka-marmeladov",
+      "label": "parent",
+      "description": "Polenka states, 'I am sorry for father' indicating a familial connection.",
+      "weight": 1
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "praskovya-pavlovna",
+      "label": "parent",
+      "description": "References to being taught by her father and noting 'mother never used to say anything' imply a relationship as parent and child.",
+      "weight": 1
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "ilya-petrovitch",
+      "label": "acquaintance",
+      "description": "Dmitri Prokofych Razumihin and Ilya Petrovitch share a complex relationship marked by camaraderie and shared concern over their mutual friend, Raskolnikov. Razumihin, increasingly worried about Raskolnikov's well-being, often seeks Ilya's insights and support, treating him as an ally in unraveling the mysterious behavior of their troubled friend. Their discussions hint at deeper plots and moral dilemmas, particularly regarding Raskolnikov's actions and thoughts. A key moment occurs when Razumihin implies Ilya's involvement in deciphering Raskolnikov's turmoil, thus knitting their fates closer together. This connection showcases themes of loyalty and moral inquiry, as they grapple with the implications of Raskolnikov's existential struggles. Through their interactions, both characters reveal a shared sense of purpose, balancing their own convictions with the weight of Raskolnikov's crisis.",
+      "weight": 1
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "pulcheria-alexandrovna",
+      "label": "parent to child",
+      "description": "The relationship between Darya Alexandrovna Raskolnikov and Pulcheria Alexandrovna Raskolnikov is marked by deep affection and mutual dependence, showcasing a bond of a loving mother and her devoted daughter. Their interactions often reflect a nurturing dynamic, highlighted by moments of embrace and warmth, such as when Dounia kisses her mother, reinforcing their emotional connection. Key events, like Dounia’s sacrifices for her family and her steadfast support of Pulcheria in turbulent times, reveal the strength of their relationship amidst societal pressures. Thematic elements of love and sacrifice permeate their interactions, illustrating how their familial ties endure challenges, symbolizing the hope and resilience that sustains them.",
+      "weight": 1
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "pulcheria-alexandrovna",
+      "label": "friend",
+      "description": "The relationship between Dmitri Razumihin and Pulcheria Alexandrovna Raskolnikov is marked by a blend of friendship and protective mentorship. Razumihin, deeply concerned for Pulcheria and her daughter, Dounia, takes it upon himself to safeguard their well-being amid their precarious situation. His sincerity shines through as he expresses his regard for them, insisting that his bond with Raskolnikov binds him to them too. Key moments include his unwavering promise to escort them home and his heartfelt confession of his feelings for Pulcheria, whom he regards as family. These interactions reflect themes of loyalty and compassion, showcasing Razumihin's role as a steadfast ally in the tumult of their lives.",
+      "weight": 10
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend",
+      "description": "Dmitri Razumihin and Avdotya Romanovna Raskolnikova share a complex relationship that intertwines friendship and burgeoning romance, marked by mutual respect and a deep care for one another. Razumihin, who is devoted to Rodya (Rodion Raskolnikov), Avdotya's brother, takes a protective stance towards her, pledging to look after her wellbeing. Their interactions reveal a growing affection, especially as Avdotya grapples with her brother's troubles and her own moral dilemmas. Key moments, such as Razumihin's heartfelt promise to care for Avdotya and his steadfast support, highlight the emotional depth of their bond. Thematic elements of loyalty and sacrifice emerge, symbolizing the struggle between personal desires and familial duty, which deeply influences their evolving connection.",
+      "weight": 12
+    },
+    {
+      "source": "pulcheria-alexandrovna",
+      "target": "zossimov",
+      "label": "doctor-patient",
+      "description": "Dmitri Prokofych Zossimov and Pulcheria Alexandrovna Raskolnikov share a relationship marked by empathy and a touch of solemnity, reflective of their respective roles—he as a doctor and she as a concerned mother. Their interactions pivot around the health and well-being of Raskolnikov, Pulcheria’s son, which deeply intertwines their fates. Key moments include Zossimov's professional yet compassionate approach to Raskolnikov's deteriorating condition and his unspoken alliance with Pulcheria in their mutual worry for him. This dynamic is further deepened by Pulcheria's vulnerability and maternal instincts, presenting a poignant symbol of familial love amidst turmoil, while Zossimov represents the cold yet necessary rationality of medical duty. Their exchanges encapsulate a blend of hope and despair, ultimately highlighting the fragility of human connections in dire circumstances.",
+      "weight": 2
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "zossimov",
+      "label": "doctor-patient",
+      "description": "Dounia Raskolnikov and Andrei Semyonovich Zossimov share a complex relationship marked by an underlying current of concern and unease. Zossimov, as a doctor and friend, often offers insights that provoke Dounia’s apprehension, revealing her sensitivity to his observations. Their interactions are defined by a mix of understanding and tension, particularly as Dounia navigates her family's struggles, including her brother Raskolnikov's turmoil. A key moment occurs when Zossimov's remarks about Raskolnikov's deteriorating state force Dounia to confront her worries, illustrating the emotional depth of their bond. Thematic elements of duty, compassion, and the burden of knowledge resonate throughout their exchanges, painting a poignant picture of how personal struggles ripple through relationships.",
+      "weight": 2
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend",
+      "description": "Dmitri Razumihin and Darya Pavlovna Raskolnikov share a relationship marked by warmth and affection, characterized primarily by friendship and budding romance. Throughout the novel, Razumihin’s unwavering support for Dounia highlights his deep admiration and respect for her strength and resilience. Key moments, such as his reaction to her struggles and his willingness to defend her honor, reveal a profound emotional connection. Their interactions embody themes of loyalty and compassion, with Razumihin serving as a stabilizing force in Dounia's tumultuous life. This dynamic illustrates the importance of human connection amidst despair, as Razumihin’s delight in Dounia's successes reflects the hope and light that can emerge from darkness.",
+      "weight": 1
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "rodion-raskolnikov",
+      "label": "sibling",
+      "description": "Darya Alexandrovna Raskolnikov, known as Dounia, shares a deeply complex bond with her brother, Rodion Romanovich Raskolnikov. Their relationship is marked by unwavering loyalty, maternal care, and an underlying tension arising from Rodion's tumultuous quest for meaning and moral justification. Dounia's faith in Rodion shines through as she encourages their mother to trust him, asserting that he is worth believing in despite his struggles. Her presence serves as both a stabilizing force and a source of emotional conflict for Rodion, who grapples with guilt and isolation. Key moments, such as Dounia's determination to support her brother even in his darkest hours, highlight themes of familial duty, sacrifice, and the quest for redemption, showcasing the intricate emotional landscape that defines their interactions.",
+      "weight": 1
+    },
+    {
+      "source": "marfa-petrovna",
+      "target": "pulcheria-alexandrovna",
+      "label": "acquaintance",
+      "description": "Pulcheria Alexandrovna Raskolnikov and Marfa Petrovna Svidrigailov share a complex connection marked by an unspoken rivalry and contrasting maternal instincts. While Pulcheria embodies nurturing care for her son Rodion, Marfa represents a more enigmatic, morally ambiguous figure in his life. After Marfa's death, Pulcheria's acknowledgment of her passing highlights a subtle recognition of Marfa's influence on Rodion and the shadows she cast over his psyche. Their interactions, although limited, reflect themes of sacrifice, the burden of expectations, and moral ambiguity, ultimately revealing how two maternal figures can embody both warmth and darkness in the shaping of a young man's fate.",
+      "weight": 1
+    },
+    {
+      "source": "marfa-petrovna",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance",
+      "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Rodion Romanovich Raskolnikov and Marfa Petrovna is complex yet subtly entwined with themes of power and manipulation. While Marfa holds a maternal, almost domineering role, the dynamic shifts as Raskolnikov uses flattery to gain her favor, revealing his desire for control and validation. Their interactions are marked by a tension that oscillates between dependence and tension, as Raskolnikov's ulterior motives clash with Marfa's intentions, giving rise to a poignant exploration of moral ambiguity. Key moments, such as their negotiation over future plans and the palpable pressure of their handshakes, symbolize not only the struggle for dominance but also the deeper conflicts within Raskolnikov's psyche as he grapples with guilt and the weight of his actions.",
+      "weight": 1
+    },
+    {
+      "source": "pulcheria-alexandrovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "acquaintance",
+      "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Pulcheria Alexandrovna Raskolnikov and Sofia Semyonovna Marmeladov is marked by mutual warmth and understanding, highlighting the motherly instincts of Pulcheria towards Sonia. While Pulcheria initially views Sonia as a respectful and kind companion for her troubled son, their interactions develop further as they share their burdens and hopes. A significant moment occurs when Pulcheria expresses her concern for Sonia's well-being, reflecting an emotional bond that transcends social status and despair. This connection symbolizes compassion amid suffering, emphasizing themes of redemption and the enduring strength of maternal love as they navigate the complexities of their lives.",
+      "weight": 2
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "interaction",
+      "description": "The relationship between Pyotr Petrovitch Luzhin and Sofia Semyonovna Marmeladov is marked by tension and condescension, revealing the power dynamics of class and morality. Luzhin, embodying arrogance and entitlement, initially attempts to accuse Sonia of impropriety to undermine her dignity, but his efforts backfire, leading to his resorting to petty insolence. Key moments include Luzhin’s proposal to Sonia that highlights not only his self-serving nature but also the desperation of Sonia's situation, as she grapples with her troubled past. The interaction between them encapsulates themes of exploitation and the moral complexities of society, where Luzhin's character ultimately fails to overpower Sonia's quiet strength and resilience, setting them apart in their conflicting values.",
+      "weight": 1
     }
   ]
 }

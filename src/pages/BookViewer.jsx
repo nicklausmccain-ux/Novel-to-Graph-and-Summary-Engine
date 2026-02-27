@@ -177,6 +177,7 @@ export default function BookViewer() {
   const [mobileView, setMobileView] = useState("summary"); // default to summary
 
   const cyRef = useRef(null);
+  const graphWrapRef = useRef(null);
   const isMobile = useIsMobile(900);
 
   // ── Navigate back to catalog ──
@@ -574,6 +575,15 @@ export default function BookViewer() {
     cy.removeAllListeners();
     handleCyMount(cy);
   }, [handleCyMount]);
+
+  // ── Prevent page scroll when wheeling over graph ──
+  useEffect(() => {
+    const el = graphWrapRef.current;
+    if (!el) return;
+    const handler = (e) => e.preventDefault();
+    el.addEventListener("wheel", handler, { passive: false });
+    return () => el.removeEventListener("wheel", handler);
+  }, []);
 
   // ── Layout ──
   useEffect(() => {
@@ -1014,7 +1024,7 @@ export default function BookViewer() {
   const graphContent = (
     <>
       {elements.length > 0 ? (
-        <div className={`graph-wrap ${graphReady ? "ready" : "booting"}`}>
+        <div ref={graphWrapRef} className={`graph-wrap ${graphReady ? "ready" : "booting"}`}>
           {layouting && <div className="graph-overlay">Laying out&hellip;</div>}
           <CytoscapeComponent
             elements={elements}
@@ -1022,7 +1032,7 @@ export default function BookViewer() {
             layout={{ name: "preset" }}
             cy={handleCyMount}
             style={{ width: "100%", height: "100%", position: "relative", zIndex: 1 }}
-            wheelSensitivity={1.5}
+            wheelSensitivity={2.0}
             minZoom={0.05}
             maxZoom={10}
           />

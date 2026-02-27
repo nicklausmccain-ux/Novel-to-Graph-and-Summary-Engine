@@ -2,22 +2,22 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "rodion-raskolnikov",
-      "target": "nikolay",
-      "label": "Other relationship"
+      "source": "nikolay",
+      "target": "porfiry-petrovich",
+      "label": "authority"
     }
   ],
-  "summary": "New connections: Rodion–Nikolay (Other relationship).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (10 ties). Key relationship types: other relationship.",
+  "summary": "New connections: Nikolay-Porfiry (authority).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: authority.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (10), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
-    "Key ties: Rodion–Nikolay (Other relationship)",
-    "Totals: 24 characters, 21 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (12), Avdotya Romanovna (12)",
+    "Key ties: Nikolay-Porfiry (authority)",
+    "Totals: 24 characters, 88 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov witnesses the unexpected arrival of Nikolay, who confesses to the murders of Alyona and Lizaveta, claiming he acted alone. Porfiry Petrovitch, initially surprised, quickly dismisses the onlookers and engages with Nikolay, questioning him about the details of the crime. Afterward, Raskolnikov leaves, feeling bewildered by the confession and the implications it holds for his own situation."
 }

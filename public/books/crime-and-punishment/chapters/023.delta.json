@@ -1,16 +1,23 @@
 {
   "new_nodes": [],
-  "new_edges": [],
-  "summary": "No new characters or connections in this chapter.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (8 ties).",
+  "new_edges": [
+    {
+      "source": "marfa-petrovna",
+      "target": "zossimov",
+      "label": "spouse"
+    }
+  ],
+  "summary": "New connections: Marfa-Zossimov (spouse).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: spouse.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (8), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
-    "Totals: 24 characters, 19 relations (+0 new, +0 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Pyotr Petrovich Luzhin (10)",
+    "Key ties: Marfa-Zossimov (spouse)",
+    "Totals: 24 characters, 85 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Dounia expresses her regret over her previous engagement to Luzhin, feeling tempted by his money but unaware of his true nature. Raskolnikov informs her of Svidrigailov's offer of ten thousand roubles, which Pulcheria Alexandrovna vehemently opposes. Razumihin, excited by the prospect of a new business venture, proposes a partnership in publishing, which Dounia finds appealing, while Raskolnikov remains skeptical."
 }

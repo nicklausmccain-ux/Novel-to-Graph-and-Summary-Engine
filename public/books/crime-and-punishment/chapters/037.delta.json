@@ -2,22 +2,27 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "arkady-svidrigailov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "unclear relationship"
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "arkady-ivanovich-svidrigailov",
+      "label": "family"
     }
   ],
-  "summary": "New connections: Arkady–Katerina (unclear relationship).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: unclear relationship.",
+  "summary": "New connections: Arkady-Dmitri (acquaintance), Alyona-Arkady (family).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties). Key relationship types: acquaintance, family.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (12), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
-    "Key ties: Arkady–Katerina (unclear relationship)",
-    "Totals: 24 characters, 27 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (17), Sonia Marmeladov (15), Katerina Ivanovna (14)",
+    "Key ties: Arkady-Dmitri (acquaintance), Alyona-Arkady (family)",
+    "Totals: 24 characters, 107 relations (+0 new, +2 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Pyotr Petrovich Luzhin",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Svidrigailov spent the evening visiting low haunts, where he interacted with Katia and some clerks before heading to a pleasure garden. After resolving a dispute over a stolen teaspoon, he returned home, drenched from a sudden storm. He visited Sonia, offering her bonds for her family and expressing concern for Rodion's fate. Afterward, he made an unexpected visit to his betrothed's parents, gifting her a substantial sum of money before leaving."
 }

@@ -2,22 +2,27 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "dmitri-razumihin",
-      "target": "pulcheria-alexandrovna-raskolnikova",
-      "label": "acquaintance"
+      "source": "darya-pavlovna",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend"
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "rodion-raskolnikov",
+      "label": "sibling"
     }
   ],
-  "summary": "New connections: Dmitri–Pulcheria (acquaintance).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: acquaintance.",
+  "summary": "New connections: Darya-Dmitri (friend), Darya-Rodion (sibling).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: friend, sibling.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (6), Dmitri Prokofich Razumihin (3), Pulcheria Alexandrovna Raskolnikova (3), Alyona Ivanovna (3)",
-    "Key ties: Dmitri–Pulcheria (acquaintance)",
-    "Totals: 24 characters, 13 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (20), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Alyona Ivanovna (9)",
+    "Key ties: Darya-Dmitri (friend), Darya-Rodion (sibling)",
+    "Totals: 24 characters, 79 relations (+0 new, +2 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Razumihin wakes up troubled by his actions from the previous day, feeling ashamed of his drunken behavior and the way he treated Avdotya's fiancé. He prepares himself to face her and her mother, Pulcheria, who are anxiously waiting for news about Raskolnikov. When he arrives, he finds them eager to hear about Raskolnikov's condition and character, leading to a conversation where Razumihin describes Raskolnikov's complex nature."
 }

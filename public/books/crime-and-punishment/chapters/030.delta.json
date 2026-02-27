@@ -1,23 +1,16 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "rodion-raskolnikov",
-      "label": "Supportive relationship"
-    }
-  ],
-  "summary": "New connections: Katerina–Rodion (Supportive relationship).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (11 ties). Key relationship types: supportive relationship.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (11), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
-    "Key ties: Katerina–Rodion (Supportive relationship)",
-    "Totals: 24 characters, 24 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (15), Avdotya Romanovna (13)",
+    "Totals: 24 characters, 101 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov, after confronting Luzhin, visits Sonia, feeling both relief and dread about revealing the truth of Lizaveta's murder. Sonia expresses her concern for Katerina Ivanovna, but Raskolnikov insists she stay with him. As they discuss Luzhin's intentions and the potential consequences, Raskolnikov struggles with his emotions, ultimately revealing that he knows who killed Lizaveta, leading to a moment of shared horror and despair between them."
 }

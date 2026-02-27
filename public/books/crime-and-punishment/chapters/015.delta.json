@@ -3,21 +3,36 @@
   "new_edges": [
     {
       "source": "dmitri-prokofich-razumihin",
-      "target": "nastasya-petrovna",
-      "label": "romantic interest"
+      "target": "pulcheria-alexandrovna",
+      "label": "friend"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend"
+    },
+    {
+      "source": "pulcheria-alexandrovna",
+      "target": "zossimov",
+      "label": "doctor-patient"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "zossimov",
+      "label": "doctor-patient"
     }
   ],
-  "summary": "New connections: Dmitri–Nastasya (romantic interest).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: romantic interest.",
+  "summary": "New connections: Dmitri-Pulcheria (friend), Avdotya-Dmitri (friend), Pulcheria-Zossimov (doctor-patient), Avdotya-Zossimov (doctor-patient).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (19 ties). Key relationship types: doctor-patient, friend.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (6), Dmitri Prokofich Razumihin (3), Alyona Ivanovna (3), Porfiry Petrovich (2)",
-    "Key ties: Dmitri–Nastasya (romantic interest)",
-    "Totals: 24 characters, 12 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (19), Dmitri Prokofich Razumihin (15), Avdotya Romanovna (12), Alyona Ivanovna (9)",
+    "Key ties: Dmitri-Pulcheria (friend), Avdotya-Dmitri (friend), Pulcheria-Zossimov (doctor-patient), Avdotya-Zossimov (doctor-patient)",
+    "Totals: 24 characters, 77 relations (+0 new, +4 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Alyona Ivanovna"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Raskolnikov, feeling overwhelmed, struggles with his emotions as he interacts with his mother, Pulcheria, and sister, Dounia. He insists that Dounia should refuse her engagement to Luzhin, expressing his disdain for the marriage. Razumihin, determined to support Raskolnikov, offers to stay with him, while Pulcheria and Dounia are torn between their concern for Raskolnikov and their desire to help him."
 }

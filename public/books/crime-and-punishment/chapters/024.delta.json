@@ -1,16 +1,28 @@
 {
   "new_nodes": [],
-  "new_edges": [],
-  "summary": "No new characters or connections in this chapter.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (8 ties).",
+  "new_edges": [
+    {
+      "source": "lizaveta-ivanovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "friend"
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "other"
+    }
+  ],
+  "summary": "New connections: Lizaveta-Sonia (friend), Arkady-Sonia (other).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: friend, other.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (8), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
-    "Totals: 24 characters, 19 relations (+0 new, +0 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (12), Avdotya Romanovna (12)",
+    "Key ties: Lizaveta-Sonia (friend), Arkady-Sonia (other)",
+    "Totals: 24 characters, 87 relations (+0 new, +2 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov visits Sonia in her small, impoverished room, where they share a tense yet intimate conversation. Sonia expresses her deep concern for Katerina Ivanovna's well-being and her struggles to care for her family. As they discuss their lives, Raskolnikov observes Sonia's frailty and the harsh realities of her situation, revealing the emotional turmoil both characters face."
 }

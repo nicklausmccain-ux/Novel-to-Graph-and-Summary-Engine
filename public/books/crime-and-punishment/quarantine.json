@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-02-27T04:23:18.465259+00:00",
+  "generated_at": "2026-02-27T08:08:23.889086+00:00",
   "total_dropped": 1,
   "total_kept": 24,
   "dropped_characters": {
     "na": {
       "name": "N/a",
       "reason": "DROP: junk/placeholder name",
-      "edge_count": 8,
+      "edge_count": 7,
       "chapter_count": 5,
       "description": "Raskolnikov, a young former student residing in the squalor of St. Petersburg, bears a gaunt and emaciated frame that hints at his inner turmoil and disquiet. His sharp, intelligent eyes, often cloude"
     }

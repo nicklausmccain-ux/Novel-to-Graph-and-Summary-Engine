@@ -2,22 +2,22 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "failed suitor"
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "pulcheria-alexandrovna",
+      "label": "adversarial"
     }
   ],
-  "summary": "New connections: Pyotr–Marfa (failed suitor).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (8 ties). Key relationship types: failed suitor.",
+  "summary": "New connections: Arkady-Pulcheria (adversarial).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: adversarial.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (8), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
-    "Key ties: Pyotr–Marfa (failed suitor)",
-    "Totals: 24 characters, 19 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Pyotr Petrovich Luzhin (10)",
+    "Key ties: Arkady-Pulcheria (adversarial)",
+    "Totals: 24 characters, 84 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Razumihin and Raskolnikov discuss Svidrigailov, who has arrived in Petersburg after his wife's funeral, raising concerns about Dounia's safety. They encounter Luzhin at Bakaleyev's, where tensions rise as he interacts with Pulcheria and Dounia. Luzhin's condescending demeanor and remarks about Svidrigailov unsettle the group, leading Raskolnikov to reveal that Svidrigailov had just visited him."
 }

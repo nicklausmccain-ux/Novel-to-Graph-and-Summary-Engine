@@ -4,23 +4,38 @@
   ],
   "new_edges": [
     {
+      "source": "nikolay",
+      "target": "semyon-zakharovich-marmeladov",
+      "label": "interaction"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "nikolay",
+      "label": "interaction"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "lizaveta-ivanovna",
+      "label": "sisters"
+    },
+    {
       "source": "lizaveta-ivanovna",
-      "target": "alyona-ivanovna",
-      "label": "sibling"
+      "target": "rodion-raskolnikov",
+      "label": "sibling-like relationship"
     }
   ],
-  "summary": "New characters: Lizaveta Ivanovna. New connections: Lizaveta–Alyona (sibling).",
-  "summary_short": "Introduces Lizaveta Ivanovna. Rodion Raskolnikov is the most connected figure (2 ties). Key relationship types: sibling.",
+  "summary": "New characters: Lizaveta Ivanovna. New connections: Nikolay-Marmeladov (interaction), Avdotya-Nikolay (interaction), Alyona-Lizaveta (sisters), Lizaveta-Rodion (sibling-like relationship).",
+  "summary_short": "Introduces Lizaveta Ivanovna. Rodion Raskolnikov is the most connected figure (15 ties). Key relationship types: interaction, sibling-like relationship, sisters.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Sonia Semyonovna Marmeladov (1)",
-    "Key ties: Lizaveta–Alyona (sibling)",
+    "Most central: Rodion Raskolnikov (15), Avdotya Romanovna (8), Sonia Marmeladov (7), Pyotr Petrovich Luzhin (6)",
+    "Key ties: Nikolay-Marmeladov (interaction), Avdotya-Nikolay (interaction), Alyona-Lizaveta (sisters), Lizaveta-Rodion (sibling-like relationship)",
     "New characters: Lizaveta",
-    "Totals: 18 characters, 5 relations (+1 new, +1 new)"
+    "Totals: 20 characters, 42 relations (+1 new, +4 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Avdotya Romanovna",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov contemplates visiting Razumihin for help but feels conflicted about his situation. He experiences a surge of agitation and decides to postpone the visit until after an unspecified event, which he refers to as \"It.\" As he wanders through the city, he becomes increasingly lost in thought and eventually succumbs to exhaustion, falling asleep in a secluded area."
 }

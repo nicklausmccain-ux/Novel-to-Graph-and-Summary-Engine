@@ -1,23 +1,16 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "arkady-svidrigailov",
-      "label": "Romantic connection"
-    }
-  ],
-  "summary": "New connections: Pyotr–Arkady (Romantic connection).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: romantic connection.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (12), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
-    "Key ties: Pyotr–Arkady (Romantic connection)",
-    "Totals: 24 characters, 26 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (15), Katerina Ivanovna (14)",
+    "Totals: 24 characters, 105 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Pyotr Petrovich Luzhin",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov confronts Svidrigailov, expressing his suspicions about Svidrigailov's intentions towards his sister, Dounia. Svidrigailov, maintaining a playful demeanor, reveals that Dounia is not at home and invites Raskolnikov to his lodgings. Meanwhile, Dounia encounters Svidrigailov and reluctantly agrees to speak with him, despite her apprehensions. Their interaction hints at underlying tensions and secrets regarding Raskolnikov."
 }

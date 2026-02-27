@@ -1,27 +1,37 @@
 {
   "new_nodes": [
-    "nikodim-fomitch",
-    "ilya-petrovitch"
+    "ilya-petrovitch",
+    "nikodim-fomitch"
   ],
   "new_edges": [
     {
+      "source": "ilya-petrovitch",
+      "target": "nikodim-fomitch",
+      "label": "colleague"
+    },
+    {
       "source": "nikodim-fomitch",
       "target": "rodion-raskolnikov",
-      "label": "antagonistic"
+      "label": "acquaintance"
+    },
+    {
+      "source": "ilya-petrovitch",
+      "target": "rodion-raskolnikov",
+      "label": "professional relationship"
     }
   ],
-  "summary": "New characters: Nikodim Fomitch, Ilya Petrovitch. New connections: Nikodim–Rodion (antagonistic).",
-  "summary_short": "Introduces Nikodim Fomitch, Ilya Petrovitch. Rodion Raskolnikov is the most connected figure (4 ties). Key relationship types: antagonistic.",
+  "summary": "New characters: Ilya Petrovitch, Nikodim Fomitch. New connections: Ilya-Nikodim (colleague), Nikodim-Rodion (acquaintance), Ilya-Rodion (professional relationship).",
+  "summary_short": "Introduces Ilya Petrovitch, Nikodim Fomitch. Rodion Raskolnikov is the most connected figure (17 ties). Key relationship types: acquaintance, colleague, professional relationship.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (4), Alyona Ivanovna (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1)",
-    "Key ties: Nikodim–Rodion (antagonistic)",
-    "New characters: Nikodim, Ilya",
-    "Totals: 20 characters, 7 relations (+2 new, +1 new)"
+    "Most central: Rodion Raskolnikov (17), Avdotya Romanovna (9), Sonia Marmeladov (7), Pyotr Petrovich Luzhin (6)",
+    "Key ties: Ilya-Nikodim (colleague), Nikodim-Rodion (acquaintance), Ilya-Rodion (professional relationship)",
+    "New characters: Ilya, Nikodim",
+    "Totals: 22 characters, 47 relations (+2 new, +3 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Avdotya Romanovna",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov wakes up in a panic, recalling everything that happened the previous night. He frantically checks his clothes for evidence and discovers bloodstains, which heightens his anxiety. As he tries to hide the incriminating items, he is interrupted by Nastasya and the porter, who deliver a summons from the police, prompting him to prepare to leave his apartment."
 }

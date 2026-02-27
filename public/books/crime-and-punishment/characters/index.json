@@ -5,64 +5,75 @@
     "aliases": [
       "Rodion Romanovich Raskolnikov",
       "Rodion Romanovitch Raskolnikov",
-      "Darya Alexandrovna Raskolnikov",
-      "Avdotya Romanovna",
+      "Raskolnikov",
+      "Rodion",
+      "Rodya",
+      "Rodenka",
+      "Rodion Romanitch",
+      "The Young Man"
+    ]
+  },
+  "avdotya-romanovna-raskolnikova": {
+    "name": "Avdotya Romanovna",
+    "description": "Avdotya Romanovna, often referred to as Dunya, embodies the strength and resilience of the human spirit. She possesses a captivating beauty, characterized by her striking, dark hair that frames her face, and expressive eyes that reflect both determination and compassion. Her demeanor is a blend of grace and unwavering resolve, imbuing her with a dignified presence even in the direst of circumstances. Dunya is marked by her selflessness, often sacrificing her own happiness for the sake of her loved ones. Her steadfast moral compass and adamant conviction in justice set her apart, making her not only an emblem of familial loyalty but also a beacon of hope amidst the moral dilemmas that plague her world. Dunya is a character who, despite facing immense challenges, exemplifies strength and an unwavering will to uphold what is right.",
+    "aliases": [
+      "Avdotya Romanovna Raskolnikova",
+      "Dounia",
       "Dounia Raskolnikov",
+      "Dunya",
+      "Dunechka"
+    ]
+  },
+  "pulcheria-alexandrovna": {
+    "name": "Pulcheria Alexandrovna",
+    "description": "Pulcheria Alexandrovna Raskolnikov, a woman of modest stature and gentle demeanor, embodies the complexities of maternal devotion. Her soft, gray hair, often neatly drawn back, frames a face marked by lines that tell tales of worry and sacrifice. Eyes, imbued with worry yet shimmering with love, reflect her resilient spirit as she navigates the turbulent emotional landscape caused by her son Raskolnikov’s inner turmoil. Known for her nurturing nature, she is often overwhelmed by her fears, particularly concerning her son’s well-being, yet her unwavering support showcases a profound strength. Pulcheria’s character is defined by her compassion and the depths of her maternal love, tender yet tinged with anxiety, captivating both those who encounter her and the reader alike.",
+    "aliases": [
+      "Pulcheria Alexandrovna Raskolnikova",
       "Pulcheria Alexandrovna Raskolnikov"
     ]
   },
-  "katerina-ivanovna-marmeladova": {
-    "name": "Katerina Ivanovna Marmeladova",
+  "semyon-zakharovich-marmeladov": {
+    "name": "Marmeladov",
+    "description": "Semyon Zakharovich Marmeladov is a broken man, embodying the despair and hopelessness of his circumstances. He is characterized by his disheveled appearance, with unkempt hair and a worn, gaunt face, reflecting the toll that poverty and alcoholism have taken on him. His eyes are troubled and glassy, filled with a deep melancholy and regret, often darting around as if seeking solace in the shadows. Dressed in tattered clothing that hangs loosely from his frail frame, he carries himself with a defeated demeanor, each movement a chronicling of his inner turmoil. Despite his desolate state, Marmeladov possesses a certain dignity, often speaking with dramatic fervor, recounting tales of his suffering and losses with a haunting eloquence. His character reveals a profound awareness of his own failings, as well as a desperate longing for redemption, making him a tragically sympathetic figure in Dostoevsky's narrative.",
+    "aliases": [
+      "Semyon Zakharovich Marmeladov",
+      "Semyon Marmeladov",
+      "Semyon Zakharovitch Marmeladov"
+    ]
+  },
+  "katerina-ivanovna": {
+    "name": "Katerina Ivanovna",
     "description": "Katerina Ivanovna Marmeladova, a haunting figure in Dostoevsky's 'Crime and Punishment,' is marked by her fragile beauty and tragic demeanor. With a gaunt face etched by suffering and desperation, her once vibrant features have now dulled under the weight of poverty and illness. Her eyes, awash with a mixture of endurance and despair, gleam with a fierce, almost delusional pride that clashes with her disheveled appearance. Katerina's hair, unkempt and often hastily tied back, frames her face with chaotic elegance, underscoring her volatile emotional state. Despite her struggles, she possesses a fierce loyalty to her children and a haunting dignity, which manifests in her passionate rants and fervent delusions of nobility. This complex blend of vulnerability and fierce maternal instinct makes her a deeply sympathetic character, resonating with the themes of suffering and moral conflict that permeate the novel.",
     "aliases": [
-      "Katerina Ivanovna",
-      "Mikolka",
-      "Semyon Zakharovich Marmeladov",
+      "Katerina Ivanovna Marmeladova",
+      "Katerina Ivanovna Marmeladov"
+    ]
+  },
+  "sofia-semyonovna-marmeladov": {
+    "name": "Sonia Marmeladov",
+    "description": "Sonia Semyonovna Marmeladov is a frail, delicate young woman, marked by an air of quiet resilience amidst the crushing weight of her circumstances. With her pale, almost ghostly complexion and strikingly beautiful, sorrowful eyes, she embodies vulnerability and grace. Sonia's slender figure is often draped in simple, worn clothing that emphasizes her humble origins and enduring spirit. Despite the hardships she faces, including her forced descent into destitution, her demeanor radiates a profound empathy and kindness that draws others to her, illuminating the darkness around her. Her unwavering faith and steadfast hope, even in the face of abject despair, are defining traits that lend her an almost ethereal strength, making her both a symbol of sacrifice and a beacon of redemption within the tumultuous world of Dostoevsky's narrative.",
+    "aliases": [
       "Sofia Semyonovna Marmeladov",
-      "Sonia Marmeladov"
+      "Sofya Semyonovna Marmeladov",
+      "Sofia Semyonovna",
+      "Sofya Semyonovna",
+      "Sonia Semyonovna Marmeladov",
+      "Sonya",
+      "Sonia",
+      "Sonechka"
     ]
   },
   "dmitri-prokofich-razumihin": {
     "name": "Dmitri Prokofich Razumihin",
-    "description": "Dmitri Prokofych Luzhin is depicted as a stout, balding man, with an air of nervousness that permeates his being, often reflected in the twitch of his mustache and the quick, darting movements of his eyes. He carries himself with an uneasy fidget, betraying a deeply insecure nature, while his attire—a somewhat shabby suit that seems ill-fitted—underscores his socially awkward demeanor. Luzhin's personality is marked by a blend of cunning intelligence and an unsettling sense of entitlement; he exudes a calculating charm, often trying to assert his superiority over others, which only amplifies his insecurities when met with resistance. His obsession with status and material wealth further reveals his superficial values, making him a compelling, if not deeply flawed, character in the narrative.",
+    "description": "Dmitri Prokofyevich Razumihin is a sturdy young man, characterized by his unyielding loyalty and infectious optimism. He possesses a robust frame, with a fair complexion and an earnest expression that reflects both his intellect and warmth. His dark hair often falls in disarray, mirroring his carefree spirit, and his bright eyes gleam with compassion and understanding. Razumihin's demeanor is genial and approachable, exuding a sense of reliability that draws others to him, particularly in the shadowy atmosphere of St. Petersburg. Despite the turmoil surrounding his friend Raskolnikov, he remains steadfast and determined, embodying the essence of friendship with unwavering support and a deep sense of humanity. His jovial nature and insightful perceptions make him a crucial anchor amidst the chaos, showcasing a profound depth that contrasts sharply with the struggles of his peers.",
     "aliases": [
       "Dmitri Prokofitch Razumihin",
       "Dmitri Prokofych Razumihin",
-      "Dmitri Prokofych Luzhin",
-      "Dmitri Prokofych Zametov",
-      "Dmitri Prokofych Zossimov",
-      "Dmitri Prokofyevich Razumihin"
+      "Dmitri Prokofyevich Razumihin",
+      "Dmitri Razumihin",
+      "Razumihin",
+      "Razumikhin"
     ]
-  },
-  "arkady-svidrigailov": {
-    "name": "Arkady Svidrigailov",
-    "description": "Arkady Ivanovich Svidrigailov is a figure steeped in ambiguity and complexity, marked by an unsettling charm that belies his dark inclinations. Tall and lanky, he possesses a gaunt frame, his pallid complexion adding to an aura of faded elegance. His eyes, sharp and penetrating, swirl with a mixture of cunning and a certain melancholic detachment, revealing the turbulent depths of his character. Svidrigailov exudes a nonchalant demeanor, often flashing a disarming smile that hints at his manipulative nature. His refined attire suggests a man with a taste for luxury, yet the disheveled edges of his clothing signify a life of inner turmoil and moral decay. Deeply enigmatic, he navigates the world with a blend of charisma and menace, embodying a haunting presence that leaves a lasting impression on those around him.",
-    "aliases": [
-      "Arkady Ivanovich Svidrigailov",
-      "Arkady Ivanovitch Svidrigailov",
-      "Marfa Petrovna",
-      "Marfa Petrovna Svidrigailov"
-    ]
-  },
-  "andrei-semyonovich-lebeziatnikov": {
-    "name": "Andrei Semyonovich Lebeziatnikov",
-    "description": "Andrei Semyonovich Lebeziatnikov is a lanky, somewhat disheveled young man marked by his strikingly earnest demeanor. His pale complexion and thin, angular features often reflect a contemplative sadness, hinting at the intellectual depth that lies beneath his unassuming exterior. Lebeziatnikov’s attire is modest, often appearing slightly rumpled, yet this only serves to highlight his obsessive ideals and fervent beliefs in progressive thought. With wide, earnest eyes, he exudes a sense of moral conviction, often engaging in fervent discussions that reveal his naivety and social aspirations. His earnestness and occasionally misguided enthusiasm give him an endearing quality, but it is his inclination toward reform and his complex interplay of idealism and practicality that define him as a character caught between the ideals of modernity and the harsh realities of society.",
-    "aliases": []
-  },
-  "andrei-semyonovich-zossimov": {
-    "name": "Andrei Semyonovich Zossimov",
-    "description": "Andrei Semyonovich Zossimov is a strikingly tall and lean figure, embodying an aura of introspection and quiet intelligence. With a sharp jawline and features that seem almost austere, his pallid complexion hints at both a reflective nature and an underlying melancholy. Zossimov’s dark, brooding eyes analyze the world around him with a discerning gaze, revealing an empathetic yet distant demeanor. Clad in modest attire, his presence is marked by a subtle elegance, often enhanced by a slight air of aloofness. This detached quality belies the depth of his character, as he is deeply considerate of those around him, particularly Raskolnikov, whom he observes with both concern and curiosity. His calm, rational approach to the chaos that surrounds him demonstrates a contrasting resilience, positioning him as a beacon of stability in a turbulent world.",
-    "aliases": []
-  },
-  "ilya-petrovitch": {
-    "name": "Ilya Petrovitch",
-    "description": "Ilya Petrovitch, the astute and often sarcastic police inspector in Dostoevsky's 'Crime and Punishment,' embodies an air of weary authority. With a pronounced balding head and a stout, solid frame, he presents a formidable presence, despite the fatigue etched across his lined face. His sharp, piercing eyes often glimmer with skepticism, hinting at his seasoned experience in uncovering the darker sides of human nature. Clad in a rumpled uniform that speaks to the demands of his role, Ilya balances an arsenal of acute intelligence with a deeply entrenched cynicism. His demeanor oscillates between shrewd assessment and a begrudging empathy for the transient lives he scrutinizes, revealing a complexity rooted in the moral ambiguities of his world. Here stands a man who, despite the burdens of his profession, navigates the murky waters of life with a weary resolve and an unwavering commitment to justice.",
-    "aliases": []
-  },
-  "polenka-marmeladov": {
-    "name": "Polenka Marmeladov",
-    "description": "Polenka Marmeladov, a tender soul ensnared by the claws of poverty, embodies the fragility and innocence of youth amidst despair. With her delicate frame and fair complexion, she possesses a strikingly ethereal beauty, accentuated by large, soulful eyes that seem to reflect the depths of her suffering. Her hair, golden and fine, cascades messily around her face, a testament to her humble circumstances. Polenka's demeanor is marked by a quiet resilience; she navigates her bleak reality with a grace that belies her age, carrying the burdens of her family with an almost unnatural strength. Yet, there is a haunting sadness that lingers in her smile, revealing the weight of the world upon her small shoulders. In her compassionate nature, she embodies both the gentleness of a child and the wisdom of one who has seen too much, making her a poignant figure in the tapestry of suffering that Dostoevsky intricately weaves in 'Crime and Punishment.'",
-    "aliases": []
   },
   "porfiry-petrovich": {
     "name": "Porfiry Petrovich",
@@ -71,98 +82,127 @@
       "Porfiry Petrovitch"
     ]
   },
-  "nikodim-fomitch": {
-    "name": "Nikodim Fomitch",
-    "description": "Nikodim Fomitch, an emblematic figure in Dostoevsky's 'Crime and Punishment', stands as a testament to the struggles of existential inquiry. Dressed in a threadbare coat that speaks to a life of frugality, his gaunt frame and weary visage reflect the weight of his convictions. His sharp, inquisitive eyes, often narrowed in scrutiny, reveal a mind that is both perceptive and skeptical, challenging those around him to reflect deeply upon their choices. Despite his unassuming appearance, a sense of moral fortitude emanates from him, as he navigates the murky waters of humanity with a blend of compassion and sternness. Fomitch embodies the tension between empathy and the harsh realities of the world, making him a formidable yet relatable character in Raskolnikov's tumultuous journey.",
-    "aliases": []
+  "arkady-ivanovich-svidrigailov": {
+    "name": "Arkady Svidrigailov",
+    "description": "Arkady Ivanovich Svidrigailov is a figure steeped in ambiguity and complexity, marked by an unsettling charm that belies his dark inclinations. Tall and lanky, he possesses a gaunt frame, his pallid complexion adding to an aura of faded elegance. His eyes, sharp and penetrating, swirl with a mixture of cunning and a certain melancholic detachment, revealing the turbulent depths of his character. Svidrigailov exudes a nonchalant demeanor, often flashing a disarming smile that hints at his manipulative nature. His refined attire suggests a man with a taste for luxury, yet the disheveled edges of his clothing signify a life of inner turmoil and moral decay. Deeply enigmatic, he navigates the world with a blend of charisma and menace, embodying a haunting presence that leaves a lasting impression on those around him.",
+    "aliases": [
+      "Arkady Ivanovich Svidrigailov",
+      "Arkady Ivanovitch Svidrigailov",
+      "Svidrigailov"
+    ]
   },
-  "nikolay": {
-    "name": "Nikolay",
-    "description": "Nikolay, a minor yet significant character in Dostoevsky's 'Crime and Punishment', is portrayed as a devoted and earnest servant, embodying the struggles of the lower class. With his somewhat frail physique, he possesses a round face framed by unkempt hair, suggesting both a sense of vulnerability and a lack of pretense. Nikolay's demeanor reflects deep loyalty and compassion, as he navigates the complexities of his existence against a backdrop of social despair. His straightforwardness and humility stand in stark contrast to the moral ambiguity of the protagonists, making him a poignant representation of innocence amid chaos.",
-    "aliases": []
+  "marfa-petrovna": {
+    "name": "Marfa Petrovna",
+    "description": "Marfa Petrovna Svidrigailova is a striking figure, embodying both a dignified presence and an undercurrent of despair that marks her as a woman of complex emotions. She is described as being of medium height, with a refined appearance that hints at her status, yet her face often carries the shadows of unfulfilled desires. With a sharp gaze that can switch from warmth to coldness in an instant, her demeanor is as multifaceted as her character. Marfa possesses an uncanny ability to oscillate between a maternal kindness and a shrewd pragmatism, revealing a depth of understanding about the world that few can match. Her personality is defined by a blend of resilience and vulnerability; she has faced the tribulations of life head-on, yet remains a romantic at heart, yearning for connection in a world fraught with betrayal and disappointment. It is this combination of strength and sadness that makes her a lasting presence in the narrative, echoing the novel's themes of moral complexity and the human condition.",
+    "aliases": [
+      "Marfa Petrovna Svidrigailova",
+      "Marfa Petrovna Svidrigailov"
+    ]
   },
-  "lizaveta-ivanovna": {
-    "name": "Lizaveta Ivanovna",
-    "description": "Lizaveta Ivanovna is a delicate figure, often depicted with a soft and gentle appearance that reflects her compassionate nature. She has a youthful face, framed by unruly, unkempt hair, which adds to her vulnerability and sincerity. Her large, expressive eyes reveal a depth of understanding and kindness, distinguishing her from the harsher characters around her. Lizaveta is often characterized by her meek demeanor and modest disposition, embodying an aura of innocence and submissiveness. She moves quietly, with a certain fragility, and her very presence is laden with empathy, making her a poignant symbol of unacknowledged suffering in Dostoevsky's narrative. Her steadfast loyalty to her half-sibling, despite their turbulent relationship, highlights her desire for connection and familial love, underscoring her profound loneliness and virtue in a world marred by moral ambiguity.",
-    "aliases": []
-  },
-  "amalia-ivanovna": {
-    "name": "Amalia Ivanovna",
-    "description": "Amalia Ivanovna, the landlady in Fyodor Dostoevsky's 'Crime and Punishment', is a forceful presence characterized by her imposing figure and sharp features. With her thickly lined face reflecting years of struggle and her dark hair pulled tightly back, she exudes an air of authority tinged with a hint of cruelty. Her piercing eyes, cold yet calculating, reveal a woman used to navigating the harsh realities of her role as both a landlord and a moral arbiter. Amalia's demeanor is often domineering, as she is relentless in her pursuit of rent and quick to reprimand those she considers beneath her. Despite her stern exterior, there are moments when her vulnerabilities shine through, particularly in her overwhelming sense of pride and social ambition, showcasing the complex layers of her character that resonate within the fabric of the novel.",
-    "aliases": []
+  "pyotr-petrovich-luzhin": {
+    "name": "Pyotr Petrovich Luzhin",
+    "description": "Dmitri Prokofych Luzhin is depicted as a stout, balding man, with an air of nervousness that permeates his being, often reflected in the twitch of his mustache and the quick, darting movements of his eyes. He carries himself with an uneasy fidget, betraying a deeply insecure nature, while his attire—a somewhat shabby suit that seems ill-fitted—underscores his socially awkward demeanor. Luzhin's personality is marked by a blend of cunning intelligence and an unsettling sense of entitlement; he exudes a calculating charm, often trying to assert his superiority over others, which only amplifies his insecurities when met with resistance. His obsession with status and material wealth further reveals his superficial values, making him a compelling, if not deeply flawed, character in the narrative.",
+    "aliases": [
+      "Pyotr Petrovitch Luzhin",
+      "Luzhin"
+    ]
   },
   "alyona-ivanovna": {
     "name": "Alyona Ivanovna",
     "description": "Alyona Ivanovna is portrayed as a gaunt, elderly pawnbroker, her sharp features and sunken cheeks etched with the lines of age and hardship. Her eyes, small and calculating, reflect a shrewdness that has been honed through years of bartering and haggling. Often dressed in tattered garments that betray her poverty, she emanates an air of greed and coldness, her demeanor as frigid as the coins she clutches. Alyona is not merely a figure of financial exchange; she personifies the oppressive weight of desperation and moral decay in the lives of those around her, embodying a blend of cunning intelligence and unyielding selfishness that ultimately defines her character in Dostoevsky's narrative.",
-    "aliases": []
-  },
-  "pyotr-petrovich-luzhin": {
-    "name": "Pyotr Petrovich Luzhin",
-    "description": "Pyotr Petrovitch Luzhin is a middle-aged man of moderate stature, with a sharp, angular face that conveys a sense of cunning intelligence. His thinning hair, slicked back, frames a forehead that seems perpetually furrowed in thought. His eyes, small and piercing, gleam with a calculating light, revealing a personality that is both self-serving and manipulative. Luzhin’s demeanor is marked by an air of self-importance; he often walks with a slight swagger, as if he is acutely aware of his own superiority. Dressed in meticulous, albeit slightly outdated, clothing, he presents himself as an affluent bachelor looking to impress, yet his tendencies for tight-fistedness and egotism shine through, making him a figure of intrigue and disdain. His conversations are laced with condescension, revealing a man who measures others by their utility to him, embodying the very essence of moral bankruptcy in the pursuit of social status.",
     "aliases": [
-      "Pyotr Petrovitch Luzhin"
+      "The Old Woman",
+      "The Pawnbroker"
+    ]
+  },
+  "lizaveta-ivanovna": {
+    "name": "Lizaveta Ivanovna",
+    "description": "Lizaveta Ivanovna is a delicate figure, often depicted with a soft and gentle appearance that reflects her compassionate nature. She has a youthful face, framed by unruly, unkempt hair, which adds to her vulnerability and sincerity. Her large, expressive eyes reveal a depth of understanding and kindness, distinguishing her from the harsher characters around her. Lizaveta is often characterized by her meek demeanor and modest disposition, embodying an aura of innocence and submissiveness. She moves quietly, with a certain fragility, and her very presence is laden with empathy, making her a poignant symbol of unacknowledged suffering in Dostoevsky's narrative. Her steadfast loyalty to her half-sibling, despite their turbulent relationship, highlights her desire for connection and familial love, underscoring her profound loneliness and virtue in a world marred by moral ambiguity.",
+    "aliases": [
+      "Lizaveta"
+    ]
+  },
+  "andrei-semyonovich-lebeziatnikov": {
+    "name": "Andrei Semyonovich Lebeziatnikov",
+    "description": "Andrei Semyonovich Lebeziatnikov is a lanky, somewhat disheveled young man marked by his strikingly earnest demeanor. His pale complexion and thin, angular features often reflect a contemplative sadness, hinting at the intellectual depth that lies beneath his unassuming exterior. Lebeziatnikov’s attire is modest, often appearing slightly rumpled, yet this only serves to highlight his obsessive ideals and fervent beliefs in progressive thought. With wide, earnest eyes, he exudes a sense of moral conviction, often engaging in fervent discussions that reveal his naivety and social aspirations. His earnestness and occasionally misguided enthusiasm give him an endearing quality, but it is his inclination toward reform and his complex interplay of idealism and practicality that define him as a character caught between the ideals of modernity and the harsh realities of society.",
+    "aliases": [
+      "Andrey Semyonovitch Lebeziatnikov",
+      "Lebeziatnikov"
+    ]
+  },
+  "zossimov": {
+    "name": "Zossimov",
+    "description": "Dmitri Prokofych Zossimov, with his lanky frame and pallid complexion, embodies both the earnestness and the quirks of a young man burdened by the weight of intellectual curiosity and emotional turmoil. His sharp, inquisitive eyes mask a gentle yet skeptical spirit; they flicker with sympathy and understanding when addressing the ills of the human condition, reflecting his compassionate nature. Clad in a somewhat disheveled attire, Zossimov’s appearance hints at his deep preoccupation with the complexities of life, rather than with superficial concerns. A physician by trade, he exudes a mixture of self-assuredness and vulnerability, making him a confidant to those around him, particularly to Raskolnikov, whose plight he strives to comprehend while wrestling with his own conflicting emotions.",
+    "aliases": [
+      "Andrei Semyonovich Zossimov"
+    ]
+  },
+  "alexander-grigorievich-zametov": {
+    "name": "Zametov",
+    "description": "Dmitri Prokofych Zametov is a striking figure, tall and lean, with an air of confidence that is both charming and unsettling. His sharp, angular features are accentuated by deep-set eyes that gleam with a piercing intelligence, a reflection of his keen observational skills and psychological insight. Clad in a neat, well-tailored coat that hints at his attention to detail, Zametov carries himself with a composed demeanor, marked by a certain restlessness that betrays his underlying ambition. His manner is often smooth and easy, suggesting a sociable nature, yet there lies a brooding depth to him, hinting at the complexities of his character. He possesses a wry sense of humor, often revealing a satirical view of the world around him, which serves as a subtle mask for the weighty moral questions that preoccupy him, making him an intriguing and layered individual in Dostoevsky's narrative.",
+    "aliases": [
+      "Alexander Grigorievich Zametov",
+      "Zamyotov"
+    ]
+  },
+  "nastasya": {
+    "name": "Nastasya",
+    "description": "Nastasya Petrovna, a haunting beauty, possesses an enigmatic allure that draws both admiration and pity from those around her. Her striking features include high cheekbones and dark, expressive eyes that betray a depth of emotion and suffering. Often dressed in tattered yet elegant attire, she embodies a tragic nobility, hinting at her once-great lineage. Nastasya's demeanor oscillates between fierce independence and vulnerability, as she grapples with the heavy burdens of her tumultuous past. She exudes a raw emotional intensity, often showcasing moments of impulsive passion, revealing her defiance against societal constraints and her longing for redemption in a world that seems to conspire against her. Her presence is both captivating and unsettling, a testament to the internal struggle between her desire for love and her deep-seated fears of abandonment and betrayal.",
+    "aliases": [
+      "Nastasya Petrovna",
+      "Nastenka"
     ]
   },
   "praskovya-pavlovna": {
     "name": "Praskovya Pavlovna",
     "description": "Praskovya Pavlovna is a woman of formidable presence, characterized by her round face and wide, penetrating eyes that seem to scrutinize the world with a blend of concern and self-importance. Often adorned in modest but decidedly feminine attire, she embodies the practicality of a provincial landlady with an air of earnestness that masks deeper vulnerabilities. Her demeanor oscillates between maternal and manipulative; she possesses a keen instinct for social navigation and is at once solicitous and calculating. Praskovya's sharp tongue and relentless drive to maintain her authority are tempered by moments of genuine warmth, revealing a complex personality forged by the harsh realities of her social environment. Her actions, though often driven by self-interest, hint at a deeper longing for connection and respect, rendering her a poignant reflection of the struggles inherent in her society.",
-    "aliases": []
-  },
-  "avdotya-romanovna-raskolnikova": {
-    "name": "Avdotya Romanovna Raskolnikova",
-    "description": "Avdotya Romanovna, often referred to as Dunya, embodies the strength and resilience of the human spirit. She possesses a captivating beauty, characterized by her striking, dark hair that frames her face, and expressive eyes that reflect both determination and compassion. Her demeanor is a blend of grace and unwavering resolve, imbuing her with a dignified presence even in the direst of circumstances. Dunya is marked by her selflessness, often sacrificing her own happiness for the sake of her loved ones. Her steadfast moral compass and adamant conviction in justice set her apart, making her not only an emblem of familial loyalty but also a beacon of hope amidst the moral dilemmas that plague her world. Dunya is a character who, despite facing immense challenges, exemplifies strength and an unwavering will to uphold what is right.",
     "aliases": [
-      "Avdotya Romanovna",
-      "Dounia Raskolnikov"
+      "Pashenka"
     ]
   },
-  "darya-pavlovna-raskolnikov": {
-    "name": "Darya Pavlovna Raskolnikov",
-    "description": "Darya Pavlovna Raskolnikov, known affectionately as Dunya, embodies a complex blend of resilience and compassion. Her striking features include a delicate face framed by chestnut hair that whispers of her gentle nature. With a poised demeanor, she carries herself with a mixture of defiance and maternal warmth, often demonstrating a fierce loyalty to her family. Dunya's expressive eyes reveal her inner strength and unwavering determination, hinting at the depth of her character. In the face of adversity, she emerges as a pillar of integrity and dignity, steadfastly navigating the moral ambiguities around her with grace and courage.",
-    "aliases": [
-      "Darya Alexandrovna Raskolnikov"
-    ]
-  },
-  "marfa-petrovna-svidrigailova": {
-    "name": "Marfa Petrovna Svidrigailova",
-    "description": "Marfa Petrovna Svidrigailova is a striking figure, embodying both a dignified presence and an undercurrent of despair that marks her as a woman of complex emotions. She is described as being of medium height, with a refined appearance that hints at her status, yet her face often carries the shadows of unfulfilled desires. With a sharp gaze that can switch from warmth to coldness in an instant, her demeanor is as multifaceted as her character. Marfa possesses an uncanny ability to oscillate between a maternal kindness and a shrewd pragmatism, revealing a depth of understanding about the world that few can match. Her personality is defined by a blend of resilience and vulnerability; she has faced the tribulations of life head-on, yet remains a romantic at heart, yearning for connection in a world fraught with betrayal and disappointment. It is this combination of strength and sadness that makes her a lasting presence in the narrative, echoing the novel's themes of moral complexity and the human condition.",
-    "aliases": [
-      "Marfa Petrovna",
-      "Marfa Petrovna Svidrigailov"
-    ]
-  },
-  "marmeladov": {
-    "name": "Marmeladov",
-    "description": "Semyon Zakharovich Marmeladov is a broken man, embodying the despair and hopelessness of his circumstances. He is characterized by his disheveled appearance, with unkempt hair and a worn, gaunt face, reflecting the toll that poverty and alcoholism have taken on him. His eyes are troubled and glassy, filled with a deep melancholy and regret, often darting around as if seeking solace in the shadows. Dressed in tattered clothing that hangs loosely from his frail frame, he carries himself with a defeated demeanor, each movement a chronicling of his inner turmoil. Despite his desolate state, Marmeladov possesses a certain dignity, often speaking with dramatic fervor, recounting tales of his suffering and losses with a haunting eloquence. His character reveals a profound awareness of his own failings, as well as a desperate longing for redemption, making him a tragically sympathetic figure in Dostoevsky's narrative.",
+  "nikolay": {
+    "name": "Nikolay",
+    "description": "Nikolay, a minor yet significant character in Dostoevsky's 'Crime and Punishment', is portrayed as a devoted and earnest servant, embodying the struggles of the lower class. With his somewhat frail physique, he possesses a round face framed by unkempt hair, suggesting both a sense of vulnerability and a lack of pretense. Nikolay's demeanor reflects deep loyalty and compassion, as he navigates the complexities of his existence against a backdrop of social despair. His straightforwardness and humility stand in stark contrast to the moral ambiguity of the protagonists, making him a poignant representation of innocence amid chaos.",
     "aliases": [
       "Mikolka",
-      "Semyon Zakharovich Marmeladov",
-      "Sofia Semyonovna Marmeladov",
-      "Sonia Marmeladov"
+      "Nikolay Dementiev"
     ]
   },
-  "pulcheria-alexandrovna-raskolnikova": {
-    "name": "Pulcheria Alexandrovna Raskolnikova",
-    "description": "Pulcheria Alexandrovna Raskolnikov, a woman of modest stature and gentle demeanor, embodies the complexities of maternal devotion. Her soft, gray hair, often neatly drawn back, frames a face marked by lines that tell tales of worry and sacrifice. Eyes, imbued with worry yet shimmering with love, reflect her resilient spirit as she navigates the turbulent emotional landscape caused by her son Raskolnikov’s inner turmoil. Known for her nurturing nature, she is often overwhelmed by her fears, particularly concerning her son’s well-being, yet her unwavering support showcases a profound strength. Pulcheria’s character is defined by her compassion and the depths of her maternal love, tender yet tinged with anxiety, captivating both those who encounter her and the reader alike.",
+  "ilya-petrovitch": {
+    "name": "Ilya Petrovitch",
+    "description": "Ilya Petrovitch, the astute and often sarcastic police inspector in Dostoevsky's 'Crime and Punishment,' embodies an air of weary authority. With a pronounced balding head and a stout, solid frame, he presents a formidable presence, despite the fatigue etched across his lined face. His sharp, piercing eyes often glimmer with skepticism, hinting at his seasoned experience in uncovering the darker sides of human nature. Clad in a rumpled uniform that speaks to the demands of his role, Ilya balances an arsenal of acute intelligence with a deeply entrenched cynicism. His demeanor oscillates between shrewd assessment and a begrudging empathy for the transient lives he scrutinizes, revealing a complexity rooted in the moral ambiguities of his world. Here stands a man who, despite the burdens of his profession, navigates the murky waters of life with a weary resolve and an unwavering commitment to justice.",
     "aliases": [
-      "Pulcheria Alexandrovna Raskolnikov"
+      "Ilya Petrovich"
     ]
   },
-  "nastasya-petrovna": {
-    "name": "Nastasya Petrovna",
-    "description": "Nastasya Petrovna, a haunting beauty, possesses an enigmatic allure that draws both admiration and pity from those around her. Her striking features include high cheekbones and dark, expressive eyes that betray a depth of emotion and suffering. Often dressed in tattered yet elegant attire, she embodies a tragic nobility, hinting at her once-great lineage. Nastasya's demeanor oscillates between fierce independence and vulnerability, as she grapples with the heavy burdens of her tumultuous past. She exudes a raw emotional intensity, often showcasing moments of impulsive passion, revealing her defiance against societal constraints and her longing for redemption in a world that seems to conspire against her. Her presence is both captivating and unsettling, a testament to the internal struggle between her desire for love and her deep-seated fears of abandonment and betrayal.",
+  "nikodim-fomitch": {
+    "name": "Nikodim Fomitch",
+    "description": "Nikodim Fomitch, an emblematic figure in Dostoevsky's 'Crime and Punishment', stands as a testament to the struggles of existential inquiry. Dressed in a threadbare coat that speaks to a life of frugality, his gaunt frame and weary visage reflect the weight of his convictions. His sharp, inquisitive eyes, often narrowed in scrutiny, reveal a mind that is both perceptive and skeptical, challenging those around him to reflect deeply upon their choices. Despite his unassuming appearance, a sense of moral fortitude emanates from him, as he navigates the murky waters of humanity with a blend of compassion and sternness. Fomitch embodies the tension between empathy and the harsh realities of the world, making him a formidable yet relatable character in Raskolnikov's tumultuous journey.",
     "aliases": [
-      "Nastasya"
+      "Nikodim Fomich"
     ]
   },
-  "sonia-semyonovna-marmeladov": {
-    "name": "Sonia Semyonovna Marmeladov",
-    "description": "Sonia Semyonovna Marmeladov is a frail, delicate young woman, marked by an air of quiet resilience amidst the crushing weight of her circumstances. With her pale, almost ghostly complexion and strikingly beautiful, sorrowful eyes, she embodies vulnerability and grace. Sonia's slender figure is often draped in simple, worn clothing that emphasizes her humble origins and enduring spirit. Despite the hardships she faces, including her forced descent into destitution, her demeanor radiates a profound empathy and kindness that draws others to her, illuminating the darkness around her. Her unwavering faith and steadfast hope, even in the face of abject despair, are defining traits that lend her an almost ethereal strength, making her both a symbol of sacrifice and a beacon of redemption within the tumultuous world of Dostoevsky's narrative.",
-    "aliases": []
+  "amalia-ivanovna": {
+    "name": "Amalia Ivanovna",
+    "description": "Amalia Ivanovna, the landlady in Fyodor Dostoevsky's 'Crime and Punishment', is a forceful presence characterized by her imposing figure and sharp features. With her thickly lined face reflecting years of struggle and her dark hair pulled tightly back, she exudes an air of authority tinged with a hint of cruelty. Her piercing eyes, cold yet calculating, reveal a woman used to navigating the harsh realities of her role as both a landlord and a moral arbiter. Amalia's demeanor is often domineering, as she is relentless in her pursuit of rent and quick to reprimand those she considers beneath her. Despite her stern exterior, there are moments when her vulnerabilities shine through, particularly in her overwhelming sense of pride and social ambition, showcasing the complex layers of her character that resonate within the fabric of the novel.",
+    "aliases": [
+      "Amalia Fyodorovna",
+      "Amalia Ludwigovna"
+    ]
   },
-  "dmitri-razumihin": {
-    "name": "Dmitri Razumihin",
-    "description": "Dmitri Razumihin is a plump and jovial young man, characterized by his friendly demeanor and thoughtful disposition. His round face, often adorned with a genial smile, radiates warmth and approachability, while his sharp, intelligent eyes exude a keen understanding of the complexities surrounding him. His hair is dark and unkempt, adding to his charm, as he navigates the gritty realities of St. Petersburg with an unwavering determination to support his friends, particularly Raskolnikov. Razumihin's defining traits include his unwavering loyalty, genuine compassion, and an innate ability to inspire those around him, often through his philosophical musings and optimistic outlook, serving as a beacon of hope amidst the moral turbulence of the novel.",
-    "aliases": []
+  "polenka-marmeladov": {
+    "name": "Polenka",
+    "description": "Polenka Marmeladov, a tender soul ensnared by the claws of poverty, embodies the fragility and innocence of youth amidst despair. With her delicate frame and fair complexion, she possesses a strikingly ethereal beauty, accentuated by large, soulful eyes that seem to reflect the depths of her suffering. Her hair, golden and fine, cascades messily around her face, a testament to her humble circumstances. Polenka's demeanor is marked by a quiet resilience; she navigates her bleak reality with a grace that belies her age, carrying the burdens of her family with an almost unnatural strength. Yet, there is a haunting sadness that lingers in her smile, revealing the weight of the world upon her small shoulders. In her compassionate nature, she embodies both the gentleness of a child and the wisdom of one who has seen too much, making her a poignant figure in the tapestry of suffering that Dostoevsky intricately weaves in 'Crime and Punishment.'",
+    "aliases": [
+      "Polenka Marmeladov"
+    ]
+  },
+  "darya-pavlovna": {
+    "name": "Darya Pavlovna",
+    "description": "Darya Pavlovna Raskolnikov, known affectionately as Dunya, embodies a complex blend of resilience and compassion. Her striking features include a delicate face framed by chestnut hair that whispers of her gentle nature. With a poised demeanor, she carries herself with a mixture of defiance and maternal warmth, often demonstrating a fierce loyalty to her family. Dunya's expressive eyes reveal her inner strength and unwavering determination, hinting at the depth of her character. In the face of adversity, she emerges as a pillar of integrity and dignity, steadfastly navigating the moral ambiguities around her with grace and courage.",
+    "aliases": [
+      "Darya Pavlovna Raskolnikov",
+      "Darya Alexandrovna Raskolnikov"
+    ]
   }
 }

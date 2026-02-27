@@ -2,22 +2,27 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "rodion-raskolnikov",
-      "label": "friend"
+      "source": "pulcheria-alexandrovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "interaction"
     }
   ],
-  "summary": "New connections: Dmitri–Rodion (friend).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (7 ties). Key relationship types: friend.",
+  "summary": "New connections: Pulcheria-Sonia (acquaintance), Pyotr-Sonia (interaction).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance, interaction.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (7), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Alyona Ivanovna (3)",
-    "Key ties: Dmitri–Rodion (friend)",
-    "Totals: 24 characters, 15 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Pyotr Petrovich Luzhin (10)",
+    "Key ties: Pulcheria-Sonia (acquaintance), Pyotr-Sonia (interaction)",
+    "Totals: 24 characters, 83 relations (+0 new, +2 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Sofya Semyonovna Marmeladov timidly enters Raskolnikov's room, surprising everyone. Raskolnikov, recognizing her as the daughter of the man who died the previous day, invites her to sit and discusses the funeral arrangements. Sonia nervously conveys Katerina Ivanovna's request for Raskolnikov to attend the service and the funeral lunch. As they talk, Raskolnikov expresses concern for his father's watch and other belongings he has pawned."
 }

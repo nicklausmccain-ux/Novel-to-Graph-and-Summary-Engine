@@ -3,21 +3,61 @@
   "new_edges": [
     {
       "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "zossimov",
+      "label": "friend"
+    },
+    {
+      "source": "katerina-ivanovna",
       "target": "pyotr-petrovich-luzhin",
-      "label": "associate/relationship implied through conversation"
+      "label": "other"
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "zossimov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "amalia-ivanovna",
+      "target": "andrei-semyonovich-lebeziatnikov",
+      "label": "respect"
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "friend"
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "advocate"
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "katerina-ivanovna",
+      "label": "Other"
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "friend"
+    },
+    {
+      "source": "sofia-semyonovna-marmeladov",
+      "target": "zossimov",
+      "label": "other relationship"
     }
   ],
-  "summary": "New connections: Andrei–Pyotr (associate/relationship implied through conversation).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (10 ties). Key relationship types: associate/relationship implied through conversation.",
+  "summary": "New connections: Andrei-Zossimov (friend), Katerina-Pyotr (other), Katerina-Zossimov (acquaintance), Amalia-Andrei (respect) and 5 more.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance, advocate, friend, other.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (10), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
-    "Key ties: Andrei–Pyotr (associate/relationship implied through conversation)",
-    "Totals: 24 characters, 22 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (14), Avdotya Romanovna (13)",
+    "Key ties: Andrei-Zossimov (friend), Katerina-Pyotr (other), Katerina-Zossimov (acquaintance), Amalia-Andrei (respect), and 5 more",
+    "Totals: 24 characters, 97 relations (+0 new, +9 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Sonia Marmeladov"
   ],
   "story_summary": "Pyotr Petrovitch grapples with the fallout from his failed proposal to Dounia and reflects on his mistakes, feeling increasingly irritated by various inconveniences. He learns about a funeral dinner being prepared by Katerina Ivanovna and discovers he is expected to attend. Meanwhile, he interacts with his young friend Andrey Semyonovitch Lebeziatnikov, whose presence adds to his discomfort."
 }

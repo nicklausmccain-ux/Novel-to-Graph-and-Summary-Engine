@@ -1,27 +1,43 @@
 {
-  "new_nodes": [
-    "andrei-semyonovich-zossimov",
-    "nikolay"
-  ],
+  "new_nodes": [],
   "new_edges": [
     {
+      "source": "nastasya",
+      "target": "zossimov",
+      "label": "Other"
+    },
+    {
       "source": "dmitri-prokofich-razumihin",
-      "target": "alyona-ivanovna",
+      "target": "nikolay",
       "label": "acquaintance"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "nikolay",
+      "label": "acquaintance"
+    },
+    {
+      "source": "lizaveta-ivanovna",
+      "target": "nikolay",
+      "label": "acquaintance"
+    },
+    {
+      "source": "nikolay",
+      "target": "zossimov",
+      "label": "listener"
     }
   ],
-  "summary": "New characters: Andrei Semyonovich Zossimov, Nikolay. New connections: Dmitri–Alyona (acquaintance).",
-  "summary_short": "Introduces Andrei Semyonovich Zossimov, Nikolay. Rodion Raskolnikov is the most connected figure (5 ties). Key relationship types: acquaintance.",
+  "summary": "New connections: Nastasya-Zossimov (Other), Dmitri-Nikolay (acquaintance), Alyona-Nikolay (acquaintance), Lizaveta-Nikolay (acquaintance) and 1 more.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, listener, other.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (5), Alyona Ivanovna (3), Dmitri Prokofich Razumihin (2), Porfiry Petrovich (1)",
-    "Key ties: Dmitri–Alyona (acquaintance)",
-    "New characters: Andrei, Nikolay",
-    "Totals: 22 characters, 9 relations (+2 new, +1 new)"
+    "Most central: Rodion Raskolnikov (18), Dmitri Prokofich Razumihin (10), Avdotya Romanovna (9), Nikolay (7)",
+    "Key ties: Nastasya-Zossimov (Other), Dmitri-Nikolay (acquaintance), Alyona-Nikolay (acquaintance), Lizaveta-Nikolay (acquaintance), and 1 more",
+    "Totals: 23 characters, 58 relations (+0 new, +5 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Avdotya Romanovna"
   ],
   "story_summary": "Razumihin and Zossimov visit Raskolnikov, who is recovering but still feels depressed. Zossimov examines him and discusses his condition, while Razumihin expresses his plans for a housewarming party, inviting Zossimov and mentioning various guests. The conversation shifts to a recent murder case involving a painter, Nikolay, who is suspected of being involved, prompting Razumihin to express his frustration with the police's handling of the investigation."
 }

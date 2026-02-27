@@ -1,16 +1,46 @@
 {
-  "new_nodes": [],
-  "new_edges": [],
-  "summary": "No new characters or connections in this chapter.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (5 ties).",
+  "new_nodes": [
+    "alexander-grigorievich-zametov"
+  ],
+  "new_edges": [
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "zossimov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "nastasya",
+      "label": "friend"
+    },
+    {
+      "source": "alexander-grigorievich-zametov",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "praskovya-pavlovna",
+      "label": "relation"
+    },
+    {
+      "source": "alexander-grigorievich-zametov",
+      "target": "dmitri-prokofich-razumihin",
+      "label": "friend"
+    }
+  ],
+  "summary": "New characters: Zametov. New connections: Dmitri-Zossimov (acquaintance), Dmitri-Nastasya (friend), Zametov-Rodion (acquaintance), Dmitri-Praskovya (relation) and 1 more.",
+  "summary_short": "Introduces Zametov. Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, friend, relation.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (5), Alyona Ivanovna (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1)",
-    "Totals: 20 characters, 8 relations (+0 new, +0 new)"
+    "Most central: Rodion Raskolnikov (18), Dmitri Prokofich Razumihin (9), Avdotya Romanovna (9), Sonia Marmeladov (7)",
+    "Key ties: Dmitri-Zossimov (acquaintance), Dmitri-Nastasya (friend), Zametov-Rodion (acquaintance), Dmitri-Praskovya (relation), and 1 more",
+    "New characters: Zametov",
+    "Totals: 23 characters, 53 relations (+1 new, +5 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Avdotya Romanovna"
   ],
   "story_summary": "Raskolnikov, recovering from illness, gradually regains consciousness and interacts with Nastasya and a messenger from his office. Razumihin enters, revealing that Raskolnikov has been ill for days and has barely eaten. The messenger delivers a remittance of thirty-five roubles from Raskolnikov's mother, which he reluctantly signs for. As Raskolnikov begins to eat soup and drink tea, he observes the changes around him with a mix of astonishment and unease."
 }

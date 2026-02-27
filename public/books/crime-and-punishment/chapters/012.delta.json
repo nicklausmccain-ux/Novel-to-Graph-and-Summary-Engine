@@ -1,16 +1,33 @@
 {
   "new_nodes": [],
-  "new_edges": [],
-  "summary": "No new characters or connections in this chapter.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (5 ties).",
+  "new_edges": [
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "zossimov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "zossimov",
+      "label": "victim"
+    }
+  ],
+  "summary": "New connections: Dmitri-Pyotr (acquaintance), Pyotr-Zossimov (acquaintance), Alyona-Zossimov (victim).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, victim.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (5), Alyona Ivanovna (3), Dmitri Prokofich Razumihin (2), Porfiry Petrovich (1)",
-    "Totals: 22 characters, 9 relations (+0 new, +0 new)"
+    "Most central: Rodion Raskolnikov (18), Dmitri Prokofich Razumihin (11), Avdotya Romanovna (9), Pyotr Petrovich Luzhin (8)",
+    "Key ties: Dmitri-Pyotr (acquaintance), Pyotr-Zossimov (acquaintance), Alyona-Zossimov (victim)",
+    "Totals: 23 characters, 61 relations (+0 new, +3 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Avdotya Romanovna"
   ],
   "story_summary": "A gentleman named Pyotr Petrovitch Luzhin visits Raskolnikov, who is ill and lying on a sofa. Luzhin introduces himself as Raskolnikov's fiancée's intended, but Raskolnikov appears disinterested and unresponsive. Razumihin and Zossimov, present during the visit, attempt to manage the awkward situation, while Luzhin expresses concern over Raskolnikov's health and discusses arrangements for Raskolnikov's mother and sister's arrival."
 }

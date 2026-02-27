@@ -1,16 +1,33 @@
 {
   "new_nodes": [],
-  "new_edges": [],
-  "summary": "No new characters or connections in this chapter.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (11 ties).",
+  "new_edges": [
+    {
+      "source": "polenka-marmeladov",
+      "target": "praskovya-pavlovna",
+      "label": "sibling"
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "lizaveta-ivanovna",
+      "label": "family"
+    },
+    {
+      "source": "arkady-ivanovich-svidrigailov",
+      "target": "polenka-marmeladov",
+      "label": "caregiver"
+    }
+  ],
+  "summary": "New connections: Polenka-Praskovya (sibling), Katerina-Lizaveta (family), Arkady-Polenka (caregiver).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties). Key relationship types: caregiver, family, sibling.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (11), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
-    "Totals: 24 characters, 24 relations (+0 new, +0 new)"
+    "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (15), Katerina Ivanovna (13)",
+    "Key ties: Polenka-Praskovya (sibling), Katerina-Lizaveta (family), Arkady-Polenka (caregiver)",
+    "Totals: 24 characters, 104 relations (+0 new, +3 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Sonia Marmeladov"
   ],
   "story_summary": "Lebeziatnikov visits Sonia and Raskolnikov, expressing concern for Katerina Ivanovna, who appears to be losing her sanity. Sonia rushes out to find Katerina, who is frantically trying to make her children perform in the street, drawing a crowd. Raskolnikov feels a deep sense of loneliness and contemplates his actions, while Dounia visits him, offering support and expressing her understanding of his struggles."
 }

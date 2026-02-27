@@ -2,22 +2,22 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "porfiry-petrovich",
-      "target": "pyotr-petrovich-luzhin",
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "porfiry-petrovich",
       "label": "community"
     }
   ],
-  "summary": "New connections: Porfiry–Pyotr (community).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (5 ties). Key relationship types: community.",
+  "summary": "New connections: Andrei-Porfiry (community).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: community.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (5), Alyona Ivanovna (3), Dmitri Prokofich Razumihin (2), Porfiry Petrovich (2)",
-    "Key ties: Porfiry–Pyotr (community)",
-    "Totals: 22 characters, 10 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (18), Dmitri Prokofich Razumihin (11), Avdotya Romanovna (9), Pyotr Petrovich Luzhin (8)",
+    "Key ties: Andrei-Porfiry (community)",
+    "Totals: 23 characters, 62 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Avdotya Romanovna"
   ],
   "story_summary": "Raskolnikov, feeling a sudden calmness, dresses in new clothes and leaves his apartment with twenty-five roubles in his pocket. He wanders the streets, reflecting on his desire for change and the need to end his current state of existence. As he walks, he interacts with various people, including a group of women near a saloon, and contemplates his surroundings while searching for something he cannot quite define."
 }

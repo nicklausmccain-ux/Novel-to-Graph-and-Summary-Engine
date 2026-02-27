@@ -2,22 +2,27 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "pyotr-petrovich-luzhin",
+      "source": "marfa-petrovna",
+      "target": "pulcheria-alexandrovna",
+      "label": "acquaintance"
+    },
+    {
+      "source": "marfa-petrovna",
+      "target": "rodion-raskolnikov",
       "label": "acquaintance"
     }
   ],
-  "summary": "New connections: Pulcheria–Pyotr (acquaintance).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: acquaintance.",
+  "summary": "New connections: Marfa-Pulcheria (acquaintance), Marfa-Rodion (acquaintance).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (6), Pulcheria Alexandrovna Raskolnikova (4), Dmitri Prokofich Razumihin (3), Alyona Ivanovna (3)",
-    "Key ties: Pulcheria–Pyotr (acquaintance)",
-    "Totals: 24 characters, 14 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Alyona Ivanovna (9)",
+    "Key ties: Marfa-Pulcheria (acquaintance), Marfa-Rodion (acquaintance)",
+    "Totals: 24 characters, 81 relations (+0 new, +2 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Pulcheria Alexandrovna Raskolnikova",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Avdotya Romanovna"
   ],
   "story_summary": "Raskolnikov's mother and sister visit him, and he appears almost recovered, though still pale and troubled. Zossimov, the doctor, expresses optimism about Raskolnikov's condition, while Raskolnikov struggles with feelings of guilt and confusion regarding his recent actions. He awkwardly reconciles with his sister, Dounia, and reveals that he gave away money meant for his family to a widow. The atmosphere is tense, as Raskolnikov senses his family's unease around him."
 }

@@ -1,32 +1,94 @@
 {
   "new_nodes": [
-    "marmeladov",
-    "katerina-ivanovna-marmeladova",
+    "semyon-zakharovich-marmeladov",
+    "nikolay",
+    "katerina-ivanovna",
     "andrei-semyonovich-lebeziatnikov",
-    "marfa-petrovna-svidrigailova",
+    "marfa-petrovna",
     "pyotr-petrovich-luzhin",
-    "sonia-semyonovna-marmeladov",
-    "darya-pavlovna-raskolnikov"
+    "sofia-semyonovna-marmeladov",
+    "darya-pavlovna",
+    "amalia-ivanovna"
   ],
   "new_edges": [
     {
       "source": "rodion-raskolnikov",
-      "target": "sonia-semyonovna-marmeladov",
-      "label": "romantic connection"
+      "target": "semyon-zakharovich-marmeladov",
+      "label": "other"
+    },
+    {
+      "source": "nikolay",
+      "target": "rodion-raskolnikov",
+      "label": "acquaintance"
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "semyon-zakharovich-marmeladov",
+      "label": "spouse"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "katerina-ivanovna",
+      "label": "spouse"
+    },
+    {
+      "source": "andrei-semyonovich-lebeziatnikov",
+      "target": "marfa-petrovna",
+      "label": "abuser"
+    },
+    {
+      "source": "pyotr-petrovich-luzhin",
+      "target": "rodion-raskolnikov",
+      "label": "spouse"
+    },
+    {
+      "source": "rodion-raskolnikov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "parent"
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "rodion-raskolnikov",
+      "label": "spouse"
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "friend"
+    },
+    {
+      "source": "semyon-zakharovich-marmeladov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "friend"
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "antagonistic"
+    },
+    {
+      "source": "amalia-ivanovna",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "other"
+    },
+    {
+      "source": "amalia-ivanovna",
+      "target": "katerina-ivanovna",
+      "label": "conflict"
     }
   ],
-  "summary": "New characters: Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, Pyotr Petrovich Luzhin, Sonia Semyonovna Marmeladov and 1 more. New connections: Rodion–Sonia (romantic connection).",
-  "summary_short": "Introduces Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, and 3 others. Dmitri Prokofich Razumihin is the most connected figure (1 ties). Key relationship types: romantic connection.",
+  "summary": "New characters: Marmeladov, Nikolay, Katerina Ivanovna, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna, Pyotr Petrovich Luzhin and 3 more. New connections: Rodion-Marmeladov (other), Nikolay-Rodion (acquaintance), Katerina-Marmeladov (spouse), Dmitri-Katerina (spouse) and 9 more.",
+  "summary_short": "Introduces Marmeladov, Nikolay, Katerina Ivanovna, Andrei Semyonovich Lebeziatnikov, and 5 others. Rodion Raskolnikov is the most connected figure (7 ties). Key relationship types: abuser, acquaintance, antagonistic, conflict.",
   "highlights": [
-    "Most central: Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Rodion Raskolnikov (1), Sonia Semyonovna Marmeladov (1)",
-    "Key ties: Rodion–Sonia (romantic connection)",
-    "New characters: Marmeladov, Katerina, Andrei, Marfa, Pyotr, Sonia, and 1 more",
-    "Totals: 12 characters, 2 relations (+7 new, +1 new)"
+    "Most central: Rodion Raskolnikov (7), Katerina Ivanovna (5), Sonia Marmeladov (5), Marmeladov (3)",
+    "Key ties: Rodion-Marmeladov (other), Nikolay-Rodion (acquaintance), Katerina-Marmeladov (spouse), Dmitri-Katerina (spouse), and 9 more",
+    "New characters: Marmeladov, Nikolay, Katerina, Andrei, Marfa, Pyotr, and 3 more",
+    "Totals: 14 characters, 16 relations (+9 new, +13 new)"
   ],
   "key_characters": [
-    "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich",
-    "Rodion Raskolnikov"
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov, feeling a sudden desire for company, visits a tavern where he encounters Marmeladov, a drunken former clerk. Marmeladov engages Raskolnikov in conversation, sharing his tragic life story, including his struggles with poverty and the impact of his alcoholism on his family. He expresses deep regret over his failures and the suffering of his wife, Katerina Ivanovna, and their children."
 }

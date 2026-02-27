@@ -2,22 +2,22 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "ilya-petrovitch",
-      "target": "rodion-raskolnikov",
-      "label": "concern"
+      "source": "alyona-ivanovna",
+      "target": "avdotya-romanovna-raskolnikova",
+      "label": "family"
     }
   ],
-  "summary": "New connections: Ilya–Rodion (concern).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (13 ties). Key relationship types: concern.",
+  "summary": "New connections: Alyona-Avdotya (family).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties). Key relationship types: family.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (13), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
-    "Key ties: Ilya–Rodion (concern)",
-    "Totals: 24 characters, 28 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (17), Sonia Marmeladov (15), Katerina Ivanovna (14)",
+    "Key ties: Alyona-Avdotya (family)",
+    "Totals: 24 characters, 108 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Pyotr Petrovich Luzhin",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov visits Sonia, who has been anxiously waiting for him. After a tense conversation, he asks for her cross, indicating a decision he has made. Despite Sonia's concern and tears, he leaves her abruptly, feeling conflicted and agitated. As he walks through the streets, he reflects on his choices and the weight of his actions, ultimately kneeling to kiss the ground in a moment of despair."
 }

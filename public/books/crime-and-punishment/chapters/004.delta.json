@@ -1,26 +1,43 @@
 {
-  "new_nodes": [
-    "dmitri-razumihin"
-  ],
+  "new_nodes": [],
   "new_edges": [
     {
-      "source": "dmitri-razumihin",
+      "source": "pulcheria-alexandrovna",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "potential spouse"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "connection"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
       "target": "rodion-raskolnikov",
       "label": "friend"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "stranger"
+    },
+    {
+      "source": "porfiry-petrovich",
+      "target": "rodion-raskolnikov",
+      "label": "collaborators in helping"
     }
   ],
-  "summary": "New characters: Dmitri Razumihin. New connections: Dmitri–Rodion (friend).",
-  "summary_short": "Introduces Dmitri Razumihin. Rodion Raskolnikov is the most connected figure (2 ties). Key relationship types: friend.",
+  "summary": "New connections: Pulcheria-Pyotr (potential spouse), Avdotya-Sonia (connection), Dmitri-Rodion (friend), Dmitri-Sonia (stranger) and 1 more.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (14 ties). Key relationship types: collaborators in helping, connection, friend, potential spouse.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1), Sonia Semyonovna Marmeladov (1)",
-    "Key ties: Dmitri–Rodion (friend)",
-    "New characters: Dmitri",
-    "Totals: 17 characters, 4 relations (+1 new, +1 new)"
+    "Most central: Rodion Raskolnikov (14), Sonia Marmeladov (7), Avdotya Romanovna (7), Pyotr Petrovich Luzhin (6)",
+    "Key ties: Pulcheria-Pyotr (potential spouse), Avdotya-Sonia (connection), Dmitri-Rodion (friend), Dmitri-Sonia (stranger), and 1 more",
+    "Totals: 19 characters, 38 relations (+0 new, +5 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Sonia Marmeladov",
+    "Avdotya Romanovna"
   ],
   "story_summary": "Rodion Raskolnikov struggled with the implications of his mother's letter regarding his sister Dounia's engagement to Mr. Luzhin. He vehemently opposed the marriage, feeling that it would sacrifice Dounia's dignity for the sake of their family's comfort. As he reflected on their situation, he grew increasingly bitter, contemplating the sacrifices Dounia might make for him and their mother."
 }

@@ -1,23 +1,16 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "rodion-raskolnikov",
-      "target": "marmeladov",
-      "label": "romantic connection"
-    }
-  ],
-  "summary": "New connections: Rodion–Marmeladov (romantic connection).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (14 ties). Key relationship types: romantic connection.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (14), Pyotr Petrovich Luzhin (5), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4)",
-    "Key ties: Rodion–Marmeladov (romantic connection)",
-    "Totals: 24 characters, 29 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (17), Sonia Marmeladov (15), Katerina Ivanovna (14)",
+    "Totals: 24 characters, 108 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Pyotr Petrovich Luzhin",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov reflects on his time in prison, feeling a mix of shame and pride about his circumstances. He grapples with his lack of repentance for his crime and observes the contrasting attitudes of his fellow prisoners towards life. Despite his isolation and the disdain he faces, he notices how they cherish life, especially in the face of suffering. Sonia visits him infrequently, yet her presence lingers in his thoughts."
 }

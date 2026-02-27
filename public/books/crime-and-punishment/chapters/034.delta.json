@@ -1,23 +1,16 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "rodion-raskolnikov",
-      "target": "avdotya-romanovna-raskolnikova",
-      "label": "sibling relationship"
-    }
-  ],
-  "summary": "New connections: Rodion–Avdotya (sibling relationship).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: sibling relationship.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (12), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
-    "Key ties: Rodion–Avdotya (sibling relationship)",
-    "Totals: 24 characters, 25 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (15), Katerina Ivanovna (14)",
+    "Totals: 24 characters, 105 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov hurried to meet Svidrigailov, feeling a mix of anxiety and moral fatigue. He worried about whether Svidrigailov had visited Porfiry and contemplated the implications for his sister, Dounia. Upon arriving at a tavern, he spotted Svidrigailov at a table, who seemed to acknowledge Raskolnikov's presence with a sly smile before inviting him in."
 }

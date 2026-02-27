@@ -3,21 +3,26 @@
   "new_edges": [
     {
       "source": "alyona-ivanovna",
-      "target": "rodion-raskolnikov",
-      "label": "unknown relationship"
+      "target": "dmitri-prokofich-razumihin",
+      "label": "acquaintance"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "lizaveta-ivanovna",
+      "label": "sibling"
     }
   ],
-  "summary": "New connections: Alyona–Rodion (unknown relationship).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (3 ties). Key relationship types: unknown relationship.",
+  "summary": "New connections: Alyona-Dmitri (acquaintance), Avdotya-Lizaveta (sibling).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (15 ties). Key relationship types: acquaintance, sibling.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (3), Alyona Ivanovna (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1)",
-    "Key ties: Alyona–Rodion (unknown relationship)",
-    "Totals: 18 characters, 6 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (15), Avdotya Romanovna (9), Sonia Marmeladov (7), Pyotr Petrovich Luzhin (6)",
+    "Key ties: Alyona-Dmitri (acquaintance), Avdotya-Lizaveta (sibling)",
+    "Totals: 20 characters, 44 relations (+0 new, +2 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Avdotya Romanovna",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov learns that Lizaveta was invited by the pawnbroker Alyona Ivanovna to help sell household goods from a family in poverty. He becomes increasingly superstitious and reflects on his previous encounter with Alyona, feeling a strong aversion towards her. While at a tavern, he overhears a student discussing Alyona and her sister Lizaveta, which stirs unsettling thoughts in him about the old woman and the value of her life."
 }

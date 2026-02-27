@@ -1,27 +1,76 @@
 {
   "new_nodes": [
-    "polenka-marmeladov",
-    "amalia-ivanovna"
+    "polenka-marmeladov"
   ],
   "new_edges": [
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
+      "source": "katerina-ivanovna",
+      "target": "polenka-marmeladov",
+      "label": "mother"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "polenka-marmeladov",
+      "label": "sibling"
+    },
+    {
+      "source": "katerina-ivanovna",
+      "target": "nikolay",
+      "label": "others"
+    },
+    {
+      "source": "avdotya-romanovna-raskolnikova",
+      "target": "katerina-ivanovna",
+      "label": "spouse"
+    },
+    {
+      "source": "polenka-marmeladov",
       "target": "rodion-raskolnikov",
+      "label": "friend"
+    },
+    {
+      "source": "polenka-marmeladov",
+      "target": "sofia-semyonovna-marmeladov",
+      "label": "sibling"
+    },
+    {
+      "source": "polenka-marmeladov",
+      "target": "pyotr-petrovich-luzhin",
+      "label": "parent"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "polenka-marmeladov",
+      "label": "parent"
+    },
+    {
+      "source": "alyona-ivanovna",
+      "target": "praskovya-pavlovna",
+      "label": "parent"
+    },
+    {
+      "source": "dmitri-prokofich-razumihin",
+      "target": "ilya-petrovitch",
+      "label": "acquaintance"
+    },
+    {
+      "source": "darya-pavlovna",
+      "target": "pulcheria-alexandrovna",
       "label": "parent to child"
     }
   ],
-  "summary": "New characters: Polenka Marmeladov, Amalia Ivanovna. New connections: Pulcheria–Rodion (parent to child).",
-  "summary_short": "Introduces Polenka Marmeladov, Amalia Ivanovna. Rodion Raskolnikov is the most connected figure (6 ties). Key relationship types: parent to child.",
+  "summary": "New characters: Polenka. New connections: Katerina-Polenka (mother), Alyona-Polenka (sibling), Katerina-Nikolay (others), Avdotya-Katerina (spouse) and 7 more.",
+  "summary_short": "Introduces Polenka. Rodion Raskolnikov is the most connected figure (19 ties). Key relationship types: acquaintance, friend, mother, others.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (6), Alyona Ivanovna (3), Dmitri Prokofich Razumihin (2), Porfiry Petrovich (2)",
-    "Key ties: Pulcheria–Rodion (parent to child)",
-    "New characters: Polenka, Amalia",
-    "Totals: 24 characters, 11 relations (+2 new, +1 new)"
+    "Most central: Rodion Raskolnikov (19), Dmitri Prokofich Razumihin (13), Avdotya Romanovna (10), Alyona Ivanovna (9)",
+    "Key ties: Katerina-Polenka (mother), Alyona-Polenka (sibling), Katerina-Nikolay (others), Avdotya-Katerina (spouse), and 7 more",
+    "New characters: Polenka",
+    "Totals: 24 characters, 73 relations (+1 new, +11 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Dmitri Prokofich Razumihin",
+    "Avdotya Romanovna"
   ],
   "story_summary": "Raskolnikov witnesses a crowd gathered around a man who has been run over by a carriage. He recognizes the injured man as Marmeladov, a retired government clerk, and urges the police to take him to his home for medical help. Raskolnikov offers to pay for the doctor and assists in carrying Marmeladov to his lodging, where Katerina Ivanovna, his wife, reacts with shock and desperation upon seeing him injured."
 }

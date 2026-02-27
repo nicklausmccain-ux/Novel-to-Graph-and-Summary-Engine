@@ -1,23 +1,16 @@
 {
   "new_nodes": [],
-  "new_edges": [
-    {
-      "source": "rodion-raskolnikov",
-      "target": "arkady-svidrigailov",
-      "label": "acquaintance"
-    }
-  ],
-  "summary": "New connections: Rodion–Arkady (acquaintance).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (8 ties). Key relationship types: acquaintance.",
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties).",
   "highlights": [
-    "Most central: Rodion Raskolnikov (8), Dmitri Prokofich Razumihin (4), Pulcheria Alexandrovna Raskolnikova (4), Porfiry Petrovich (3)",
-    "Key ties: Rodion–Arkady (acquaintance)",
-    "Totals: 24 characters, 17 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Pyotr Petrovich Luzhin (10)",
+    "Totals: 24 characters, 83 relations (+0 new, +0 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Pulcheria Alexandrovna Raskolnikova"
+    "Avdotya Romanovna"
   ],
   "story_summary": "Razumihin and Raskolnikov engage in a tense discussion as they approach Bakaleyev's lodgings, debating the implications of recent events and the police's interest in Raskolnikov. Raskolnikov feels a growing sense of unease and abruptly decides to leave Razumihin, returning to his room in a state of panic. There, he experiences a moment of terror regarding the potential discovery of evidence against him, culminating in a chilling encounter with a stranger who accuses him of murder."
 }

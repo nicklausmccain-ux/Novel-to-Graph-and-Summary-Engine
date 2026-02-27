@@ -2,22 +2,22 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "rodion-raskolnikov",
-      "target": "nastasya-petrovna",
-      "label": "servant"
+      "source": "alyona-ivanovna",
+      "target": "ilya-petrovitch",
+      "label": "other"
     }
   ],
-  "summary": "New connections: Rodion–Nastasya (servant).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (5 ties). Key relationship types: servant.",
+  "summary": "New connections: Alyona-Ilya (other).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (17 ties). Key relationship types: other.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (5), Alyona Ivanovna (2), Dmitri Prokofich Razumihin (1), Porfiry Petrovich (1)",
-    "Key ties: Rodion–Nastasya (servant)",
-    "Totals: 20 characters, 8 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (17), Avdotya Romanovna (9), Sonia Marmeladov (7), Pyotr Petrovich Luzhin (6)",
+    "Key ties: Alyona-Ilya (other)",
+    "Totals: 22 characters, 48 relations (+0 new, +1 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
-    "Alyona Ivanovna",
-    "Dmitri Prokofich Razumihin"
+    "Avdotya Romanovna",
+    "Sonia Marmeladov"
   ],
   "story_summary": "Raskolnikov, feeling anxious and paranoid, retrieves items he had hidden after a crime and decides to dispose of them. He wanders along the canal, contemplating how to hide the evidence, ultimately finding a secluded spot to bury the items under a stone. After burying them, he experiences a moment of relief but is soon overwhelmed by feelings of loathing and confusion about his actions."
 }

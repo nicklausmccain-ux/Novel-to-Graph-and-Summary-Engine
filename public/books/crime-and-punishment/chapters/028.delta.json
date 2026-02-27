@@ -2,22 +2,27 @@
   "new_nodes": [],
   "new_edges": [
     {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "family tie"
+      "source": "katerina-ivanovna",
+      "target": "praskovya-pavlovna",
+      "label": "mother-child"
+    },
+    {
+      "source": "amalia-ivanovna",
+      "target": "rodion-raskolnikov",
+      "label": "interaction"
     }
   ],
-  "summary": "New connections: Sonia–Katerina (family tie).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (10 ties). Key relationship types: family tie.",
+  "summary": "New connections: Katerina-Praskovya (mother-child), Amalia-Rodion (interaction).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: interaction, mother-child.",
   "highlights": [
-    "Most central: Rodion Raskolnikov (10), Dmitri Prokofich Razumihin (4), Porfiry Petrovich (4), Pulcheria Alexandrovna Raskolnikova (4)",
-    "Key ties: Sonia–Katerina (family tie)",
-    "Totals: 24 characters, 23 relations (+0 new, +1 new)"
+    "Most central: Rodion Raskolnikov (22), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (14), Avdotya Romanovna (13)",
+    "Key ties: Katerina-Praskovya (mother-child), Amalia-Rodion (interaction)",
+    "Totals: 24 characters, 99 relations (+0 new, +2 new)"
   ],
   "key_characters": [
     "Rodion Raskolnikov",
     "Dmitri Prokofich Razumihin",
-    "Porfiry Petrovich"
+    "Sonia Marmeladov"
   ],
   "story_summary": "Katerina Ivanovna organizes a dinner to honor Marmeladov's memory, spending much of the funeral money on it despite their poverty. She is determined to impress the lodgers and show her pride, but the dinner is poorly attended, with only a few unsavory guests arriving. Katerina's irritation grows as she interacts with her guests, particularly her landlady, Amalia Ivanovna, whom she feels is not properly acknowledging her efforts."
 }
