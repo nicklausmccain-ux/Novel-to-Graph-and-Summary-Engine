@@ -7,5 +7,16 @@
       "label": "mistrustful acquaintance"
     }
   ],
-  "summary": "New connections: Pyotr–Arkady (mistrustful acquaintance)."
+  "summary": "New connections: Pyotr–Arkady (mistrustful acquaintance).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: mistrustful acquaintance.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (15)",
+    "Key ties: Pyotr–Arkady (mistrustful acquaintance)",
+    "Totals: 24 characters, 98 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

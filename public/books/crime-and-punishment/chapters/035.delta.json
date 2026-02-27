@@ -1,41 +1,15 @@
 {
-  "new_nodes": [
-    "dunya-razumikhina",
-    "madame-de-staël",
-    "ilya-and-the-other-children-of-katerina-ivanovna",
-    "dunya-svidrigailova"
+  "new_nodes": [],
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties).",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (14)",
+    "Totals: 24 characters, 97 relations (+0 new, +0 new)"
   ],
-  "new_edges": [
-    {
-      "source": "marfa-petrovna-svidrigailova",
-      "target": "alyosha",
-      "label": "spouse"
-    },
-    {
-      "source": "dunya-razumikhina",
-      "target": "arkady-svidrigailov",
-      "label": "betrothed"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "madame-de-staël",
-      "label": "betrothed"
-    },
-    {
-      "source": "mary-magdalene",
-      "target": "dmitri-prokofich-razumihin",
-      "label": "romantic"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "ilya-and-the-other-children-of-katerina-ivanovna",
-      "label": "provider"
-    },
-    {
-      "source": "dunya-svidrigailova",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "parent"
-    }
-  ],
-  "summary": "New characters: Dunya Razumikhina, Madame De Staël, Ilya And The Other Children Of Katerina Ivanovna, Dunya Svidrigailova. New connections: Marfa–alyosha (spouse), dunya-razumikhina–Arkady (betrothed), Dmitri–madame-de-staël (betrothed), mary-magdalene–Dmitri (romantic) and 2 more."
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

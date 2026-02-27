@@ -1,44 +1,10 @@
 {
-  "new_nodes": [
-    "mikhail-ivanovich-terebyaev",
-    "maria-terebyaeva",
-    "madame-terebyaeva",
-    "darya-nikolaevna-varents",
-    "sofya-semyonovna-terebyaeva",
-    "sofya-semyonovna-dunya-razumihin",
-    "mr-and-mrs-marmeladov",
-    "the-orphans-of-katerina-ivanovna"
-  ],
+  "new_nodes": [],
   "new_edges": [
     {
       "source": "pyotr-petrovich-luzhin",
       "target": "amalia-ivanovna",
       "label": "respect"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "mikhail-ivanovich-terebyaev",
-      "label": "parent"
-    },
-    {
-      "source": "maria-terebyaeva",
-      "target": "madame-terebyaeva",
-      "label": "parent"
-    },
-    {
-      "source": "darya-nikolaevna-varents",
-      "target": "sofya-semyonovna-terebyaeva",
-      "label": "spouse"
-    },
-    {
-      "source": "sofya-semyonovna-dunya-razumihin",
-      "target": "rodion-raskolnikov",
-      "label": "romantic connection"
-    },
-    {
-      "source": "marmeladov",
-      "target": "mr-and-mrs-marmeladov",
-      "label": "parent"
     },
     {
       "source": "pyotr-petrovich-luzhin",
@@ -49,12 +15,18 @@
       "source": "andrei-semyonovich-lebeziatnikov",
       "target": "pyotr-petrovich-luzhin",
       "label": "other relationship"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "the-orphans-of-katerina-ivanovna",
-      "label": "caring individual"
     }
   ],
-  "summary": "New characters: Mikhail Ivanovich Terebyaev, Maria Terebyaeva, Madame Terebyaeva, Darya Nikolaevna Varents, Sofya Semyonovna Terebyaeva, Sofya Semyonovna Dunya Razumihin and 2 more. New connections: Pyotr–Amalia (respect), Katerina–mikhail-ivanovich-terebyaev (parent), maria-terebyaeva–madame-terebyaeva (parent), darya-nikolaevna-varents–sofya-semyonovna-terebyaeva (spouse) and 5 more."
+  "summary": "New connections: Pyotr–Amalia (respect), Pyotr–Sonia (other relationship), Andrei–Pyotr (other relationship).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: other relationship, respect.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (13)",
+    "Key ties: Pyotr–Amalia (respect), Pyotr–Sonia (other relationship), Andrei–Pyotr (other relationship)",
+    "Totals: 24 characters, 93 relations (+0 new, +3 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

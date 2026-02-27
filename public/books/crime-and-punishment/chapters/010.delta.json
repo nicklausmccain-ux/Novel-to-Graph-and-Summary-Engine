@@ -1,27 +1,6 @@
 {
-  "new_nodes": [
-    "andrei-zossimov",
-    "the-messenger-from-the-office",
-    "merchant-shelopaev",
-    "general-mikhail-fyodorovich-kobelev",
-    "alexander-grigorievich-zametov",
-    "aleksandr-grigorievič-zametov",
-    "pashenka",
-    "natalya-yegorovna",
-    "andrei-zametov",
-    "pavlovna-pashenka"
-  ],
+  "new_nodes": [],
   "new_edges": [
-    {
-      "source": "dmitri-razumihin",
-      "target": "andrei-zossimov",
-      "label": "acquaintance"
-    },
-    {
-      "source": "the-messenger-from-the-office",
-      "target": "merchant-shelopaev",
-      "label": "employer-employee"
-    },
     {
       "source": "nastasya-petrovna",
       "target": "dmitri-prokofich-razumihin",
@@ -33,45 +12,21 @@
       "label": "friend"
     },
     {
-      "source": "rodion-raskolnikov",
-      "target": "general-mikhail-fyodorovich-kobelev",
-      "label": "unknown"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "alexander-grigorievich-zametov",
-      "label": "known acquaintance"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "aleksandr-grigorievič-zametov",
-      "label": "known acquaintance"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "pashenka",
-      "label": "known acquaintance"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "natalya-yegorovna",
-      "label": "relation"
-    },
-    {
       "source": "dmitri-prokofich-razumihin",
       "target": "praskovya-pavlovna",
       "label": "relation"
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "andrei-zametov",
-      "label": "friend"
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "pavlovna-pashenka",
-      "label": "acquaintance"
     }
   ],
-  "summary": "New characters: Andrei Zossimov, The Messenger From The Office, Merchant Shelopaev, General Mikhail Fyodorovich Kobelev, Alexander Grigorievich Zametov, Aleksandr Grigorievič Zametov and 4 more. New connections: Dmitri–andrei-zossimov (acquaintance), the-messenger-from-the-office–merchant-shelopaev (employer-employee), Nastasya–Dmitri (servant), Dmitri–Nastasya (friend) and 8 more."
+  "summary": "New connections: Nastasya–Dmitri (servant), Dmitri–Nastasya (friend), Dmitri–Praskovya (relation).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (17 ties). Key relationship types: friend, relation, servant.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (17), Katerina Ivanovna Marmeladova (12), Marfa Petrovna Svidrigailova (8), Dmitri Prokofich Razumihin (7)",
+    "Key ties: Nastasya–Dmitri (servant), Dmitri–Nastasya (friend), Dmitri–Praskovya (relation)",
+    "Totals: 20 characters, 54 relations (+0 new, +3 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Marfa Petrovna Svidrigailova"
+  ]
 }

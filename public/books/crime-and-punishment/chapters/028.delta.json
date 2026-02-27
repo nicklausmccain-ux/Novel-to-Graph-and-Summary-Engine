@@ -1,8 +1,5 @@
 {
-  "new_nodes": [
-    "the-two-little-ones",
-    "her-late-husband"
-  ],
+  "new_nodes": [],
   "new_edges": [
     {
       "source": "katerina-ivanovna-marmeladova",
@@ -10,20 +7,21 @@
       "label": "acquaintance"
     },
     {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "the-two-little-ones",
-      "label": "caretaker"
-    },
-    {
       "source": "rodion-raskolnikov",
       "target": "amalia-ivanovna",
       "label": "tenant/landlord"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "her-late-husband",
-      "label": "spouse"
     }
   ],
-  "summary": "New characters: The Two Little Ones, Her Late Husband. New connections: Katerina–Andrei (acquaintance), Katerina–the-two-little-ones (caretaker), Rodion–Amalia (tenant/landlord), Katerina–her-late-husband (spouse)."
+  "summary": "New connections: Katerina–Andrei (acquaintance), Rodion–Amalia (tenant/landlord).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance, tenant/landlord.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (21), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (13)",
+    "Key ties: Katerina–Andrei (acquaintance), Rodion–Amalia (tenant/landlord)",
+    "Totals: 24 characters, 95 relations (+0 new, +2 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

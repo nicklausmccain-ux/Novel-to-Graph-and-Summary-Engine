@@ -1,13 +1,15 @@
 {
-  "new_nodes": [
-    "porfiry"
+  "new_nodes": [],
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties).",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (13)",
+    "Totals: 24 characters, 89 relations (+0 new, +0 new)"
   ],
-  "new_edges": [
-    {
-      "source": "rodion-raskolnikov",
-      "target": "porfiry",
-      "label": "interrogator"
-    }
-  ],
-  "summary": "New characters: Porfiry. New connections: Rodion–porfiry (interrogator)."
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

@@ -1,9 +1,5 @@
 {
-  "new_nodes": [
-    "andrei-semyonovitch-zossimov",
-    "the-old-pawnbroker",
-    "mrs-raskolnikova"
-  ],
+  "new_nodes": [],
   "new_edges": [
     {
       "source": "dmitri-prokofich-razumihin",
@@ -16,25 +12,21 @@
       "label": "acquaintance"
     },
     {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "andrei-semyonovitch-zossimov",
-      "label": "acquaintance"
-    },
-    {
       "source": "katerina-ivanovna-marmeladova",
       "target": "alyona-ivanovna",
       "label": "victim"
-    },
-    {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "the-old-pawnbroker",
-      "label": "victim"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "mrs-raskolnikova",
-      "label": "indirect relationship"
     }
   ],
-  "summary": "New characters: Andrei Semyonovitch Zossimov, The Old Pawnbroker, Mrs Raskolnikova. New connections: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Pyotr–andrei-semyonovitch-zossimov (acquaintance), Katerina–Alyona (victim) and 2 more."
+  "summary": "New connections: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Katerina–Alyona (victim).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, acquaintance or formal relationship, victim.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (18), Katerina Ivanovna Marmeladova (14), Dmitri Prokofich Razumihin (11), Pyotr Petrovich Luzhin (9)",
+    "Key ties: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Katerina–Alyona (victim)",
+    "Totals: 22 characters, 66 relations (+0 new, +3 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

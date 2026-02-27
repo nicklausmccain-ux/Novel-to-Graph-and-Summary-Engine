@@ -20,33 +20,9 @@
       "aliases": []
     },
     {
-      "id": "na",
-      "name": "N/a",
-      "description": "Raskolnikov, a young former student residing in the squalor of St. Petersburg, bears a gaunt and emaciated frame that hints at his inner turmoil and disquiet. His sharp, intelligent eyes, often clouded with a intense and feverish light, reveal a mind teetering on the brink of madness and philosophical existentialism. Clad in tattered clothing that matches his impoverished state, he often exudes an air of dishevelment and neglect. Raskolnikov's demeanor oscillates between brooding introspection and restless agitation, reflecting his complex nature and moral dilemmas. Beneath his gloomy exterior, there lies a fervent, albeit distorted, idealism that seeks to transcend conventional morality, marking him as a tragic figure ensnared in the throes of his own radical thoughts and guilt.",
-      "aliases": []
-    },
-    {
       "id": "alyona-ivanovna",
       "name": "Alyona Ivanovna",
       "description": "Alyona Ivanovna is portrayed as a gaunt, elderly pawnbroker, her sharp features and sunken cheeks etched with the lines of age and hardship. Her eyes, small and calculating, reflect a shrewdness that has been honed through years of bartering and haggling. Often dressed in tattered garments that betray her poverty, she emanates an air of greed and coldness, her demeanor as frigid as the coins she clutches. Alyona is not merely a figure of financial exchange; she personifies the oppressive weight of desperation and moral decay in the lives of those around her, embodying a blend of cunning intelligence and unyielding selfishness that ultimately defines her character in Dostoevsky's narrative.",
-      "aliases": []
-    },
-    {
-      "id": "mikhailovitch-raskolnikov",
-      "name": "Mikhailovitch Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "stout-man-with-a-grey-beard",
-      "name": "Stout Man With A Grey Beard",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "artisan",
-      "name": "Artisan",
-      "description": "",
       "aliases": []
     },
     {
@@ -71,12 +47,6 @@
       ]
     },
     {
-      "id": "aleksey-ivanovich-raskolnikov",
-      "name": "Aleksey Ivanovich Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "marmeladov",
       "name": "Marmeladov",
       "description": "Semyon Zakharovich Marmeladov is a broken man, embodying the despair and hopelessness of his circumstances. He is characterized by his disheveled appearance, with unkempt hair and a worn, gaunt face, reflecting the toll that poverty and alcoholism have taken on him. His eyes are troubled and glassy, filled with a deep melancholy and regret, often darting around as if seeking solace in the shadows. Dressed in tattered clothing that hangs loosely from his frail frame, he carries himself with a defeated demeanor, each movement a chronicling of his inner turmoil. Despite his desolate state, Marmeladov possesses a certain dignity, often speaking with dramatic fervor, recounting tales of his suffering and losses with a haunting eloquence. His character reveals a profound awareness of his own failings, as well as a desperate longing for redemption, making him a tragically sympathetic figure in Dostoevsky's narrative.",
@@ -86,24 +56,6 @@
         "Sofia Semyonovna Marmeladov",
         "Sonia Marmeladov"
       ]
-    },
-    {
-      "id": "semyon-zakharovich-lebeziatnikov",
-      "name": "Semyon Zakharovich Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "kokhlakov",
-      "name": "Kokhlakov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "kokhlakova",
-      "name": "Kokhlakova",
-      "description": "",
-      "aliases": []
     },
     {
       "id": "katerina-ivanovna-marmeladova",
@@ -116,12 +68,6 @@
         "Sofia Semyonovna Marmeladov",
         "Sonia Marmeladov"
       ]
-    },
-    {
-      "id": "ilya-sasha-and-kolya",
-      "name": "Ilya Sasha And Kolya",
-      "description": "",
-      "aliases": []
     },
     {
       "id": "andrei-semyonovich-lebeziatnikov",
@@ -139,18 +85,6 @@
       ]
     },
     {
-      "id": "liza-kolya-and-sanya",
-      "name": "Liza Kolya And Sanya",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "katherine-ivanovna-marmeladov",
-      "name": "Katherine Ivanovna Marmeladov",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "pyotr-petrovich-luzhin",
       "name": "Pyotr Petrovich Luzhin",
       "description": "Pyotr Petrovitch Luzhin is a middle-aged man of moderate stature, with a sharp, angular face that conveys a sense of cunning intelligence. His thinning hair, slicked back, frames a forehead that seems perpetually furrowed in thought. His eyes, small and piercing, gleam with a calculating light, revealing a personality that is both self-serving and manipulative. Luzhin’s demeanor is marked by an air of self-importance; he often walks with a slight swagger, as if he is acutely aware of his own superiority. Dressed in meticulous, albeit slightly outdated, clothing, he presents himself as an affluent bachelor looking to impress, yet his tendencies for tight-fistedness and egotism shine through, making him a figure of intrigue and disdain. His conversations are laced with condescension, revealing a man who measures others by their utility to him, embodying the very essence of moral bankruptcy in the pursuit of social status.",
@@ -165,60 +99,12 @@
       "aliases": []
     },
     {
-      "id": "mikhail-lunevich-lebeziatnikov",
-      "name": "Mikhail Lunevich Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "ivan-ivanitch-klopstock",
-      "name": "Ivan Ivanitch Klopstock",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "darya-frantsovna",
-      "name": "Darya Frantsovna",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "darya-pavlovna-raskolnikov",
       "name": "Darya Pavlovna Raskolnikov",
       "description": "Darya Pavlovna Raskolnikov, known affectionately as Dunya, embodies a complex blend of resilience and compassion. Her striking features include a delicate face framed by chestnut hair that whispers of her gentle nature. With a poised demeanor, she carries herself with a mixture of defiance and maternal warmth, often demonstrating a fierce loyalty to her family. Dunya's expressive eyes reveal her inner strength and unwavering determination, hinting at the depth of her character. In the face of adversity, she emerges as a pillar of integrity and dignity, steadfastly navigating the moral ambiguities around her with grace and courage.",
       "aliases": [
         "Darya Alexandrovna Raskolnikov"
       ]
-    },
-    {
-      "id": "amalia-fyodorovna-lebeziatnikov",
-      "name": "Amalia Fyodorovna Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "alexander-semyonovich-lebeziatnikov",
-      "name": "Alexander Semyonovich Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "kapernaumov",
-      "name": "Kapernaumov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "polenka-marmeladov",
-      "name": "Polenka Marmeladov",
-      "description": "Polenka Marmeladov, a tender soul ensnared by the claws of poverty, embodies the fragility and innocence of youth amidst despair. With her delicate frame and fair complexion, she possesses a strikingly ethereal beauty, accentuated by large, soulful eyes that seem to reflect the depths of her suffering. Her hair, golden and fine, cascades messily around her face, a testament to her humble circumstances. Polenka's demeanor is marked by a quiet resilience; she navigates her bleak reality with a grace that belies her age, carrying the burdens of her family with an almost unnatural strength. Yet, there is a haunting sadness that lingers in her smile, revealing the weight of the world upon her small shoulders. In her compassionate nature, she embodies both the gentleness of a child and the wisdom of one who has seen too much, making her a poignant figure in the tapestry of suffering that Dostoevsky intricately weaves in 'Crime and Punishment.'",
-      "aliases": []
-    },
-    {
-      "id": "kuzma-marmeladov",
-      "name": "Kuzma Marmeladov",
-      "description": "",
-      "aliases": []
     }
   ],
   "links": [
@@ -231,30 +117,9 @@
     },
     {
       "source": "rodion-raskolnikov",
-      "target": "na",
-      "label": "Stranger",
-      "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Rodion Romanovich Raskolnikov and the unnamed stranger is fleeting yet impactful. Their brief interaction occurs when the drunken man shouts at Raskolnikov, referring to him as a 'German hatter', hinting at the societal disdain that Raskolnikov grapples with. The encounter captures a moment of alienation, underscored by Raskolnikov’s dark musings about the pallor of passers-by and the haunting memories of his grandmother. This stranger's inquiry about Raskolnikov emphasizes his growing notoriety and the existential weight he carries, reflecting the themes of isolation and moral ambiguity that pervade his journey. Thus, this moment serves as a catalyst for Raskolnikov's internal conflict, revealing the broader societal tensions that influence his psyche.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
       "target": "alyona-ivanovna",
       "label": "unknown relationship",
       "description": "The relationship between Rodion Romanovich Raskolnikov and Alyona Ivanovna is primarily predatory, characterized by Raskolnikov's intent to exploit the old pawnbroker for her wealth. Their interactions begin with Raskolnikov pawning a watch, indicative of a transactional dynamic rather than a personal connection. As Raskolnikov grapples with his deteriorating circumstances, he contemplates murder, believing Alyona's life holds little value in comparison to the greater good he envisions for society. This culminates in a violent act where he kills Alyona with her own axe, a grim marker of his moral degradation. Their relationship is steeped in themes of desperation, greed, and the complexities of moral justification, underscoring the tension between Raskolnikov’s philosophical justifications and the stark reality of his actions.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "mikhailovitch-raskolnikov",
-      "label": "family tie",
-      "description": "Raskolnikov mentions that the watch was his father's.",
-      "weight": 1.0
-    },
-    {
-      "source": "stout-man-with-a-grey-beard",
-      "target": "artisan",
-      "label": "unknown relationship",
-      "description": "The stout man is drunk and asleep while the artisan is sitting before a pot of beer, but no specific relationship or interaction is described between them.",
       "weight": 1.0
     },
     {
@@ -265,31 +130,10 @@
       "weight": 1.0
     },
     {
-      "source": "aleksey-ivanovich-raskolnikov",
-      "target": "na",
-      "label": "observer",
-      "description": "The retired government clerk was looking round at the company and appeared to be in some agitation.",
-      "weight": 1.0
-    },
-    {
       "source": "marmeladov",
       "target": "rodion-raskolnikov",
       "label": "other",
       "description": "The relationship between Sofia Semyonovna Marmeladov and Rodion Romanovich Raskolnikov is deeply rooted in compassion and emotional dependency, marked by a profound connection that transcends mere friendship. Sonia, embodying unwavering support, offers Raskolnikov solace amidst his turmoil, evident in her silent yet inviting demeanor and her heartfelt desire to read to him. Their interactions reveal a tender bond, as Sonia's joyful reception of Raskolnikov and her insistence on prayer highlight her genuine care for his wellbeing. The evolution of their relationship is shaped by Raskolnikov's initial indifference giving way to a reliance on Sonia's visits, transforming from a reluctant acquaintance to an essential presence in his solitary life. Key moments, such as Sonia's public confession of faith through reading and her quiet yet impactful gestures of affection, symbolize their intertwining fates, reflecting themes of redemption and the search for meaning in the face of suffering.",
-      "weight": 1.0
-    },
-    {
-      "source": "marmeladov",
-      "target": "semyon-zakharovich-lebeziatnikov",
-      "label": "conflict",
-      "description": "The unnamed drunk man mentions that 'Mr. Lebeziatnikov gave my wife a beating.'",
-      "weight": 1.0
-    },
-    {
-      "source": "kokhlakov",
-      "target": "kokhlakova",
-      "label": "spouse",
-      "description": "The unnamed drunk man states, 'my wife is a very different matter from me!'",
       "weight": 1.0
     },
     {
@@ -307,31 +151,10 @@
       "weight": 1.0
     },
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "ilya-sasha-and-kolya",
-      "label": "parent",
-      "description": "We have three little children and Katerina Ivanovna is at work from morning till night...",
-      "weight": 1.0
-    },
-    {
       "source": "andrei-semyonovich-lebeziatnikov",
       "target": "marfa-petrovna-svidrigailova",
       "label": "abuser",
       "description": "In the novel, the relationship between Andrei Semyonovich Lebeziatnikov and Marfa Petrovna is marked by tension and rudeness, reflecting the broader themes of social hierarchy and disconnection. Lebeziatnikov often exhibits a dismissive attitude towards Marfa, undermining her status and showcasing his self-importance. Their interactions, particularly during moments of conflict over societal views and personal beliefs, highlight Marfa's resilience in the face of his condescension. Key moments include his blunt remarks that reveal his contempt, which only deepen her resolve to assert her dignity. The emotional undertone of their dynamic conveys a struggle against both personal and social constraints, symbolizing the clash between old values and emerging ideologies.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "liza-kolya-and-sanya",
-      "label": "parent",
-      "description": "She was left at his death with three children",
-      "weight": 1.0
-    },
-    {
-      "source": "katherine-ivanovna-marmeladov",
-      "target": "marmeladov",
-      "label": "spouse",
-      "description": "I, being at the time a widower, with a daughter of fourteen, offered her my hand",
       "weight": 1.0
     },
     {
@@ -356,59 +179,10 @@
       "weight": 1.0
     },
     {
-      "source": "rodion-raskolnikov",
-      "target": "mikhail-lunevich-lebeziatnikov",
-      "label": "acquaintance",
-      "description": "'she had read with great interest a book she got through Mr. Lebeziatnikov'",
-      "weight": 1.0
-    },
-    {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "ivan-ivanitch-klopstock",
-      "label": "employer/employee",
-      "description": "'he has not to this day paid her for the half-dozen linen shirts she made him'",
-      "weight": 1.0
-    },
-    {
-      "source": "darya-frantsovna",
-      "target": "marmeladov",
-      "label": "antagonistic relationship",
-      "description": "Darya Frantsovna is characterized as a woman of evil character and has tried to get at Sonia, indicating a negative or antagonistic relationship.",
-      "weight": 1.0
-    },
-    {
       "source": "darya-pavlovna-raskolnikov",
       "target": "katerina-ivanovna-marmeladova",
       "label": "antagonistic",
       "description": "Marmeladov indicates that Darya Frantsovna had a leading part in forcing his daughter Sofya Semyonovna to take a yellow ticket, suggesting an adversarial relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "amalia-fyodorovna-lebeziatnikov",
-      "label": "other",
-      "description": "Marmeladov states that Amalia Fyodorovna would not hear of Sofya living with them, indicating a strained relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "alexander-semyonovich-lebeziatnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "other",
-      "description": "Marmeladov notes that Mr. Lebeziatnikov’s trouble with Katerina Ivanovna was on Sonia's account, implying a complicated relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "kapernaumov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "landlord-tenant",
-      "description": "Marmeladov mentions that Sonia has a room at the Kapernaumovs', indicating a landlord-tenant relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "polenka-marmeladov",
-      "target": "kuzma-marmeladov",
-      "label": "sibling",
-      "description": "The girl of nine years old was trying to comfort her brother, suggesting a sibling relationship.",
       "weight": 1.0
     },
     {

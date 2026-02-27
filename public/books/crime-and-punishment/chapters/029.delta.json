@@ -1,42 +1,6 @@
 {
-  "new_nodes": [
-    "pavel-pavlovich-luzhin",
-    "alyosha-lebeziatnikov",
-    "aleksey-ivanovich-lebeziatnikov",
-    "dmitriy-prokofyevich-luzhin",
-    "semyon-polenka-and-katerina-ivanovna"
-  ],
+  "new_nodes": [],
   "new_edges": [
-    {
-      "source": "pavel-pavlovich-luzhin",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "accuser-victim"
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "alyosha-lebeziatnikov",
-      "label": "associate"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "aleksey-ivanovich-lebeziatnikov",
-      "label": "friend"
-    },
-    {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "dmitriy-prokofyevich-luzhin",
-      "label": "victim/abuser"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "semyon-polenka-and-katerina-ivanovna",
-      "label": "sacrificial role"
-    },
-    {
-      "source": "alyosha-lebeziatnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "witness relationship"
-    },
     {
       "source": "andrei-semyonovich-lebeziatnikov",
       "target": "rodion-raskolnikov",
@@ -48,5 +12,16 @@
       "label": "adversarial relationship"
     }
   ],
-  "summary": "New characters: Pavel Pavlovich Luzhin, Alyosha Lebeziatnikov, Aleksey Ivanovich Lebeziatnikov, Dmitriy Prokofyevich Luzhin, Semyon Polenka And Katerina Ivanovna. New connections: pavel-pavlovich-luzhin–Katerina (accuser-victim), Dmitri–alyosha-lebeziatnikov (associate), Rodion–aleksey-ivanovich-lebeziatnikov (friend), Sonia–dmitriy-prokofyevich-luzhin (victim/abuser) and 4 more."
+  "summary": "New connections: Andrei–Rodion (friend), Pyotr–Marmeladov (adversarial relationship).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties). Key relationship types: adversarial relationship, friend.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (14)",
+    "Key ties: Andrei–Rodion (friend), Pyotr–Marmeladov (adversarial relationship)",
+    "Totals: 24 characters, 97 relations (+0 new, +2 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

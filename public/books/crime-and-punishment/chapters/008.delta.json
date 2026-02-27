@@ -1,70 +1,9 @@
 {
   "new_nodes": [
-    "mikhail-ivanovich",
-    "mikolka-petrovič-svidrigaïlov",
-    "luisa-ivanovna",
-    "ilya-petrovitch",
-    "mister-fyodor-tchebarov",
-    "widow-zarnitsyn",
-    "marfa-petrovna-zarnitsyn",
-    "aleksey-ivanovich-tchebarov",
-    "aleksey-ivanovich",
-    "nadine-ivanovna",
-    "karl-ivanovitch",
-    "liza",
-    "henriette",
-    "unknown-lady",
     "nikodim-fomitch",
-    "typhus",
-    "pavel-ivanovich-pestryakov",
-    "vladimir-andrei-and-sergei"
+    "ilya-petrovitch"
   ],
   "new_edges": [
-    {
-      "source": "mikhail-ivanovich",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "professional relationship"
-    },
-    {
-      "source": "mikolka-petrovič-svidrigaïlov",
-      "target": "luisa-ivanovna",
-      "label": "professional relationship"
-    },
-    {
-      "source": "ilya-petrovitch",
-      "target": "mikhail-ivanovich",
-      "label": "appreciative"
-    },
-    {
-      "source": "mister-fyodor-tchebarov",
-      "target": "widow-zarnitsyn",
-      "label": "landlady-tenant"
-    },
-    {
-      "source": "marfa-petrovna-zarnitsyn",
-      "target": "aleksey-ivanovich-tchebarov",
-      "label": "landlady-tenant"
-    },
-    {
-      "source": "aleksey-ivanovich",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "authority-respondent"
-    },
-    {
-      "source": "nadine-ivanovna",
-      "target": "karl-ivanovitch",
-      "label": "acquaintance"
-    },
-    {
-      "source": "liza",
-      "target": "henriette",
-      "label": "acquaintance"
-    },
-    {
-      "source": "ilya-petrovitch",
-      "target": "unknown-lady",
-      "label": "adversarial"
-    },
     {
       "source": "nikodim-fomitch",
       "target": "ilya-petrovitch",
@@ -76,11 +15,6 @@
       "label": "acquaintance"
     },
     {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "typhus",
-      "label": "death relationship"
-    },
-    {
       "source": "ilya-petrovitch",
       "target": "katerina-ivanovna-marmeladova",
       "label": "professional relationship"
@@ -89,12 +23,19 @@
       "source": "rodion-raskolnikov",
       "target": "ilya-petrovitch",
       "label": "Professional Relationship"
-    },
-    {
-      "source": "pavel-ivanovich-pestryakov",
-      "target": "vladimir-andrei-and-sergei",
-      "label": "friends"
     }
   ],
-  "summary": "New characters: Mikhail Ivanovich, Mikolka Petrovič Svidrigaïlov, Luisa Ivanovna, Ilya Petrovitch, Mister Fyodor Tchebarov, Widow Zarnitsyn and 12 more. New connections: mikhail-ivanovich–Marfa (professional relationship), mikolka-petrovič-svidrigaïlov–luisa-ivanovna (professional relationship), Ilya–mikhail-ivanovich (appreciative), mister-fyodor-tchebarov–widow-zarnitsyn (landlady-tenant) and 11 more."
+  "summary": "New characters: Nikodim Fomitch, Ilya Petrovitch. New connections: Nikodim–Ilya (professional), Nikodim–Rodion (acquaintance), Ilya–Katerina (professional relationship), Rodion–Ilya (Professional Relationship).",
+  "summary_short": "Introduces Nikodim Fomitch, Ilya Petrovitch. Rodion Raskolnikov is the most connected figure (17 ties). Key relationship types: acquaintance, professional, professional relationship.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (17), Katerina Ivanovna Marmeladova (12), Marfa Petrovna Svidrigailova (8), Pyotr Petrovich Luzhin (7)",
+    "Key ties: Nikodim–Ilya (professional), Nikodim–Rodion (acquaintance), Ilya–Katerina (professional relationship), Rodion–Ilya (Professional Relationship)",
+    "New characters: Nikodim, Ilya",
+    "Totals: 20 characters, 49 relations (+2 new, +4 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Marfa Petrovna Svidrigailova"
+  ]
 }

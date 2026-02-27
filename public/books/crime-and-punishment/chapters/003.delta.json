@@ -2,16 +2,8 @@
   "new_nodes": [
     "nastasya-petrovna",
     "pulcheria-alexandrovna-raskolnikova",
-    "vassily-ivanovitch-vahrushin",
     "arkady-svidrigailov",
-    "darya-alexandrovna",
-    "duniya-romanovna-raskolnikov",
-    "avdotya-romanovna-raskolnikova",
-    "rodya",
-    "darya-alexeyevna-raskolnikov",
-    "narrator",
-    "pulkheria-alexandrovna-raskolnikov",
-    "roderick-raskolnikov"
+    "avdotya-romanovna-raskolnikova"
   ],
   "new_edges": [
     {
@@ -35,11 +27,6 @@
       "label": "sibling"
     },
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "vassily-ivanovitch-vahrushin",
-      "label": "friend"
-    },
-    {
       "source": "marfa-petrovna-svidrigailova",
       "target": "rodion-raskolnikov",
       "label": "sibling"
@@ -53,16 +40,6 @@
       "source": "darya-pavlovna-raskolnikov",
       "target": "marfa-petrovna-svidrigailova",
       "label": "antagonist"
-    },
-    {
-      "source": "darya-alexandrovna",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "subject of conflict"
-    },
-    {
-      "source": "duniya-romanovna-raskolnikov",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "sibling connection"
     },
     {
       "source": "rodion-raskolnikov",
@@ -95,21 +72,6 @@
       "label": "suitor"
     },
     {
-      "source": "rodya",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "acquaintance"
-    },
-    {
-      "source": "darya-alexeyevna-raskolnikov",
-      "target": "rodion-raskolnikov",
-      "label": "sibling"
-    },
-    {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "narrator",
-      "label": "other relationship"
-    },
-    {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "pyotr-petrovich-luzhin",
       "label": "romantic connection"
@@ -118,11 +80,6 @@
       "source": "katerina-ivanovna-marmeladova",
       "target": "avdotya-romanovna-raskolnikova",
       "label": "self"
-    },
-    {
-      "source": "pulkheria-alexandrovna-raskolnikov",
-      "target": "rodion-raskolnikov",
-      "label": "parent"
     },
     {
       "source": "katerina-ivanovna-marmeladova",
@@ -140,15 +97,22 @@
       "label": "romantic connection"
     },
     {
-      "source": "roderick-raskolnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "sibling"
-    },
-    {
       "source": "pulcheria-alexandrovna-raskolnikova",
       "target": "katerina-ivanovna-marmeladova",
       "label": "mother"
     }
   ],
-  "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Vassily Ivanovitch Vahrushin, Arkady Svidrigailov, Darya Alexandrovna, Duniya Romanovna Raskolnikov and 6 more. New connections: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling) and 23 more."
+  "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. New connections: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling) and 15 more.",
+  "summary_short": "Introduces Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. Rodion Raskolnikov is the most connected figure (11 ties). Key relationship types: acquaintance, antagonist, employer-employee, former acquaintance.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (11), Katerina Ivanovna Marmeladova (9), Marfa Petrovna Svidrigailova (8), Pyotr Petrovich Luzhin (5)",
+    "Key ties: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling), and 15 more",
+    "New characters: Nastasya, Pulcheria, Arkady, Avdotya",
+    "Totals: 16 characters, 31 relations (+4 new, +19 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Marfa Petrovna Svidrigailova"
+  ]
 }

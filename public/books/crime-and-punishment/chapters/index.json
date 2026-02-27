@@ -4,28 +4,28 @@
     "title": "Chapter 1",
     "snapshot": "001.snapshot.json",
     "delta": "001.delta.json",
-    "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, N/a, Alyona Ivanovna, Mikhailovitch Raskolnikov, Stout Man With A Grey Beard and 4 more. New connections: Rodion–Praskovya (landlord-tenant), Rodion–N/a (Stranger), Rodion–Alyona (unknown relationship), Rodion–mikhailovitch-raskolnikov (family tie) and 3 more."
+    "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, Porfiry Petrovich. New connections: Rodion–Praskovya (landlord-tenant), Rodion–Alyona (unknown relationship), Dmitri–Porfiry (negative relationship)."
   },
   {
     "chapter": 2,
     "title": "Chapter 2",
     "snapshot": "002.snapshot.json",
     "delta": "002.delta.json",
-    "summary": "New characters: Marmeladov, Semyon Zakharovich Lebeziatnikov, Kokhlakov, Kokhlakova, Katerina Ivanovna Marmeladova, Ilya Sasha And Kolya and 15 more. New connections: Marmeladov–Rodion (other), Marmeladov–semyon-zakharovich-lebeziatnikov (conflict), kokhlakov–kokhlakova (spouse), Marmeladov–Katerina (spouse) and 17 more."
+    "summary": "New characters: Marmeladov, Katerina Ivanovna Marmeladova, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna Svidrigailova, Pyotr Petrovich Luzhin, Sonia Semyonovna Marmeladov and 1 more. New connections: Marmeladov–Rodion (other), Marmeladov–Katerina (spouse), Dmitri–Katerina (spouse), Andrei–Marfa (abuser) and 5 more."
   },
   {
     "chapter": 3,
     "title": "Chapter 3",
     "snapshot": "003.snapshot.json",
     "delta": "003.delta.json",
-    "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Vassily Ivanovitch Vahrushin, Arkady Svidrigailov, Darya Alexandrovna, Duniya Romanovna Raskolnikov and 6 more. New connections: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling) and 23 more."
+    "summary": "New characters: Nastasya Petrovna, Pulcheria Alexandrovna Raskolnikova, Arkady Svidrigailov, Avdotya Romanovna Raskolnikova. New connections: Rodion–Nastasya (servant), Nastasya–Praskovya (employer-employee), Rodion–Pulcheria (friend), Pulcheria–Marfa (sibling) and 15 more."
   },
   {
     "chapter": 4,
     "title": "Chapter 4",
     "snapshot": "004.snapshot.json",
     "delta": "004.delta.json",
-    "summary": "New characters: Mr Luzhin, Policeman, The Policeman, Sonya Semyonovna Marmeladov, Svidrigailovs Girl, Razumihin and 1 more. New connections: Avdotya–mr-luzhin (romantic relationship), Pulcheria–Pyotr (potential spouse), Avdotya–Arkady (acquaintance), Avdotya–Marmeladov (connection) and 11 more."
+    "summary": "New characters: Dmitri Razumihin. New connections: Pulcheria–Pyotr (potential spouse), Avdotya–Arkady (acquaintance), Avdotya–Marmeladov (connection), Avdotya–Pulcheria (children-parent) and 5 more."
   },
   {
     "chapter": 5,
@@ -39,91 +39,91 @@
     "title": "Chapter 6",
     "snapshot": "006.snapshot.json",
     "delta": "006.delta.json",
-    "summary": "New characters: The Monastery, Lizaveta. New connections: Dmitri–Alyona (acquaintance), Lizaveta–Katerina (sibling), Alyona–the-monastery (other), Rodion–lizaveta (acquaintance)."
+    "summary": "New connections: Dmitri–Alyona (acquaintance), Lizaveta–Katerina (sibling)."
   },
   {
     "chapter": 7,
     "title": "Chapter 7",
     "snapshot": "007.snapshot.json",
     "delta": "007.delta.json",
-    "summary": "New characters: Painters. New connections: Rodion–painters (indirect relationship)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 8,
     "title": "Chapter 8",
     "snapshot": "008.snapshot.json",
     "delta": "008.delta.json",
-    "summary": "New characters: Mikhail Ivanovich, Mikolka Petrovič Svidrigaïlov, Luisa Ivanovna, Ilya Petrovitch, Mister Fyodor Tchebarov, Widow Zarnitsyn and 12 more. New connections: mikhail-ivanovich–Marfa (professional relationship), mikolka-petrovič-svidrigaïlov–luisa-ivanovna (professional relationship), Ilya–mikhail-ivanovich (appreciative), mister-fyodor-tchebarov–widow-zarnitsyn (landlady-tenant) and 11 more."
+    "summary": "New characters: Nikodim Fomitch, Ilya Petrovitch. New connections: Nikodim–Ilya (professional), Nikodim–Rodion (acquaintance), Ilya–Katerina (professional relationship), Rodion–Ilya (Professional Relationship)."
   },
   {
     "chapter": 9,
     "title": "Chapter 9",
     "snapshot": "009.snapshot.json",
     "delta": "009.delta.json",
-    "summary": "New characters: Makar Ivanovich Heruvimov, Heruvimov, The Narrator Likely Raskolnikov, Sonia D Marmeladov. New connections: Rodion–makar-ivanovich-heruvimov (professional relationship), heruvimov–the-narrator-likely-raskolnikov (financial arrangement), Dmitri–Alyona (collaborators), Marfa–sonia-d-marmeladov (parent-child) and 1 more."
+    "summary": "New connections: Dmitri–Alyona (collaborators), Ilya–Alyona (other)."
   },
   {
     "chapter": 10,
     "title": "Chapter 10",
     "snapshot": "010.snapshot.json",
     "delta": "010.delta.json",
-    "summary": "New characters: Andrei Zossimov, The Messenger From The Office, Merchant Shelopaev, General Mikhail Fyodorovich Kobelev, Alexander Grigorievich Zametov, Aleksandr Grigorievič Zametov and 4 more. New connections: Dmitri–andrei-zossimov (acquaintance), the-messenger-from-the-office–merchant-shelopaev (employer-employee), Nastasya–Dmitri (servant), Dmitri–Nastasya (friend) and 8 more."
+    "summary": "New connections: Nastasya–Dmitri (servant), Dmitri–Nastasya (friend), Dmitri–Praskovya (relation)."
   },
   {
     "chapter": 11,
     "title": "Chapter 11",
     "snapshot": "011.snapshot.json",
     "delta": "011.delta.json",
-    "summary": "New characters: Andrei Semyonovich Zossimov, Ilya Petrovich Zametov, Mikhail Zametov, Andrey Semyonovich Zossimov, Koch And Pestryakov, Nikolay and 2 more. New connections: Dmitri–Andrei (collaborators), Dmitri–ilya-petrovich-zametov (friend), Dmitri–Dmitri (friend), Dmitri–mikhail-zametov (acquaintance) and 11 more."
+    "summary": "New characters: Andrei Semyonovich Zossimov, Nikolay. New connections: Dmitri–Andrei (collaborators), Dmitri–Dmitri (friend), Dmitri–Porfiry (distant relative), Andrei–Nastasya (Other) and 5 more."
   },
   {
     "chapter": 12,
     "title": "Chapter 12",
     "snapshot": "012.snapshot.json",
     "delta": "012.delta.json",
-    "summary": "New characters: Andrei Semyonovitch Zossimov, The Old Pawnbroker, Mrs Raskolnikova. New connections: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Pyotr–andrei-semyonovitch-zossimov (acquaintance), Katerina–Alyona (victim) and 2 more."
+    "summary": "New connections: Dmitri–Pyotr (acquaintance or formal relationship), Dmitri–Pyotr (acquaintance), Katerina–Alyona (victim)."
   },
   {
     "chapter": 13,
     "title": "Chapter 13",
     "snapshot": "013.snapshot.json",
     "delta": "013.delta.json",
-    "summary": "New characters: Natasha, Afrosinya, Alyosha. New connections: Katerina–natasha (Other), N/a–afrosinya (relationship type), mikhail-ivanovich–alyosha (community), Porfiry–Pyotr (community)."
+    "summary": "New connections: Porfiry–Pyotr (community)."
   },
   {
     "chapter": 14,
     "title": "Chapter 14",
     "snapshot": "014.snapshot.json",
     "delta": "014.delta.json",
-    "summary": "New characters: Polya, Lyova, Polenka Ivanovna, Lyubov Ivanovna, The Little Boy, Amalia Ivanovna and 3 more. New connections: Katerina–Polenka (mother), polya–lyova (sister), polenka-ivanovna–lyubov-ivanovna (sister), the-little-boy–Katerina (child) and 8 more."
+    "summary": "New characters: Polenka Marmeladov, Amalia Ivanovna. New connections: Katerina–Polenka (mother), Katerina–Amalia (other relationship), Praskovya–Alyona (parent), Dmitri–Ilya (acquaintance) and 1 more."
   },
   {
     "chapter": 15,
     "title": "Chapter 15",
     "snapshot": "015.snapshot.json",
     "delta": "015.delta.json",
-    "summary": "New characters: Pulcheria Alexandrovna Rascalnikov, Dmitriy Prokofych Razumihin, Andrei Semyonovich Luhov. New connections: pulcheria-alexandrovna-rascalnikov–Dmitri (friend), Pulcheria–Dmitri (acquaintances or friends), Dmitri–Pulcheria (friend), Dmitri–Marfa (friend) and 4 more."
+    "summary": "New connections: Pulcheria–Dmitri (acquaintances or friends), Dmitri–Pulcheria (friend), Dmitri–Marfa (friend), Avdotya–Dmitri (friend) and 1 more."
   },
   {
     "chapter": 16,
     "title": "Chapter 16",
     "snapshot": "016.snapshot.json",
     "delta": "016.delta.json",
-    "summary": "New characters: Unnamed Hypochondriac Man, Unnamed Little Boy, Pulcheria Alexandrovna Raskolnikov And Dunya Raskolnikov, Pulcheria Alexandrovna Dounia, Dounia Rodionovna Raskolnikov. New connections: Dmitri–Marfa (complicated acquaintance), unnamed-hypochondriac-man–unnamed-little-boy (unknown relationship), razumihin–Pyotr (acquaintance), razumihin–Porfiry (acquaintance) and 7 more."
+    "summary": "New connections: Dmitri–Marfa (complicated acquaintance), Katerina–Praskovya (acquaintance), Darya–Dmitri (friend), Darya–Rodion (sibling)."
   },
   {
     "chapter": 17,
     "title": "Chapter 17",
     "snapshot": "017.snapshot.json",
     "delta": "017.delta.json",
-    "summary": "New characters: Rodya Dmitrievich Raskolnikov, Daria Raskolnikov, Dounia Dmitrievna Raskolnikov. New connections: Avdotya–Andrei (friend), rodya-dmitrievich-raskolnikov–Pulcheria (mother), roderick-raskolnikov–daria-raskolnikov (sibling), dounia-dmitrievna-raskolnikov–Dmitri (friend/ally)."
+    "summary": "New connections: Avdotya–Andrei (friend)."
   },
   {
     "chapter": 18,
     "title": "Chapter 18",
     "snapshot": "018.snapshot.json",
     "delta": "018.delta.json",
-    "summary": "New characters: Daria Alexandrovna Raskolnikova, Unknown Gentleman. New connections: Pulcheria–Marmeladov (friend), daria-alexandrovna-raskolnikova–Pulcheria (daughter-mother), unknown-gentleman–Sonia (unknown observer), Dmitri–Sonia (acquaintances)."
+    "summary": "New connections: Pulcheria–Marmeladov (friend), Dmitri–Sonia (acquaintances)."
   },
   {
     "chapter": 19,
@@ -151,7 +151,7 @@
     "title": "Chapter 22",
     "snapshot": "022.snapshot.json",
     "delta": "022.delta.json",
-    "summary": "New characters: Darya Petrovna Resslich, Philip, Philip Ivanovich. New connections: Pulcheria–Arkady (adversarial), Arkady–N/a (mysterious relations), darya-petrovna-resslich–Katerina (mistreatment), Arkady–philip (indirect cause of distress) and 1 more."
+    "summary": "New connections: Pulcheria–Arkady (adversarial)."
   },
   {
     "chapter": 23,
@@ -165,14 +165,14 @@
     "title": "Chapter 24",
     "snapshot": "024.snapshot.json",
     "delta": "024.delta.json",
-    "summary": "New characters: God, Jesus Christ, Martha, Lazarus, Mary Magdalene, The Jews and 1 more. New connections: Marmeladov–god (reliance), Sonia–Lizaveta (friendship), jesus-christ–martha (teacher-student), martha–lazarus (sibling) and 3 more."
+    "summary": "New connections: Sonia–Lizaveta (friendship)."
   },
   {
     "chapter": 25,
     "title": "Chapter 25",
     "snapshot": "025.snapshot.json",
     "delta": "025.delta.json",
-    "summary": "New characters: Porfiry. New connections: Rodion–porfiry (interrogator)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 26,
@@ -186,35 +186,35 @@
     "title": "Chapter 27",
     "snapshot": "027.snapshot.json",
     "delta": "027.delta.json",
-    "summary": "New characters: Mikhail Ivanovich Terebyaev, Maria Terebyaeva, Madame Terebyaeva, Darya Nikolaevna Varents, Sofya Semyonovna Terebyaeva, Sofya Semyonovna Dunya Razumihin and 2 more. New connections: Pyotr–Amalia (respect), Katerina–mikhail-ivanovich-terebyaev (parent), maria-terebyaeva–madame-terebyaeva (parent), darya-nikolaevna-varents–sofya-semyonovna-terebyaeva (spouse) and 5 more."
+    "summary": "New connections: Pyotr–Amalia (respect), Pyotr–Sonia (other relationship), Andrei–Pyotr (other relationship)."
   },
   {
     "chapter": 28,
     "title": "Chapter 28",
     "snapshot": "028.snapshot.json",
     "delta": "028.delta.json",
-    "summary": "New characters: The Two Little Ones, Her Late Husband. New connections: Katerina–Andrei (acquaintance), Katerina–the-two-little-ones (caretaker), Rodion–Amalia (tenant/landlord), Katerina–her-late-husband (spouse)."
+    "summary": "New connections: Katerina–Andrei (acquaintance), Rodion–Amalia (tenant/landlord)."
   },
   {
     "chapter": 29,
     "title": "Chapter 29",
     "snapshot": "029.snapshot.json",
     "delta": "029.delta.json",
-    "summary": "New characters: Pavel Pavlovich Luzhin, Alyosha Lebeziatnikov, Aleksey Ivanovich Lebeziatnikov, Dmitriy Prokofyevich Luzhin, Semyon Polenka And Katerina Ivanovna. New connections: pavel-pavlovich-luzhin–Katerina (accuser-victim), Dmitri–alyosha-lebeziatnikov (associate), Rodion–aleksey-ivanovich-lebeziatnikov (friend), Sonia–dmitriy-prokofyevich-luzhin (victim/abuser) and 4 more."
+    "summary": "New connections: Andrei–Rodion (friend), Pyotr–Marmeladov (adversarial relationship)."
   },
   {
     "chapter": 30,
     "title": "Chapter 30",
     "snapshot": "030.snapshot.json",
     "delta": "030.delta.json",
-    "summary": "New characters: Maria Raskolnikov. New connections: Rodion–maria-raskolnikov (parent), aleksey-ivanovich-lebeziatnikov–Katerina (Acquaintance)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 31,
     "title": "Chapter 31",
     "snapshot": "031.snapshot.json",
     "delta": "031.delta.json",
-    "summary": "New characters: Aleksey Ivanovich Svidrigailov. New connections: aleksey-ivanovich-svidrigailov–Porfiry (colleagues)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 32,
@@ -228,7 +228,7 @@
     "title": "Chapter 33",
     "snapshot": "033.snapshot.json",
     "delta": "033.delta.json",
-    "summary": "New characters: Mr Dmitri Prokofych Zametov. New connections: mr-dmitri-prokofych-zametov–Porfiry (other relationship)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 34,
@@ -242,7 +242,7 @@
     "title": "Chapter 35",
     "snapshot": "035.snapshot.json",
     "delta": "035.delta.json",
-    "summary": "New characters: Dunya Razumikhina, Madame De Staël, Ilya And The Other Children Of Katerina Ivanovna, Dunya Svidrigailova. New connections: Marfa–alyosha (spouse), dunya-razumikhina–Arkady (betrothed), Dmitri–madame-de-staël (betrothed), mary-magdalene–Dmitri (romantic) and 2 more."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 36,
@@ -256,14 +256,14 @@
     "title": "Chapter 37",
     "snapshot": "037.snapshot.json",
     "delta": "037.delta.json",
-    "summary": "New characters: Kapernaumov Children, Madame Marmeladov, Semyon Marmeladov, Maria Petrovna Marmeladov, The Most Sensible Of Mothers, Her Children and 2 more. New connections: Katerina–kapernaumov-children (caregiver), Katerina–madame-marmeladov (family relation), Arkady–Dmitri (acquaintance), Arkady–Sonia (betrothed) and 4 more."
+    "summary": "New connections: Arkady–Dmitri (acquaintance), Arkady–Sonia (betrothed), Arkady–Alyona (family tie)."
   },
   {
     "chapter": 38,
     "title": "Chapter 38",
     "snapshot": "038.snapshot.json",
     "delta": "038.delta.json",
-    "summary": "New characters: Raskolnikovs Mother. New connections: Katerina–Porfiry (acquaintance), raskolnikovs-mother–Katerina (concern)."
+    "summary": "New connections: Katerina–Porfiry (acquaintance)."
   },
   {
     "chapter": 39,
@@ -277,13 +277,13 @@
     "title": "Chapter 40",
     "snapshot": "040.snapshot.json",
     "delta": "040.delta.json",
-    "summary": "New characters: The Authorities. New connections: Katerina–the-authorities (other relationship)."
+    "summary": "No new characters or connections in this chapter."
   },
   {
     "chapter": 41,
     "title": "Chapter 41",
     "snapshot": "041.snapshot.json",
     "delta": "041.delta.json",
-    "summary": "New characters: Fate, Raskolnikovs Acquaintances Or Other Unnamed Prisoners, The Prisoners, The Prisoners Wives And Sweethearts. New connections: Rodion–fate (abstract relationship), Katerina–raskolnikovs-acquaintances-or-other-unnamed-prisoners (other relationship), the-prisoners–Katerina (admiration), the-prisoners-wives-and-sweethearts–Katerina (friendship)."
+    "summary": "No new characters or connections in this chapter."
   }
 ]

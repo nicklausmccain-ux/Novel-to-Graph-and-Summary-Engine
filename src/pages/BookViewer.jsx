@@ -825,7 +825,7 @@ export default function BookViewer() {
             </button>
             {showGraphDetails && (
               <div className="graph-details-body">
-                {storySummary && graphSummary && (
+                {graphSummary && (
                   <p className="graph-summary-text">{graphSummary}</p>
                 )}
                 {highlights.length > 0 && (

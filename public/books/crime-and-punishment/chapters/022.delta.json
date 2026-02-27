@@ -1,35 +1,22 @@
 {
-  "new_nodes": [
-    "darya-petrovna-resslich",
-    "philip",
-    "philip-ivanovich"
-  ],
+  "new_nodes": [],
   "new_edges": [
     {
       "source": "pulcheria-alexandrovna-raskolnikova",
       "target": "arkady-svidrigailov",
       "label": "adversarial"
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "na",
-      "label": "mysterious relations"
-    },
-    {
-      "source": "darya-petrovna-resslich",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "mistreatment"
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "philip",
-      "label": "indirect cause of distress"
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "philip-ivanovich",
-      "label": "defensive connection"
     }
   ],
-  "summary": "New characters: Darya Petrovna Resslich, Philip, Philip Ivanovich. New connections: Pulcheria–Arkady (adversarial), Arkady–N/a (mysterious relations), darya-petrovna-resslich–Katerina (mistreatment), Arkady–philip (indirect cause of distress) and 1 more."
+  "summary": "New connections: Pulcheria–Arkady (adversarial).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: adversarial.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (11)",
+    "Key ties: Pulcheria–Arkady (adversarial)",
+    "Totals: 24 characters, 86 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

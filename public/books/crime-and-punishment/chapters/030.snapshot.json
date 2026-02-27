@@ -20,33 +20,9 @@
       "aliases": []
     },
     {
-      "id": "na",
-      "name": "N/a",
-      "description": "Raskolnikov, a young former student residing in the squalor of St. Petersburg, bears a gaunt and emaciated frame that hints at his inner turmoil and disquiet. His sharp, intelligent eyes, often clouded with a intense and feverish light, reveal a mind teetering on the brink of madness and philosophical existentialism. Clad in tattered clothing that matches his impoverished state, he often exudes an air of dishevelment and neglect. Raskolnikov's demeanor oscillates between brooding introspection and restless agitation, reflecting his complex nature and moral dilemmas. Beneath his gloomy exterior, there lies a fervent, albeit distorted, idealism that seeks to transcend conventional morality, marking him as a tragic figure ensnared in the throes of his own radical thoughts and guilt.",
-      "aliases": []
-    },
-    {
       "id": "alyona-ivanovna",
       "name": "Alyona Ivanovna",
       "description": "Alyona Ivanovna is portrayed as a gaunt, elderly pawnbroker, her sharp features and sunken cheeks etched with the lines of age and hardship. Her eyes, small and calculating, reflect a shrewdness that has been honed through years of bartering and haggling. Often dressed in tattered garments that betray her poverty, she emanates an air of greed and coldness, her demeanor as frigid as the coins she clutches. Alyona is not merely a figure of financial exchange; she personifies the oppressive weight of desperation and moral decay in the lives of those around her, embodying a blend of cunning intelligence and unyielding selfishness that ultimately defines her character in Dostoevsky's narrative.",
-      "aliases": []
-    },
-    {
-      "id": "mikhailovitch-raskolnikov",
-      "name": "Mikhailovitch Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "stout-man-with-a-grey-beard",
-      "name": "Stout Man With A Grey Beard",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "artisan",
-      "name": "Artisan",
-      "description": "",
       "aliases": []
     },
     {
@@ -71,12 +47,6 @@
       ]
     },
     {
-      "id": "aleksey-ivanovich-raskolnikov",
-      "name": "Aleksey Ivanovich Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "marmeladov",
       "name": "Marmeladov",
       "description": "Semyon Zakharovich Marmeladov is a broken man, embodying the despair and hopelessness of his circumstances. He is characterized by his disheveled appearance, with unkempt hair and a worn, gaunt face, reflecting the toll that poverty and alcoholism have taken on him. His eyes are troubled and glassy, filled with a deep melancholy and regret, often darting around as if seeking solace in the shadows. Dressed in tattered clothing that hangs loosely from his frail frame, he carries himself with a defeated demeanor, each movement a chronicling of his inner turmoil. Despite his desolate state, Marmeladov possesses a certain dignity, often speaking with dramatic fervor, recounting tales of his suffering and losses with a haunting eloquence. His character reveals a profound awareness of his own failings, as well as a desperate longing for redemption, making him a tragically sympathetic figure in Dostoevsky's narrative.",
@@ -86,24 +56,6 @@
         "Sofia Semyonovna Marmeladov",
         "Sonia Marmeladov"
       ]
-    },
-    {
-      "id": "semyon-zakharovich-lebeziatnikov",
-      "name": "Semyon Zakharovich Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "kokhlakov",
-      "name": "Kokhlakov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "kokhlakova",
-      "name": "Kokhlakova",
-      "description": "",
-      "aliases": []
     },
     {
       "id": "katerina-ivanovna-marmeladova",
@@ -116,12 +68,6 @@
         "Sofia Semyonovna Marmeladov",
         "Sonia Marmeladov"
       ]
-    },
-    {
-      "id": "ilya-sasha-and-kolya",
-      "name": "Ilya Sasha And Kolya",
-      "description": "",
-      "aliases": []
     },
     {
       "id": "andrei-semyonovich-lebeziatnikov",
@@ -139,18 +85,6 @@
       ]
     },
     {
-      "id": "liza-kolya-and-sanya",
-      "name": "Liza Kolya And Sanya",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "katherine-ivanovna-marmeladov",
-      "name": "Katherine Ivanovna Marmeladov",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "pyotr-petrovich-luzhin",
       "name": "Pyotr Petrovich Luzhin",
       "description": "Pyotr Petrovitch Luzhin is a middle-aged man of moderate stature, with a sharp, angular face that conveys a sense of cunning intelligence. His thinning hair, slicked back, frames a forehead that seems perpetually furrowed in thought. His eyes, small and piercing, gleam with a calculating light, revealing a personality that is both self-serving and manipulative. Luzhin’s demeanor is marked by an air of self-importance; he often walks with a slight swagger, as if he is acutely aware of his own superiority. Dressed in meticulous, albeit slightly outdated, clothing, he presents himself as an affluent bachelor looking to impress, yet his tendencies for tight-fistedness and egotism shine through, making him a figure of intrigue and disdain. His conversations are laced with condescension, revealing a man who measures others by their utility to him, embodying the very essence of moral bankruptcy in the pursuit of social status.",
@@ -165,60 +99,12 @@
       "aliases": []
     },
     {
-      "id": "mikhail-lunevich-lebeziatnikov",
-      "name": "Mikhail Lunevich Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "ivan-ivanitch-klopstock",
-      "name": "Ivan Ivanitch Klopstock",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "darya-frantsovna",
-      "name": "Darya Frantsovna",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "darya-pavlovna-raskolnikov",
       "name": "Darya Pavlovna Raskolnikov",
       "description": "Darya Pavlovna Raskolnikov, known affectionately as Dunya, embodies a complex blend of resilience and compassion. Her striking features include a delicate face framed by chestnut hair that whispers of her gentle nature. With a poised demeanor, she carries herself with a mixture of defiance and maternal warmth, often demonstrating a fierce loyalty to her family. Dunya's expressive eyes reveal her inner strength and unwavering determination, hinting at the depth of her character. In the face of adversity, she emerges as a pillar of integrity and dignity, steadfastly navigating the moral ambiguities around her with grace and courage.",
       "aliases": [
         "Darya Alexandrovna Raskolnikov"
       ]
-    },
-    {
-      "id": "amalia-fyodorovna-lebeziatnikov",
-      "name": "Amalia Fyodorovna Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "alexander-semyonovich-lebeziatnikov",
-      "name": "Alexander Semyonovich Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "kapernaumov",
-      "name": "Kapernaumov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "polenka-marmeladov",
-      "name": "Polenka Marmeladov",
-      "description": "Polenka Marmeladov, a tender soul ensnared by the claws of poverty, embodies the fragility and innocence of youth amidst despair. With her delicate frame and fair complexion, she possesses a strikingly ethereal beauty, accentuated by large, soulful eyes that seem to reflect the depths of her suffering. Her hair, golden and fine, cascades messily around her face, a testament to her humble circumstances. Polenka's demeanor is marked by a quiet resilience; she navigates her bleak reality with a grace that belies her age, carrying the burdens of her family with an almost unnatural strength. Yet, there is a haunting sadness that lingers in her smile, revealing the weight of the world upon her small shoulders. In her compassionate nature, she embodies both the gentleness of a child and the wisdom of one who has seen too much, making her a poignant figure in the tapestry of suffering that Dostoevsky intricately weaves in 'Crime and Punishment.'",
-      "aliases": []
-    },
-    {
-      "id": "kuzma-marmeladov",
-      "name": "Kuzma Marmeladov",
-      "description": "",
-      "aliases": []
     },
     {
       "id": "nastasya-petrovna",
@@ -237,12 +123,6 @@
       ]
     },
     {
-      "id": "vassily-ivanovitch-vahrushin",
-      "name": "Vassily Ivanovitch Vahrushin",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "arkady-svidrigailov",
       "name": "Arkady Svidrigailov",
       "description": "Arkady Ivanovich Svidrigailov is a figure steeped in ambiguity and complexity, marked by an unsettling charm that belies his dark inclinations. Tall and lanky, he possesses a gaunt frame, his pallid complexion adding to an aura of faded elegance. His eyes, sharp and penetrating, swirl with a mixture of cunning and a certain melancholic detachment, revealing the turbulent depths of his character. Svidrigailov exudes a nonchalant demeanor, often flashing a disarming smile that hints at his manipulative nature. His refined attire suggests a man with a taste for luxury, yet the disheveled edges of his clothing signify a life of inner turmoil and moral decay. Deeply enigmatic, he navigates the world with a blend of charisma and menace, embodying a haunting presence that leaves a lasting impression on those around him.",
@@ -254,18 +134,6 @@
       ]
     },
     {
-      "id": "darya-alexandrovna",
-      "name": "Darya Alexandrovna",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "duniya-romanovna-raskolnikov",
-      "name": "Duniya Romanovna Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "avdotya-romanovna-raskolnikova",
       "name": "Avdotya Romanovna Raskolnikova",
       "description": "Avdotya Romanovna, often referred to as Dunya, embodies the strength and resilience of the human spirit. She possesses a captivating beauty, characterized by her striking, dark hair that frames her face, and expressive eyes that reflect both determination and compassion. Her demeanor is a blend of grace and unwavering resolve, imbuing her with a dignified presence even in the direst of circumstances. Dunya is marked by her selflessness, often sacrificing her own happiness for the sake of her loved ones. Her steadfast moral compass and adamant conviction in justice set her apart, making her not only an emblem of familial loyalty but also a beacon of hope amidst the moral dilemmas that plague her world. Dunya is a character who, despite facing immense challenges, exemplifies strength and an unwavering will to uphold what is right.",
@@ -273,72 +141,6 @@
         "Avdotya Romanovna",
         "Dounia Raskolnikov"
       ]
-    },
-    {
-      "id": "rodya",
-      "name": "Rodya",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "darya-alexeyevna-raskolnikov",
-      "name": "Darya Alexeyevna Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "narrator",
-      "name": "Narrator",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pulkheria-alexandrovna-raskolnikov",
-      "name": "Pulkheria Alexandrovna Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "roderick-raskolnikov",
-      "name": "Roderick Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mr-luzhin",
-      "name": "Mr Luzhin",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "policeman",
-      "name": "Policeman",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-policeman",
-      "name": "The Policeman",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "sonya-semyonovna-marmeladov",
-      "name": "Sonya Semyonovna Marmeladov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "svidrigailovs-girl",
-      "name": "Svidrigailovs Girl",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "razumihin",
-      "name": "Razumihin",
-      "description": "",
-      "aliases": []
     },
     {
       "id": "dmitri-razumihin",
@@ -353,39 +155,9 @@
       "aliases": []
     },
     {
-      "id": "the-monastery",
-      "name": "The Monastery",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "lizaveta",
-      "name": "Lizaveta",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "painters",
-      "name": "Painters",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mikhail-ivanovich",
-      "name": "Mikhail Ivanovich",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mikolka-petrovič-svidrigaïlov",
-      "name": "Mikolka Petrovič Svidrigaïlov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "luisa-ivanovna",
-      "name": "Luisa Ivanovna",
-      "description": "",
+      "id": "nikodim-fomitch",
+      "name": "Nikodim Fomitch",
+      "description": "Nikodim Fomitch, an emblematic figure in Dostoevsky's 'Crime and Punishment', stands as a testament to the struggles of existential inquiry. Dressed in a threadbare coat that speaks to a life of frugality, his gaunt frame and weary visage reflect the weight of his convictions. His sharp, inquisitive eyes, often narrowed in scrutiny, reveal a mind that is both perceptive and skeptical, challenging those around him to reflect deeply upon their choices. Despite his unassuming appearance, a sense of moral fortitude emanates from him, as he navigates the murky waters of humanity with a blend of compassion and sternness. Fomitch embodies the tension between empathy and the harsh realities of the world, making him a formidable yet relatable character in Raskolnikov's tumultuous journey.",
       "aliases": []
     },
     {
@@ -395,201 +167,9 @@
       "aliases": []
     },
     {
-      "id": "mister-fyodor-tchebarov",
-      "name": "Mister Fyodor Tchebarov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "widow-zarnitsyn",
-      "name": "Widow Zarnitsyn",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "marfa-petrovna-zarnitsyn",
-      "name": "Marfa Petrovna Zarnitsyn",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "aleksey-ivanovich-tchebarov",
-      "name": "Aleksey Ivanovich Tchebarov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "aleksey-ivanovich",
-      "name": "Aleksey Ivanovich",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "nadine-ivanovna",
-      "name": "Nadine Ivanovna",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "karl-ivanovitch",
-      "name": "Karl Ivanovitch",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "liza",
-      "name": "Liza",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "henriette",
-      "name": "Henriette",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "unknown-lady",
-      "name": "Unknown Lady",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "nikodim-fomitch",
-      "name": "Nikodim Fomitch",
-      "description": "Nikodim Fomitch, an emblematic figure in Dostoevsky's 'Crime and Punishment', stands as a testament to the struggles of existential inquiry. Dressed in a threadbare coat that speaks to a life of frugality, his gaunt frame and weary visage reflect the weight of his convictions. His sharp, inquisitive eyes, often narrowed in scrutiny, reveal a mind that is both perceptive and skeptical, challenging those around him to reflect deeply upon their choices. Despite his unassuming appearance, a sense of moral fortitude emanates from him, as he navigates the murky waters of humanity with a blend of compassion and sternness. Fomitch embodies the tension between empathy and the harsh realities of the world, making him a formidable yet relatable character in Raskolnikov's tumultuous journey.",
-      "aliases": []
-    },
-    {
-      "id": "typhus",
-      "name": "Typhus",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pavel-ivanovich-pestryakov",
-      "name": "Pavel Ivanovich Pestryakov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "vladimir-andrei-and-sergei",
-      "name": "Vladimir Andrei And Sergei",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "makar-ivanovich-heruvimov",
-      "name": "Makar Ivanovich Heruvimov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "heruvimov",
-      "name": "Heruvimov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-narrator-likely-raskolnikov",
-      "name": "The Narrator Likely Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "sonia-d-marmeladov",
-      "name": "Sonia D Marmeladov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "andrei-zossimov",
-      "name": "Andrei Zossimov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-messenger-from-the-office",
-      "name": "The Messenger From The Office",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "merchant-shelopaev",
-      "name": "Merchant Shelopaev",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "general-mikhail-fyodorovich-kobelev",
-      "name": "General Mikhail Fyodorovich Kobelev",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "alexander-grigorievich-zametov",
-      "name": "Alexander Grigorievich Zametov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "aleksandr-grigorievič-zametov",
-      "name": "Aleksandr Grigorievič Zametov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pashenka",
-      "name": "Pashenka",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "natalya-yegorovna",
-      "name": "Natalya Yegorovna",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "andrei-zametov",
-      "name": "Andrei Zametov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pavlovna-pashenka",
-      "name": "Pavlovna Pashenka",
-      "description": "",
-      "aliases": []
-    },
-    {
       "id": "andrei-semyonovich-zossimov",
       "name": "Andrei Semyonovich Zossimov",
       "description": "Andrei Semyonovich Zossimov is a strikingly tall and lean figure, embodying an aura of introspection and quiet intelligence. With a sharp jawline and features that seem almost austere, his pallid complexion hints at both a reflective nature and an underlying melancholy. Zossimov’s dark, brooding eyes analyze the world around him with a discerning gaze, revealing an empathetic yet distant demeanor. Clad in modest attire, his presence is marked by a subtle elegance, often enhanced by a slight air of aloofness. This detached quality belies the depth of his character, as he is deeply considerate of those around him, particularly Raskolnikov, whom he observes with both concern and curiosity. His calm, rational approach to the chaos that surrounds him demonstrates a contrasting resilience, positioning him as a beacon of stability in a turbulent world.",
-      "aliases": []
-    },
-    {
-      "id": "ilya-petrovich-zametov",
-      "name": "Ilya Petrovich Zametov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mikhail-zametov",
-      "name": "Mikhail Zametov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "andrey-semyonovich-zossimov",
-      "name": "Andrey Semyonovich Zossimov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "koch-and-pestryakov",
-      "name": "Koch And Pestryakov",
-      "description": "",
       "aliases": []
     },
     {
@@ -599,345 +179,15 @@
       "aliases": []
     },
     {
-      "id": "mikhail-petrovich-pestryakov",
-      "name": "Mikhail Petrovich Pestryakov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mikhail-ivanovich-pestryakov",
-      "name": "Mikhail Ivanovich Pestryakov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "andrei-semyonovitch-zossimov",
-      "name": "Andrei Semyonovitch Zossimov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-old-pawnbroker",
-      "name": "The Old Pawnbroker",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mrs-raskolnikova",
-      "name": "Mrs Raskolnikova",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "natasha",
-      "name": "Natasha",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "afrosinya",
-      "name": "Afrosinya",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "alyosha",
-      "name": "Alyosha",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "polya",
-      "name": "Polya",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "lyova",
-      "name": "Lyova",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "polenka-ivanovna",
-      "name": "Polenka Ivanovna",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "lyubov-ivanovna",
-      "name": "Lyubov Ivanovna",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-little-boy",
-      "name": "The Little Boy",
-      "description": "",
+      "id": "polenka-marmeladov",
+      "name": "Polenka Marmeladov",
+      "description": "Polenka Marmeladov, a tender soul ensnared by the claws of poverty, embodies the fragility and innocence of youth amidst despair. With her delicate frame and fair complexion, she possesses a strikingly ethereal beauty, accentuated by large, soulful eyes that seem to reflect the depths of her suffering. Her hair, golden and fine, cascades messily around her face, a testament to her humble circumstances. Polenka's demeanor is marked by a quiet resilience; she navigates her bleak reality with a grace that belies her age, carrying the burdens of her family with an almost unnatural strength. Yet, there is a haunting sadness that lingers in her smile, revealing the weight of the world upon her small shoulders. In her compassionate nature, she embodies both the gentleness of a child and the wisdom of one who has seen too much, making her a poignant figure in the tapestry of suffering that Dostoevsky intricately weaves in 'Crime and Punishment.'",
       "aliases": []
     },
     {
       "id": "amalia-ivanovna",
       "name": "Amalia Ivanovna",
       "description": "Amalia Ivanovna, the landlady in Fyodor Dostoevsky's 'Crime and Punishment', is a forceful presence characterized by her imposing figure and sharp features. With her thickly lined face reflecting years of struggle and her dark hair pulled tightly back, she exudes an air of authority tinged with a hint of cruelty. Her piercing eyes, cold yet calculating, reveal a woman used to navigating the harsh realities of her role as both a landlord and a moral arbiter. Amalia's demeanor is often domineering, as she is relentless in her pursuit of rent and quick to reprimand those she considers beneath her. Despite her stern exterior, there are moments when her vulnerabilities shine through, particularly in her overwhelming sense of pride and social ambition, showcasing the complex layers of her character that resonate within the fabric of the novel.",
-      "aliases": []
-    },
-    {
-      "id": "the-little-ones",
-      "name": "The Little Ones",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "victor-zossimov",
-      "name": "Victor Zossimov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "daria-rodionovna-raskolnikov",
-      "name": "Daria Rodionovna Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pulcheria-alexandrovna-rascalnikov",
-      "name": "Pulcheria Alexandrovna Rascalnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "dmitriy-prokofych-razumihin",
-      "name": "Dmitriy Prokofych Razumihin",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "andrei-semyonovich-luhov",
-      "name": "Andrei Semyonovich Luhov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "unnamed-hypochondriac-man",
-      "name": "Unnamed Hypochondriac Man",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "unnamed-little-boy",
-      "name": "Unnamed Little Boy",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pulcheria-alexandrovna-raskolnikov-and-dunya-raskolnikov",
-      "name": "Pulcheria Alexandrovna Raskolnikov And Dunya Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pulcheria-alexandrovna-dounia",
-      "name": "Pulcheria Alexandrovna Dounia",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "dounia-rodionovna-raskolnikov",
-      "name": "Dounia Rodionovna Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "rodya-dmitrievich-raskolnikov",
-      "name": "Rodya Dmitrievich Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "daria-raskolnikov",
-      "name": "Daria Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "dounia-dmitrievna-raskolnikov",
-      "name": "Dounia Dmitrievna Raskolnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "daria-alexandrovna-raskolnikova",
-      "name": "Daria Alexandrovna Raskolnikova",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "unknown-gentleman",
-      "name": "Unknown Gentleman",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "darya-petrovna-resslich",
-      "name": "Darya Petrovna Resslich",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "philip",
-      "name": "Philip",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "philip-ivanovich",
-      "name": "Philip Ivanovich",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "god",
-      "name": "God",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "jesus-christ",
-      "name": "Jesus Christ",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "martha",
-      "name": "Martha",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "lazarus",
-      "name": "Lazarus",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mary-magdalene",
-      "name": "Mary Magdalene",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-jews",
-      "name": "The Jews",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "sonia",
-      "name": "Sonia",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "porfiry",
-      "name": "Porfiry",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mikhail-ivanovich-terebyaev",
-      "name": "Mikhail Ivanovich Terebyaev",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "maria-terebyaeva",
-      "name": "Maria Terebyaeva",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "madame-terebyaeva",
-      "name": "Madame Terebyaeva",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "darya-nikolaevna-varents",
-      "name": "Darya Nikolaevna Varents",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "sofya-semyonovna-terebyaeva",
-      "name": "Sofya Semyonovna Terebyaeva",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "sofya-semyonovna-dunya-razumihin",
-      "name": "Sofya Semyonovna Dunya Razumihin",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "mr-and-mrs-marmeladov",
-      "name": "Mr And Mrs Marmeladov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-orphans-of-katerina-ivanovna",
-      "name": "The Orphans Of Katerina Ivanovna",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "the-two-little-ones",
-      "name": "The Two Little Ones",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "her-late-husband",
-      "name": "Her Late Husband",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "pavel-pavlovich-luzhin",
-      "name": "Pavel Pavlovich Luzhin",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "alyosha-lebeziatnikov",
-      "name": "Alyosha Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "aleksey-ivanovich-lebeziatnikov",
-      "name": "Aleksey Ivanovich Lebeziatnikov",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "dmitriy-prokofyevich-luzhin",
-      "name": "Dmitriy Prokofyevich Luzhin",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "semyon-polenka-and-katerina-ivanovna",
-      "name": "Semyon Polenka And Katerina Ivanovna",
-      "description": "",
-      "aliases": []
-    },
-    {
-      "id": "maria-raskolnikov",
-      "name": "Maria Raskolnikov",
-      "description": "",
       "aliases": []
     }
   ],
@@ -951,30 +201,9 @@
     },
     {
       "source": "rodion-raskolnikov",
-      "target": "na",
-      "label": "Stranger",
-      "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Rodion Romanovich Raskolnikov and the unnamed stranger is fleeting yet impactful. Their brief interaction occurs when the drunken man shouts at Raskolnikov, referring to him as a 'German hatter', hinting at the societal disdain that Raskolnikov grapples with. The encounter captures a moment of alienation, underscored by Raskolnikov’s dark musings about the pallor of passers-by and the haunting memories of his grandmother. This stranger's inquiry about Raskolnikov emphasizes his growing notoriety and the existential weight he carries, reflecting the themes of isolation and moral ambiguity that pervade his journey. Thus, this moment serves as a catalyst for Raskolnikov's internal conflict, revealing the broader societal tensions that influence his psyche.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
       "target": "alyona-ivanovna",
       "label": "unknown relationship",
       "description": "The relationship between Rodion Romanovich Raskolnikov and Alyona Ivanovna is primarily predatory, characterized by Raskolnikov's intent to exploit the old pawnbroker for her wealth. Their interactions begin with Raskolnikov pawning a watch, indicative of a transactional dynamic rather than a personal connection. As Raskolnikov grapples with his deteriorating circumstances, he contemplates murder, believing Alyona's life holds little value in comparison to the greater good he envisions for society. This culminates in a violent act where he kills Alyona with her own axe, a grim marker of his moral degradation. Their relationship is steeped in themes of desperation, greed, and the complexities of moral justification, underscoring the tension between Raskolnikov’s philosophical justifications and the stark reality of his actions.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "mikhailovitch-raskolnikov",
-      "label": "family tie",
-      "description": "Raskolnikov mentions that the watch was his father's.",
-      "weight": 1.0
-    },
-    {
-      "source": "stout-man-with-a-grey-beard",
-      "target": "artisan",
-      "label": "unknown relationship",
-      "description": "The stout man is drunk and asleep while the artisan is sitting before a pot of beer, but no specific relationship or interaction is described between them.",
       "weight": 1.0
     },
     {
@@ -985,31 +214,10 @@
       "weight": 1.0
     },
     {
-      "source": "aleksey-ivanovich-raskolnikov",
-      "target": "na",
-      "label": "observer",
-      "description": "The retired government clerk was looking round at the company and appeared to be in some agitation.",
-      "weight": 1.0
-    },
-    {
       "source": "marmeladov",
       "target": "rodion-raskolnikov",
       "label": "other",
       "description": "The relationship between Sofia Semyonovna Marmeladov and Rodion Romanovich Raskolnikov is deeply rooted in compassion and emotional dependency, marked by a profound connection that transcends mere friendship. Sonia, embodying unwavering support, offers Raskolnikov solace amidst his turmoil, evident in her silent yet inviting demeanor and her heartfelt desire to read to him. Their interactions reveal a tender bond, as Sonia's joyful reception of Raskolnikov and her insistence on prayer highlight her genuine care for his wellbeing. The evolution of their relationship is shaped by Raskolnikov's initial indifference giving way to a reliance on Sonia's visits, transforming from a reluctant acquaintance to an essential presence in his solitary life. Key moments, such as Sonia's public confession of faith through reading and her quiet yet impactful gestures of affection, symbolize their intertwining fates, reflecting themes of redemption and the search for meaning in the face of suffering.",
-      "weight": 1.0
-    },
-    {
-      "source": "marmeladov",
-      "target": "semyon-zakharovich-lebeziatnikov",
-      "label": "conflict",
-      "description": "The unnamed drunk man mentions that 'Mr. Lebeziatnikov gave my wife a beating.'",
-      "weight": 1.0
-    },
-    {
-      "source": "kokhlakov",
-      "target": "kokhlakova",
-      "label": "spouse",
-      "description": "The unnamed drunk man states, 'my wife is a very different matter from me!'",
       "weight": 1.0
     },
     {
@@ -1027,31 +235,10 @@
       "weight": 1.0
     },
     {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "ilya-sasha-and-kolya",
-      "label": "parent",
-      "description": "We have three little children and Katerina Ivanovna is at work from morning till night...",
-      "weight": 1.0
-    },
-    {
       "source": "andrei-semyonovich-lebeziatnikov",
       "target": "marfa-petrovna-svidrigailova",
       "label": "abuser",
       "description": "In the novel, the relationship between Andrei Semyonovich Lebeziatnikov and Marfa Petrovna is marked by tension and rudeness, reflecting the broader themes of social hierarchy and disconnection. Lebeziatnikov often exhibits a dismissive attitude towards Marfa, undermining her status and showcasing his self-importance. Their interactions, particularly during moments of conflict over societal views and personal beliefs, highlight Marfa's resilience in the face of his condescension. Key moments include his blunt remarks that reveal his contempt, which only deepen her resolve to assert her dignity. The emotional undertone of their dynamic conveys a struggle against both personal and social constraints, symbolizing the clash between old values and emerging ideologies.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "liza-kolya-and-sanya",
-      "label": "parent",
-      "description": "She was left at his death with three children",
-      "weight": 1.0
-    },
-    {
-      "source": "katherine-ivanovna-marmeladov",
-      "target": "marmeladov",
-      "label": "spouse",
-      "description": "I, being at the time a widower, with a daughter of fourteen, offered her my hand",
       "weight": 1.0
     },
     {
@@ -1076,59 +263,10 @@
       "weight": 1.0
     },
     {
-      "source": "rodion-raskolnikov",
-      "target": "mikhail-lunevich-lebeziatnikov",
-      "label": "acquaintance",
-      "description": "'she had read with great interest a book she got through Mr. Lebeziatnikov'",
-      "weight": 1.0
-    },
-    {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "ivan-ivanitch-klopstock",
-      "label": "employer/employee",
-      "description": "'he has not to this day paid her for the half-dozen linen shirts she made him'",
-      "weight": 1.0
-    },
-    {
-      "source": "darya-frantsovna",
-      "target": "marmeladov",
-      "label": "antagonistic relationship",
-      "description": "Darya Frantsovna is characterized as a woman of evil character and has tried to get at Sonia, indicating a negative or antagonistic relationship.",
-      "weight": 1.0
-    },
-    {
       "source": "darya-pavlovna-raskolnikov",
       "target": "katerina-ivanovna-marmeladova",
       "label": "antagonistic",
       "description": "Marmeladov indicates that Darya Frantsovna had a leading part in forcing his daughter Sofya Semyonovna to take a yellow ticket, suggesting an adversarial relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "amalia-fyodorovna-lebeziatnikov",
-      "label": "other",
-      "description": "Marmeladov states that Amalia Fyodorovna would not hear of Sofya living with them, indicating a strained relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "alexander-semyonovich-lebeziatnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "other",
-      "description": "Marmeladov notes that Mr. Lebeziatnikov’s trouble with Katerina Ivanovna was on Sonia's account, implying a complicated relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "kapernaumov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "landlord-tenant",
-      "description": "Marmeladov mentions that Sonia has a room at the Kapernaumovs', indicating a landlord-tenant relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "polenka-marmeladov",
-      "target": "kuzma-marmeladov",
-      "label": "sibling",
-      "description": "The girl of nine years old was trying to comfort her brother, suggesting a sibling relationship.",
       "weight": 1.0
     },
     {
@@ -1167,13 +305,6 @@
       "weight": 1.0
     },
     {
-      "source": "pulcheria-alexandrovna-raskolnikova",
-      "target": "vassily-ivanovitch-vahrushin",
-      "label": "friend",
-      "description": "He is a kind-hearted man and was a friend of your father's too.",
-      "weight": 1.0
-    },
-    {
       "source": "marfa-petrovna-svidrigailova",
       "target": "rodion-raskolnikov",
       "label": "sibling",
@@ -1192,20 +323,6 @@
       "target": "marfa-petrovna-svidrigailova",
       "label": "antagonist",
       "description": "The relationship between Darya Alexandrovna Raskolnikov and Marfa Petrovna Svidrigailov is marked by intense conflict and rivalry. Marfa, possessing a domineering nature, does not hesitate to confront Dounia, exemplified by her striking Dounia and shouting at her for an extended period, revealing her volatile temperament. This moment underscores Marfa's desire to control and intimidate, positioning her as an antagonist in Dounia's life. Their interactions are charged with tension, as Dounia represents resilience in the face of Marfa's aggression. The emotional weight of their encounters highlights themes of power dynamics and the struggle for autonomy, emphasizing the personal turmoil resulting from Marfa's attempts to assert her influence over Dounia.",
-      "weight": 1.0
-    },
-    {
-      "source": "darya-alexandrovna",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "subject of conflict",
-      "description": "Marfa Petrovna overheard her husband imploring Dounia in the garden.",
-      "weight": 1.0
-    },
-    {
-      "source": "duniya-romanovna-raskolnikov",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "sibling connection",
-      "description": "You know Dounia, of course; you know how clever she is and what a strong will she has.",
       "weight": 1.0
     },
     {
@@ -1251,27 +368,6 @@
       "weight": 1.0
     },
     {
-      "source": "rodya",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "acquaintance",
-      "description": "beware of judging him too hastily and severely, as your way is, if there is anything you do not like in him at first sight.",
-      "weight": 1.0
-    },
-    {
-      "source": "darya-alexeyevna-raskolnikov",
-      "target": "rodion-raskolnikov",
-      "label": "sibling",
-      "description": "The narrator mentions, 'I said so afterwards to Dounia' indicating a sibling relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "narrator",
-      "label": "other relationship",
-      "description": "Pyotr Petrovitch is described as potentially useful to the narrator: 'he may be of the greatest use to you'.",
-      "weight": 1.0
-    },
-    {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "pyotr-petrovich-luzhin",
       "label": "romantic connection",
@@ -1283,13 +379,6 @@
       "target": "avdotya-romanovna-raskolnikova",
       "label": "self",
       "description": "Dounia is dreaming of nothing else.",
-      "weight": 1.0
-    },
-    {
-      "source": "pulkheria-alexandrovna-raskolnikov",
-      "target": "rodion-raskolnikov",
-      "label": "parent",
-      "description": "For my own sake, too, would rather be quite independent, so long as I have a crust of bread of my own, and such children as you and Dounia.",
       "weight": 1.0
     },
     {
@@ -1314,24 +403,10 @@
       "weight": 1.0
     },
     {
-      "source": "roderick-raskolnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "sibling",
-      "description": "Dounia your sister, Rodya; love her as she loves you...",
-      "weight": 1.0
-    },
-    {
       "source": "pulcheria-alexandrovna-raskolnikova",
       "target": "katerina-ivanovna-marmeladova",
       "label": "mother",
       "description": "She is an angel and you, Rodya, you are everything to us...",
-      "weight": 1.0
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "mr-luzhin",
-      "label": "romantic relationship",
-      "description": "Raskolnikov expresses his understanding of Dounia's intentions, stating, 'you have determined to marry a sensible business man...', implying that Dounia is engaged to Mr. Luzhin.",
       "weight": 1.0
     },
     {
@@ -1391,41 +466,6 @@
       "weight": 1.0
     },
     {
-      "source": "policeman",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "other",
-      "description": "The policeman expresses concern for Missy, saying, 'Ah, the shameful things that are done in the world nowadays, God have mercy on us!'",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "the-policeman",
-      "label": "other",
-      "description": "Missy says, 'Go away! They won't let me alone,' showing her distress and relationship with those trying to help her, which includes the policeman.",
-      "weight": 1.0
-    },
-    {
-      "source": "sonya-semyonovna-marmeladov",
-      "target": "katherine-ivanovna-marmeladov",
-      "label": "family",
-      "description": "...then her mother will find out... she will give her a beating, a horrible, shameful beating and then maybe, turn her out of doors...",
-      "weight": 1.0
-    },
-    {
-      "source": "svidrigailovs-girl",
-      "target": "darya-pavlovna-raskolnikov",
-      "label": "possible acquaintance",
-      "description": "...the Darya Frantsovnas will get wind of it, and the girl will soon be slipping out...",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "razumihin",
-      "label": "friendship",
-      "description": "Razumihin was one of his old comrades at the university.",
-      "weight": 1.0
-    },
-    {
       "source": "dmitri-razumihin",
       "target": "rodion-raskolnikov",
       "label": "friend",
@@ -1468,90 +508,6 @@
       "weight": 1.0
     },
     {
-      "source": "alyona-ivanovna",
-      "target": "the-monastery",
-      "label": "other",
-      "description": "All the money was left to a monastery in the province of N——, that prayers might be said for her in perpetuity.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "lizaveta",
-      "label": "acquaintance",
-      "description": "What the student expressed most surprise and amusement about was the fact that Lizaveta was continually with child.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "painters",
-      "label": "indirect relationship",
-      "description": "The unnamed male character is aware that the painters had just worked on the flat where the events are occurring.",
-      "weight": 1.0
-    },
-    {
-      "source": "mikhail-ivanovich",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "professional relationship",
-      "description": "The head clerk was attending to the lady in mourning, indicating a professional or transactional relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "mikolka-petrovič-svidrigaïlov",
-      "target": "luisa-ivanovna",
-      "label": "professional relationship",
-      "description": "The head clerk casually told Luise Ivanovna that she could sit down, indicating a professional or service-oriented relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "ilya-petrovitch",
-      "target": "mikhail-ivanovich",
-      "label": "appreciative",
-      "description": "Luise Ivanovna responded with 'Ich danke', showing appreciation towards the head clerk.",
-      "weight": 1.0
-    },
-    {
-      "source": "mister-fyodor-tchebarov",
-      "target": "widow-zarnitsyn",
-      "label": "landlady-tenant",
-      "description": "'But she is my landlady!'",
-      "weight": 1.0
-    },
-    {
-      "source": "marfa-petrovna-zarnitsyn",
-      "target": "aleksey-ivanovich-tchebarov",
-      "label": "landlady-tenant",
-      "description": "'paid over by the widow Zarnitsyn to one Mr. Tchebarov.'",
-      "weight": 1.0
-    },
-    {
-      "source": "aleksey-ivanovich",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "authority-respondent",
-      "description": "'You shameful hussy!' he shouted suddenly at the top of his voice.'",
-      "weight": 1.0
-    },
-    {
-      "source": "nadine-ivanovna",
-      "target": "karl-ivanovitch",
-      "label": "acquaintance",
-      "description": "Karl is mentioned as the one who was pulled away from the window by Ilya Petrovitch, indicating that the lady interacts with Karl in some capacity.",
-      "weight": 1.0
-    },
-    {
-      "source": "liza",
-      "target": "henriette",
-      "label": "acquaintance",
-      "description": "Henriette was hit in the eye by the man, suggesting a relationship where Henriette is connected to the lady through the events described.",
-      "weight": 1.0
-    },
-    {
-      "source": "ilya-petrovitch",
-      "target": "unknown-lady",
-      "label": "adversarial",
-      "description": "Ilya Petrovitch is described as enraged and responding violently to the lady's account, indicating an antagonistic dynamic.",
-      "weight": 1.0
-    },
-    {
       "source": "nikodim-fomitch",
       "target": "ilya-petrovitch",
       "label": "professional",
@@ -1563,13 +519,6 @@
       "target": "rodion-raskolnikov",
       "label": "acquaintance",
       "description": "The relationship between Rodion Romanovich Raskolnikov and Nikodim Fomitch is marked by a complex interplay of guilt and moral tension. Raskolnikov, burdened by the weight of his actions, considers approaching Nikodim to reveal his secrets, illustrating his internal struggle and desire for redemption. When Nikodim stands before him, his intense gaze reflects an understanding that transcends mere acquaintance; he embodies societal judgment and the law. Their interactions reveal key moments of Raskolnikov’s isolation and fear as he senses Nikodim’s scrutiny, which serves as a constant reminder of his turmoil. This dynamic underscores themes of guilt, conscience, and the search for absolution, ultimately symbolizing the conflict between Raskolnikov’s inner desires and the external moral expectations from society.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "typhus",
-      "label": "death relationship",
-      "description": "The girl, who Raskolnikov had a connection with, died of typhus, Raskolnikov states, 'the girl died of typhus.'",
       "weight": 1.0
     },
     {
@@ -1587,27 +536,6 @@
       "weight": 1.0
     },
     {
-      "source": "pavel-ivanovich-pestryakov",
-      "target": "vladimir-andrei-and-sergei",
-      "label": "friends",
-      "description": "Pestryakov was seen at the gate walking with three friends, implying a friendship.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "makar-ivanovich-heruvimov",
-      "label": "professional relationship",
-      "description": "Here are two signatures of the German text — in my opinion, the crudest charlatanism; it discusses the question, 'Is woman a human being?' And, of course, triumphantly proves that she is. Heruvimov is going to bring out this work as a contribution to the woman question; I am translating it...",
-      "weight": 1.0
-    },
-    {
-      "source": "heruvimov",
-      "target": "the-narrator-likely-raskolnikov",
-      "label": "financial arrangement",
-      "description": "...I encourage him. Heruvimov pays me six roubles the signature, it works out to about fifteen roubles for the job...",
-      "weight": 1.0
-    },
-    {
       "source": "dmitri-prokofich-razumihin",
       "target": "alyona-ivanovna",
       "label": "collaborators",
@@ -1615,31 +543,10 @@
       "weight": 1.0
     },
     {
-      "source": "marfa-petrovna-svidrigailova",
-      "target": "sonia-d-marmeladov",
-      "label": "parent-child",
-      "description": "with a girl, probably her daughter wearing a hat",
-      "weight": 1.0
-    },
-    {
       "source": "ilya-petrovitch",
       "target": "alyona-ivanovna",
       "label": "other",
       "description": "Ilya Petrovitch here and beating the landlady! He is kicking her, banging her head against the steps—that's clear, that can be told from the sounds, from the cries and the thuds.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "andrei-zossimov",
-      "label": "acquaintance",
-      "description": "Razumihin mentions that Zossimov came to see Raskolnikov, showing familiarity with Zossimov's role as a doctor.",
-      "weight": 1.0
-    },
-    {
-      "source": "the-messenger-from-the-office",
-      "target": "merchant-shelopaev",
-      "label": "employer-employee",
-      "description": "The messenger explicitly states he is from the office of merchant Shelopaev, indicating an employment relationship.",
       "weight": 1.0
     },
     {
@@ -1657,59 +564,10 @@
       "weight": 1.0
     },
     {
-      "source": "rodion-raskolnikov",
-      "target": "general-mikhail-fyodorovich-kobelev",
-      "label": "unknown",
-      "description": "Nastasya mentions that General Kobelev was not found while she was at the address bureau, showing Rodya’s connection to him but lacking clarity in relationship type.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "alexander-grigorievich-zametov",
-      "label": "known acquaintance",
-      "description": "Rodya is aware of Mr. Zametov as one of the people he became acquainted with.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "aleksandr-grigorievič-zametov",
-      "label": "known acquaintance",
-      "description": "Rodya mentions the head clerk in the police office, confirming his awareness of Aleksandr Grigorievič.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "pashenka",
-      "label": "known acquaintance",
-      "description": "Rodya’s understanding of local figures includes Pashenka.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "natalya-yegorovna",
-      "label": "relation",
-      "description": "...the promise of marriage when her daughter, Natalya Yegorovna, was alive?",
-      "weight": 1.0
-    },
-    {
       "source": "dmitri-prokofich-razumihin",
       "target": "praskovya-pavlovna",
       "label": "relation",
       "description": "Dmitri Prokofych Razumihin and Praskovya Pavlovna share a complex relationship that dances between camaraderie and subtle tension. Razumihin, often seen as kind-hearted and perceptive, recognizes Praskovya's intelligence beneath her seemingly foolish exterior, offering a nuanced appreciation of her character. Their interactions reveal moments of support, particularly when Razumihin endeavors to aid Raskolnikov, showcasing Praskovya's loyalty and practicality. However, humorous banter and misunderstandings often surface, highlighting a playful yet earnest dynamic. The contrast between Razumihin's open-mindedness and Praskovya's more traditional views creates a tension that underlines broader themes of social class and gender roles within the narrative. Their relationship ultimately reflects a blend of respect and comradery, with emotional undertones that represent the struggle for understanding amidst societal expectations.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "andrei-zametov",
-      "label": "friend",
-      "description": "Razumihin states that now he and Zametov are friends, as they see each other almost every day.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "pavlovna-pashenka",
-      "label": "acquaintance",
-      "description": "And I will tell Pashenka what is wanted myself.",
       "weight": 1.0
     },
     {
@@ -1721,23 +579,9 @@
     },
     {
       "source": "dmitri-prokofich-razumihin",
-      "target": "ilya-petrovich-zametov",
-      "label": "friend",
-      "description": "Razumihin refers to Zametov as a 'delightful person.'",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
       "target": "dmitri-razumihin",
       "label": "friend",
       "description": "Dmitri Razumihin and Dmitri Prokofych Razumihin share a bond characterized by deep friendship and unwavering loyalty. Throughout the story, Razumihin emerges as a steadfast ally to Raskolnikov, demonstrating compassion and understanding in times of turmoil. Key moments, such as his willingness to support Raskolnikov despite the latter's erratic behavior, highlight Razumihin's commitment to friendship and his genuine concern for Raskolnikov's well-being. Their relationship embodies themes of redemption and moral struggle, with Razumihin serving as a beacon of hope against Raskolnikov's internal chaos. This dynamic ultimately underscores the importance of human connection and the power of empathy in overcoming despair.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "mikhail-zametov",
-      "label": "acquaintance",
-      "description": "Razumihin's comments about not caring if Zametov takes bribes shows familiarity.",
       "weight": 1.0
     },
     {
@@ -1755,24 +599,10 @@
       "weight": 1.0
     },
     {
-      "source": "dmitri-razumihin",
-      "target": "andrey-semyonovich-zossimov",
-      "label": "friendship",
-      "description": "Zossimov looked curiously at Raskolnikov.",
-      "weight": 1.0
-    },
-    {
       "source": "katerina-ivanovna-marmeladova",
       "target": "dmitri-razumihin",
       "label": "friendship",
       "description": "Zossimov observed, 'But I say, Razumihin, I wonder at you.'",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "koch-and-pestryakov",
-      "label": "accusers",
-      "description": "Razumihin argues that Koch and Pestryakov were labeled as the murderers based on illogical reasoning.",
       "weight": 1.0
     },
     {
@@ -1805,20 +635,6 @@
     },
     {
       "source": "dmitri-prokofich-razumihin",
-      "target": "mikhail-petrovich-pestryakov",
-      "label": "Other",
-      "description": "Razumihin includes Pestryakov in the context of discussing evidence regarding Nikolay.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "mikhail-ivanovich-pestryakov",
-      "label": "acquaintance",
-      "description": "Razumihin references Pestryakov as he discusses the scenario with an unnamed character.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
       "target": "pyotr-petrovich-luzhin",
       "label": "acquaintance or formal relationship",
       "description": "Dmitri Prokofych Razumihin and Pyotr Petrovitch Luzhin share a tense and complex relationship defined by conflicting ideals and social standings. Razumihin, a compassionate and open-hearted character, often finds himself at odds with the manipulative and self-serving Luzhin, who seeks to assert his intellectual superiority. Their interactions illustrate a clash of values; Razumihin's genuine concern for others starkly contrasts Luzhin's cold pragmatism. A key moment occurs when Razumihin directly addresses Luzhin, inviting him to engage while subtly revealing his disapproval of Luzhin's intentions toward Raskolnikov and his friends. This encounter encapsulates the emotional undercurrents of suspicion and rivalry, emphasizing themes of morality and the struggle between empathy and ambition.",
@@ -1832,52 +648,10 @@
       "weight": 1.0
     },
     {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "andrei-semyonovitch-zossimov",
-      "label": "acquaintance",
-      "description": "Pyotr Petrovitch addresses Zossimov, asking if he would admit to the truth of his statements.",
-      "weight": 1.0
-    },
-    {
       "source": "katerina-ivanovna-marmeladova",
       "target": "alyona-ivanovna",
       "label": "victim",
       "description": "You are talking of the murder of the old pawnbroker, I believe?",
-      "weight": 1.0
-    },
-    {
-      "source": "pyotr-petrovich-luzhin",
-      "target": "the-old-pawnbroker",
-      "label": "victim",
-      "description": "...the fact that crime has been greatly on the increase among the lower classes during the last five years...",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "mrs-raskolnikova",
-      "label": "indirect relationship",
-      "description": "Luzhin suspects Raskolnikov's mother of misunderstanding him when he says, 'your mamma...She seemed to me in other things... of a somewhat high‐flown and romantic way of thinking.'",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "natasha",
-      "label": "Other",
-      "description": "The young man with a barrel organ was standing in front of the girl and was grinding out a very sentimental song while she sang in hope of getting a copper from the shop.",
-      "weight": 1.0
-    },
-    {
-      "source": "na",
-      "target": "afrosinya",
-      "label": "relationship type",
-      "description": "The drowning woman is referred to as 'our Afrosinya' by a woman crying nearby, suggesting a communal relationship or affection towards her.",
-      "weight": 1.0
-    },
-    {
-      "source": "mikhail-ivanovich",
-      "target": "alyosha",
-      "label": "community",
-      "description": "The workman observes Raskolnikov and comments on him being strange.",
       "weight": 1.0
     },
     {
@@ -1895,38 +669,10 @@
       "weight": 1.0
     },
     {
-      "source": "polya",
-      "target": "lyova",
-      "label": "sister",
-      "description": "Polenka was undressing her little brother, who had been unwell all day and was going to bed.",
-      "weight": 1.0
-    },
-    {
-      "source": "polenka-ivanovna",
-      "target": "lyubov-ivanovna",
-      "label": "sister",
-      "description": "Polenka and the little girl were waiting for her turn to get undressed to go to bed.",
-      "weight": 1.0
-    },
-    {
-      "source": "the-little-boy",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "child",
-      "description": "The little boy, who is not named but is presumably Katerina Ivanovna's child based on context, shows concern for Katerina Ivanovna's actions and encourages her to hurry, indicating a familial connection.",
-      "weight": 1.0
-    },
-    {
       "source": "katerina-ivanovna-marmeladova",
       "target": "amalia-ivanovna",
       "label": "other relationship",
       "description": "The relationship between Amalia Ivanovna and Katerina Ivanovna is marked by tension and class conflict, with Amalia asserting her authority as a landlady over Katerina. Their interactions are characterized by Amalia's insistence on proper titles and her affronted pride, especially after Katerina's laughter, which Amalia perceives as disrespectful. Amalia's pointed remarks about Katerina's father serve to elevate her own status while diminishing Katerina's, highlighting the power dynamics in their landlord-tenant relationship. Key moments include Amalia's assertion of her social importance and Katerina's resistance, defining their exchanges as a rivalry steeped in issues of identity and societal standing.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "the-little-ones",
-      "label": "parent",
-      "description": "pointing to the little ones.",
       "weight": 1.0
     },
     {
@@ -1937,20 +683,6 @@
       "weight": 1.0
     },
     {
-      "source": "rodion-raskolnikov",
-      "target": "razumihin",
-      "label": "friend",
-      "description": "He easily found Razumihin; the new lodger was already.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "victor-zossimov",
-      "label": "acquaintance",
-      "description": "Razumihin mentioned fetching Zossimov to Raskolnikov.",
-      "weight": 1.0
-    },
-    {
       "source": "dmitri-prokofich-razumihin",
       "target": "ilya-petrovitch",
       "label": "acquaintance",
@@ -1958,24 +690,10 @@
       "weight": 1.0
     },
     {
-      "source": "daria-rodionovna-raskolnikov",
-      "target": "rodion-raskolnikov",
-      "label": "sibling",
-      "description": "A n d  s e i z i n g  D o u n i a  b y  t h e  a r m s o  t h a t  h e  a l m o s t  dislocated it...",
-      "weight": 1.0
-    },
-    {
       "source": "pulcheria-alexandrovna-raskolnikova",
       "target": "darya-pavlovna-raskolnikov",
       "label": "parent to child",
       "description": "The relationship between Darya Alexandrovna Raskolnikov and Pulcheria Alexandrovna Raskolnikov is marked by deep affection and mutual dependence, showcasing a bond of a loving mother and her devoted daughter. Their interactions often reflect a nurturing dynamic, highlighted by moments of embrace and warmth, such as when Dounia kisses her mother, reinforcing their emotional connection. Key events, like Dounia’s sacrifices for her family and her steadfast support of Pulcheria in turbulent times, reveal the strength of their relationship amidst societal pressures. Thematic elements of love and sacrifice permeate their interactions, illustrating how their familial ties endure challenges, symbolizing the hope and resilience that sustains them.",
-      "weight": 1.0
-    },
-    {
-      "source": "pulcheria-alexandrovna-rascalnikov",
-      "target": "dmitri-razumihin",
-      "label": "friend",
-      "description": "Pulcheria Alexandrovna was beginning, once more pressing Razumihin's hands, thanking him for his kindness.",
       "weight": 1.0
     },
     {
@@ -2007,24 +725,10 @@
       "weight": 1.0
     },
     {
-      "source": "dmitriy-prokofych-razumihin",
-      "target": "marfa-petrovna-svidrigailova",
-      "label": "friendly",
-      "description": "Razumihin speaks sincerely and feels he must defend Dounia's character.",
-      "weight": 1.0
-    },
-    {
       "source": "dmitri-razumihin",
       "target": "andrei-semyonovich-zossimov",
       "label": "friendship",
       "description": "Dmitri Razumihin and Andrei Semyonovich Zossimov share a strong camaraderie, rooted in mutual respect and concern for one another's well-being. Their bond is characterized by Razumihin's unwavering support for Zossimov, especially in times of crisis, reflecting a deep friendship forged through shared struggles. Key moments in the narrative highlight their interactions, such as Razumihin's attempts to lift Zossimov’s spirits during his moments of despondency, which symbolizes the theme of loyalty amidst hardship. As Zossimov grapples with the moral complexities of their world, Razumihin serves as a grounding force, illustrating a juxtaposition between despair and the hope found in companionship, ultimately presenting their relationship as a beacon of solidarity in the tumult of their lives.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-razumihin",
-      "target": "andrei-semyonovich-luhov",
-      "label": "friend",
-      "description": "The speaker encourages the doctor to interact with a woman, suggesting he could sit beside her and talk, indicating a friendship or camaraderie between the speaker and the doctor.",
       "weight": 1.0
     },
     {
@@ -2035,52 +739,10 @@
       "weight": 1.0
     },
     {
-      "source": "unnamed-hypochondriac-man",
-      "target": "unnamed-little-boy",
-      "label": "unknown relationship",
-      "description": "A hypochondriac, a man of forty, cut the throat of a little boy of eight.",
-      "weight": 1.0
-    },
-    {
-      "source": "razumihin",
-      "target": "pyotr-petrovich-luzhin",
-      "label": "acquaintance",
-      "description": "Good‐bye; thank your Praskovya Pavlovna from me for my night's lodging.",
-      "weight": 1.0
-    },
-    {
-      "source": "razumihin",
-      "target": "porfiry-petrovich",
-      "label": "acquaintance",
-      "description": "He shouldn't have told all that last night. He is an awful chatterbox!",
-      "weight": 1.0
-    },
-    {
       "source": "katerina-ivanovna-marmeladova",
       "target": "praskovya-pavlovna",
       "label": "acquaintance",
       "description": "thank your Praskovya Pavlovna from me for my night's lodging.",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "pulcheria-alexandrovna-raskolnikov-and-dunya-raskolnikov",
-      "label": "unknown relationship",
-      "description": "Both ladies were waiting for him with nervous impatience.",
-      "weight": 1.0
-    },
-    {
-      "source": "pulcheria-alexandrovna-dounia",
-      "target": "rodion-raskolnikov",
-      "label": "mother-son",
-      "description": "God grant it may, cried Pulcheria Alexandrovna, distressed by Razumihin's account of her Rodya.",
-      "weight": 1.0
-    },
-    {
-      "source": "razumihin",
-      "target": "avdotya-romanovna-raskolnikova",
-      "label": "friend",
-      "description": "Razumihin answered cautiously. But I did hear something from Praskovya Pavlovna herself...",
       "weight": 1.0
     },
     {
@@ -2098,13 +760,6 @@
       "weight": 1.0
     },
     {
-      "source": "dmitri-razumihin",
-      "target": "dounia-rodionovna-raskolnikov",
-      "label": "friend",
-      "description": "Razumihin is concerned about Dounia’s opinion and feelings regarding his expressions: 'I sometimes speak too much from the heart, so that Dounia finds fault with me.'",
-      "weight": 1.0
-    },
-    {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "andrei-semyonovich-zossimov",
       "label": "friend",
@@ -2112,45 +767,10 @@
       "weight": 1.0
     },
     {
-      "source": "rodya-dmitrievich-raskolnikov",
-      "target": "pulcheria-alexandrovna-raskolnikova",
-      "label": "mother",
-      "description": "You love her even now? said Pulcheria Alexandrovna, touched.",
-      "weight": 1.0
-    },
-    {
-      "source": "roderick-raskolnikov",
-      "target": "daria-raskolnikov",
-      "label": "sibling",
-      "description": "Listen, Dounia, he began, gravely and drily...",
-      "weight": 1.0
-    },
-    {
-      "source": "dounia-dmitrievna-raskolnikov",
-      "target": "dmitri-prokofich-razumihin",
-      "label": "friend/ally",
-      "description": "I will ask you, too, to be with us at eight o'clock, she said, addressing Razumihin.",
-      "weight": 1.0
-    },
-    {
       "source": "pulcheria-alexandrovna-raskolnikova",
       "target": "marmeladov",
       "label": "friend",
       "description": "In Fyodor Dostoevsky's _Crime and Punishment_, the relationship between Pulcheria Alexandrovna Raskolnikov and Sofia Semyonovna Marmeladov is marked by mutual warmth and understanding, highlighting the motherly instincts of Pulcheria towards Sonia. While Pulcheria initially views Sonia as a respectful and kind companion for her troubled son, their interactions develop further as they share their burdens and hopes. A significant moment occurs when Pulcheria expresses her concern for Sonia's well-being, reflecting an emotional bond that transcends social status and despair. This connection symbolizes compassion amid suffering, emphasizing themes of redemption and the enduring strength of maternal love as they navigate the complexities of their lives.",
-      "weight": 1.0
-    },
-    {
-      "source": "daria-alexandrovna-raskolnikova",
-      "target": "pulcheria-alexandrovna-raskolnikova",
-      "label": "daughter-mother",
-      "description": "Dounia responds to her mother Pulcheria Alexandrovna's presentiments about Sofya Semyonovna with frustration, indicating their close relationship where Dounia feels she must correct her mother.",
-      "weight": 1.0
-    },
-    {
-      "source": "unknown-gentleman",
-      "target": "sonia-semyonovna-marmeladov",
-      "label": "unknown observer",
-      "description": "The unknown gentleman observes Sonia and is intrigued by her, noting, 'H e  h a d  a c c o m p a n i e d  h e r  f r o m  t h e  g a t e w a y.'",
       "weight": 1.0
     },
     {
@@ -2175,34 +795,6 @@
       "weight": 1.0
     },
     {
-      "source": "arkady-svidrigailov",
-      "target": "na",
-      "label": "mysterious relations",
-      "description": "Arkady Ivanovich Svidrigailov's relationship with Resslich is marked by a complex blend of mystery and intrigue, characterized by a longstanding yet elusive connection. Their interactions reflect a bond that is shrouded in unsaid desires and moral ambiguity, often oscillating between camaraderie and a deeper, unacknowledged yearning. Key moments include Svidrigailov's contemplative conversations that hint at his dark past and unresolved feelings for Resslich, illuminating the themes of guilt, redemption, and the search for meaning in a chaotic world. This dynamic encapsulates a profound struggle between the allure of passion and the repercussions of one's actions, ultimately leaving a haunting impact on both characters.",
-      "weight": 1.0
-    },
-    {
-      "source": "darya-petrovna-resslich",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "mistreatment",
-      "description": "Resslich hated the girl and grudged her every crust; she used to beat her mercilessly, indicating a relationship of oppression.",
-      "weight": 1.0
-    },
-    {
-      "source": "arkady-svidrigailov",
-      "target": "philip",
-      "label": "indirect cause of distress",
-      "description": "Philip's suicide is attributed to the systematic persecution and severity of Mr. Svidrigailov: 'what drove him...was the systematic persecution and severity of Mr. Svidrigailov.'",
-      "weight": 1.0
-    },
-    {
-      "source": "avdotya-romanovna-raskolnikova",
-      "target": "philip-ivanovich",
-      "label": "defensive connection",
-      "description": "Dounia expresses a fondness towards Philip, saying, 'though they certainly did blame him for Philip's death.'",
-      "weight": 1.0
-    },
-    {
       "source": "dmitri-razumihin",
       "target": "darya-pavlovna-raskolnikov",
       "label": "friend",
@@ -2217,59 +809,10 @@
       "weight": 1.0
     },
     {
-      "source": "marmeladov",
-      "target": "god",
-      "label": "reliance",
-      "description": "Sonia expresses her reliance on God, stating, 'What should I be without God?'",
-      "weight": 1.0
-    },
-    {
       "source": "sonia-semyonovna-marmeladov",
       "target": "lizaveta-ivanovna",
       "label": "friendship",
       "description": "Sonia Semyonovna Marmeladov and Lizaveta Ivanovna share a deeply supportive friendship marked by compassion and shared suffering. Sonia, often seen as a beacon of hope amidst despair, turns to Lizaveta for solace, requesting the New Testament, which embodies their spiritual connection. Their relationship is poignantly underscored by Sonia's sorrow at Lizaveta's untimely death, as she attends a requiem service, illustrating the profound bond forged through mutual struggles. This loss not only highlights Sonia's empathy but also serves as a catalyst for her personal growth, reinforcing themes of sacrifice and redemption. Ultimately, their interactions symbolize the enduring human spirit in the face of tragedy.",
-      "weight": 1.0
-    },
-    {
-      "source": "jesus-christ",
-      "target": "martha",
-      "label": "teacher-student",
-      "description": "Jesus said unto Martha, 'I am the resurrection and the life...' showing a teaching relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "martha",
-      "target": "lazarus",
-      "label": "sibling",
-      "description": "Martha spoke of her brother Lazarus, indicating a sibling relationship.",
-      "weight": 1.0
-    },
-    {
-      "source": "mary-magdalene",
-      "target": "jesus-christ",
-      "label": "sibling",
-      "description": "Mary fell down at Jesus' feet, indicating a close, possibly familial relationship with Jesus.",
-      "weight": 1.0
-    },
-    {
-      "source": "the-jews",
-      "target": "jesus-christ",
-      "label": "witnesses",
-      "description": "The Jews witnessed Jesus weeping and remarked on His love for Lazarus, indicating they were observers of the events involving Him.",
-      "weight": 1.0
-    },
-    {
-      "source": "sonia",
-      "target": "rodion-raskolnikov",
-      "label": "acquaintance",
-      "description": "Sonia is worried about Rodion Raskolnikov's state and his actions, indicating an acquaintance.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "porfiry",
-      "label": "interrogator",
-      "description": "Porfiry is questioning Raskolnikov about his mental state and possible involvement in a crime.",
       "weight": 1.0
     },
     {
@@ -2284,41 +827,6 @@
       "target": "amalia-ivanovna",
       "label": "respect",
       "description": "he was one of the lodgers most respected by Amalia Ivanovna",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "mikhail-ivanovich-terebyaev",
-      "label": "parent",
-      "description": "Terebyaeva wrote to her father and mother that she wouldn’t go on living conventionally...",
-      "weight": 1.0
-    },
-    {
-      "source": "maria-terebyaeva",
-      "target": "madame-terebyaeva",
-      "label": "parent",
-      "description": "Terebyaeva wrote to her father and mother that she wouldn’t go on living conventionally...",
-      "weight": 1.0
-    },
-    {
-      "source": "darya-nikolaevna-varents",
-      "target": "sofya-semyonovna-terebyaeva",
-      "label": "spouse",
-      "description": "Varents had been married seven years, she abandoned her two children...",
-      "weight": 1.0
-    },
-    {
-      "source": "sofya-semyonovna-dunya-razumihin",
-      "target": "rodion-raskolnikov",
-      "label": "romantic connection",
-      "description": "I have only lately learned it from a great-hearted man to whom I have given myself",
-      "weight": 1.0
-    },
-    {
-      "source": "marmeladov",
-      "target": "mr-and-mrs-marmeladov",
-      "label": "parent",
-      "description": "And if ever I regretted the death of my father and mother, it is now",
       "weight": 1.0
     },
     {
@@ -2337,23 +845,9 @@
     },
     {
       "source": "katerina-ivanovna-marmeladova",
-      "target": "the-orphans-of-katerina-ivanovna",
-      "label": "caring individual",
-      "description": "Sofya Semyonovna mentions that God will reward for helping the orphans, implying her concern for them.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
       "target": "andrei-semyonovich-lebeziatnikov",
       "label": "acquaintance",
       "description": "Katerina Ivanovna determined now to invite this lady and her daughter ...",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "the-two-little-ones",
-      "label": "caretaker",
-      "description": "The two little ones were sitting away from the table, and Polenka had to feed them and keep their noses wiped like well-bred children's, showing Katerina Ivanovna's role as their mother.",
       "weight": 1.0
     },
     {
@@ -2361,55 +855,6 @@
       "target": "amalia-ivanovna",
       "label": "tenant/landlord",
       "description": "The relationship between Rodion Raskolnikov and Amalia Ivanovna in _Crime and Punishment_ illustrates a stark tenant-landlord dynamic marked by tension and conflict. As Raskolnikov struggles with his own moral dilemmas, his interactions with Amalia, who represents the oppressive forces of societal norms and expectations, emphasize his growing alienation. A pivotal moment occurs when Raskolnikov, burdened by his thoughts of crime, confronts Amalia about rent arrears, which escalates into a heated exchange reflecting their mutual disdain and lack of understanding. This interaction not only highlights Raskolnikov's internal struggle but also symbolizes the social divide between the intellectual elite and the common populace, encapsulating themes of power, poverty, and moral ambiguity in a world rife with inequality.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "her-late-husband",
-      "label": "spouse",
-      "description": "Katerina Ivanovna spoke of her late husband, emphasizing his kind and honorable nature.",
-      "weight": 1.0
-    },
-    {
-      "source": "pavel-pavlovich-luzhin",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "accuser-victim",
-      "description": "Luzhin accuses Sofya Ivanovna of stealing a hundred-rouble note, stating: 'I assure you on my word of honour... the matter shall end there.'",
-      "weight": 1.0
-    },
-    {
-      "source": "dmitri-prokofich-razumihin",
-      "target": "alyosha-lebeziatnikov",
-      "label": "associate",
-      "description": "Luzhin mentions Mr. Lebeziatnikov as a witness: 'as Mr. Lebeziatnikov will bear witness.'",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "aleksey-ivanovich-lebeziatnikov",
-      "label": "friend",
-      "description": "The unnamed male character invites Katerina Ivanovna through Mr. Lebeziatnikov, showing a level of familiarity and collaboration with him.",
-      "weight": 1.0
-    },
-    {
-      "source": "sonia-semyonovna-marmeladov",
-      "target": "dmitriy-prokofyevich-luzhin",
-      "label": "victim/abuser",
-      "description": "Sonia pleads her innocence, stating: 'I have taken nothing,' and when she offers to return the ten roubles, it shows her victimization by Luzhin's accusation.",
-      "weight": 1.0
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "semyon-polenka-and-katerina-ivanovna",
-      "label": "sacrificial role",
-      "description": "Sofya has the yellow passport and sold herself for her starving children, which indicates her maternal sacrifice.",
-      "weight": 1.0
-    },
-    {
-      "source": "alyosha-lebeziatnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "witness relationship",
-      "description": "Lebeziatnikov claims he saw Pyotr Petrovitch Luzhin give Sofya Semyonovna the hundred-rouble note.",
       "weight": 1.0
     },
     {
@@ -2424,20 +869,6 @@
       "target": "marmeladov",
       "label": "adversarial relationship",
       "description": "The relationship between Pyotr Petrovitch Luzhin and Sofia Semyonovna Marmeladov is marked by tension and condescension, revealing the power dynamics of class and morality. Luzhin, embodying arrogance and entitlement, initially attempts to accuse Sonia of impropriety to undermine her dignity, but his efforts backfire, leading to his resorting to petty insolence. Key moments include Luzhin’s proposal to Sonia that highlights not only his self-serving nature but also the desperation of Sonia's situation, as she grapples with her troubled past. The interaction between them encapsulates themes of exploitation and the moral complexities of society, where Luzhin's character ultimately fails to overpower Sonia's quiet strength and resilience, setting them apart in their conflicting values.",
-      "weight": 1.0
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "maria-raskolnikov",
-      "label": "parent",
-      "description": "my mother has scarcely anything",
-      "weight": 1.0
-    },
-    {
-      "source": "aleksey-ivanovich-lebeziatnikov",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "Acquaintance",
-      "description": "Mr. Lebeziatnikov knocks on the door and asks to enter, indicating a familiar relationship with Sonia.",
       "weight": 1.0
     }
   ]

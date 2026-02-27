@@ -1,13 +1,15 @@
 {
-  "new_nodes": [
-    "aleksey-ivanovich-svidrigailov"
+  "new_nodes": [],
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties).",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (18), Dmitri Prokofich Razumihin (16), Pyotr Petrovich Luzhin (14)",
+    "Totals: 24 characters, 97 relations (+0 new, +0 new)"
   ],
-  "new_edges": [
-    {
-      "source": "aleksey-ivanovich-svidrigailov",
-      "target": "porfiry-petrovich",
-      "label": "colleagues"
-    }
-  ],
-  "summary": "New characters: Aleksey Ivanovich Svidrigailov. New connections: aleksey-ivanovich-svidrigailov–Porfiry (colleagues)."
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

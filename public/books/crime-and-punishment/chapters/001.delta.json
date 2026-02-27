@@ -2,14 +2,9 @@
   "new_nodes": [
     "rodion-raskolnikov",
     "praskovya-pavlovna",
-    "na",
     "alyona-ivanovna",
-    "mikhailovitch-raskolnikov",
-    "stout-man-with-a-grey-beard",
-    "artisan",
     "dmitri-prokofich-razumihin",
-    "porfiry-petrovich",
-    "aleksey-ivanovich-raskolnikov"
+    "porfiry-petrovich"
   ],
   "new_edges": [
     {
@@ -19,34 +14,26 @@
     },
     {
       "source": "rodion-raskolnikov",
-      "target": "na",
-      "label": "Stranger"
-    },
-    {
-      "source": "rodion-raskolnikov",
       "target": "alyona-ivanovna",
-      "label": "unknown relationship"
-    },
-    {
-      "source": "rodion-raskolnikov",
-      "target": "mikhailovitch-raskolnikov",
-      "label": "family tie"
-    },
-    {
-      "source": "stout-man-with-a-grey-beard",
-      "target": "artisan",
       "label": "unknown relationship"
     },
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "porfiry-petrovich",
       "label": "negative relationship"
-    },
-    {
-      "source": "aleksey-ivanovich-raskolnikov",
-      "target": "na",
-      "label": "observer"
     }
   ],
-  "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, N/a, Alyona Ivanovna, Mikhailovitch Raskolnikov, Stout Man With A Grey Beard and 4 more. New connections: Rodion–Praskovya (landlord-tenant), Rodion–N/a (Stranger), Rodion–Alyona (unknown relationship), Rodion–mikhailovitch-raskolnikov (family tie) and 3 more."
+  "summary": "New characters: Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, Porfiry Petrovich. New connections: Rodion–Praskovya (landlord-tenant), Rodion–Alyona (unknown relationship), Dmitri–Porfiry (negative relationship).",
+  "summary_short": "Introduces Rodion Raskolnikov, Praskovya Pavlovna, Alyona Ivanovna, Dmitri Prokofich Razumihin, and 1 others. Rodion Raskolnikov is the most connected figure (2 ties). Key relationship types: landlord-tenant, negative relationship, unknown relationship.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (2), Praskovya Pavlovna (1), Alyona Ivanovna (1), Dmitri Prokofich Razumihin (1)",
+    "Key ties: Rodion–Praskovya (landlord-tenant), Rodion–Alyona (unknown relationship), Dmitri–Porfiry (negative relationship)",
+    "New characters: Rodion, Praskovya, Alyona, Dmitri, Porfiry",
+    "Totals: 5 characters, 3 relations (+5 new, +3 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Praskovya Pavlovna",
+    "Alyona Ivanovna"
+  ]
 }

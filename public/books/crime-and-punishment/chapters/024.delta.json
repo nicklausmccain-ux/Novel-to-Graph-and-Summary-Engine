@@ -1,49 +1,22 @@
 {
-  "new_nodes": [
-    "god",
-    "jesus-christ",
-    "martha",
-    "lazarus",
-    "mary-magdalene",
-    "the-jews",
-    "sonia"
-  ],
+  "new_nodes": [],
   "new_edges": [
-    {
-      "source": "marmeladov",
-      "target": "god",
-      "label": "reliance"
-    },
     {
       "source": "sonia-semyonovna-marmeladov",
       "target": "lizaveta-ivanovna",
       "label": "friendship"
-    },
-    {
-      "source": "jesus-christ",
-      "target": "martha",
-      "label": "teacher-student"
-    },
-    {
-      "source": "martha",
-      "target": "lazarus",
-      "label": "sibling"
-    },
-    {
-      "source": "mary-magdalene",
-      "target": "jesus-christ",
-      "label": "sibling"
-    },
-    {
-      "source": "the-jews",
-      "target": "jesus-christ",
-      "label": "witnesses"
-    },
-    {
-      "source": "sonia",
-      "target": "rodion-raskolnikov",
-      "label": "acquaintance"
     }
   ],
-  "summary": "New characters: God, Jesus Christ, Martha, Lazarus, Mary Magdalene, The Jews and 1 more. New connections: Marmeladov–god (reliance), Sonia–Lizaveta (friendship), jesus-christ–martha (teacher-student), martha–lazarus (sibling) and 3 more."
+  "summary": "New connections: Sonia–Lizaveta (friendship).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: friendship.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (13)",
+    "Key ties: Sonia–Lizaveta (friendship)",
+    "Totals: 24 characters, 89 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

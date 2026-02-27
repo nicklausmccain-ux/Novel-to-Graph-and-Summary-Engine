@@ -7,5 +7,16 @@
       "label": "indirect concern"
     }
   ],
-  "summary": "New connections: Rodion–Nikolay (indirect concern)."
+  "summary": "New connections: Rodion–Nikolay (indirect concern).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: indirect concern.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (20), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (11)",
+    "Key ties: Rodion–Nikolay (indirect concern)",
+    "Totals: 24 characters, 85 relations (+0 new, +1 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

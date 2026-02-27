@@ -1,8 +1,5 @@
 {
-  "new_nodes": [
-    "daria-alexandrovna-raskolnikova",
-    "unknown-gentleman"
-  ],
+  "new_nodes": [],
   "new_edges": [
     {
       "source": "pulcheria-alexandrovna-raskolnikova",
@@ -10,20 +7,21 @@
       "label": "friend"
     },
     {
-      "source": "daria-alexandrovna-raskolnikova",
-      "target": "pulcheria-alexandrovna-raskolnikova",
-      "label": "daughter-mother"
-    },
-    {
-      "source": "unknown-gentleman",
-      "target": "sonia-semyonovna-marmeladov",
-      "label": "unknown observer"
-    },
-    {
       "source": "dmitri-razumihin",
       "target": "sonia-semyonovna-marmeladov",
       "label": "acquaintances"
     }
   ],
-  "summary": "New characters: Daria Alexandrovna Raskolnikova, Unknown Gentleman. New connections: Pulcheria–Marmeladov (friend), daria-alexandrovna-raskolnikova–Pulcheria (daughter-mother), unknown-gentleman–Sonia (unknown observer), Dmitri–Sonia (acquaintances)."
+  "summary": "New connections: Pulcheria–Marmeladov (friend), Dmitri–Sonia (acquaintances).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (19 ties). Key relationship types: acquaintances, friend.",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (19), Katerina Ivanovna Marmeladova (17), Dmitri Prokofich Razumihin (16), Dmitri Razumihin (11)",
+    "Key ties: Pulcheria–Marmeladov (friend), Dmitri–Sonia (acquaintances)",
+    "Totals: 24 characters, 84 relations (+0 new, +2 new)"
+  ],
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }

@@ -1,31 +1,15 @@
 {
-  "new_nodes": [
-    "fate",
-    "raskolnikovs-acquaintances-or-other-unnamed-prisoners",
-    "the-prisoners",
-    "the-prisoners-wives-and-sweethearts"
+  "new_nodes": [],
+  "new_edges": [],
+  "summary": "No new characters or connections in this chapter.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (22 ties).",
+  "highlights": [
+    "Most central: Rodion Raskolnikov (22), Katerina Ivanovna Marmeladova (19), Dmitri Prokofich Razumihin (17), Pyotr Petrovich Luzhin (15)",
+    "Totals: 24 characters, 103 relations (+0 new, +0 new)"
   ],
-  "new_edges": [
-    {
-      "source": "rodion-raskolnikov",
-      "target": "fate",
-      "label": "abstract relationship"
-    },
-    {
-      "source": "katerina-ivanovna-marmeladova",
-      "target": "raskolnikovs-acquaintances-or-other-unnamed-prisoners",
-      "label": "other relationship"
-    },
-    {
-      "source": "the-prisoners",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "admiration"
-    },
-    {
-      "source": "the-prisoners-wives-and-sweethearts",
-      "target": "katerina-ivanovna-marmeladova",
-      "label": "friendship"
-    }
-  ],
-  "summary": "New characters: Fate, Raskolnikovs Acquaintances Or Other Unnamed Prisoners, The Prisoners, The Prisoners Wives And Sweethearts. New connections: Rodion–fate (abstract relationship), Katerina–raskolnikovs-acquaintances-or-other-unnamed-prisoners (other relationship), the-prisoners–Katerina (admiration), the-prisoners-wives-and-sweethearts–Katerina (friendship)."
+  "key_characters": [
+    "Rodion Raskolnikov",
+    "Katerina Ivanovna Marmeladova",
+    "Dmitri Prokofich Razumihin"
+  ]
 }
