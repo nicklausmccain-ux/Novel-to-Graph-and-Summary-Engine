@@ -4,7 +4,7 @@
     {
       "source": "nastasya",
       "target": "zossimov",
-      "label": "Other"
+      "label": "interaction"
     },
     {
       "source": "dmitri-prokofich-razumihin",
@@ -27,11 +27,11 @@
       "label": "listener"
     }
   ],
-  "summary": "New connections: Nastasya-Zossimov (Other), Dmitri-Nikolay (acquaintance), Alyona-Nikolay (acquaintance), Lizaveta-Nikolay (acquaintance) and 1 more.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, listener, other.",
+  "summary": "New connections: Nastasya-Zossimov (interaction), Dmitri-Nikolay (acquaintance), Alyona-Nikolay (acquaintance), Lizaveta-Nikolay (acquaintance) and 1 more.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, interaction, listener.",
   "highlights": [
     "Most central: Rodion Raskolnikov (18), Dmitri Prokofich Razumihin (10), Avdotya Romanovna (9), Nikolay (7)",
-    "Key ties: Nastasya-Zossimov (Other), Dmitri-Nikolay (acquaintance), Alyona-Nikolay (acquaintance), Lizaveta-Nikolay (acquaintance), and 1 more",
+    "Key ties: Nastasya-Zossimov (interaction), Dmitri-Nikolay (acquaintance), Alyona-Nikolay (acquaintance), Lizaveta-Nikolay (acquaintance), and 1 more",
     "Totals: 23 characters, 58 relations (+0 new, +5 new)"
   ],
   "key_characters": [

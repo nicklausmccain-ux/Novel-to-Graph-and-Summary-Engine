@@ -10,7 +10,7 @@
     {
       "source": "nastasya",
       "target": "rodion-raskolnikov",
-      "label": "servant"
+      "label": "employer"
     },
     {
       "source": "nastasya",
@@ -20,7 +20,7 @@
     {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "rodion-raskolnikov",
-      "label": "sibling"
+      "label": "family"
     },
     {
       "source": "pulcheria-alexandrovna",
@@ -30,17 +30,17 @@
     {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "pulcheria-alexandrovna",
-      "label": "sibling"
+      "label": "family"
     },
     {
       "source": "arkady-ivanovich-svidrigailov",
       "target": "avdotya-romanovna-raskolnikova",
-      "label": "romantic"
+      "label": "acquaintance"
     },
     {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "marfa-petrovna",
-      "label": "other relationship"
+      "label": "conflict"
     },
     {
       "source": "darya-pavlovna",
@@ -55,22 +55,22 @@
     {
       "source": "arkady-ivanovich-svidrigailov",
       "target": "marfa-petrovna",
-      "label": "other relationship"
+      "label": "interaction"
     },
     {
       "source": "arkady-ivanovich-svidrigailov",
       "target": "darya-pavlovna",
-      "label": "other relationship"
+      "label": "interaction"
     },
     {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "pyotr-petrovich-luzhin",
-      "label": "romantic"
+      "label": "acquaintance"
     },
     {
       "source": "marfa-petrovna",
       "target": "pyotr-petrovich-luzhin",
-      "label": "relation"
+      "label": "acquaintance"
     },
     {
       "source": "rodion-raskolnikov",
@@ -80,24 +80,24 @@
     {
       "source": "alyona-ivanovna",
       "target": "pyotr-petrovich-luzhin",
-      "label": "other"
+      "label": "interaction"
     },
     {
       "source": "darya-pavlovna",
       "target": "pyotr-petrovich-luzhin",
-      "label": "romantic"
+      "label": "acquaintance"
     },
     {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "darya-pavlovna",
-      "label": "sibling"
+      "label": "family"
     }
   ],
-  "summary": "New characters: Nastasya, Avdotya Romanovna, Pulcheria Alexandrovna, Arkady Svidrigailov, Zossimov. New connections: Nastasya-Rodion (servant), Nastasya-Praskovya (employer), Avdotya-Rodion (sibling), Pulcheria-Rodion (friend) and 13 more.",
-  "summary_short": "Introduces Nastasya, Avdotya Romanovna, Pulcheria Alexandrovna, Arkady Svidrigailov, and 1 others. Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: acquaintance, conflict, employer, friend.",
+  "summary": "New characters: Nastasya, Avdotya Romanovna, Pulcheria Alexandrovna, Arkady Svidrigailov, Zossimov. New connections: Nastasya-Rodion (employer), Nastasya-Praskovya (employer), Avdotya-Rodion (family), Pulcheria-Rodion (friend) and 13 more.",
+  "summary_short": "Introduces Nastasya, Avdotya Romanovna, Pulcheria Alexandrovna, Arkady Svidrigailov, and 1 others. Rodion Raskolnikov is the most connected figure (12 ties). Key relationship types: acquaintance, conflict, employer, family.",
   "highlights": [
     "Most central: Rodion Raskolnikov (12), Avdotya Romanovna (6), Katerina Ivanovna (5), Marfa Petrovna (5)",
-    "Key ties: Nastasya-Rodion (servant), Nastasya-Praskovya (employer), Avdotya-Rodion (sibling), Pulcheria-Rodion (friend), and 13 more",
+    "Key ties: Nastasya-Rodion (employer), Nastasya-Praskovya (employer), Avdotya-Rodion (family), Pulcheria-Rodion (friend), and 13 more",
     "New characters: Nastasya, Avdotya, Pulcheria, Arkady, Zossimov",
     "Totals: 19 characters, 33 relations (+5 new, +17 new)"
   ],

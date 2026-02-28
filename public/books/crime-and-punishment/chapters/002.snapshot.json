@@ -209,7 +209,7 @@
     {
       "source": "rodion-raskolnikov",
       "target": "semyon-zakharovich-marmeladov",
-      "label": "other",
+      "label": "acquaintance",
       "description": "The relationship between Rodion Romanovich Raskolnikov and Marmeladov is marked by a profound sense of pity and moral conflict. Marmeladov, a desperate former government clerk, opens up to Raskolnikov about his suffering and the burden of his family, highlighting the depths of despair in St. Petersburg’s underbelly. Their interaction begins when Marmeladov speaks candidly to Raskolnikov about his troubles, drawing a stark portrait of his helplessness. This encounter leads Raskolnikov to evoke a sense of empathy, compelling him to contribute money for Marmeladov's funeral, despite his own financial straits. Key moments include Marmeladov's heartfelt confessions and Raskolnikov’s internal struggle with his own philosophical justifications for his actions. Symbolically, their dynamic reflects the broader themes of suffering, redemption, and the weight of human connection amidst existential isolation.",
       "weight": 4
     },
@@ -223,14 +223,14 @@
     {
       "source": "katerina-ivanovna",
       "target": "semyon-zakharovich-marmeladov",
-      "label": "spouse",
+      "label": "acquaintance",
       "description": "Marmeladov and Katerina Ivanovna share a complex and troubled relationship marked by a stark contrast between their characters. Marmeladov, often self-loathing and weak, refers to Katerina with a sense of reverence, calling her 'my spouse' and acknowledging her noble spirit, which he feels he has diminished through his own failures. Their interactions reveal a dynamic of dependency and conflict, highlighted by Marmeladov's shameful act of stealing the key to her box, symbolizing his destructive influence on her life. Key moments, such as his confessions of inadequacy and Katerina's struggles with pride, showcase an emotional interplay where love and despair intertwine. Ultimately, their relationship embodies the themes of sacrifice, responsibility, and the harsh realities of existence.",
       "weight": 10
     },
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "katerina-ivanovna",
-      "label": "spouse",
+      "label": "acquaintance",
       "description": "Her mohair shawl I sold for drink, a present to her long ago, her own property, not mine; and we live in a cold room...",
       "weight": 1
     },
@@ -244,21 +244,21 @@
     {
       "source": "pyotr-petrovich-luzhin",
       "target": "rodion-raskolnikov",
-      "label": "spouse",
+      "label": "acquaintance",
       "description": "The relationship between Rodion Romanovich Raskolnikov and Pyotr Petrovich Luzhin is marked by deep-seated animosity and conflict, as Raskolnikov vehemently opposes Luzhin's intentions towards his sister, Dounia. Raskolnikov's contempt for Luzhin is palpable, illustrated when he exclaims, \"Never such a marriage while I am alive and Mr. Luzhin be damned!\" This rejection mirrors Raskolnikov’s protective nature and moral stance, positioning Luzhin not just as a rival for Dounia's affections but as a symbol of bourgeois opportunism. Key moments of confrontation reveal Raskolnikov's astonishment and disbelief at Luzhin's self-serving proposal, emphasizing the thematic struggle between moral integrity and societal advantages. Ultimately, their interactions encapsulate a broader commentary on the clash between ideologies, with Raskolnikov embodying the struggle against a corrupt social fabric.",
       "weight": 1
     },
     {
       "source": "rodion-raskolnikov",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "parent",
+      "label": "family",
       "description": "The relationship between Sofia Semyonovna Marmeladov and Rodion Romanovich Raskolnikov is deeply rooted in compassion and emotional dependency, marked by a profound connection that transcends mere friendship. Sonia, embodying unwavering support, offers Raskolnikov solace amidst his turmoil, evident in her silent yet inviting demeanor and her heartfelt desire to read to him. Their interactions reveal a tender bond, as Sonia's joyful reception of Raskolnikov and her insistence on prayer highlight her genuine care for his wellbeing. The evolution of their relationship is shaped by Raskolnikov's initial indifference giving way to a reliance on Sonia's visits, transforming from a reluctant acquaintance to an essential presence in his solitary life. Key moments, such as Sonia's public confession of faith through reading and her quiet yet impactful gestures of affection, symbolize their intertwining fates, reflecting themes of redemption and the search for meaning in the face of suffering.",
       "weight": 2
     },
     {
       "source": "katerina-ivanovna",
       "target": "rodion-raskolnikov",
-      "label": "spouse",
+      "label": "acquaintance",
       "description": "The relationship between Rodion Romanovich Raskolnikov and Katerina Ivanovna Marmeladova is marked by a blend of compassion and mutual despair. Raskolnikov, despite his own turmoil, steps into a protective role for Katerina during her moments of distress, urging her to remain calm and calling for a doctor when she is in need. This dynamic highlights a poignant contrast between Raskolnikov's inner conflict and Katerina's external struggles as a mother beset by poverty and illness. Key moments, such as Raskolnikov's urgent reassurances and his relief when the doctor arrives, unveil the depth of human connection in times of crisis, underscoring themes of empathy and shared suffering within the harsh realities they face. Their interactions symbolize the fleeting solace one can find in another amidst the relentless weight of their circumstances.",
       "weight": 3
     },
@@ -286,7 +286,7 @@
     {
       "source": "amalia-ivanovna",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "other",
+      "label": "interaction",
       "description": "Marmeladov states that Amalia Fyodorovna would not hear of Sofya living with them, indicating a strained relationship.",
       "weight": 1
     },
@@ -297,5 +297,45 @@
       "description": "The relationship between Amalia Ivanovna and Katerina Ivanovna is marked by tension and class conflict, with Amalia asserting her authority as a landlady over Katerina. Their interactions are characterized by Amalia's insistence on proper titles and her affronted pride, especially after Katerina's laughter, which Amalia perceives as disrespectful. Amalia's pointed remarks about Katerina's father serve to elevate her own status while diminishing Katerina's, highlighting the power dynamics in their landlord-tenant relationship. Key moments include Amalia's assertion of her social importance and Katerina's resistance, defining their exchanges as a rivalry steeped in issues of identity and societal standing.",
       "weight": 1
     }
-  ]
+  ],
+  "character_descriptions": {
+    "aleksey-ivanovich-raskolnikov": "Aleksey Ivanovich Raskolnikov is a solitary observer who avoids crowds and social interactions, feeling a mix of weariness and a newfound desire for company as he navigates his troubled thoughts.",
+    "alexander-grigorevich-lebeziatnikov": "Alexander Grigorevich Lebeziatnikov is an acquaintance of Semyon Zakharovich Marmeladov, though his role and personality are not yet fully explored.",
+    "alexander-semyonovich-lebeziatnikov": "Alexander Semyonovich Lebeziatnikov is connected to Sofya Semyonovna Marmeladov, but further details about his character remain unclear.",
+    "alyona-ivanovna": "Alyona Ivanovna is a pawnshop owner with a creditor-debtor relationship with Rodion Raskolnikov, who has interacted with her in a transactional manner.",
+    "amalia-fyodorovna-lebeziatnikov": "Amalia Fyodorovna Lebeziatnikov is associated with Sofya Semyonovna Marmeladov, but her character is not yet fully developed.",
+    "amalia-ivanovna-lizaveta": "Amalia Ivanovna Lizaveta has an antagonistic relationship with Katerina Ivanovna Marmeladov, but her background and motivations are not yet detailed.",
+    "andrei-semyonovich-lebeziatnikov": "Andrei Semyonovich Lebeziatnikov is depicted as an abuser towards Marfa Petrovna, indicating a troubling character dynamic.",
+    "artisan": "The Artisan is a minor character whose relationship with the stout man with a grey beard is not yet defined.",
+    "darya-pavlovna-raskolnikov": "Darya Alexandrovna Raskolnikov has an antagonistic relationship with Sofya Semyonovna Marmeladov, suggesting tension between the two characters.",
+    "darya-frantsovna": "Darya Frantsovna also has an antagonistic relationship with Sofya Semyonovna Marmeladov, but further context about her character is lacking.",
+    "dmitri-prokofich-razumihin": "Dmitri Prokofich Razumihin has a negative relationship with Porfiry Petrovich, hinting at possible conflicts or tensions in their interactions.",
+    "ilya-sasha-and-kolya": "Ilya, Sasha, and Kolya are children of Dmitri Prokofich Razumihin, but their individual personalities and roles are not yet explored.",
+    "ivan-afanasyvitch": "Ivan Afanasyvitch is an acquaintance of Semyon Zakharovich Marmeladov, but his significance in the story is not yet clear.",
+    "ivan-ivanitch-klopstock": "Ivan Ivanitch Klopstock is an employer to Sonia Semyonovna Marmeladov, though the nature of their relationship is not fully revealed.",
+    "kapernaumov": "Kapernaumov is a landlord-tenant to Sofya Semyonovna, but the dynamics of their relationship remain unexplored.",
+    "katerina-ivanovna-marmeladova": "Katerina Ivanovna Marmeladova is the wife of Semyon Zakharovich Marmeladov and a mother to several children, indicating her role as a caretaker in a struggling family.",
+    "katherine-ivanovna-marmeladov": "Katherine Ivanovna Marmeladov is identified as the spouse of Semyon Zakharovich Marmeladov, but her character is not yet fleshed out.",
+    "kokhlakov": "Kokhlakov is married to Kokhlakova, but their individual roles are not yet defined.",
+    "kokhlakova": "Kokhlakova is the spouse of Kokhlakov, with little information provided about her character.",
+    "kolya-marmeladov": "Kolya Marmeladov is one of the children of Katerina Ivanovna Marmeladov, but his character is not yet developed.",
+    "kuzma-marmeladov": "Kuzma Marmeladov is a sibling to Polenka Marmeladov, but further details about his character are not provided.",
+    "lise": "Lise is identified as the mother of Katerina Ivanovna Marmeladov, but her character is not yet explored.",
+    "liza-kolya-and-sanya": "Liza, Kolya, and Sanya are children of Katerina Ivanovna Marmeladov, but their individual identities are not yet clear.",
+    "lyudmila-marmeladova": "Lyudmila Marmeladova is the mother of Katerina Ivanovna Marmeladov, but her role in the story is not yet detailed.",
+    "marfa-petrovna-svidrigailova": "Marfa Petrovna is depicted as an abuser towards Andrei Semyonovich Lebeziatnikov, indicating a complex and troubling relationship.",
+    "maria-alexandrovna-marmeladov": "Maria Alexandrovna Marmeladov is the spouse of Semyon Zakharovich Marmeladov, but her character is not yet fully explored.",
+    "maria-alexandrovna-raskolnikov": "Maria Alexandrovna Raskolnikova is the spouse of Rodion Romanovich Raskolnikov, but her role in the narrative is not yet developed.",
+    "maria-ivanovna-raskolnikov": "Maria Ivanovna Raskolnikov is the wife of Rodion Raskolnikov, though her character has not been elaborated upon.",
+    "marmeladov": "Sofia Semyonovna Marmeladov is the daughter of Semyon Zakharovich Marmeladov, and her relationship with her father is marked by care and concern.",
+    "marmeladov-semyon-zakharovich": "Semyon Zakharovich Marmeladov is a father to Sofya Semyonovna Marmeladov and is depicted as a man grappling with his own failures and regrets.",
+    "semyon-zakharovich-lebeziatnikov": "Semyon Zakharovich Lebeziatnikov has a conflict with Marmeladov, suggesting a contentious relationship.",
+    "semyon-zakharovitch-marmeladov": "Semyon Zakharovitch Marmeladov is the husband of Katerina Ivanovna Marmeladov, but further details about his character are not yet provided.",
+    "semyon-сemyonovich-marmeladov": "Semyon Сemyonovich Marmeladov is identified as the spouse of Katerina Ivanovna Marmeladov, but his character is not yet fully fleshed out.",
+    "sofia-semyonovna-marmeladova": "Sofia Semyonovna Marmeladova is the daughter of Semyon Zakharovich Marmeladov, who has a complex and caring relationship with her family.",
+    "sofya-semyonovna": "Sofya Semyonovna is a tenant of Kapernaumov, but her character and relationships are not yet fully explored.",
+    "stout-man-with-a-grey-beard": "The stout man with a grey beard has an undefined relationship with the Artisan, leaving his role in the story ambiguous.",
+    "the-children-of-katerina-ivanovna": "The children of Katerina Ivanovna Marmeladov are part of her family, but their individual identities and roles are not yet detailed.",
+    "the-children-of-katerina-ivanovna-marmeladov-and-dmitri-prokofych-marmeladov": "The children of Katerina Ivanovna Marmeladov and Dmitri Prokofych Marmeladov are part of their family unit, but their specific characters are not yet explored."
+  }
 }

@@ -4,14 +4,14 @@
     {
       "source": "marfa-petrovna",
       "target": "zossimov",
-      "label": "spouse"
+      "label": "acquaintance"
     }
   ],
-  "summary": "New connections: Marfa-Zossimov (spouse).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: spouse.",
+  "summary": "New connections: Marfa-Zossimov (acquaintance).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance.",
   "highlights": [
     "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Pyotr Petrovich Luzhin (10)",
-    "Key ties: Marfa-Zossimov (spouse)",
+    "Key ties: Marfa-Zossimov (acquaintance)",
     "Totals: 24 characters, 85 relations (+0 new, +1 new)"
   ],
   "key_characters": [

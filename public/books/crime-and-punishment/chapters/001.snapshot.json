@@ -91,5 +91,17 @@
       "description": "Dmitri Razumihin and Porfiry Petrovitch share a complex relationship characterized by mutual respect yet an underlying tension. Razumihin, a close friend of Raskolnikov, shows a keen interest in Porfiry’s interactions with him, suggesting a protective instinct toward Raskolnikov and a desire to navigate the delicate dynamics at play. Their encounters reveal subtle shifts in power; Porfiry, as the investigator, exudes authority while Razumihin’s loyalty to Raskolnikov positions him as a moral compass amidst growing ambiguity. Key moments, such as their discussions about Raskolnikov's actions, underscore themes of justice, guilt, and social morality, highlighting Porfiry's cunning intellect and Razumihin’s earnestness. This relationship serves as a microcosm of the greater moral dilemmas that resonate throughout the novel.",
       "weight": 1
     }
-  ]
+  ],
+  "character_descriptions": {
+    "aleksey-ivanovich-raskolnikov": "Aleksey Ivanovich Raskolnikov is an observer who has not yet established any significant relationships or interactions in the narrative.",
+    "alyona-ivanovna": "Alyona Ivanovna is an acquaintance of Rodion Raskolnikov, known for her role as a pawnbroker, with whom he has had a financial transaction.",
+    "artisan": "The Artisan is a character with an unknown relationship to the stout man with a grey beard, and his role is not yet defined.",
+    "dmitri-prokofich-razumihin": "Dmitri Prokofich Razumihin has a negative relationship with Porfiry Petrovich, indicating some tension or conflict between them.",
+    "mikhailovitch-raskolnikov": "Mikhailovitch Raskolnikov is related to Rodion Romanovich Raskolnikov, suggesting a familial connection that may influence their interactions.",
+    "na": "The Stranger is an observer in the story, having no established relationships or significant interactions at this point.",
+    "porfiry-petrovich": "Porfiry Petrovich is characterized by his negative relationship with Dmitri Prokofich Razumihin, hinting at potential conflict.",
+    "praskovya-pavlovna": "Praskovya Pavlovna is Rodion Raskolnikov's landlady, providing him with lodging and meals, and is aware of his financial difficulties.",
+    "rodion-raskolnikov": "Rodion Romanovich Raskolnikov is an acquaintance of Alyona Ivanovna, involved in a pawnshop transaction with her, and has a family tie to Mikhailovitch Raskolnikov.",
+    "stout-man-with-a-grey-beard": "The stout man with a grey beard has an unknown relationship with the Artisan, and his role in the story has not yet been established."
+  }
 }

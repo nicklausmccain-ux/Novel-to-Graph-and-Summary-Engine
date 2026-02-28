@@ -6,12 +6,12 @@
     {
       "source": "katerina-ivanovna",
       "target": "polenka-marmeladov",
-      "label": "mother"
+      "label": "family"
     },
     {
       "source": "alyona-ivanovna",
       "target": "polenka-marmeladov",
-      "label": "sibling"
+      "label": "family"
     },
     {
       "source": "katerina-ivanovna",
@@ -21,7 +21,7 @@
     {
       "source": "avdotya-romanovna-raskolnikova",
       "target": "katerina-ivanovna",
-      "label": "spouse"
+      "label": "acquaintance"
     },
     {
       "source": "polenka-marmeladov",
@@ -31,22 +31,22 @@
     {
       "source": "polenka-marmeladov",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "sibling"
+      "label": "family"
     },
     {
       "source": "polenka-marmeladov",
       "target": "pyotr-petrovich-luzhin",
-      "label": "parent"
+      "label": "family"
     },
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "polenka-marmeladov",
-      "label": "parent"
+      "label": "family"
     },
     {
       "source": "alyona-ivanovna",
       "target": "praskovya-pavlovna",
-      "label": "parent"
+      "label": "family"
     },
     {
       "source": "dmitri-prokofich-razumihin",
@@ -59,11 +59,11 @@
       "label": "parent to child"
     }
   ],
-  "summary": "New characters: Polenka. New connections: Katerina-Polenka (mother), Alyona-Polenka (sibling), Katerina-Nikolay (others), Avdotya-Katerina (spouse) and 7 more.",
-  "summary_short": "Introduces Polenka. Rodion Raskolnikov is the most connected figure (19 ties). Key relationship types: acquaintance, friend, mother, others.",
+  "summary": "New characters: Polenka. New connections: Katerina-Polenka (family), Alyona-Polenka (family), Katerina-Nikolay (others), Avdotya-Katerina (acquaintance) and 7 more.",
+  "summary_short": "Introduces Polenka. Rodion Raskolnikov is the most connected figure (19 ties). Key relationship types: acquaintance, family, friend, others.",
   "highlights": [
     "Most central: Rodion Raskolnikov (19), Dmitri Prokofich Razumihin (13), Avdotya Romanovna (10), Alyona Ivanovna (9)",
-    "Key ties: Katerina-Polenka (mother), Alyona-Polenka (sibling), Katerina-Nikolay (others), Avdotya-Katerina (spouse), and 7 more",
+    "Key ties: Katerina-Polenka (family), Alyona-Polenka (family), Katerina-Nikolay (others), Avdotya-Katerina (acquaintance), and 7 more",
     "New characters: Polenka",
     "Totals: 24 characters, 73 relations (+1 new, +11 new)"
   ],

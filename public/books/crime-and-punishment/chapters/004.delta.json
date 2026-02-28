@@ -4,7 +4,7 @@
     {
       "source": "pulcheria-alexandrovna",
       "target": "pyotr-petrovich-luzhin",
-      "label": "potential spouse"
+      "label": "acquaintance"
     },
     {
       "source": "avdotya-romanovna-raskolnikova",
@@ -19,19 +19,19 @@
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "stranger"
+      "label": "assistance"
     },
     {
       "source": "porfiry-petrovich",
       "target": "rodion-raskolnikov",
-      "label": "collaborators in helping"
+      "label": "assistance"
     }
   ],
-  "summary": "New connections: Pulcheria-Pyotr (potential spouse), Avdotya-Sonia (connection), Dmitri-Rodion (friend), Dmitri-Sonia (stranger) and 1 more.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (14 ties). Key relationship types: collaborators in helping, connection, friend, potential spouse.",
+  "summary": "New connections: Pulcheria-Pyotr (acquaintance), Avdotya-Sonia (connection), Dmitri-Rodion (friend), Dmitri-Sonia (assistance) and 1 more.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (14 ties). Key relationship types: acquaintance, assistance, connection, friend.",
   "highlights": [
     "Most central: Rodion Raskolnikov (14), Sonia Marmeladov (7), Avdotya Romanovna (7), Pyotr Petrovich Luzhin (6)",
-    "Key ties: Pulcheria-Pyotr (potential spouse), Avdotya-Sonia (connection), Dmitri-Rodion (friend), Dmitri-Sonia (stranger), and 1 more",
+    "Key ties: Pulcheria-Pyotr (acquaintance), Avdotya-Sonia (connection), Dmitri-Rodion (friend), Dmitri-Sonia (assistance), and 1 more",
     "Totals: 19 characters, 38 relations (+0 new, +5 new)"
   ],
   "key_characters": [

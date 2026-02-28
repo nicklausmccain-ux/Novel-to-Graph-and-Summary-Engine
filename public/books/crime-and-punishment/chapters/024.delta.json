@@ -9,14 +9,14 @@
     {
       "source": "arkady-ivanovich-svidrigailov",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "other"
+      "label": "interaction"
     }
   ],
-  "summary": "New connections: Lizaveta-Sonia (friend), Arkady-Sonia (other).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: friend, other.",
+  "summary": "New connections: Lizaveta-Sonia (friend), Arkady-Sonia (interaction).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: friend, interaction.",
   "highlights": [
     "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (12), Avdotya Romanovna (12)",
-    "Key ties: Lizaveta-Sonia (friend), Arkady-Sonia (other)",
+    "Key ties: Lizaveta-Sonia (friend), Arkady-Sonia (interaction)",
     "Totals: 24 characters, 87 relations (+0 new, +2 new)"
   ],
   "key_characters": [

@@ -9,14 +9,14 @@
     {
       "source": "praskovya-pavlovna",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "sibling"
+      "label": "family"
     }
   ],
-  "summary": "New connections: Andrei-Rodion (friend), Praskovya-Sonia (sibling).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties). Key relationship types: friend, sibling.",
+  "summary": "New connections: Andrei-Rodion (friend), Praskovya-Sonia (family).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties). Key relationship types: family, friend.",
   "highlights": [
     "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (15), Avdotya Romanovna (13)",
-    "Key ties: Andrei-Rodion (friend), Praskovya-Sonia (sibling)",
+    "Key ties: Andrei-Rodion (friend), Praskovya-Sonia (family)",
     "Totals: 24 characters, 101 relations (+0 new, +2 new)"
   ],
   "key_characters": [

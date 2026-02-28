@@ -9,14 +9,14 @@
     {
       "source": "darya-pavlovna",
       "target": "rodion-raskolnikov",
-      "label": "sibling"
+      "label": "family"
     }
   ],
-  "summary": "New connections: Darya-Dmitri (friend), Darya-Rodion (sibling).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: friend, sibling.",
+  "summary": "New connections: Darya-Dmitri (friend), Darya-Rodion (family).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (20 ties). Key relationship types: family, friend.",
   "highlights": [
     "Most central: Rodion Raskolnikov (20), Dmitri Prokofich Razumihin (16), Avdotya Romanovna (12), Alyona Ivanovna (9)",
-    "Key ties: Darya-Dmitri (friend), Darya-Rodion (sibling)",
+    "Key ties: Darya-Dmitri (friend), Darya-Rodion (family)",
     "Totals: 24 characters, 79 relations (+0 new, +2 new)"
   ],
   "key_characters": [

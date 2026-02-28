@@ -14,7 +14,7 @@
     {
       "source": "rodion-raskolnikov",
       "target": "semyon-zakharovich-marmeladov",
-      "label": "other"
+      "label": "acquaintance"
     },
     {
       "source": "nikolay",
@@ -24,12 +24,12 @@
     {
       "source": "katerina-ivanovna",
       "target": "semyon-zakharovich-marmeladov",
-      "label": "spouse"
+      "label": "acquaintance"
     },
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "katerina-ivanovna",
-      "label": "spouse"
+      "label": "acquaintance"
     },
     {
       "source": "andrei-semyonovich-lebeziatnikov",
@@ -39,17 +39,17 @@
     {
       "source": "pyotr-petrovich-luzhin",
       "target": "rodion-raskolnikov",
-      "label": "spouse"
+      "label": "acquaintance"
     },
     {
       "source": "rodion-raskolnikov",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "parent"
+      "label": "family"
     },
     {
       "source": "katerina-ivanovna",
       "target": "rodion-raskolnikov",
-      "label": "spouse"
+      "label": "acquaintance"
     },
     {
       "source": "katerina-ivanovna",
@@ -69,7 +69,7 @@
     {
       "source": "amalia-ivanovna",
       "target": "sofia-semyonovna-marmeladov",
-      "label": "other"
+      "label": "interaction"
     },
     {
       "source": "amalia-ivanovna",
@@ -77,11 +77,11 @@
       "label": "conflict"
     }
   ],
-  "summary": "New characters: Marmeladov, Nikolay, Katerina Ivanovna, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna, Pyotr Petrovich Luzhin and 3 more. New connections: Rodion-Marmeladov (other), Nikolay-Rodion (acquaintance), Katerina-Marmeladov (spouse), Dmitri-Katerina (spouse) and 9 more.",
+  "summary": "New characters: Marmeladov, Nikolay, Katerina Ivanovna, Andrei Semyonovich Lebeziatnikov, Marfa Petrovna, Pyotr Petrovich Luzhin and 3 more. New connections: Rodion-Marmeladov (acquaintance), Nikolay-Rodion (acquaintance), Katerina-Marmeladov (acquaintance), Dmitri-Katerina (acquaintance) and 9 more.",
   "summary_short": "Introduces Marmeladov, Nikolay, Katerina Ivanovna, Andrei Semyonovich Lebeziatnikov, and 5 others. Rodion Raskolnikov is the most connected figure (7 ties). Key relationship types: abuser, acquaintance, antagonistic, conflict.",
   "highlights": [
     "Most central: Rodion Raskolnikov (7), Katerina Ivanovna (5), Sonia Marmeladov (5), Marmeladov (3)",
-    "Key ties: Rodion-Marmeladov (other), Nikolay-Rodion (acquaintance), Katerina-Marmeladov (spouse), Dmitri-Katerina (spouse), and 9 more",
+    "Key ties: Rodion-Marmeladov (acquaintance), Nikolay-Rodion (acquaintance), Katerina-Marmeladov (acquaintance), Dmitri-Katerina (acquaintance), and 9 more",
     "New characters: Marmeladov, Nikolay, Katerina, Andrei, Marfa, Pyotr, and 3 more",
     "Totals: 14 characters, 16 relations (+9 new, +13 new)"
   ],

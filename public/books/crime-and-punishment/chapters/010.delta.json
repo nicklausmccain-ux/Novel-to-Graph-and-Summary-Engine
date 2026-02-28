@@ -21,7 +21,7 @@
     {
       "source": "dmitri-prokofich-razumihin",
       "target": "praskovya-pavlovna",
-      "label": "relation"
+      "label": "acquaintance"
     },
     {
       "source": "alexander-grigorievich-zametov",
@@ -29,11 +29,11 @@
       "label": "friend"
     }
   ],
-  "summary": "New characters: Zametov. New connections: Dmitri-Zossimov (acquaintance), Dmitri-Nastasya (friend), Zametov-Rodion (acquaintance), Dmitri-Praskovya (relation) and 1 more.",
-  "summary_short": "Introduces Zametov. Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, friend, relation.",
+  "summary": "New characters: Zametov. New connections: Dmitri-Zossimov (acquaintance), Dmitri-Nastasya (friend), Zametov-Rodion (acquaintance), Dmitri-Praskovya (acquaintance) and 1 more.",
+  "summary_short": "Introduces Zametov. Rodion Raskolnikov is the most connected figure (18 ties). Key relationship types: acquaintance, friend.",
   "highlights": [
     "Most central: Rodion Raskolnikov (18), Dmitri Prokofich Razumihin (9), Avdotya Romanovna (9), Sonia Marmeladov (7)",
-    "Key ties: Dmitri-Zossimov (acquaintance), Dmitri-Nastasya (friend), Zametov-Rodion (acquaintance), Dmitri-Praskovya (relation), and 1 more",
+    "Key ties: Dmitri-Zossimov (acquaintance), Dmitri-Nastasya (friend), Zametov-Rodion (acquaintance), Dmitri-Praskovya (acquaintance), and 1 more",
     "New characters: Zametov",
     "Totals: 23 characters, 53 relations (+1 new, +5 new)"
   ],

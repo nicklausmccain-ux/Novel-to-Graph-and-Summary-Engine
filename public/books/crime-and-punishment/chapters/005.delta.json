@@ -16,19 +16,19 @@
     {
       "source": "alyona-ivanovna",
       "target": "lizaveta-ivanovna",
-      "label": "sisters"
+      "label": "family"
     },
     {
       "source": "lizaveta-ivanovna",
       "target": "rodion-raskolnikov",
-      "label": "sibling-like relationship"
+      "label": "friend"
     }
   ],
-  "summary": "New characters: Lizaveta Ivanovna. New connections: Nikolay-Marmeladov (interaction), Avdotya-Nikolay (interaction), Alyona-Lizaveta (sisters), Lizaveta-Rodion (sibling-like relationship).",
-  "summary_short": "Introduces Lizaveta Ivanovna. Rodion Raskolnikov is the most connected figure (15 ties). Key relationship types: interaction, sibling-like relationship, sisters.",
+  "summary": "New characters: Lizaveta Ivanovna. New connections: Nikolay-Marmeladov (interaction), Avdotya-Nikolay (interaction), Alyona-Lizaveta (family), Lizaveta-Rodion (friend).",
+  "summary_short": "Introduces Lizaveta Ivanovna. Rodion Raskolnikov is the most connected figure (15 ties). Key relationship types: family, friend, interaction.",
   "highlights": [
     "Most central: Rodion Raskolnikov (15), Avdotya Romanovna (8), Sonia Marmeladov (7), Pyotr Petrovich Luzhin (6)",
-    "Key ties: Nikolay-Marmeladov (interaction), Avdotya-Nikolay (interaction), Alyona-Lizaveta (sisters), Lizaveta-Rodion (sibling-like relationship)",
+    "Key ties: Nikolay-Marmeladov (interaction), Avdotya-Nikolay (interaction), Alyona-Lizaveta (family), Lizaveta-Rodion (friend)",
     "New characters: Lizaveta",
     "Totals: 20 characters, 42 relations (+1 new, +4 new)"
   ],

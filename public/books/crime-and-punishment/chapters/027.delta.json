@@ -9,7 +9,7 @@
     {
       "source": "katerina-ivanovna",
       "target": "pyotr-petrovich-luzhin",
-      "label": "other"
+      "label": "acquaintance"
     },
     {
       "source": "katerina-ivanovna",
@@ -34,7 +34,7 @@
     {
       "source": "andrei-semyonovich-lebeziatnikov",
       "target": "katerina-ivanovna",
-      "label": "Other"
+      "label": "interaction"
     },
     {
       "source": "andrei-semyonovich-lebeziatnikov",
@@ -44,14 +44,14 @@
     {
       "source": "sofia-semyonovna-marmeladov",
       "target": "zossimov",
-      "label": "other relationship"
+      "label": "supporter"
     }
   ],
-  "summary": "New connections: Andrei-Zossimov (friend), Katerina-Pyotr (other), Katerina-Zossimov (acquaintance), Amalia-Andrei (respect) and 5 more.",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance, advocate, friend, other.",
+  "summary": "New connections: Andrei-Zossimov (friend), Katerina-Pyotr (acquaintance), Katerina-Zossimov (acquaintance), Amalia-Andrei (respect) and 5 more.",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (21 ties). Key relationship types: acquaintance, advocate, friend, interaction.",
   "highlights": [
     "Most central: Rodion Raskolnikov (21), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (14), Avdotya Romanovna (13)",
-    "Key ties: Andrei-Zossimov (friend), Katerina-Pyotr (other), Katerina-Zossimov (acquaintance), Amalia-Andrei (respect), and 5 more",
+    "Key ties: Andrei-Zossimov (friend), Katerina-Pyotr (acquaintance), Katerina-Zossimov (acquaintance), Amalia-Andrei (respect), and 5 more",
     "Totals: 24 characters, 97 relations (+0 new, +9 new)"
   ],
   "key_characters": [

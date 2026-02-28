@@ -4,7 +4,7 @@
     {
       "source": "polenka-marmeladov",
       "target": "praskovya-pavlovna",
-      "label": "sibling"
+      "label": "family"
     },
     {
       "source": "katerina-ivanovna",
@@ -17,11 +17,11 @@
       "label": "caregiver"
     }
   ],
-  "summary": "New connections: Polenka-Praskovya (sibling), Katerina-Lizaveta (family), Arkady-Polenka (caregiver).",
-  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties). Key relationship types: caregiver, family, sibling.",
+  "summary": "New connections: Polenka-Praskovya (family), Katerina-Lizaveta (family), Arkady-Polenka (caregiver).",
+  "summary_short": "Rodion Raskolnikov is the most connected figure (23 ties). Key relationship types: caregiver, family.",
   "highlights": [
     "Most central: Rodion Raskolnikov (23), Dmitri Prokofich Razumihin (16), Sonia Marmeladov (15), Katerina Ivanovna (13)",
-    "Key ties: Polenka-Praskovya (sibling), Katerina-Lizaveta (family), Arkady-Polenka (caregiver)",
+    "Key ties: Polenka-Praskovya (family), Katerina-Lizaveta (family), Arkady-Polenka (caregiver)",
     "Totals: 24 characters, 104 relations (+0 new, +3 new)"
   ],
   "key_characters": [
